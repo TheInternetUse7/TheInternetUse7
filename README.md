@@ -8,3 +8,5 @@
 - 📫 You can contact me on Discord [TheInternetUser#9060](https://discord.com/users/534117072796385300)
 - ⚡ Fun fact: 80% of the Fun fact is neither a fact nor fun. _Statistics by me 😎_
 
+### What I'm doing right now:
+![Stats](https://discord.c99.nl/widget/theme-3/534117072796385300.png)
