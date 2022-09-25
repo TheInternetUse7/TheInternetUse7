@@ -9,3 +9,9 @@
 
 ### What I'm doing right now:
 ![Stats](https://discord.c99.nl/widget/theme-3/534117072796385300.png)
+
+### 🌸 My recent AniList activity
+
+<!-- ANILIST_ACTIVITY:start -->
+
+<!-- ANILIST_ACTIVITY:end -->
