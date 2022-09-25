@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 80 - 125 of [Omniscient Reader](https://anilist.co/manga/119257) (22:56, 25 September 2022)
+-   📖 Read chapter 4 - 103 of [Teenage Mercenary](https://anilist.co/manga/126297) (22:51, 25 September 2022)
+-   📖 Read chapter 1001 - 2628 of [Martial Peak](https://anilist.co/manga/104494) (22:46, 25 September 2022)
 -   📺 Plans to watch [Shinmai Maou no Testament: DEPARTURES - Maria no Hizou Eizou](https://anilist.co/anime/108944) (22:12, 25 September 2022)
 -   📺 Plans to watch [The Testament of Sister New Devil DEPARTURES](https://anilist.co/anime/100451) (22:11, 25 September 2022)
--   📺 Plans to watch [The Testament of Sister New Devil BURST: Tojo Basara’s Perfectly Peaceful Daily Life](https://anilist.co/anime/21489) (22:11, 25 September 2022)
--   📺 Plans to watch [Shinmai Maou no Testament: BURST Specials](https://anilist.co/anime/102508) (22:10, 25 September 2022)
--   📺 Plans to watch [The Testament of Sister New Devil BURST](https://anilist.co/anime/21110) (22:10, 25 September 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
