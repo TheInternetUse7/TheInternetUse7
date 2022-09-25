@@ -21,3 +21,11 @@
 -   📖 Plans to read [That Time I Creampied Everybody and Turned the Whole School Into My Harem](https://anilist.co/manga/152441) (02:55, 25 September 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
+
+### My Animes / Mangas
+
+<!-- ANILIST_ANIME:START -->
+<!-- ANILIST_ANIME:END -->
+
+<!-- ANILIST_MANGA:START -->
+<!-- ANILIST_MANGA:END -->
