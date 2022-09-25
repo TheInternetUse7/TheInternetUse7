@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Dropped [The Maid I Hired Recently is Mysterious](https://anilist.co/anime/149326) (18:30, 25 September 2022)
--   📺 Watched episode 1 - 9 of [The Maid I Hired Recently is Mysterious](https://anilist.co/anime/149326) (17:54, 25 September 2022)
--   📖 Read chapter 1 - 45 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (13:30, 25 September 2022)
--   📖 Read chapter 1001 - 2626 of [Martial Peak](https://anilist.co/manga/104494) (11:48, 25 September 2022)
--   📖 Plans to read [That Time I Creampied Everybody and Turned the Whole School Into My Harem](https://anilist.co/manga/152441) (02:55, 25 September 2022)
+-   📺 Plans to watch [Shinmai Maou no Testament: DEPARTURES - Maria no Hizou Eizou](https://anilist.co/anime/108944) (22:12, 25 September 2022)
+-   📺 Plans to watch [The Testament of Sister New Devil DEPARTURES](https://anilist.co/anime/100451) (22:11, 25 September 2022)
+-   📺 Plans to watch [The Testament of Sister New Devil BURST: Tojo Basara’s Perfectly Peaceful Daily Life](https://anilist.co/anime/21489) (22:11, 25 September 2022)
+-   📺 Plans to watch [Shinmai Maou no Testament: BURST Specials](https://anilist.co/anime/102508) (22:10, 25 September 2022)
+-   📺 Plans to watch [The Testament of Sister New Devil BURST](https://anilist.co/anime/21110) (22:10, 25 September 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
