@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Platinum End](https://anilist.co/anime/127401) (12:09, 26 September 2022)
 -   📖 Read chapter 1001 - 2629 of [Martial Peak](https://anilist.co/manga/104494) (11:02, 26 September 2022)
 -   📺 Plans to watch [Noblesse](https://anilist.co/anime/116005) (08:01, 26 September 2022)
 -   📺 Plans to watch [Noblesse: Awakening](https://anilist.co/anime/21629) (08:01, 26 September 2022)
 -   📺 Plans to watch [Noblesse: The Beginning of Destruction](https://anilist.co/anime/99528) (08:00, 26 September 2022)
--   📖 Read chapter 1 - 58 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (05:49, 26 September 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
