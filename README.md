@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 5 of [Scum's Wish](https://anilist.co/anime/21701) (16:54, 26 September 2022)
 -   📖 Read chapter 1 - 65 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (14:01, 26 September 2022)
 -   📖 Read chapter 87 - 204 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (13:17, 26 September 2022)
 -   📖 Read chapter 1001 - 2630 of [Martial Peak](https://anilist.co/manga/104494) (12:36, 26 September 2022)
 -   📺 Plans to watch [Platinum End](https://anilist.co/anime/127401) (12:09, 26 September 2022)
--   📺 Plans to watch [Noblesse](https://anilist.co/anime/116005) (08:01, 26 September 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
