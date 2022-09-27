@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 6 of [Scum's Wish](https://anilist.co/anime/21701) (14:43, 27 September 2022)
 -   📺 Completed [Let You Down](https://anilist.co/anime/154591) (14:15, 27 September 2022)
 -   📖 Read chapter 1 - 25 of [Brave New World](https://anilist.co/manga/122161) (04:08, 27 September 2022)
 -   📖 Read chapter 49 - 62 of [Landlord Sisters](https://anilist.co/manga/138564) (03:28, 27 September 2022)
 -   📖 Read chapter 1 - 88 of [Learning the Hard Way](https://anilist.co/manga/128976) (03:28, 27 September 2022)
--   📖 Read chapter 1 - 41 of [The World After the Fall](https://anilist.co/manga/144957) (03:28, 27 September 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
