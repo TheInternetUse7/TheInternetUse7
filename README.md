@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1001 - 2635 of [Martial Peak](https://anilist.co/manga/104494) (06:43, 28 September 2022)
 -   📖 Read chapter 1 - 26 of [Brave New World](https://anilist.co/manga/122161) (04:46, 28 September 2022)
 -   📺 Watched episode 1 - 9 of [CYBERPUNK: EDGERUNNERS](https://anilist.co/anime/120377) (04:25, 28 September 2022)
 -   📺 Watched episode 1 - 8 of [CYBERPUNK: EDGERUNNERS](https://anilist.co/anime/120377) (04:24, 28 September 2022)
 -   📖 Read chapter 1 - 71 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (03:14, 28 September 2022)
--   📖 Read chapter 1001 - 2634 of [Martial Peak](https://anilist.co/manga/104494) (02:43, 28 September 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
