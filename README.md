@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 36 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (08:43, 01 October 2022)
+-   📖 Read chapter 1 - 10 of [Punishing My Pet Slave ELF](https://anilist.co/manga/143102) (08:43, 01 October 2022)
 -   📖 Read chapter 1001 - 2643 of [Martial Peak](https://anilist.co/manga/104494) (18:17, 30 September 2022)
 -   📖 Read chapter 1 - 81 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (18:17, 30 September 2022)
 -   📺 Watched episode 5 - 7 of [A Sister's All You Need.](https://anilist.co/anime/98596) (14:30, 30 September 2022)
--   📺 Completed [Scum's Wish](https://anilist.co/anime/21701) (12:54, 30 September 2022)
--   📺 Watched episode 1 - 11 of [Scum's Wish](https://anilist.co/anime/21701) (08:38, 30 September 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
