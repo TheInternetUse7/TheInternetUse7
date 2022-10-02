@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [Ai ga Nakutemo Ecchi wa Dekiru!](https://anilist.co/manga/113562) (13:57, 02 October 2022)
+-   📖 Read chapter 1 - 5 of [Ai ga Nakutemo Ecchi wa Dekiru!](https://anilist.co/manga/113562) (13:55, 02 October 2022)
 -   📖 Read chapter 1 - 40 of [Punishing My Pet Slave ELF](https://anilist.co/manga/143102) (04:49, 02 October 2022)
 -   📖 Read chapter 1 - 37 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (02:33, 02 October 2022)
 -   📖 Read chapter 1 - 89 of [Learning the Hard Way](https://anilist.co/manga/128976) (02:33, 02 October 2022)
--   📖 Read chapter 1001 - 2643 of [Martial Peak](https://anilist.co/manga/104494) (18:17, 30 September 2022)
--   📖 Read chapter 1 - 81 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (18:17, 30 September 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
