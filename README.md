@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Completed [Ai ga Nakutemo Ecchi wa Dekiru!](https://anilist.co/manga/113562) (13:57, 02 October 2022)
--   📖 Read chapter 1 - 5 of [Ai ga Nakutemo Ecchi wa Dekiru!](https://anilist.co/manga/113562) (13:55, 02 October 2022)
--   📖 Read chapter 1 - 40 of [Punishing My Pet Slave ELF](https://anilist.co/manga/143102) (04:49, 02 October 2022)
--   📖 Read chapter 1 - 37 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (02:33, 02 October 2022)
--   📖 Read chapter 1 - 89 of [Learning the Hard Way](https://anilist.co/manga/128976) (02:33, 02 October 2022)
+-   📖 Read chapter 1 of [Overgeared](https://anilist.co/manga/117460) (13:57, 03 October 2022)
+-   📖 Plans to read [Overgeared](https://anilist.co/manga/117460) (13:57, 03 October 2022)
+-   📖 Read chapter 1 of [The Horizon](https://anilist.co/manga/100568) (13:56, 03 October 2022)
+-   📖 Read chapter 1 of [If AI Ruled the World](https://anilist.co/manga/132705) (13:56, 03 October 2022)
+-   📖 Read chapter 1001 - 2649 of [Martial Peak](https://anilist.co/manga/104494) (13:54, 03 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
