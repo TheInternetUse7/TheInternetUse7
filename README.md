@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 of [Overgeared](https://anilist.co/manga/117460) (13:57, 03 October 2022)
--   📖 Plans to read [Overgeared](https://anilist.co/manga/117460) (13:57, 03 October 2022)
--   📖 Read chapter 1 of [The Horizon](https://anilist.co/manga/100568) (13:56, 03 October 2022)
--   📖 Read chapter 1 of [If AI Ruled the World](https://anilist.co/manga/132705) (13:56, 03 October 2022)
--   📖 Read chapter 1001 - 2649 of [Martial Peak](https://anilist.co/manga/104494) (13:54, 03 October 2022)
+-   📖 Read chapter 1 - 41 of [Punishing My Pet Slave ELF](https://anilist.co/manga/143102) (14:07, 04 October 2022)
+-   📖 Read chapter 1001 - 2652 of [Martial Peak](https://anilist.co/manga/104494) (14:07, 04 October 2022)
+-   📖 Read chapter 4 - 104 of [Teenage Mercenary](https://anilist.co/manga/126297) (14:07, 04 October 2022)
+-   📖 Read chapter 1 - 4 of [Overgeared](https://anilist.co/manga/117460) (14:07, 04 October 2022)
+-   📖 Read chapter 1 - 82 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (14:07, 04 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
