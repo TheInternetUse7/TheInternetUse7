@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 41 of [Punishing My Pet Slave ELF](https://anilist.co/manga/143102) (14:07, 04 October 2022)
--   📖 Read chapter 1001 - 2652 of [Martial Peak](https://anilist.co/manga/104494) (14:07, 04 October 2022)
--   📖 Read chapter 4 - 104 of [Teenage Mercenary](https://anilist.co/manga/126297) (14:07, 04 October 2022)
--   📖 Read chapter 1 - 4 of [Overgeared](https://anilist.co/manga/117460) (14:07, 04 October 2022)
--   📖 Read chapter 1 - 82 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (14:07, 04 October 2022)
+-   📺 Watched episode 5 - 11 of [A Sister's All You Need.](https://anilist.co/anime/98596) (06:00, 05 October 2022)
+-   📖 Read chapter 1 - 45 of [Punishing My Pet Slave ELF](https://anilist.co/manga/143102) (05:54, 05 October 2022)
+-   📖 Read chapter 1 - 42 of [The World After the Fall](https://anilist.co/manga/144957) (05:54, 05 October 2022)
+-   📖 Read chapter 1001 - 2654 of [Martial Peak](https://anilist.co/manga/104494) (05:54, 05 October 2022)
+-   📖 Read chapter 1 - 29 of [Overgeared](https://anilist.co/manga/117460) (05:54, 05 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
