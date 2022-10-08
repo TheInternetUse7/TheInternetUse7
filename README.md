@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 107 of [GE: Good Ending](https://anilist.co/manga/45578) (07:10, 08 October 2022)
 -   📺 Watched episode 1 - 2 of [ERASED](https://anilist.co/anime/21234) (13:28, 07 October 2022)
 -   📺 Watched episode 1 - 11 of [Oreimo 2](https://anilist.co/anime/13659) (13:28, 07 October 2022)
 -   📺 Watched episode 5 - 8 of [SUPER HXEROS](https://anilist.co/anime/112818) (14:46, 06 October 2022)
 -   📖 Read chapter 1 - 31 of [Brave New World](https://anilist.co/manga/122161) (14:46, 06 October 2022)
--   📖 Read chapter 4 - 71 of [Dripping Wet](https://anilist.co/manga/133057) (14:46, 06 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
