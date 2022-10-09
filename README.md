@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 51 - 76 of [Ore no Ie ga Maryoku Spot Datta Ken: Sundeiru dake de Sekai Saikyou](https://anilist.co/manga/97240) (12:26, 09 October 2022)
 -   📺 Watched episode 1 - 5 of [ERASED](https://anilist.co/anime/21234) (11:02, 09 October 2022)
 -   📺 Completed [SUPER HXEROS](https://anilist.co/anime/112818) (10:11, 09 October 2022)
 -   📺 Watched episode 5 - 11 of [SUPER HXEROS](https://anilist.co/anime/112818) (10:11, 09 October 2022)
 -   📺 Completed [Oreimo 2](https://anilist.co/anime/13659) (15:50, 08 October 2022)
--   📺 Watched episode 1 - 12 of [Oreimo 2](https://anilist.co/anime/13659) (15:50, 08 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
