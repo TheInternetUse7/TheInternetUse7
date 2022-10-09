@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 51 - 76 of [Ore no Ie ga Maryoku Spot Datta Ken: Sundeiru dake de Sekai Saikyou](https://anilist.co/manga/97240) (12:26, 09 October 2022)
--   📺 Watched episode 1 - 5 of [ERASED](https://anilist.co/anime/21234) (11:02, 09 October 2022)
--   📺 Completed [SUPER HXEROS](https://anilist.co/anime/112818) (10:11, 09 October 2022)
--   📺 Watched episode 5 - 11 of [SUPER HXEROS](https://anilist.co/anime/112818) (10:11, 09 October 2022)
--   📺 Completed [Oreimo 2](https://anilist.co/anime/13659) (15:50, 08 October 2022)
+-   📖 Read chapter 1001 - 2657 of [Martial Peak](https://anilist.co/manga/104494) (13:24, 09 October 2022)
+-   📖 Read chapter 1 - 145 of [The Archmage Returns After 4000 Years](https://anilist.co/manga/118424) (13:24, 09 October 2022)
+-   📖 Read chapter 80 - 127 of [Omniscient Reader](https://anilist.co/manga/119257) (13:24, 09 October 2022)
+-   📖 Read chapter 109 - 130 of [Blood on the Tracks](https://anilist.co/manga/98397) (13:24, 09 October 2022)
+-   📖 Read chapter 1 - 214 of [Eleceed](https://anilist.co/manga/106929) (13:24, 09 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
