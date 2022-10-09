@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [SUPER HXEROS](https://anilist.co/anime/112818) (10:11, 09 October 2022)
+-   📺 Watched episode 5 - 11 of [SUPER HXEROS](https://anilist.co/anime/112818) (10:11, 09 October 2022)
+-   📺 Watched episode 1 - 3 of [ERASED](https://anilist.co/anime/21234) (10:11, 09 October 2022)
 -   📺 Completed [Oreimo 2](https://anilist.co/anime/13659) (15:50, 08 October 2022)
 -   📺 Watched episode 1 - 12 of [Oreimo 2](https://anilist.co/anime/13659) (15:50, 08 October 2022)
--   📺 Watched episode 5 - 10 of [SUPER HXEROS](https://anilist.co/anime/112818) (15:50, 08 October 2022)
--   📖 Read chapter 1 - 107 of [GE: Good Ending](https://anilist.co/manga/45578) (07:10, 08 October 2022)
--   📺 Watched episode 1 - 2 of [ERASED](https://anilist.co/anime/21234) (13:28, 07 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
