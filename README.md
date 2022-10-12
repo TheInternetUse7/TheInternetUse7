@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 51 - 77 of [Ore no Ie ga Maryoku Spot Datta Ken: Sundeiru dake de Sekai Saikyou](https://anilist.co/manga/97240) (05:32, 12 October 2022)
+-   📖 Read chapter 1001 - 2670 of [Martial Peak](https://anilist.co/manga/104494) (05:32, 12 October 2022)
+-   📖 Read chapter 1 - 125 of [Nano Machine](https://anilist.co/manga/120980) (05:32, 12 October 2022)
+-   📖 Read chapter 1 - 39 of [Overgeared](https://anilist.co/manga/117460) (05:32, 12 October 2022)
 -   📺 Completed [ERASED](https://anilist.co/anime/21234) (16:56, 11 October 2022)
--   📺 Watched episode 1 - 11 of [ERASED](https://anilist.co/anime/21234) (16:56, 11 October 2022)
--   📺 Watched episode 1 - 6 of [Fullmetal Alchemist](https://anilist.co/anime/121) (16:56, 11 October 2022)
--   📺 Completed [Oreimo 2 (ONA)](https://anilist.co/anime/18857) (16:56, 11 October 2022)
--   📺 Watched episode 1 - 2 of [Oreimo 2 (ONA)](https://anilist.co/anime/18857) (16:56, 11 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
