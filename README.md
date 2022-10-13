@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 126 of [Nano Machine](https://anilist.co/manga/120980) (18:22, 13 October 2022)
+-   📖 Read chapter 4 - 105 of [Teenage Mercenary](https://anilist.co/manga/126297) (18:22, 13 October 2022)
+-   📖 Read chapter 1 - 215 of [Eleceed](https://anilist.co/manga/106929) (18:22, 13 October 2022)
+-   📖 Read chapter 88 - 119 of [Girlfriend, Girlfriend](https://anilist.co/manga/116266) (18:22, 13 October 2022)
 -   📖 Plans to read [The Lone Necromancer](https://anilist.co/manga/139572) (14:35, 13 October 2022)
--   📖 Read chapter 1 - 3 of [Soothe Me](https://anilist.co/manga/132973) (14:23, 13 October 2022)
--   📺 Watched episode 1 - 7 of [Fullmetal Alchemist](https://anilist.co/anime/121) (14:22, 13 October 2022)
--   📖 Read chapter 4 - 80 of [Dripping Wet](https://anilist.co/manga/133057) (12:44, 13 October 2022)
--   📖 Read chapter 1 - 90 of [Learning the Hard Way](https://anilist.co/manga/128976) (12:44, 13 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
