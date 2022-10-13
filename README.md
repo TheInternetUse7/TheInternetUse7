@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 51 - 77 of [Ore no Ie ga Maryoku Spot Datta Ken: Sundeiru dake de Sekai Saikyou](https://anilist.co/manga/97240) (05:32, 12 October 2022)
--   📖 Read chapter 1001 - 2670 of [Martial Peak](https://anilist.co/manga/104494) (05:32, 12 October 2022)
--   📖 Read chapter 1 - 125 of [Nano Machine](https://anilist.co/manga/120980) (05:32, 12 October 2022)
--   📖 Read chapter 1 - 39 of [Overgeared](https://anilist.co/manga/117460) (05:32, 12 October 2022)
--   📺 Completed [ERASED](https://anilist.co/anime/21234) (16:56, 11 October 2022)
+-   📖 Read chapter 4 - 80 of [Dripping Wet](https://anilist.co/manga/133057) (12:44, 13 October 2022)
+-   📖 Read chapter 1 - 90 of [Learning the Hard Way](https://anilist.co/manga/128976) (12:44, 13 October 2022)
+-   📖 Read chapter 3 of [Soothe Me](https://anilist.co/manga/132973) (12:44, 13 October 2022)
+-   📖 Read chapter 1 - 74 of [Secret Class](https://anilist.co/manga/119913) (12:44, 13 October 2022)
+-   📖 Read chapter 49 - 64 of [Landlord Sisters](https://anilist.co/manga/138564) (12:44, 13 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
