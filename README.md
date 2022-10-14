@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 13 of [The Lone Necromancer](https://anilist.co/manga/139572) (05:03, 14 October 2022)
+-   📖 Read chapter 13 - 15 of [The Lone Necromancer](https://anilist.co/manga/139572) (15:26, 14 October 2022)
+-   📖 Read chapter 1 - 58 of [Overgeared](https://anilist.co/manga/117460) (15:26, 14 October 2022)
 -   📖 Read chapter 1001 - 2678 of [Martial Peak](https://anilist.co/manga/104494) (05:03, 14 October 2022)
 -   📖 Read chapter 1 - 83 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (05:03, 14 October 2022)
 -   📖 Read chapter 1 - 146 of [The Archmage Returns After 4000 Years](https://anilist.co/manga/118424) (05:03, 14 October 2022)
--   📖 Read chapter 1 - 126 of [Nano Machine](https://anilist.co/manga/120980) (18:22, 13 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
