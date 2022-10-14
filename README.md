@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 13 of [The Lone Necromancer](https://anilist.co/manga/139572) (05:03, 14 October 2022)
+-   📖 Read chapter 1001 - 2678 of [Martial Peak](https://anilist.co/manga/104494) (05:03, 14 October 2022)
+-   📖 Read chapter 1 - 83 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (05:03, 14 October 2022)
+-   📖 Read chapter 1 - 146 of [The Archmage Returns After 4000 Years](https://anilist.co/manga/118424) (05:03, 14 October 2022)
 -   📖 Read chapter 1 - 126 of [Nano Machine](https://anilist.co/manga/120980) (18:22, 13 October 2022)
--   📖 Read chapter 4 - 105 of [Teenage Mercenary](https://anilist.co/manga/126297) (18:22, 13 October 2022)
--   📖 Read chapter 1 - 215 of [Eleceed](https://anilist.co/manga/106929) (18:22, 13 October 2022)
--   📖 Read chapter 88 - 119 of [Girlfriend, Girlfriend](https://anilist.co/manga/116266) (18:22, 13 October 2022)
--   📖 Plans to read [The Lone Necromancer](https://anilist.co/manga/139572) (14:35, 13 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
