@@ -14,7 +14,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 73 of [Overgeared](https://anilist.co/manga/117460) (18:49, 15 October 2022)
+-   📖 Read chapter 1 - 74 of [Overgeared](https://anilist.co/manga/117460) (19:18, 15 October 2022)
 -   📖 Read chapter 1 - 24 of [The Lone Necromancer](https://anilist.co/manga/139572) (14:51, 15 October 2022)
 -   📖 Plans to read [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (14:49, 15 October 2022)
 -   📖 Plans to read [My Daughter Is The Final Boss](https://anilist.co/manga/147636) (14:47, 15 October 2022)
