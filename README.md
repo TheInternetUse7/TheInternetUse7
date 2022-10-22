@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 8 of [Fullmetal Alchemist](https://anilist.co/anime/121) (17:48, 22 October 2022)
 -   📺 Completed [The Testament of Sister New Devil: Tojo Basara's Hard, Sweet Daily Life](https://anilist.co/anime/21247) (06:12, 22 October 2022)
 -   📺 Rewatched episode 1 - 3 of [Yosuga no Sora: In Solitude Where We are Least Alone](https://anilist.co/anime/8861) (06:12, 22 October 2022)
 -   📖 Read chapter 1 - 44 of [The World After the Fall](https://anilist.co/manga/144957) (06:11, 22 October 2022)
 -   📖 Read chapter 1 - 62 of [The Lone Necromancer](https://anilist.co/manga/139572) (06:11, 22 October 2022)
--   📖 Read chapter 1 - 127 of [Nano Machine](https://anilist.co/manga/120980) (06:11, 22 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
