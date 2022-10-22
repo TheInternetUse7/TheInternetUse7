@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 74 of [Overgeared](https://anilist.co/manga/117460) (19:18, 15 October 2022)
--   📖 Read chapter 1 - 24 of [The Lone Necromancer](https://anilist.co/manga/139572) (14:51, 15 October 2022)
--   📖 Plans to read [Ore no Kokan wa Bishoujo Datta no ka ](https://anilist.co/manga/147902) (14:49, 15 October 2022)
--   📖 Plans to read [My Daughter Is The Final Boss](https://anilist.co/manga/147636) (14:47, 15 October 2022)
--   📖 Read chapter 1001 - 2678 of [Martial Peak](https://anilist.co/manga/104494) (05:03, 14 October 2022)
+-   📺 Completed [The Testament of Sister New Devil: Tojo Basara's Hard, Sweet Daily Life](https://anilist.co/anime/21247) (06:12, 22 October 2022)
+-   📺 Rewatched episode 1 - 3 of [Yosuga no Sora: In Solitude Where We are Least Alone](https://anilist.co/anime/8861) (06:12, 22 October 2022)
+-   📖 Read chapter 1 - 44 of [The World After the Fall](https://anilist.co/manga/144957) (06:11, 22 October 2022)
+-   📖 Read chapter 1 - 62 of [The Lone Necromancer](https://anilist.co/manga/139572) (06:11, 22 October 2022)
+-   📖 Read chapter 1 - 127 of [Nano Machine](https://anilist.co/manga/120980) (06:11, 22 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
