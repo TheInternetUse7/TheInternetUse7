@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 97 of [Overgeared](https://anilist.co/manga/117460) (06:53, 24 October 2022)
 -   📖 Plans to read [Childhood Friend](https://anilist.co/manga/151890) (12:31, 23 October 2022)
 -   📖 Read chapter 1 - 40 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (11:50, 23 October 2022)
 -   📖 Read chapter 1 - 91 of [Learning the Hard Way](https://anilist.co/manga/128976) (11:50, 23 October 2022)
 -   📖 Read chapter 49 - 65 of [Landlord Sisters](https://anilist.co/manga/138564) (11:50, 23 October 2022)
--   📖 Read chapter 1 - 136 of [My Stepmother's Friends](https://anilist.co/manga/119648) (11:50, 23 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
