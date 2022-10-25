@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 98 - 115 of [Don't Toy With Me, Miss Nagatoro](https://anilist.co/manga/100664) (14:11, 25 October 2022)
+-   📖 Read chapter 88 - 120 of [Girlfriend, Girlfriend](https://anilist.co/manga/116266) (14:11, 25 October 2022)
 -   📺 Watched episode 2 - 38 of [Yao Shen Ji](https://anilist.co/anime/101916) (09:24, 25 October 2022)
 -   📖 Read chapter 1 - 15 of [Sex Study Group](https://anilist.co/manga/145493) (12:30, 24 October 2022)
 -   📖 Read chapter 1 - 41 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (12:01, 24 October 2022)
--   📖 Read chapter 1 - 92 of [Learning the Hard Way](https://anilist.co/manga/128976) (12:01, 24 October 2022)
--   📖 Read chapter 1 - 137 of [My Stepmother's Friends](https://anilist.co/manga/119648) (12:01, 24 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
