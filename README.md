@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 289 of [Noblesse](https://anilist.co/manga/59983) (12:18, 27 October 2022)
+-   📖 Read chapter 1001 - 2706 of [Martial Peak](https://anilist.co/manga/104494) (12:18, 27 October 2022)
 -   📖 Completed [Lingua Franca!!](https://anilist.co/manga/96907) (08:03, 27 October 2022)
 -   📖 Read chapter 1 - 6 of [Lingua Franca!!](https://anilist.co/manga/96907) (08:02, 27 October 2022)
 -   📖 Read chapter 358 - 402 of [Tales of Demons and Gods](https://anilist.co/manga/86707) (07:56, 27 October 2022)
--   📖 Read chapter 1001 - 2695 of [Martial Peak](https://anilist.co/manga/104494) (07:56, 27 October 2022)
--   📖 Read chapter 1 - 63 of [The Lone Necromancer](https://anilist.co/manga/139572) (07:56, 27 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
