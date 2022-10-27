@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 147 of [Overgeared](https://anilist.co/manga/117460) (06:41, 26 October 2022)
--   📖 Read chapter 98 - 115 of [Don't Toy With Me, Miss Nagatoro](https://anilist.co/manga/100664) (14:11, 25 October 2022)
--   📖 Read chapter 88 - 120 of [Girlfriend, Girlfriend](https://anilist.co/manga/116266) (14:11, 25 October 2022)
--   📺 Watched episode 2 - 38 of [Yao Shen Ji](https://anilist.co/anime/101916) (09:24, 25 October 2022)
--   📖 Read chapter 1 - 15 of [Sex Study Group](https://anilist.co/manga/145493) (12:30, 24 October 2022)
+-   📖 Completed [Lingua Franca!!](https://anilist.co/manga/96907) (08:03, 27 October 2022)
+-   📖 Read chapter 1 - 6 of [Lingua Franca!!](https://anilist.co/manga/96907) (08:02, 27 October 2022)
+-   📖 Read chapter 358 - 402 of [Tales of Demons and Gods](https://anilist.co/manga/86707) (07:56, 27 October 2022)
+-   📖 Read chapter 1001 - 2695 of [Martial Peak](https://anilist.co/manga/104494) (07:56, 27 October 2022)
+-   📖 Read chapter 1 - 63 of [The Lone Necromancer](https://anilist.co/manga/139572) (07:56, 27 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
