@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 289 of [Noblesse](https://anilist.co/manga/59983) (12:18, 27 October 2022)
--   📖 Read chapter 1001 - 2706 of [Martial Peak](https://anilist.co/manga/104494) (12:18, 27 October 2022)
--   📖 Completed [Lingua Franca!!](https://anilist.co/manga/96907) (08:03, 27 October 2022)
--   📖 Read chapter 1 - 6 of [Lingua Franca!!](https://anilist.co/manga/96907) (08:02, 27 October 2022)
--   📖 Read chapter 358 - 402 of [Tales of Demons and Gods](https://anilist.co/manga/86707) (07:56, 27 October 2022)
+-   📺 Rewatched episode 1 - 4 of [Yosuga no Sora: In Solitude Where We are Least Alone](https://anilist.co/anime/8861) (14:09, 29 October 2022)
+-   📺 Watched episode 1 of [The Testament of Sister New Devil BURST](https://anilist.co/anime/21110) (14:09, 29 October 2022)
+-   📺 Watched episode 1 of [Rent-a-Girlfriend Season 2](https://anilist.co/anime/124410) (14:09, 29 October 2022)
+-   📺 Watched episode 1 of [Parallel World Pharmacy](https://anilist.co/anime/136707) (14:09, 29 October 2022)
+-   📖 Read chapter 2 of [DRAMA QUEENS](https://anilist.co/manga/131769) (13:38, 29 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
