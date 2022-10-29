@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Boku wa Chiisana Succubus no Shimobe](https://anilist.co/manga/117169) (20:31, 29 October 2022)
+-   📖 Plans to read [Nudist Beach ni Shuugaku Ryokou de!!](https://anilist.co/manga/92798) (20:30, 29 October 2022)
+-   📖 Plans to read [Irrumax](https://anilist.co/manga/112671) (20:28, 29 October 2022)
 -   📺 Watched episode 1 of [In Another World With My Smartphone](https://anilist.co/anime/98491) (18:47, 29 October 2022)
 -   📖 Completed [The Horizon](https://anilist.co/manga/100568) (14:17, 29 October 2022)
--   📖 Read chapter 1 - 20 of [The Horizon](https://anilist.co/manga/100568) (14:17, 29 October 2022)
--   📺 Rewatched episode 1 - 4 of [Yosuga no Sora: In Solitude Where We are Least Alone](https://anilist.co/anime/8861) (14:09, 29 October 2022)
--   📺 Watched episode 1 of [The Testament of Sister New Devil BURST](https://anilist.co/anime/21110) (14:09, 29 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
