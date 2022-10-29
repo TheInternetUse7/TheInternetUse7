@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [In Another World With My Smartphone](https://anilist.co/anime/98491) (18:47, 29 October 2022)
 -   📖 Completed [The Horizon](https://anilist.co/manga/100568) (14:17, 29 October 2022)
 -   📖 Read chapter 1 - 20 of [The Horizon](https://anilist.co/manga/100568) (14:17, 29 October 2022)
 -   📺 Rewatched episode 1 - 4 of [Yosuga no Sora: In Solitude Where We are Least Alone](https://anilist.co/anime/8861) (14:09, 29 October 2022)
 -   📺 Watched episode 1 of [The Testament of Sister New Devil BURST](https://anilist.co/anime/21110) (14:09, 29 October 2022)
--   📺 Watched episode 1 of [Rent-a-Girlfriend Season 2](https://anilist.co/anime/124410) (14:09, 29 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
