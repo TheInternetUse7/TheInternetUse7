@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 80 - 129 of [Omniscient Reader](https://anilist.co/manga/119257) (15:58, 30 October 2022)
+-   📖 Read chapter 1 - 77 of [The Warrior Returns](https://anilist.co/manga/135318) (15:58, 30 October 2022)
+-   📖 Read chapter 88 - 121 of [Girlfriend, Girlfriend](https://anilist.co/manga/116266) (15:58, 30 October 2022)
 -   📺 Watched episode 1 of [Komi Can’t Communicate](https://anilist.co/anime/133965) (08:26, 30 October 2022)
 -   📺 Watched episode 1 of [Yao Shen Ji 2](https://anilist.co/anime/101917) (08:09, 30 October 2022)
--   📺 Plans to watch [Yao Shen Ji 5](https://anilist.co/anime/139986) (08:04, 30 October 2022)
--   📺 Plans to watch [Yao Shen Ji: Hei Yu Pian](https://anilist.co/anime/116964) (08:04, 30 October 2022)
--   📺 Plans to watch [Yao Shen Ji: Ying Yoa Pian](https://anilist.co/anime/104959) (08:04, 30 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
