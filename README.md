@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Completed [Learning the Hard Way](https://anilist.co/manga/128976) (21:30, 29 October 2022)
--   📖 Read chapter 1 - 93 of [Learning the Hard Way](https://anilist.co/manga/128976) (21:29, 29 October 2022)
--   📖 Read chapter 1 - 2 of [DRAMA QUEENS](https://anilist.co/manga/131769) (21:21, 29 October 2022)
--   📺 Watched episode 1 - 2 of [In Another World With My Smartphone](https://anilist.co/anime/98491) (21:20, 29 October 2022)
--   📖 Plans to read [Boku wa Chiisana Succubus no Shimobe](https://anilist.co/manga/117169) (20:31, 29 October 2022)
+-   📖 Read chapter 1 - 38 of [Sex Study Group](https://anilist.co/manga/145493) (01:07, 30 October 2022)
+-   📖 Read chapter 23 - 24 of [Childhood Friend](https://anilist.co/manga/151890) (01:00, 30 October 2022)
+-   📖 Read chapter 49 - 66 of [Landlord Sisters](https://anilist.co/manga/138564) (00:57, 30 October 2022)
+-   📖 Read chapter 1 - 217 of [Eleceed](https://anilist.co/manga/106929) (00:16, 30 October 2022)
+-   📖 Read chapter 1 - 148 of [Overgeared](https://anilist.co/manga/117460) (00:07, 30 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
