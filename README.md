@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 38 of [Sex Study Group](https://anilist.co/manga/145493) (01:07, 30 October 2022)
--   📖 Read chapter 23 - 24 of [Childhood Friend](https://anilist.co/manga/151890) (01:00, 30 October 2022)
--   📖 Read chapter 49 - 66 of [Landlord Sisters](https://anilist.co/manga/138564) (00:57, 30 October 2022)
--   📖 Read chapter 1 - 217 of [Eleceed](https://anilist.co/manga/106929) (00:16, 30 October 2022)
--   📖 Read chapter 1 - 148 of [Overgeared](https://anilist.co/manga/117460) (00:07, 30 October 2022)
+-   📺 Watched episode 1 of [Yao Shen Ji 2](https://anilist.co/anime/101917) (08:09, 30 October 2022)
+-   📺 Plans to watch [Yao Shen Ji 5](https://anilist.co/anime/139986) (08:04, 30 October 2022)
+-   📺 Plans to watch [Yao Shen Ji: Hei Yu Pian](https://anilist.co/anime/116964) (08:04, 30 October 2022)
+-   📺 Plans to watch [Yao Shen Ji: Ying Yoa Pian](https://anilist.co/anime/104959) (08:04, 30 October 2022)
+-   📺 Plans to watch [Yao Shen Ji 2](https://anilist.co/anime/101917) (08:03, 30 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
