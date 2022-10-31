@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 2 of [Rent-a-Girlfriend Season 2](https://anilist.co/anime/124410) (17:41, 30 October 2022)
--   📺 Watched episode 1 - 9 of [Yao Shen Ji 2](https://anilist.co/anime/101917) (17:41, 30 October 2022)
--   📖 Read chapter 80 - 129 of [Omniscient Reader](https://anilist.co/manga/119257) (15:58, 30 October 2022)
--   📖 Read chapter 1 - 77 of [The Warrior Returns](https://anilist.co/manga/135318) (15:58, 30 October 2022)
--   📖 Read chapter 88 - 121 of [Girlfriend, Girlfriend](https://anilist.co/manga/116266) (15:58, 30 October 2022)
+-   📖 Read chapter 1 - 42 of [Sex Study Group](https://anilist.co/manga/145493) (17:21, 31 October 2022)
+-   📖 Read chapter 1 - 70 of [Dongsaengui Uimu](https://anilist.co/manga/128768) (17:21, 31 October 2022)
+-   📖 Read chapter 52 - 68 of [Touch to Unlock](https://anilist.co/manga/121506) (17:21, 31 October 2022)
+-   📖 Read chapter 1 - 138 of [My Stepmother's Friends](https://anilist.co/manga/119648) (17:21, 31 October 2022)
+-   📖 Read chapter 134 - 170 of [One-Punch Man](https://anilist.co/manga/74347) (17:20, 31 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
