@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1001 - 2732 of [Martial Peak](https://anilist.co/manga/104494) (08:18, 02 November 2022)
+-   📖 Read chapter 1 - 11 of [DRAMA QUEENS](https://anilist.co/manga/131769) (08:18, 02 November 2022)
+-   📖 Read chapter 1 - 77 of [Secret Class](https://anilist.co/manga/119913) (08:18, 02 November 2022)
 -   📖 Read chapter 1 - 42 of [Sex Study Group](https://anilist.co/manga/145493) (17:21, 31 October 2022)
 -   📖 Read chapter 1 - 70 of [Dongsaengui Uimu](https://anilist.co/manga/128768) (17:21, 31 October 2022)
--   📖 Read chapter 52 - 68 of [Touch to Unlock](https://anilist.co/manga/121506) (17:21, 31 October 2022)
--   📖 Read chapter 1 - 138 of [My Stepmother's Friends](https://anilist.co/manga/119648) (17:21, 31 October 2022)
--   📖 Read chapter 134 - 170 of [One-Punch Man](https://anilist.co/manga/74347) (17:20, 31 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
