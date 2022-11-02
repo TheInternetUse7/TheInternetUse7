@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 of [Beast Tamer](https://anilist.co/anime/150695) (19:53, 02 November 2022)
--   📺 Watched episode 1 - 4 of [In Another World With My Smartphone](https://anilist.co/anime/98491) (18:58, 02 November 2022)
--   📺 Watched episode 1 - 3 of [Parallel World Pharmacy](https://anilist.co/anime/136707) (16:52, 02 November 2022)
--   📖 Read chapter 49 - 67 of [Landlord Sisters](https://anilist.co/manga/138564) (12:56, 02 November 2022)
--   📺 Watched episode 1 - 6 of [Komi Can’t Communicate](https://anilist.co/anime/133965) (09:12, 02 November 2022)
+-   📖 Read chapter 4 - 83 of [Dripping Wet](https://anilist.co/manga/133057) (22:13, 02 November 2022)
+-   📖 Read chapter 1 - 67 of [The Late-Bloomers](https://anilist.co/manga/143608) (22:08, 02 November 2022)
+-   📖 Read chapter 1 - 43 of [Sex Study Group](https://anilist.co/manga/145493) (21:54, 02 November 2022)
+-   📖 Read chapter 1 - 42 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (21:51, 02 November 2022)
+-   📖 Read chapter 1 - 52 of [Punishing My Pet Slave ELF](https://anilist.co/manga/143102) (21:49, 02 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
