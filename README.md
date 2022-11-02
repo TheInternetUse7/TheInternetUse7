@@ -14,7 +14,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 4 - 83 of [Dripping Wet](https://anilist.co/manga/133057) (22:13, 02 November 2022)
+-   📖 Read chapter 4 - 85 of [Dripping Wet](https://anilist.co/manga/133057) (22:19, 02 November 2022)
 -   📖 Read chapter 1 - 67 of [The Late-Bloomers](https://anilist.co/manga/143608) (22:08, 02 November 2022)
 -   📖 Read chapter 1 - 43 of [Sex Study Group](https://anilist.co/manga/145493) (21:54, 02 November 2022)
 -   📖 Read chapter 1 - 42 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (21:51, 02 November 2022)
