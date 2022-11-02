@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1001 - 2732 of [Martial Peak](https://anilist.co/manga/104494) (08:18, 02 November 2022)
--   📖 Read chapter 1 - 11 of [DRAMA QUEENS](https://anilist.co/manga/131769) (08:18, 02 November 2022)
--   📖 Read chapter 1 - 77 of [Secret Class](https://anilist.co/manga/119913) (08:18, 02 November 2022)
--   📖 Read chapter 1 - 42 of [Sex Study Group](https://anilist.co/manga/145493) (17:21, 31 October 2022)
--   📖 Read chapter 1 - 70 of [Dongsaengui Uimu](https://anilist.co/manga/128768) (17:21, 31 October 2022)
+-   📺 Watched episode 1 - 6 of [Komi Can’t Communicate](https://anilist.co/anime/133965) (09:12, 02 November 2022)
+-   📺 Watched episode 1 - 3 of [Rent-a-Girlfriend Season 2](https://anilist.co/anime/124410) (08:23, 02 November 2022)
+-   📺 Watched episode 1 - 2 of [Parallel World Pharmacy](https://anilist.co/anime/136707) (08:23, 02 November 2022)
+-   📺 Watched episode 1 - 3 of [The Testament of Sister New Devil BURST](https://anilist.co/anime/21110) (08:23, 02 November 2022)
+-   📺 Watched episode 1 - 25 of [Yao Shen Ji 2](https://anilist.co/anime/101917) (08:23, 02 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
