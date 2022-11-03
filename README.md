@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 33 of [Yao Shen Ji 2](https://anilist.co/anime/101917) (07:08, 03 November 2022)
 -   📖 Plans to read [Parallel Paradise](https://anilist.co/manga/98543) (06:13, 03 November 2022)
 -   📺 Watched episode 1 - 4 of [Parallel World Pharmacy](https://anilist.co/anime/136707) (05:30, 03 November 2022)
 -   📖 Read chapter 307 - 402 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (04:10, 03 November 2022)
 -   📖 Read chapter 109 - 132 of [Blood on the Tracks](https://anilist.co/manga/98397) (04:04, 03 November 2022)
--   📖 Read chapter 4 - 85 of [Dripping Wet](https://anilist.co/manga/133057) (22:19, 02 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
