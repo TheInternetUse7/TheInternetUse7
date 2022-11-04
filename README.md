@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 46 of [The World After the Fall](https://anilist.co/manga/144957) (04:44, 04 November 2022)
--   📖 Read chapter 339 - 369 of [My Hero Academia](https://anilist.co/manga/85486) (04:44, 04 November 2022)
--   📖 Read chapter 1001 - 2741 of [Martial Peak](https://anilist.co/manga/104494) (04:44, 04 November 2022)
--   📖 Read chapter 1 - 64 of [The Lone Necromancer](https://anilist.co/manga/139572) (04:44, 04 November 2022)
--   📖 Read chapter 4 - 108 of [Teenage Mercenary](https://anilist.co/manga/126297) (04:44, 04 November 2022)
+-   📺 Watched episode 7 of [Plunderer](https://anilist.co/anime/101168) (18:17, 04 November 2022)
+-   📺 Watched episode 1 - 6 of [Rent-a-Girlfriend Season 2](https://anilist.co/anime/124410) (18:17, 04 November 2022)
+-   📺 Watched episode 1 - 6 of [Parallel World Pharmacy](https://anilist.co/anime/136707) (18:17, 04 November 2022)
+-   📺 Watched episode 1 - 9 of [Komi Can’t Communicate](https://anilist.co/anime/133965) (18:17, 04 November 2022)
+-   📺 Watched episode 1 - 2 of [Yao Shen Ji: Ying Yoa Pian](https://anilist.co/anime/104959) (18:17, 04 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
