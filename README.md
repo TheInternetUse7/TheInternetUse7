@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 12 of [DRAMA QUEENS](https://anilist.co/manga/131769) (12:42, 05 November 2022)
+-   📖 Read chapter 1 - 80 of [Dongsaengui Uimu](https://anilist.co/manga/128768) (12:42, 05 November 2022)
+-   📖 Read chapter 52 - 102 of [Touch to Unlock](https://anilist.co/manga/121506) (12:42, 05 November 2022)
+-   📖 Read chapter 1 - 68 of [The Late-Bloomers](https://anilist.co/manga/143608) (12:42, 05 November 2022)
 -   📺 Watched episode 7 of [Plunderer](https://anilist.co/anime/101168) (18:17, 04 November 2022)
--   📺 Watched episode 1 - 6 of [Rent-a-Girlfriend Season 2](https://anilist.co/anime/124410) (18:17, 04 November 2022)
--   📺 Watched episode 1 - 6 of [Parallel World Pharmacy](https://anilist.co/anime/136707) (18:17, 04 November 2022)
--   📺 Watched episode 1 - 9 of [Komi Can’t Communicate](https://anilist.co/anime/133965) (18:17, 04 November 2022)
--   📺 Watched episode 1 - 2 of [Yao Shen Ji: Ying Yoa Pian](https://anilist.co/anime/104959) (18:17, 04 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
