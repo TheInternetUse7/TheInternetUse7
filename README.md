@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Drifting Home](https://anilist.co/anime/139643) (16:49, 08 November 2022)
+-   📖 Plans to read [NARUTO](https://anilist.co/manga/36444) (16:42, 08 November 2022)
 -   📖 Plans to read [I Love You](https://anilist.co/manga/112687) (11:46, 08 November 2022)
 -   📺 Watched episode 1 - 3 of [Komi Can't Communicate Part 2](https://anilist.co/anime/142984) (10:06, 08 November 2022)
 -   📺 Completed [Komi Can’t Communicate](https://anilist.co/anime/133965) (10:04, 08 November 2022)
--   📺 Watched episode 1 - 11 of [Komi Can’t Communicate](https://anilist.co/anime/133965) (10:03, 08 November 2022)
--   📺 Plans to watch [Onii-chan wa Oshimai!](https://anilist.co/anime/147864) (09:08, 08 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
