@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [Inma no Mikata!](https://anilist.co/manga/104058) (22:24, 08 November 2022)
+-   📖 Read chapter 1 of [Inma no Mikata!](https://anilist.co/manga/104058) (22:23, 08 November 2022)
+-   📖 Plans to read [The Shy Snow Woman and the Cursed Ring](https://anilist.co/manga/150436) (22:21, 08 November 2022)
 -   📖 Plans to read [Victim Girls R: FLESH & REFRESH with High School GIRLS](https://anilist.co/manga/99674) (21:40, 08 November 2022)
 -   📖 Completed [How to Spend Your Extended Break (Updated)](https://anilist.co/manga/154803) (21:37, 08 November 2022)
--   📖 Read chapter 1 of [Tiny Evil](https://anilist.co/manga/99472) (21:23, 08 November 2022)
--   📖 Completed [Tiny Evil](https://anilist.co/manga/99472) (21:22, 08 November 2022)
--   📖 Read chapter 2 of [Isekai Kita no de Mahou wo Sukebe na Koto ni Riyou Shiyou to Omou](https://anilist.co/manga/106483) (21:20, 08 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
