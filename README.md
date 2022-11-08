@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Plans to watch [Drifting Home](https://anilist.co/anime/139643) (16:49, 08 November 2022)
--   📖 Plans to read [NARUTO](https://anilist.co/manga/36444) (16:42, 08 November 2022)
--   📖 Plans to read [I Love You](https://anilist.co/manga/112687) (11:46, 08 November 2022)
--   📺 Watched episode 1 - 3 of [Komi Can't Communicate Part 2](https://anilist.co/anime/142984) (10:06, 08 November 2022)
--   📺 Completed [Komi Can’t Communicate](https://anilist.co/anime/133965) (10:04, 08 November 2022)
+-   📖 Completed [MURAMATA’S SECRET](https://anilist.co/manga/112250) (21:00, 08 November 2022)
+-   📖 Read chapter 1 of [MURAMATA’S SECRET](https://anilist.co/manga/112250) (21:00, 08 November 2022)
+-   📖 Completed [Irrumax](https://anilist.co/manga/112671) (20:58, 08 November 2022)
+-   📖 Read chapter 1 of [Irrumax](https://anilist.co/manga/112671) (20:58, 08 November 2022)
+-   📖 Completed [Peace-Hame!](https://anilist.co/manga/58249) (20:56, 08 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
