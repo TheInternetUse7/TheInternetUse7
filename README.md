@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Onii-chan wa Oshimai!](https://anilist.co/anime/147864) (09:08, 08 November 2022)
 -   📖 Read chapter 339 - 371 of [My Hero Academia](https://anilist.co/manga/85486) (18:08, 05 November 2022)
 -   📺 Watched episode 1 - 11 of [Rent-a-Girlfriend Season 2](https://anilist.co/anime/124410) (17:10, 05 November 2022)
 -   📖 Read chapter 1 - 12 of [DRAMA QUEENS](https://anilist.co/manga/131769) (12:42, 05 November 2022)
 -   📖 Read chapter 1 - 80 of [Dongsaengui Uimu](https://anilist.co/manga/128768) (12:42, 05 November 2022)
--   📖 Read chapter 52 - 102 of [Touch to Unlock](https://anilist.co/manga/121506) (12:42, 05 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
