@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Completed [Inma no Mikata!](https://anilist.co/manga/104058) (22:24, 08 November 2022)
--   📖 Read chapter 1 of [Inma no Mikata!](https://anilist.co/manga/104058) (22:23, 08 November 2022)
--   📖 Plans to read [The Shy Snow Woman and the Cursed Ring](https://anilist.co/manga/150436) (22:21, 08 November 2022)
--   📖 Plans to read [Victim Girls R: FLESH & REFRESH with High School GIRLS](https://anilist.co/manga/99674) (21:40, 08 November 2022)
--   📖 Completed [How to Spend Your Extended Break (Updated)](https://anilist.co/manga/154803) (21:37, 08 November 2022)
+-   📖 Plans to read [Please! Freeze! Please!](https://anilist.co/manga/116295) (05:53, 09 November 2022)
+-   📖 Plans to read [Shining Musume.](https://anilist.co/manga/37484) (05:51, 09 November 2022)
+-   📖 Plans to read [Ero♡Pippi](https://anilist.co/manga/112083) (05:49, 09 November 2022)
+-   📖 Plans to read [King App](https://anilist.co/manga/93058) (05:44, 09 November 2022)
+-   📖 Plans to read [Haha Futari](https://anilist.co/manga/115613) (05:40, 09 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
