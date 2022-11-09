@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 7 of [Parallel World Pharmacy](https://anilist.co/anime/136707) (12:27, 09 November 2022)
+-   📺 Watched episode 1 - 11 of [Parallel World Pharmacy](https://anilist.co/anime/136707) (17:24, 09 November 2022)
+-   📺 Watched episode 1 - 7 of [Yao Shen Ji: Ying Yoa Pian](https://anilist.co/anime/104959) (17:24, 09 November 2022)
 -   📺 Completed [Rent-a-Girlfriend Season 2](https://anilist.co/anime/124410) (12:18, 09 November 2022)
 -   📖 Plans to read [My First Time Is with.... My Little Sister!?](https://anilist.co/manga/118989) (06:31, 09 November 2022)
 -   📖 Plans to read [Please! Freeze! Please!](https://anilist.co/manga/116295) (05:53, 09 November 2022)
--   📖 Plans to read [Shining Musume.](https://anilist.co/manga/37484) (05:51, 09 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
