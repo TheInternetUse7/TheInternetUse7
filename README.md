@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [My First Time Is with.... My Little Sister!?](https://anilist.co/manga/118989) (06:31, 09 November 2022)
 -   📖 Plans to read [Please! Freeze! Please!](https://anilist.co/manga/116295) (05:53, 09 November 2022)
 -   📖 Plans to read [Shining Musume.](https://anilist.co/manga/37484) (05:51, 09 November 2022)
 -   📖 Plans to read [Ero♡Pippi](https://anilist.co/manga/112083) (05:49, 09 November 2022)
 -   📖 Plans to read [King App](https://anilist.co/manga/93058) (05:44, 09 November 2022)
--   📖 Plans to read [Haha Futari](https://anilist.co/manga/115613) (05:40, 09 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
