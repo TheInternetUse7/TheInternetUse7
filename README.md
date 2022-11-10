@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 3 of [Engage Kiss](https://anilist.co/anime/146625) (17:47, 10 November 2022)
--   📺 Watched episode 1 - 6 of [In Another World With My Smartphone](https://anilist.co/anime/98491) (15:44, 10 November 2022)
--   📺 Watched episode 1 - 17 of [Yao Shen Ji: Ying Yoa Pian](https://anilist.co/anime/104959) (10:36, 10 November 2022)
--   📖 Read chapter 49 - 68 of [Landlord Sisters](https://anilist.co/manga/138564) (06:50, 10 November 2022)
--   📺 Watched episode 1 - 8 of [Komi Can't Communicate Part 2](https://anilist.co/anime/142984) (06:14, 10 November 2022)
+-   📖 Read chapter 1 - 4 of [King App](https://anilist.co/manga/93058) (18:53, 10 November 2022)
+-   📖 Read chapter 1 - 4 of [Seikatsu Shuukan](https://anilist.co/manga/91951) (18:52, 10 November 2022)
+-   📖 Plans to read [Seikatsu Shuukan](https://anilist.co/manga/91951) (18:51, 10 November 2022)
+-   📖 Read chapter 1 - 5 of [Parallel Paradise](https://anilist.co/manga/98543) (18:50, 10 November 2022)
+-   📖 Completed [Ero♡Pippi](https://anilist.co/manga/112083) (18:48, 10 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
