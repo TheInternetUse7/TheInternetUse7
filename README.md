@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 12 of [Yao Shen Ji: Ying Yoa Pian](https://anilist.co/anime/104959) (08:58, 10 November 2022)
 -   📖 Read chapter 49 - 68 of [Landlord Sisters](https://anilist.co/manga/138564) (06:50, 10 November 2022)
 -   📺 Watched episode 1 - 8 of [Komi Can't Communicate Part 2](https://anilist.co/anime/142984) (06:14, 10 November 2022)
 -   📺 Watched episode 7 - 8 of [Plunderer](https://anilist.co/anime/101168) (05:56, 10 November 2022)
 -   📺 Completed [Parallel World Pharmacy](https://anilist.co/anime/136707) (04:24, 10 November 2022)
--   📺 Watched episode 1 - 11 of [Parallel World Pharmacy](https://anilist.co/anime/136707) (17:24, 09 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
