@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 8 of [Komi Can't Communicate Part 2](https://anilist.co/anime/142984) (06:14, 10 November 2022)
+-   📺 Watched episode 7 - 8 of [Plunderer](https://anilist.co/anime/101168) (05:56, 10 November 2022)
 -   📺 Completed [Parallel World Pharmacy](https://anilist.co/anime/136707) (04:24, 10 November 2022)
 -   📺 Watched episode 1 - 11 of [Parallel World Pharmacy](https://anilist.co/anime/136707) (17:24, 09 November 2022)
 -   📺 Watched episode 1 - 7 of [Yao Shen Ji: Ying Yoa Pian](https://anilist.co/anime/104959) (17:24, 09 November 2022)
--   📺 Completed [Rent-a-Girlfriend Season 2](https://anilist.co/anime/124410) (12:18, 09 November 2022)
--   📖 Plans to read [My First Time Is with.... My Little Sister!?](https://anilist.co/manga/118989) (06:31, 09 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
