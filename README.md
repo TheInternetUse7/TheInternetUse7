@@ -14,7 +14,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 5 of [In Another World With My Smartphone](https://anilist.co/anime/98491) (11:23, 10 November 2022)
+-   📺 Watched episode 1 - 6 of [In Another World With My Smartphone](https://anilist.co/anime/98491) (15:44, 10 November 2022)
 -   📺 Watched episode 1 of [Engage Kiss](https://anilist.co/anime/146625) (10:36, 10 November 2022)
 -   📺 Watched episode 1 - 17 of [Yao Shen Ji: Ying Yoa Pian](https://anilist.co/anime/104959) (10:36, 10 November 2022)
 -   📖 Read chapter 49 - 68 of [Landlord Sisters](https://anilist.co/manga/138564) (06:50, 10 November 2022)
