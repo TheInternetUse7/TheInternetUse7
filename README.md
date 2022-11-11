@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 4 of [The Testament of Sister New Devil BURST](https://anilist.co/anime/21110) (05:58, 11 November 2022)
 -   📖 Read chapter 1 - 4 of [King App](https://anilist.co/manga/93058) (18:53, 10 November 2022)
 -   📖 Read chapter 1 - 4 of [Seikatsu Shuukan](https://anilist.co/manga/91951) (18:52, 10 November 2022)
 -   📖 Plans to read [Seikatsu Shuukan](https://anilist.co/manga/91951) (18:51, 10 November 2022)
 -   📖 Read chapter 1 - 5 of [Parallel Paradise](https://anilist.co/manga/98543) (18:50, 10 November 2022)
--   📖 Completed [Ero♡Pippi](https://anilist.co/manga/112083) (18:48, 10 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
