@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Peace Hame!](https://anilist.co/anime/13057) (08:33, 11 November 2022)
 -   📺 Plans to watch [In school trip to the nudist beach!!](https://anilist.co/anime/21668) (07:35, 11 November 2022)
 -   📺 Plans to watch [Peace Hame!](https://anilist.co/anime/13057) (07:31, 11 November 2022)
 -   📺 Watched episode 1 - 5 of [The Testament of Sister New Devil BURST](https://anilist.co/anime/21110) (06:38, 11 November 2022)
 -   📖 Read chapter 1 - 4 of [King App](https://anilist.co/manga/93058) (18:53, 10 November 2022)
--   📖 Read chapter 1 - 4 of [Seikatsu Shuukan](https://anilist.co/manga/91951) (18:52, 10 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
