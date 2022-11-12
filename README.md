@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 26 of [Yao Shen Ji: Ying Yoa Pian](https://anilist.co/anime/104959) (07:33, 12 November 2022)
+-   📺 Watched episode 1 - 7 of [In Another World With My Smartphone](https://anilist.co/anime/98491) (07:23, 12 November 2022)
 -   📺 Watched episode 1 - 2 of [Beast Tamer](https://anilist.co/anime/150695) (06:48, 12 November 2022)
 -   📖 Plans to read [Kako ni Modotte Akogare no Onee-san wo Netottemita](https://anilist.co/manga/142089) (06:45, 12 November 2022)
 -   📖 Plans to read [Dropout](https://anilist.co/manga/92509) (06:44, 12 November 2022)
--   📖 Completed [Seikatsu Shuukan](https://anilist.co/manga/91951) (06:27, 12 November 2022)
--   📺 Watched episode 1 - 5 of [Engage Kiss](https://anilist.co/anime/146625) (21:41, 11 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
