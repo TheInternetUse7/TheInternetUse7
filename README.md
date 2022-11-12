@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [Beast Tamer](https://anilist.co/anime/150695) (06:48, 12 November 2022)
+-   📖 Plans to read [Kako ni Modotte Akogare no Onee-san wo Netottemita](https://anilist.co/manga/142089) (06:45, 12 November 2022)
+-   📖 Plans to read [Dropout](https://anilist.co/manga/92509) (06:44, 12 November 2022)
+-   📖 Completed [Seikatsu Shuukan](https://anilist.co/manga/91951) (06:27, 12 November 2022)
 -   📺 Watched episode 1 - 5 of [Engage Kiss](https://anilist.co/anime/146625) (21:41, 11 November 2022)
--   📺 Watched episode 1 - 24 of [Yao Shen Ji: Ying Yoa Pian](https://anilist.co/anime/104959) (21:13, 11 November 2022)
--   📺 Watched episode 1 - 6 of [The Testament of Sister New Devil BURST](https://anilist.co/anime/21110) (12:06, 11 November 2022)
--   📺 Watched episode 1 of [Peace Hame!](https://anilist.co/anime/13057) (08:33, 11 November 2022)
--   📺 Plans to watch [In school trip to the nudist beach!!](https://anilist.co/anime/21668) (07:35, 11 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
