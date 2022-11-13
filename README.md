@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 2 - 50 of [Principles of Heavens: Zen’s Cultivation of Immortality](https://anilist.co/manga/101408) (17:00, 13 November 2022)
 -   📖 Read chapter 2 - 6 of [Sora no Otoshimono](https://anilist.co/manga/38144) (14:24, 13 November 2022)
 -   📖 Read chapter 81 - 102 of [Yankee JK Kuzuhana-chan](https://anilist.co/manga/116822) (14:24, 13 November 2022)
 -   📖 Read chapter 1 - 53 of [Punishing My Pet Slave ELF](https://anilist.co/manga/143102) (11:19, 13 November 2022)
 -   📖 Read chapter 1 - 69 of [The Late-Bloomers](https://anilist.co/manga/143608) (11:19, 13 November 2022)
--   📖 Read chapter 23 - 25 of [Childhood Friend](https://anilist.co/manga/151890) (11:19, 13 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
