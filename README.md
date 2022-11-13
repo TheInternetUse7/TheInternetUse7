@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 8 of [In Another World With My Smartphone](https://anilist.co/anime/98491) (22:15, 13 November 2022)
 -   📖 Read chapter 1 - 135 of [GE: Good Ending](https://anilist.co/manga/45578) (18:58, 13 November 2022)
 -   📺 Completed [Komi Can't Communicate Part 2](https://anilist.co/anime/142984) (18:48, 13 November 2022)
 -   📺 Watched episode 1 - 11 of [Komi Can't Communicate Part 2](https://anilist.co/anime/142984) (18:47, 13 November 2022)
 -   📖 Dropped [Jigoku no Kisetsu: Gurolism Sengen](https://anilist.co/manga/42316) (18:46, 13 November 2022)
--   📖 Read chapter 52 - 105 of [Touch to Unlock](https://anilist.co/manga/121506) (18:09, 13 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
