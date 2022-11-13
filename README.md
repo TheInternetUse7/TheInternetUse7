@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Plans to read [Jigoku no Kisetsu: Gurolism Sengen](https://anilist.co/manga/42316) (17:22, 12 November 2022)
--   📖 Completed [Koinaka Gai Hidesu](https://anilist.co/manga/156057) (10:08, 12 November 2022)
--   📖 Plans to read 0 of [Koinaka Gai Hidesu](https://anilist.co/manga/156057) (10:07, 12 November 2022)
--   📖 Completed [Koinaka Gai Hidesu](https://anilist.co/manga/156057) (10:07, 12 November 2022)
--   📺 Watched episode 1 - 26 of [Yao Shen Ji: Ying Yoa Pian](https://anilist.co/anime/104959) (07:33, 12 November 2022)
+-   📖 Read chapter 1 - 53 of [Punishing My Pet Slave ELF](https://anilist.co/manga/143102) (11:19, 13 November 2022)
+-   📖 Read chapter 1 - 69 of [The Late-Bloomers](https://anilist.co/manga/143608) (11:19, 13 November 2022)
+-   📖 Read chapter 23 - 25 of [Childhood Friend](https://anilist.co/manga/151890) (11:19, 13 November 2022)
+-   📖 Read chapter 1 - 44 of [Sex Study Group](https://anilist.co/manga/145493) (11:19, 13 November 2022)
+-   📖 Read chapter 1 - 139 of [My Stepmother's Friends](https://anilist.co/manga/119648) (11:19, 13 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
