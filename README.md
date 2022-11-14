@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 2 - 52 of [Principles of Heavens: Zen’s Cultivation of Immortality](https://anilist.co/manga/101408) (10:32, 14 November 2022)
+-   📖 Read chapter 1001 - 2775 of [Martial Peak](https://anilist.co/manga/104494) (10:32, 14 November 2022)
+-   📖 Read chapter 307 - 406 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (10:32, 14 November 2022)
 -   📺 Watched episode 1 - 5 of [Beast Tamer](https://anilist.co/anime/150695) (00:15, 14 November 2022)
 -   📺 Watched episode 1 - 8 of [In Another World With My Smartphone](https://anilist.co/anime/98491) (22:15, 13 November 2022)
--   📖 Read chapter 1 - 135 of [GE: Good Ending](https://anilist.co/manga/45578) (18:58, 13 November 2022)
--   📺 Completed [Komi Can't Communicate Part 2](https://anilist.co/anime/142984) (18:48, 13 November 2022)
--   📺 Watched episode 1 - 11 of [Komi Can't Communicate Part 2](https://anilist.co/anime/142984) (18:47, 13 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
