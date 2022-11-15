@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Yao Shen Ji: Ying Yoa Pian](https://anilist.co/anime/104959) (19:35, 15 November 2022)
+-   📺 Watched episode 1 - 39 of [Yao Shen Ji: Ying Yoa Pian](https://anilist.co/anime/104959) (19:34, 15 November 2022)
 -   📺 Watched episode 1 - 7 of [The Testament of Sister New Devil BURST](https://anilist.co/anime/21110) (14:44, 15 November 2022)
--   📺 Watched episode 1 - 37 of [Yao Shen Ji: Ying Yoa Pian](https://anilist.co/anime/104959) (13:46, 15 November 2022)
 -   📺 Watched episode 1 - 10 of [In Another World With My Smartphone](https://anilist.co/anime/98491) (07:29, 15 November 2022)
 -   📖 Read chapter 1 - 139 of [GE: Good Ending](https://anilist.co/manga/45578) (06:28, 15 November 2022)
--   📖 Completed [Touch to Unlock](https://anilist.co/manga/121506) (14:42, 14 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
