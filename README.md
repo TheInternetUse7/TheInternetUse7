@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1001 - 2783 of [Martial Peak](https://anilist.co/manga/104494) (13:48, 16 November 2022)
 -   📖 Read chapter 4 - 110 of [Teenage Mercenary](https://anilist.co/manga/126297) (13:21, 16 November 2022)
 -   📖 Read chapter 1 - 48 of [The World After the Fall](https://anilist.co/manga/144957) (10:00, 16 November 2022)
 -   📺 Completed [The Testament of Sister New Devil BURST](https://anilist.co/anime/21110) (07:55, 16 November 2022)
 -   📺 Watched episode 1 - 9 of [The Testament of Sister New Devil BURST](https://anilist.co/anime/21110) (07:10, 16 November 2022)
--   📖 Completed [King App](https://anilist.co/manga/93058) (04:12, 16 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
