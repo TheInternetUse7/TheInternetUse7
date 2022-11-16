@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Rewatched episode 1 - 10 of [Yosuga no Sora: In Solitude Where We are Least Alone](https://anilist.co/anime/8861) (00:16, 16 November 2022)
+-   📺 Watched episode 7 - 8 of [Plunderer](https://anilist.co/anime/101168) (00:15, 16 November 2022)
+-   📺 Completed [In Another World With My Smartphone](https://anilist.co/anime/98491) (00:13, 16 November 2022)
 -   📖 Completed [Biyaku Tsuma wa Gifu Senyou OnaPet](https://anilist.co/manga/153516) (21:35, 15 November 2022)
 -   📖 Read chapter 1 of [Biyaku Tsuma wa Gifu Senyou OnaPet](https://anilist.co/manga/153516) (21:35, 15 November 2022)
--   📖 Plans to read [Biyaku Tsuma wa Gifu Senyou OnaPet](https://anilist.co/manga/153516) (21:35, 15 November 2022)
--   📺 Completed [Yao Shen Ji: Ying Yoa Pian](https://anilist.co/anime/104959) (19:35, 15 November 2022)
--   📺 Watched episode 1 - 39 of [Yao Shen Ji: Ying Yoa Pian](https://anilist.co/anime/104959) (19:34, 15 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
