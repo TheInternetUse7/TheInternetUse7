@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [King App](https://anilist.co/manga/93058) (04:12, 16 November 2022)
+-   📖 Read chapter 1 - 8 of [King App](https://anilist.co/manga/93058) (04:12, 16 November 2022)
 -   📺 Rewatched episode 1 - 10 of [Yosuga no Sora: In Solitude Where We are Least Alone](https://anilist.co/anime/8861) (00:16, 16 November 2022)
 -   📺 Watched episode 7 - 8 of [Plunderer](https://anilist.co/anime/101168) (00:15, 16 November 2022)
 -   📺 Completed [In Another World With My Smartphone](https://anilist.co/anime/98491) (00:13, 16 November 2022)
--   📖 Completed [Biyaku Tsuma wa Gifu Senyou OnaPet](https://anilist.co/manga/153516) (21:35, 15 November 2022)
--   📖 Read chapter 1 of [Biyaku Tsuma wa Gifu Senyou OnaPet](https://anilist.co/manga/153516) (21:35, 15 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
