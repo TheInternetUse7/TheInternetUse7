@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Jujutsu Kaisen 2nd Season](https://anilist.co/anime/145064) (08:23, 17 November 2022)
 -   📺 Completed [The Testament of Sister New Devil BURST: Tojo Basara’s Perfectly Peaceful Daily Life](https://anilist.co/anime/21489) (15:46, 16 November 2022)
 -   📖 Read chapter 1001 - 2783 of [Martial Peak](https://anilist.co/manga/104494) (13:48, 16 November 2022)
 -   📖 Read chapter 4 - 110 of [Teenage Mercenary](https://anilist.co/manga/126297) (13:21, 16 November 2022)
 -   📖 Read chapter 1 - 48 of [The World After the Fall](https://anilist.co/manga/144957) (10:00, 16 November 2022)
--   📺 Completed [The Testament of Sister New Devil BURST](https://anilist.co/anime/21110) (07:55, 16 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
