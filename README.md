@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 6 of [Beast Tamer](https://anilist.co/anime/150695) (21:13, 17 November 2022)
 -   📺 Plans to watch [Isekai wa Smartphone to Tomo ni. 2](https://anilist.co/anime/147571) (20:16, 17 November 2022)
 -   📺 Plans to watch [The Promised Neverland](https://anilist.co/anime/101759) (18:47, 17 November 2022)
 -   📺 Plans to watch [VINLAND SAGA](https://anilist.co/anime/101348) (18:47, 17 November 2022)
 -   📺 Plans to watch [Monster](https://anilist.co/anime/19) (18:47, 17 November 2022)
--   📺 Plans to watch [Black Clover](https://anilist.co/anime/97940) (18:46, 17 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
