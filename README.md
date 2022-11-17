@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 6 of [Engage Kiss](https://anilist.co/anime/146625) (12:34, 17 November 2022)
--   📺 Completed [JUJUTSU KAISEN 0](https://anilist.co/anime/131573) (11:22, 17 November 2022)
--   📺 Plans to watch [Jujutsu Kaisen 2nd Season](https://anilist.co/anime/145064) (08:23, 17 November 2022)
--   📺 Completed [The Testament of Sister New Devil BURST: Tojo Basara’s Perfectly Peaceful Daily Life](https://anilist.co/anime/21489) (15:46, 16 November 2022)
--   📖 Read chapter 1001 - 2783 of [Martial Peak](https://anilist.co/manga/104494) (13:48, 16 November 2022)
+-   📺 Plans to watch [The Promised Neverland](https://anilist.co/anime/101759) (18:47, 17 November 2022)
+-   📺 Plans to watch [VINLAND SAGA](https://anilist.co/anime/101348) (18:47, 17 November 2022)
+-   📺 Plans to watch [Monster](https://anilist.co/anime/19) (18:47, 17 November 2022)
+-   📺 Plans to watch [Black Clover](https://anilist.co/anime/97940) (18:46, 17 November 2022)
+-   📖 Read chapter 23 - 26 of [Childhood Friend](https://anilist.co/manga/151890) (18:30, 17 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
