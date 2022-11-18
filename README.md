@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 5 - 6 of [My Hero Academia Season 5](https://anilist.co/anime/117193) (19:54, 18 November 2022)
+-   📺 Watched episode 1 - 9 of [Engage Kiss](https://anilist.co/anime/146625) (19:38, 18 November 2022)
 -   📖 Read chapter 1 - 54 of [Punishing My Pet Slave ELF](https://anilist.co/manga/143102) (10:51, 18 November 2022)
 -   📖 Read chapter 49 - 69 of [Landlord Sisters](https://anilist.co/manga/138564) (10:51, 18 November 2022)
 -   📖 Read chapter 4 - 86 of [Dripping Wet](https://anilist.co/manga/133057) (10:51, 18 November 2022)
--   📖 Read chapter 1 - 140 of [My Stepmother's Friends](https://anilist.co/manga/119648) (10:51, 18 November 2022)
--   📖 Read chapter 23 - 27 of [Childhood Friend](https://anilist.co/manga/151890) (09:54, 18 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
