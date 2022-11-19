@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Samurai Harem](https://anilist.co/anime/4999) (18:38, 19 November 2022)
 -   📖 Plans to read [Sextopwatch](https://anilist.co/manga/152411) (01:34, 19 November 2022)
 -   📺 Watched episode 1 - 7 of [Beast Tamer](https://anilist.co/anime/150695) (01:07, 19 November 2022)
 -   📺 Rewatched 12 of [Yosuga no Sora: In Solitude Where We are Least Alone](https://anilist.co/anime/8861) (23:23, 18 November 2022)
 -   📺 Rewatched episode 1 - 11 of [Yosuga no Sora: In Solitude Where We are Least Alone](https://anilist.co/anime/8861) (23:23, 18 November 2022)
--   📺 Watched episode 5 - 6 of [My Hero Academia Season 5](https://anilist.co/anime/117193) (19:54, 18 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
