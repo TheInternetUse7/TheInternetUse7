@@ -14,7 +14,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 3 of [BLUELOCK](https://anilist.co/anime/137822) (15:02, 20 November 2022)
+-   📺 Watched episode 1 - 6 of [BLUELOCK](https://anilist.co/anime/137822) (15:53, 20 November 2022)
 -   📺 Watched episode 1 of [Grand Blue Dreaming](https://anilist.co/anime/100922) (14:14, 20 November 2022)
 -   📖 Read chapter 1 - 22 of [Parallel Paradise](https://anilist.co/manga/98543) (08:17, 20 November 2022)
 -   📖 Read chapter 1 - 20 of [Shining Musume.](https://anilist.co/manga/37484) (08:16, 20 November 2022)
