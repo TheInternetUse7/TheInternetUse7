@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 3 of [BLUELOCK](https://anilist.co/anime/137822) (15:02, 20 November 2022)
+-   📺 Watched episode 1 of [Grand Blue Dreaming](https://anilist.co/anime/100922) (14:14, 20 November 2022)
 -   📖 Read chapter 1 - 22 of [Parallel Paradise](https://anilist.co/manga/98543) (08:17, 20 November 2022)
 -   📖 Read chapter 1 - 20 of [Shining Musume.](https://anilist.co/manga/37484) (08:16, 20 November 2022)
 -   📺 Watched episode 1 - 8 of [Beast Tamer](https://anilist.co/anime/150695) (22:22, 19 November 2022)
--   📺 Watched episode 1 - 10 of [Engage Kiss](https://anilist.co/anime/146625) (22:08, 19 November 2022)
--   📺 Watched episode 1 of [More than a Married Couple, but Not Lovers.](https://anilist.co/anime/141949) (21:59, 19 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
