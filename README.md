@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Engage Kiss](https://anilist.co/anime/146625) (21:15, 21 November 2022)
 -   📺 Watched episode 1 - 12 of [Engage Kiss](https://anilist.co/anime/146625) (19:44, 21 November 2022)
 -   📺 Watched episode 1 - 7 of [BLUELOCK](https://anilist.co/anime/137822) (12:14, 21 November 2022)
 -   📖 Read chapter 307 - 408 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (06:11, 21 November 2022)
 -   📖 Read chapter 1001 - 2798 of [Martial Peak](https://anilist.co/manga/104494) (06:00, 21 November 2022)
--   📖 Read chapter 1 - 22 of [Parallel Paradise](https://anilist.co/manga/98543) (08:17, 20 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
