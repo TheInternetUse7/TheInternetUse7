@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 307 - 408 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (06:11, 21 November 2022)
+-   📖 Read chapter 1001 - 2798 of [Martial Peak](https://anilist.co/manga/104494) (06:00, 21 November 2022)
 -   📺 Watched episode 1 - 6 of [BLUELOCK](https://anilist.co/anime/137822) (15:53, 20 November 2022)
 -   📖 Read chapter 1 - 22 of [Parallel Paradise](https://anilist.co/manga/98543) (08:17, 20 November 2022)
 -   📖 Read chapter 1 - 20 of [Shining Musume.](https://anilist.co/manga/37484) (08:16, 20 November 2022)
--   📺 Watched episode 1 - 8 of [Beast Tamer](https://anilist.co/anime/150695) (22:22, 19 November 2022)
--   📺 Watched episode 1 - 10 of [Engage Kiss](https://anilist.co/anime/146625) (22:08, 19 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
