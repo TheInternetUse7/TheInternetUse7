@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Non Non Biyori](https://anilist.co/anime/17549) (10:21, 23 November 2022)
 -   📺 Watched episode 7 - 10 of [Plunderer](https://anilist.co/anime/101168) (09:58, 23 November 2022)
 -   📖 Read chapter 98 - 116 of [Don't Toy With Me, Miss Nagatoro](https://anilist.co/manga/100664) (08:12, 23 November 2022)
 -   📖 Read chapter 15 of [Not Safe For Work](https://anilist.co/manga/154190) (18:54, 22 November 2022)
 -   📖 Read chapter 1 - 141 of [My Stepmother's Friends](https://anilist.co/manga/119648) (18:49, 22 November 2022)
--   📖 Read chapter 1 - 45 of [Sex Study Group](https://anilist.co/manga/145493) (23:37, 21 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
