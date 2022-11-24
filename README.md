@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 15 - 16 of [Not Safe For Work](https://anilist.co/manga/154190) (12:17, 24 November 2022)
+-   📖 Read chapter 1 - 46 of [Sex Study Group](https://anilist.co/manga/145493) (12:14, 24 November 2022)
+-   📖 Read chapter 49 - 70 of [Landlord Sisters](https://anilist.co/manga/138564) (12:11, 24 November 2022)
 -   📺 Watched episode 1 of [Serial Experiments Lain](https://anilist.co/anime/339) (08:16, 24 November 2022)
 -   📺 Plans to watch [Serial Experiments Lain](https://anilist.co/anime/339) (07:59, 24 November 2022)
--   📺 Watched episode 7 - 11 of [Plunderer](https://anilist.co/anime/101168) (06:56, 24 November 2022)
--   📖 Read chapter 4 - 111 of [Teenage Mercenary](https://anilist.co/manga/126297) (18:30, 23 November 2022)
--   📖 Read chapter 1001 - 2805 of [Martial Peak](https://anilist.co/manga/104494) (18:27, 23 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
