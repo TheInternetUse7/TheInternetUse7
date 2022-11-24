@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Serial Experiments Lain](https://anilist.co/anime/339) (08:16, 24 November 2022)
+-   📺 Plans to watch [Serial Experiments Lain](https://anilist.co/anime/339) (07:59, 24 November 2022)
 -   📺 Watched episode 7 - 11 of [Plunderer](https://anilist.co/anime/101168) (06:56, 24 November 2022)
 -   📖 Read chapter 4 - 111 of [Teenage Mercenary](https://anilist.co/manga/126297) (18:30, 23 November 2022)
 -   📖 Read chapter 1001 - 2805 of [Martial Peak](https://anilist.co/manga/104494) (18:27, 23 November 2022)
--   📺 Watched episode 5 - 7 of [My Hero Academia Season 5](https://anilist.co/anime/117193) (12:04, 23 November 2022)
--   📺 Plans to watch [Non Non Biyori](https://anilist.co/anime/17549) (10:21, 23 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
