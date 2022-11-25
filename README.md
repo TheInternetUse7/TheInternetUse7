@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 5 of [Sword Art Online](https://anilist.co/anime/11757) (09:49, 25 November 2022)
 -   📖 Plans to read [Geujib, Sajeong](https://anilist.co/manga/86698) (07:56, 25 November 2022)
 -   📖 Read chapter 88 - 123 of [Girlfriend, Girlfriend](https://anilist.co/manga/116266) (01:29, 25 November 2022)
 -   📖 Read chapter 1 - 132 of [Nano Machine](https://anilist.co/manga/120980) (01:23, 25 November 2022)
--   📺 Watched episode 1 - 3 of [Sword Art Online](https://anilist.co/anime/11757) (00:09, 25 November 2022)
 -   📺 Completed [Peace Hame!](https://anilist.co/anime/13057) (17:45, 24 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
