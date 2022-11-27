@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 8 of [BLUELOCK](https://anilist.co/anime/137822) (11:07, 27 November 2022)
 -   📖 Plans to read [Hore Tokidoki Nukumori](https://anilist.co/manga/97430) (06:52, 27 November 2022)
 -   📖 Plans to read [Sarasare Aidol](https://anilist.co/manga/122951) (06:51, 27 November 2022)
 -   📖 Plans to read [Netorase Club](https://anilist.co/manga/153961) (06:49, 27 November 2022)
 -   📖 Plans to read [Nodohame](https://anilist.co/manga/131211) (06:49, 27 November 2022)
--   📖 Plans to read [Katekano♡](https://anilist.co/manga/86266) (06:47, 27 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
