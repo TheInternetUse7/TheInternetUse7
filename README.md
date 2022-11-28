@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Akiba Maid War](https://anilist.co/anime/151379) (20:52, 28 November 2022)
+-   📺 Plans to watch [Akiba Maid War](https://anilist.co/anime/151379) (20:48, 28 November 2022)
+-   📺 Watched episode 1 of [Call of the Night](https://anilist.co/anime/141391) (20:24, 28 November 2022)
 -   📺 Watched episode 1 - 7 of [Sword Art Online](https://anilist.co/anime/11757) (14:32, 28 November 2022)
 -   📖 Completed [L Kyoukai to Itansha Ikka](https://anilist.co/manga/146965) (13:43, 28 November 2022)
--   📖 Plans to read [L Kyoukai to Itansha Ikka](https://anilist.co/manga/146965) (13:43, 28 November 2022)
--   📖 Completed [Imouto to Nori de Ecchi Shita Ken](https://anilist.co/manga/147794) (13:16, 28 November 2022)
--   📖 Completed [Imouto to Nori de Ecchi Shita Ken Sono Ato ](https://anilist.co/manga/150167) (13:13, 28 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
