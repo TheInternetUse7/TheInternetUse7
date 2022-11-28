@@ -14,7 +14,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 of [Kimi wa Midara na Boku no Joou](https://anilist.co/manga/74155) (08:15, 28 November 2022)
+-   📖 Read chapter 1 - 2 of [Kimi wa Midara na Boku no Joou](https://anilist.co/manga/74155) (08:53, 28 November 2022)
 -   📖 Read chapter 1001 - 2814 of [Martial Peak](https://anilist.co/manga/104494) (06:12, 28 November 2022)
 -   📖 Plans to read [My Brother's Slipped Inside Me in The Bathtub](https://anilist.co/manga/114608) (20:38, 27 November 2022)
 -   📺 Watched episode 5 - 9 of [My Hero Academia Season 5](https://anilist.co/anime/117193) (20:31, 27 November 2022)
