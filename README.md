@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [L Kyoukai to Itansha Ikka](https://anilist.co/manga/146965) (13:43, 28 November 2022)
+-   📖 Plans to read [L Kyoukai to Itansha Ikka](https://anilist.co/manga/146965) (13:43, 28 November 2022)
 -   📖 Completed [Imouto to Nori de Ecchi Shita Ken](https://anilist.co/manga/147794) (13:16, 28 November 2022)
 -   📖 Completed [Imouto to Nori de Ecchi Shita Ken Sono Ato ](https://anilist.co/manga/150167) (13:13, 28 November 2022)
 -   📖 Completed [Imouto to Nori de Ecchi Shita Ken](https://anilist.co/manga/147794) (13:00, 28 November 2022)
--   📖 Plans to read 1 of [Imouto to Nori de Ecchi Shita Ken](https://anilist.co/manga/147794) (12:58, 28 November 2022)
--   📖 Read chapter 307 - 410 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (12:03, 28 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
