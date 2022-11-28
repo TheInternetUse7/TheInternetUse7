@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [Imouto to Nori de Ecchi Shita Ken](https://anilist.co/manga/147794) (13:16, 28 November 2022)
+-   📖 Completed [Imouto to Nori de Ecchi Shita Ken Sono Ato ](https://anilist.co/manga/150167) (13:13, 28 November 2022)
+-   📖 Completed [Imouto to Nori de Ecchi Shita Ken](https://anilist.co/manga/147794) (13:00, 28 November 2022)
+-   📖 Plans to read 1 of [Imouto to Nori de Ecchi Shita Ken](https://anilist.co/manga/147794) (12:58, 28 November 2022)
 -   📖 Read chapter 307 - 410 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (12:03, 28 November 2022)
--   📖 Read chapter 1001 - 2819 of [Martial Peak](https://anilist.co/manga/104494) (12:03, 28 November 2022)
--   📖 Read chapter 1 - 2 of [Kimi wa Midara na Boku no Joou](https://anilist.co/manga/74155) (08:53, 28 November 2022)
--   📖 Plans to read [My Brother's Slipped Inside Me in The Bathtub](https://anilist.co/manga/114608) (20:38, 27 November 2022)
--   📺 Watched episode 5 - 9 of [My Hero Academia Season 5](https://anilist.co/anime/117193) (20:31, 27 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
