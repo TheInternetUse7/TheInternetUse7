@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 4 - 112 of [Teenage Mercenary](https://anilist.co/manga/126297) (18:51, 29 November 2022)
+-   📖 Read chapter 1 - 89 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (18:47, 29 November 2022)
+-   📖 Read chapter 109 - 133 of [Blood on the Tracks](https://anilist.co/manga/98397) (18:42, 29 November 2022)
 -   📖 Read chapter 1001 - 2823 of [Martial Peak](https://anilist.co/manga/104494) (18:05, 29 November 2022)
 -   📺 Watched episode 126 - 191 of [Naruto](https://anilist.co/anime/20) (16:29, 29 November 2022)
--   📺 Watched episode 1 of [Urusei Yatsura (2022)](https://anilist.co/anime/143277) (15:20, 29 November 2022)
--   📺 Watched episode 1 - 2 of [Akiba Maid War](https://anilist.co/anime/151379) (14:43, 29 November 2022)
--   📺 Watched episode 1 - 2 of [Serial Experiments Lain](https://anilist.co/anime/339) (08:10, 29 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
