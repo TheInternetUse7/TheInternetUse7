@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [Serial Experiments Lain](https://anilist.co/anime/339) (08:10, 29 November 2022)
 -   📺 Plans to watch [Urusei Yatsura (2022)](https://anilist.co/anime/143277) (21:18, 28 November 2022)
 -   📺 Watched episode 1 of [Akiba Maid War](https://anilist.co/anime/151379) (20:52, 28 November 2022)
 -   📺 Plans to watch [Akiba Maid War](https://anilist.co/anime/151379) (20:48, 28 November 2022)
 -   📺 Watched episode 1 of [Call of the Night](https://anilist.co/anime/141391) (20:24, 28 November 2022)
--   📺 Watched episode 1 - 7 of [Sword Art Online](https://anilist.co/anime/11757) (14:32, 28 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
