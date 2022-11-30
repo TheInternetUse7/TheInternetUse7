@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 8 of [Sword Art Online](https://anilist.co/anime/11757) (11:28, 30 November 2022)
+-   📺 Watched episode 7 - 15 of [Plunderer](https://anilist.co/anime/101168) (15:55, 30 November 2022)
+-   📺 Watched episode 1 - 10 of [Sword Art Online](https://anilist.co/anime/11757) (15:55, 30 November 2022)
 -   📖 Read chapter 1 of [Imaizumi Brings All The Gyarus To His House](https://anilist.co/manga/123760) (09:32, 30 November 2022)
 -   📖 Completed [Imaizumi Brings All The Gyarus To His House](https://anilist.co/manga/123760) (09:32, 30 November 2022)
 -   📖 Completed [Shining Musume.](https://anilist.co/manga/37484) (09:22, 30 November 2022)
--   📖 Read chapter 1 - 38 of [Shining Musume.](https://anilist.co/manga/37484) (09:22, 30 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
