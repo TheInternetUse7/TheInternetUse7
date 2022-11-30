@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 of [Imaizumi Brings All The Gyarus To His House](https://anilist.co/manga/123760) (09:32, 30 November 2022)
+-   📖 Completed [Imaizumi Brings All The Gyarus To His House](https://anilist.co/manga/123760) (09:32, 30 November 2022)
+-   📖 Completed [Shining Musume.](https://anilist.co/manga/37484) (09:22, 30 November 2022)
+-   📖 Read chapter 1 - 38 of [Shining Musume.](https://anilist.co/manga/37484) (09:22, 30 November 2022)
 -   📖 Read chapter 1 - 51 of [The World After the Fall](https://anilist.co/manga/144957) (09:08, 30 November 2022)
--   📖 Read chapter 339 - 373 of [My Hero Academia](https://anilist.co/manga/85486) (09:08, 30 November 2022)
--   📖 Read chapter 358 - 407 of [Tales of Demons and Gods](https://anilist.co/manga/86707) (09:07, 30 November 2022)
--   📖 Read chapter 80 - 132 of [Omniscient Reader](https://anilist.co/manga/119257) (09:07, 30 November 2022)
--   📖 Read chapter 88 - 124 of [Girlfriend, Girlfriend](https://anilist.co/manga/116266) (09:07, 30 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
