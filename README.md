@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 4 - 112 of [Teenage Mercenary](https://anilist.co/manga/126297) (18:51, 29 November 2022)
--   📖 Read chapter 1 - 89 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (18:47, 29 November 2022)
--   📖 Read chapter 109 - 133 of [Blood on the Tracks](https://anilist.co/manga/98397) (18:42, 29 November 2022)
--   📖 Read chapter 1001 - 2823 of [Martial Peak](https://anilist.co/manga/104494) (18:05, 29 November 2022)
--   📺 Watched episode 126 - 191 of [Naruto](https://anilist.co/anime/20) (16:29, 29 November 2022)
+-   📖 Read chapter 1 - 51 of [The World After the Fall](https://anilist.co/manga/144957) (09:08, 30 November 2022)
+-   📖 Read chapter 339 - 373 of [My Hero Academia](https://anilist.co/manga/85486) (09:08, 30 November 2022)
+-   📖 Read chapter 358 - 407 of [Tales of Demons and Gods](https://anilist.co/manga/86707) (09:07, 30 November 2022)
+-   📖 Read chapter 80 - 132 of [Omniscient Reader](https://anilist.co/manga/119257) (09:07, 30 November 2022)
+-   📖 Read chapter 88 - 124 of [Girlfriend, Girlfriend](https://anilist.co/manga/116266) (09:07, 30 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
