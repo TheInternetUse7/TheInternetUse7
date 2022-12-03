@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Plunderer](https://anilist.co/anime/101168) (09:37, 03 December 2022)
 -   📖 Read chapter 307 - 411 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (07:32, 03 December 2022)
 -   📖 Read chapter 87 - 207 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (07:20, 03 December 2022)
 -   📺 Watched episode 1 - 5 of [Akiba Maid War](https://anilist.co/anime/151379) (06:55, 03 December 2022)
 -   📺 Watched episode 7 - 23 of [Plunderer](https://anilist.co/anime/101168) (06:50, 03 December 2022)
--   📖 Read chapter 1001 - 2827 of [Martial Peak](https://anilist.co/manga/104494) (05:49, 03 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
