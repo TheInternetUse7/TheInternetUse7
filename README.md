@@ -14,7 +14,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 of [The Eminence in Shadow](https://anilist.co/anime/130298) (14:17, 03 December 2022)
+-   📺 Watched episode 1 - 3 of [The Eminence in Shadow](https://anilist.co/anime/130298) (16:59, 03 December 2022)
 -   📺 Plans to watch [The Eminence in Shadow](https://anilist.co/anime/130298) (14:17, 03 December 2022)
 -   📺 Plans to watch [Tower of God Season 2](https://anilist.co/anime/153406) (13:53, 03 December 2022)
 -   📺 Plans to watch [Attack on Titan Final Season Part 3](https://anilist.co/anime/146984) (13:52, 03 December 2022)
