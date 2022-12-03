@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1001 - 2832 of [Martial Peak](https://anilist.co/manga/104494) (18:37, 03 December 2022)
 -   📺 Watched episode 1 - 3 of [The Eminence in Shadow](https://anilist.co/anime/130298) (16:59, 03 December 2022)
 -   📺 Plans to watch [The Eminence in Shadow](https://anilist.co/anime/130298) (14:17, 03 December 2022)
 -   📺 Plans to watch [Tower of God Season 2](https://anilist.co/anime/153406) (13:53, 03 December 2022)
 -   📺 Plans to watch [Attack on Titan Final Season Part 3](https://anilist.co/anime/146984) (13:52, 03 December 2022)
--   📺 Plans to watch [Tokyo Revengers: Seiya Kessen-hen](https://anilist.co/anime/142853) (13:51, 03 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
