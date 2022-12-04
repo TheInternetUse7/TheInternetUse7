@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 9 of [The Eminence in Shadow](https://anilist.co/anime/130298) (18:12, 04 December 2022)
+-   📺 Watched episode 1 - 9 of [BLUELOCK](https://anilist.co/anime/137822) (18:12, 04 December 2022)
 -   📺 Watched episode 1 - 10 of [Beast Tamer](https://anilist.co/anime/150695) (15:57, 04 December 2022)
--   📺 Watched episode 1 - 7 of [The Eminence in Shadow](https://anilist.co/anime/130298) (14:23, 04 December 2022)
 -   📖 Read chapter 1001 - 2832 of [Martial Peak](https://anilist.co/manga/104494) (18:37, 03 December 2022)
 -   📺 Plans to watch [The Eminence in Shadow](https://anilist.co/anime/130298) (14:17, 03 December 2022)
--   📺 Plans to watch [Tower of God Season 2](https://anilist.co/anime/153406) (13:53, 03 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
