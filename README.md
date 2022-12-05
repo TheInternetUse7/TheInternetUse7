@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 49 - 71 of [Landlord Sisters](https://anilist.co/manga/138564) (11:08, 05 December 2022)
 -   📺 Watched episode 1 - 11 of [Sword Art Online](https://anilist.co/anime/11757) (06:01, 05 December 2022)
 -   📺 Watched episode 1 - 7 of [Akiba Maid War](https://anilist.co/anime/151379) (06:01, 05 December 2022)
 -   📖 Read chapter 1 - 82 of [Secret Class](https://anilist.co/manga/119913) (02:07, 05 December 2022)
 -   📖 Read chapter 1001 - 2833 of [Martial Peak](https://anilist.co/manga/104494) (22:20, 04 December 2022)
--   📖 Read chapter 1 - 222 of [Eleceed](https://anilist.co/manga/106929) (22:14, 04 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
