@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 5 - 15 of [My Hero Academia Season 5](https://anilist.co/anime/117193) (18:53, 05 December 2022)
 -   📖 Read chapter 1001 - 2835 of [Martial Peak](https://anilist.co/manga/104494) (16:47, 05 December 2022)
 -   📖 Read chapter 4 - 113 of [Teenage Mercenary](https://anilist.co/manga/126297) (16:47, 05 December 2022)
 -   📺 Watched episode 1 - 3 of [Serial Experiments Lain](https://anilist.co/anime/339) (13:37, 05 December 2022)
 -   📖 Read chapter 49 - 71 of [Landlord Sisters](https://anilist.co/manga/138564) (11:08, 05 December 2022)
--   📺 Watched episode 1 - 11 of [Sword Art Online](https://anilist.co/anime/11757) (06:01, 05 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
