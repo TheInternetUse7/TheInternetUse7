@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 82 of [Secret Class](https://anilist.co/manga/119913) (02:07, 05 December 2022)
 -   📖 Read chapter 1001 - 2833 of [Martial Peak](https://anilist.co/manga/104494) (22:20, 04 December 2022)
 -   📖 Read chapter 1 - 222 of [Eleceed](https://anilist.co/manga/106929) (22:14, 04 December 2022)
 -   📺 Watched episode 1 - 9 of [The Eminence in Shadow](https://anilist.co/anime/130298) (18:12, 04 December 2022)
 -   📺 Watched episode 1 - 9 of [BLUELOCK](https://anilist.co/anime/137822) (18:12, 04 December 2022)
--   📺 Watched episode 1 - 10 of [Beast Tamer](https://anilist.co/anime/150695) (15:57, 04 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
