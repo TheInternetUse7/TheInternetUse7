@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [Call of the Night](https://anilist.co/anime/141391) (22:55, 06 December 2022)
+-   📺 Plans to watch [Heaven's Lost Property](https://anilist.co/anime/5958) (22:27, 06 December 2022)
 -   📺 Dropped [Girlfriend, Girlfriend](https://anilist.co/anime/126192) (22:06, 06 December 2022)
 -   📺 Dropped [DON'T TOY WITH ME, MISS NAGATORO](https://anilist.co/anime/120697) (22:06, 06 December 2022)
 -   📺 Watched episode 1 - 2 of [The Daily Life of the Immortal King](https://anilist.co/anime/114121) (22:05, 06 December 2022)
--   📺 Plans to watch [The Daily Life of the Immortal King](https://anilist.co/anime/114121) (21:22, 06 December 2022)
--   📺 Watched episode 1 - 12 of [Sword Art Online](https://anilist.co/anime/11757) (18:25, 06 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
