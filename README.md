@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 98 - 118 of [Don't Toy With Me, Miss Nagatoro](https://anilist.co/manga/100664) (16:22, 07 December 2022)
 -   📺 Watched episode 1 - 4 of [Call of the Night](https://anilist.co/anime/141391) (15:30, 07 December 2022)
 -   📖 Read chapter 1001 - 2843 of [Martial Peak](https://anilist.co/manga/104494) (12:40, 07 December 2022)
 -   📖 Read chapter 88 - 125 of [Girlfriend, Girlfriend](https://anilist.co/manga/116266) (12:40, 07 December 2022)
 -   📺 Watched episode 1 - 5 of [Urusei Yatsura (2022)](https://anilist.co/anime/143277) (09:46, 07 December 2022)
--   📺 Watched episode 5 - 16 of [My Hero Academia Season 5](https://anilist.co/anime/117193) (09:46, 07 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
