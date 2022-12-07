@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 3 of [Call of the Night](https://anilist.co/anime/141391) (11:33, 07 December 2022)
 -   📺 Watched episode 1 - 5 of [Urusei Yatsura (2022)](https://anilist.co/anime/143277) (09:46, 07 December 2022)
 -   📺 Watched episode 5 - 16 of [My Hero Academia Season 5](https://anilist.co/anime/117193) (09:46, 07 December 2022)
 -   📺 Watched episode 1 - 4 of [The Daily Life of the Immortal King](https://anilist.co/anime/114121) (09:46, 07 December 2022)
--   📺 Watched episode 1 - 2 of [Call of the Night](https://anilist.co/anime/141391) (22:55, 06 December 2022)
 -   📺 Plans to watch [Heaven's Lost Property](https://anilist.co/anime/5958) (22:27, 06 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
