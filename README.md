@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Eromanga Sensei](https://anilist.co/anime/21685) (01:51, 08 December 2022)
+-   📺 Plans to watch [Eromanga Sensei](https://anilist.co/anime/21685) (01:51, 08 December 2022)
+-   📺 Watched episode 1 - 2 of [Horimiya](https://anilist.co/anime/124080) (01:50, 08 December 2022)
 -   📺 Watched episode 1 - 10 of [The Eminence in Shadow](https://anilist.co/anime/130298) (19:01, 07 December 2022)
 -   📺 Watched episode 1 - 5 of [The Daily Life of the Immortal King](https://anilist.co/anime/114121) (18:36, 07 December 2022)
--   📖 Read chapter 98 - 118 of [Don't Toy With Me, Miss Nagatoro](https://anilist.co/manga/100664) (16:22, 07 December 2022)
--   📺 Watched episode 1 - 4 of [Call of the Night](https://anilist.co/anime/141391) (15:30, 07 December 2022)
--   📖 Read chapter 1001 - 2843 of [Martial Peak](https://anilist.co/manga/104494) (12:40, 07 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
