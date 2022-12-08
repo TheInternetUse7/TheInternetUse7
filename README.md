@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 6 of [Urusei Yatsura (2022)](https://anilist.co/anime/143277) (16:21, 08 December 2022)
 -   📺 Watched episode 1 - 2 of [Eromanga Sensei](https://anilist.co/anime/21685) (14:22, 08 December 2022)
 -   📺 Watched episode 1 - 8 of [The Daily Life of the Immortal King](https://anilist.co/anime/114121) (14:19, 08 December 2022)
 -   📺 Watched episode 1 - 4 of [Serial Experiments Lain](https://anilist.co/anime/339) (10:46, 08 December 2022)
 -   📺 Plans to watch [Eromanga Sensei](https://anilist.co/anime/21685) (01:51, 08 December 2022)
--   📺 Watched episode 1 - 2 of [Horimiya](https://anilist.co/anime/124080) (01:50, 08 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
