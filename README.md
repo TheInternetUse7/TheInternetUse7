@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 12 of [The Daily Life of the Immortal King](https://anilist.co/anime/114121) (19:22, 09 December 2022)
+-   📺 Watched episode 1 - 5 of [Call of the Night](https://anilist.co/anime/141391) (19:22, 09 December 2022)
 -   📺 Watched episode 1 - 7 of [Urusei Yatsura (2022)](https://anilist.co/anime/143277) (10:39, 09 December 2022)
 -   📺 Watched episode 5 - 17 of [My Hero Academia Season 5](https://anilist.co/anime/117193) (08:06, 09 December 2022)
 -   📖 Read chapter 1 - 134 of [Nano Machine](https://anilist.co/manga/120980) (01:02, 09 December 2022)
--   📖 Read chapter 49 - 72 of [Landlord Sisters](https://anilist.co/manga/138564) (00:53, 09 December 2022)
--   📖 Read chapter 23 - 29 of [Childhood Friend](https://anilist.co/manga/151890) (00:50, 09 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
