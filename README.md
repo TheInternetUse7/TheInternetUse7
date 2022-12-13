@@ -14,7 +14,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 6 of [Call of the Night](https://anilist.co/anime/141391) (13:55, 13 December 2022)
+-   📺 Watched episode 1 - 7 of [Call of the Night](https://anilist.co/anime/141391) (14:19, 13 December 2022)
 -   📖 Read chapter 1001 - 2845 of [Martial Peak](https://anilist.co/manga/104494) (17:29, 12 December 2022)
 -   📺 Watched episode 1 - 10 of [BLUELOCK](https://anilist.co/anime/137822) (20:22, 11 December 2022)
 -   📺 Watched episode 1 - 11 of [Beast Tamer](https://anilist.co/anime/150695) (18:18, 11 December 2022)
