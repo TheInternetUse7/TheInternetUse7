@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 49 of [Sex Study Group](https://anilist.co/manga/145493) (15:43, 13 December 2022)
+-   📖 Read chapter 1 - 144 of [My Stepmother's Friends](https://anilist.co/manga/119648) (15:43, 13 December 2022)
+-   📖 Read chapter 15 - 19 of [Not Safe For Work](https://anilist.co/manga/154190) (15:43, 13 December 2022)
 -   📺 Watched episode 1 - 7 of [Call of the Night](https://anilist.co/anime/141391) (14:19, 13 December 2022)
 -   📖 Read chapter 1001 - 2845 of [Martial Peak](https://anilist.co/manga/104494) (17:29, 12 December 2022)
--   📺 Watched episode 1 - 10 of [BLUELOCK](https://anilist.co/anime/137822) (20:22, 11 December 2022)
--   📺 Watched episode 1 - 11 of [Beast Tamer](https://anilist.co/anime/150695) (18:18, 11 December 2022)
--   📺 Completed [The Daily Life of the Immortal King](https://anilist.co/anime/114121) (10:01, 10 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
