@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 8 of [Call of the Night](https://anilist.co/anime/141391) (22:42, 13 December 2022)
 -   📖 Read chapter 1 - 49 of [Sex Study Group](https://anilist.co/manga/145493) (15:43, 13 December 2022)
 -   📖 Read chapter 1 - 144 of [My Stepmother's Friends](https://anilist.co/manga/119648) (15:43, 13 December 2022)
 -   📖 Read chapter 15 - 19 of [Not Safe For Work](https://anilist.co/manga/154190) (15:43, 13 December 2022)
--   📺 Watched episode 1 - 7 of [Call of the Night](https://anilist.co/anime/141391) (14:19, 13 December 2022)
 -   📖 Read chapter 1001 - 2845 of [Martial Peak](https://anilist.co/manga/104494) (17:29, 12 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
