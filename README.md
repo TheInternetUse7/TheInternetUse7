@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 87 - 210 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (09:18, 14 December 2022)
 -   📖 Plans to read [TiTiKEi](https://anilist.co/manga/88241) (00:37, 14 December 2022)
 -   📺 Watched episode 1 - 8 of [Call of the Night](https://anilist.co/anime/141391) (22:42, 13 December 2022)
 -   📖 Read chapter 1 - 49 of [Sex Study Group](https://anilist.co/manga/145493) (15:43, 13 December 2022)
 -   📖 Read chapter 1 - 144 of [My Stepmother's Friends](https://anilist.co/manga/119648) (15:43, 13 December 2022)
--   📖 Read chapter 15 - 19 of [Not Safe For Work](https://anilist.co/manga/154190) (15:43, 13 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
