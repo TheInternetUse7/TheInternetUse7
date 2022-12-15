@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 4 - 114 of [Teenage Mercenary](https://anilist.co/manga/126297) (09:38, 15 December 2022)
 -   📺 Plans to watch [Spy Classroom](https://anilist.co/anime/146323) (00:26, 15 December 2022)
 -   📺 Plans to watch [Science Fell in Love, So I Tried to Prove It r=1-sinθ](https://anilist.co/anime/125124) (00:20, 15 December 2022)
 -   📺 Plans to watch [Boku no Hero Academia THE MOVIE: World Heroes' Mission - Tabidachi](https://anilist.co/anime/142411) (00:17, 15 December 2022)
 -   📺 Watched episode 1 - 10 of [Call of the Night](https://anilist.co/anime/141391) (00:01, 15 December 2022)
--   📖 Read chapter 1 - 91 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (13:09, 14 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
