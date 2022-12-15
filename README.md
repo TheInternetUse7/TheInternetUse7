@@ -14,10 +14,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 9 of [Call of the Night](https://anilist.co/anime/141391) (20:45, 14 December 2022)
+-   📺 Plans to watch [Spy Classroom](https://anilist.co/anime/146323) (00:26, 15 December 2022)
+-   📺 Plans to watch [Science Fell in Love, So I Tried to Prove It r=1-sinθ](https://anilist.co/anime/125124) (00:20, 15 December 2022)
+-   📺 Plans to watch [Boku no Hero Academia THE MOVIE: World Heroes' Mission - Tabidachi](https://anilist.co/anime/142411) (00:17, 15 December 2022)
+-   📺 Watched episode 1 - 10 of [Call of the Night](https://anilist.co/anime/141391) (00:01, 15 December 2022)
 -   📖 Read chapter 1 - 91 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (13:09, 14 December 2022)
--   📖 Read chapter 1001 - 2849 of [Martial Peak](https://anilist.co/manga/104494) (12:56, 14 December 2022)
--   📖 Read chapter 87 - 210 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (09:18, 14 December 2022)
--   📖 Plans to read [TiTiKEi](https://anilist.co/manga/88241) (00:37, 14 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
