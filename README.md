@@ -13,11 +13,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 7 of [Futoku no Guild](https://anilist.co/anime/146233) (21:46, 19 December 2022)
 -   📺 Watched episode 1 - 9 of [Urusei Yatsura (2022)](https://anilist.co/anime/143277) (19:50, 19 December 2022)
 -   📺 Watched episode 1 - 10 of [Akiba Maid War](https://anilist.co/anime/151379) (14:10, 19 December 2022)
 -   📺 Watched episode 5 - 20 of [My Hero Academia Season 5](https://anilist.co/anime/117193) (12:44, 18 December 2022)
 -   📺 Watched episode 1 of [Peter Grill and the Philosopher’s Time: Super Extra](https://anilist.co/anime/141400) (09:20, 18 December 2022)
--   📺 Watched episode 1 of [Nosewasure: Onna Kyoushi Chuuzenji Ayano no Inutsu na Kore kara](https://anilist.co/anime/21106) (08:49, 18 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
