@@ -13,11 +13,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Yarimoku Beach ni Shuugakuryokou de!! THE ANIMATION](https://anilist.co/anime/98433) (21:52, 24 December 2022)
 -   📺 Completed [Beast Tamer](https://anilist.co/anime/150695) (17:41, 24 December 2022)
 -   📺 Watched episode 1 - 3 of [Mob Psycho 100 III](https://anilist.co/anime/140439) (15:44, 24 December 2022)
 -   📺 Watched episode 1 - 4 of [Eromanga Sensei](https://anilist.co/anime/21685) (10:34, 24 December 2022)
 -   📺 Watched episode 1 - 4 of [More than a Married Couple, but Not Lovers.](https://anilist.co/anime/141949) (10:31, 24 December 2022)
--   📺 Watched episode 5 - 23 of [My Hero Academia Season 5](https://anilist.co/anime/117193) (09:46, 24 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
