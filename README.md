@@ -13,11 +13,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 12 of [BLUELOCK](https://anilist.co/anime/137822) (08:58, 25 December 2022)
+-   📺 Watched episode 1 - 5 of [More than a Married Couple, but Not Lovers.](https://anilist.co/anime/141949) (08:26, 25 December 2022)
+-   📺 Watched episode 1 - 11 of [Peter Grill and the Philosopher’s Time: Super Extra](https://anilist.co/anime/141400) (08:15, 25 December 2022)
 -   📺 Completed [Futoku no Guild](https://anilist.co/anime/146233) (07:32, 25 December 2022)
 -   📺 Completed [Yarimoku Beach ni Shuugakuryokou de!! THE ANIMATION](https://anilist.co/anime/98433) (21:52, 24 December 2022)
--   📺 Completed [Beast Tamer](https://anilist.co/anime/150695) (17:41, 24 December 2022)
--   📺 Watched episode 1 - 3 of [Mob Psycho 100 III](https://anilist.co/anime/140439) (15:44, 24 December 2022)
--   📺 Watched episode 1 - 4 of [Eromanga Sensei](https://anilist.co/anime/21685) (10:34, 24 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
