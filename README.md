@@ -13,7 +13,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 6 of [More than a Married Couple, but Not Lovers.](https://anilist.co/anime/141949) (10:15, 25 December 2022)
+-   📺 Watched episode 1 - 7 of [More than a Married Couple, but Not Lovers.](https://anilist.co/anime/141949) (11:15, 25 December 2022)
 -   📺 Watched episode 1 - 12 of [BLUELOCK](https://anilist.co/anime/137822) (08:58, 25 December 2022)
 -   📺 Watched episode 1 - 11 of [Peter Grill and the Philosopher’s Time: Super Extra](https://anilist.co/anime/141400) (08:15, 25 December 2022)
 -   📺 Completed [Futoku no Guild](https://anilist.co/anime/146233) (07:32, 25 December 2022)
