@@ -13,11 +13,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 224 of [Eleceed](https://anilist.co/manga/106929) (04:29, 27 December 2022)
+-   📖 Read chapter 1001 - 2860 of [Martial Peak](https://anilist.co/manga/104494) (04:28, 27 December 2022)
 -   📺 Watched episode 5 - 24 of [My Hero Academia Season 5](https://anilist.co/anime/117193) (19:43, 26 December 2022)
 -   📺 Watched episode 1 - 8 of [Horimiya](https://anilist.co/anime/124080) (19:43, 26 December 2022)
 -   📺 Watched episode 1 - 11 of [More than a Married Couple, but Not Lovers.](https://anilist.co/anime/141949) (08:48, 26 December 2022)
--   📺 Watched episode 1 - 6 of [Serial Experiments Lain](https://anilist.co/anime/339) (07:16, 26 December 2022)
--   📖 Read chapter 1001 - 2857 of [Martial Peak](https://anilist.co/manga/104494) (17:17, 25 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
