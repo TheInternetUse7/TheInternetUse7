@@ -13,11 +13,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [Chainsaw Man](https://anilist.co/anime/127230) (17:00, 28 December 2022)
+-   📺 Plans to watch [My Hero Academia: World Heroes' Mission](https://anilist.co/anime/126659) (16:46, 28 December 2022)
+-   📺 Completed [My Hero Academia: Two Heroes](https://anilist.co/anime/100723) (16:24, 28 December 2022)
 -   📺 Completed [My Hero Academia Season 5](https://anilist.co/anime/117193) (15:22, 28 December 2022)
 -   📺 Plans to watch [Clannad](https://anilist.co/anime/2167) (14:45, 28 December 2022)
--   📺 Completed [Raunchy Role Play](https://anilist.co/anime/21151) (14:23, 28 December 2022)
--   📺 Plans to watch [Hori-san to Miyamura-kun: Shingakki](https://anilist.co/anime/14753) (07:28, 28 December 2022)
--   📺 Watched episode 1 - 8 of [Serial Experiments Lain](https://anilist.co/anime/339) (05:56, 28 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
