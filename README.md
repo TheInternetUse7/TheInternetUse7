@@ -13,7 +13,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 2 of [Chainsaw Man](https://anilist.co/anime/127230) (17:00, 28 December 2022)
+-   📺 Watched episode 1 - 3 of [Chainsaw Man](https://anilist.co/anime/127230) (17:40, 28 December 2022)
 -   📺 Plans to watch [My Hero Academia: World Heroes' Mission](https://anilist.co/anime/126659) (16:46, 28 December 2022)
 -   📺 Completed [My Hero Academia: Two Heroes](https://anilist.co/anime/100723) (16:24, 28 December 2022)
 -   📺 Completed [My Hero Academia Season 5](https://anilist.co/anime/117193) (15:22, 28 December 2022)
