@@ -13,11 +13,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 8 of [Serial Experiments Lain](https://anilist.co/anime/339) (05:56, 28 December 2022)
+-   📺 Completed [Horimiya](https://anilist.co/anime/124080) (05:44, 28 December 2022)
+-   📺 Watched episode 1 - 12 of [Horimiya](https://anilist.co/anime/124080) (05:41, 28 December 2022)
 -   📖 Read chapter 4 - 115 of [Teenage Mercenary](https://anilist.co/manga/126297) (03:52, 28 December 2022)
--   📺 Watched episode 1 - 11 of [Horimiya](https://anilist.co/anime/124080) (02:57, 28 December 2022)
 -   📺 Completed [Peter Grill and the Philosopher’s Time: Super Extra](https://anilist.co/anime/141400) (18:41, 27 December 2022)
--   📺 Watched episode 1 of [Chainsaw Man](https://anilist.co/anime/127230) (17:55, 27 December 2022)
--   📖 Plans to read [Imouto to Nori de Ecchi Shita Ken: Omake Manga](https://anilist.co/manga/159337) (12:45, 27 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
