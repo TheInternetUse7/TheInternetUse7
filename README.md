@@ -13,10 +13,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 5 of [Chainsaw Man](https://anilist.co/anime/127230) (06:50, 29 December 2022)
 -   📖 Read chapter 307 - 417 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (18:33, 28 December 2022)
 -   📖 Read chapter 1 - 92 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (18:33, 28 December 2022)
 -   📖 Read chapter 1 - 225 of [Eleceed](https://anilist.co/manga/106929) (18:33, 28 December 2022)
--   📺 Watched episode 1 - 3 of [Chainsaw Man](https://anilist.co/anime/127230) (17:40, 28 December 2022)
 -   📺 Plans to watch [My Hero Academia: World Heroes' Mission](https://anilist.co/anime/126659) (16:46, 28 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
