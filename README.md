@@ -13,11 +13,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 9 of [Serial Experiments Lain](https://anilist.co/anime/339) (19:42, 29 December 2022)
--   📺 Watched episode 1 - 7 of [Chainsaw Man](https://anilist.co/anime/127230) (19:07, 29 December 2022)
--   📖 Read chapter 1001 - 2869 of [Martial Peak](https://anilist.co/manga/104494) (14:38, 29 December 2022)
--   📖 Read chapter 1 - 137 of [Nano Machine](https://anilist.co/manga/120980) (14:38, 29 December 2022)
--   📖 Read chapter 1 - 93 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (14:38, 29 December 2022)
+-   📖 Read chapter 1 - 73 of [The Late-Bloomers](https://anilist.co/manga/143608) (14:06, 30 December 2022)
+-   📖 Read chapter 1001 - 2875 of [Martial Peak](https://anilist.co/manga/104494) (14:05, 30 December 2022)
+-   📖 Read chapter 87 - 211 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (14:05, 30 December 2022)
+-   📖 Read chapter 1 - 84 of [Dongsaengui Uimu](https://anilist.co/manga/128768) (14:05, 30 December 2022)
+-   📖 Read chapter 98 - 119 of [Don't Toy With Me, Miss Nagatoro](https://anilist.co/manga/100664) (14:05, 30 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
