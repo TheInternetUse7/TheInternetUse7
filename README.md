@@ -13,11 +13,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1001 - 2877 of [Martial Peak](https://anilist.co/manga/104494) (20:46, 31 December 2022)
+-   📖 Read chapter 307 - 418 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (20:39, 31 December 2022)
 -   📺 Completed [Serial Experiments Lain](https://anilist.co/anime/339) (18:19, 31 December 2022)
 -   📺 Watched episode 1 - 12 of [Serial Experiments Lain](https://anilist.co/anime/339) (18:19, 31 December 2022)
 -   📺 Watched episode 1 - 6 of [Mob Psycho 100 III](https://anilist.co/anime/140439) (18:54, 30 December 2022)
--   📖 Read chapter 1 - 73 of [The Late-Bloomers](https://anilist.co/manga/143608) (14:06, 30 December 2022)
--   📖 Read chapter 1001 - 2875 of [Martial Peak](https://anilist.co/manga/104494) (14:05, 30 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
