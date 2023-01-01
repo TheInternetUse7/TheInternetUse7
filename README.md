@@ -13,11 +13,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Plans to watch [The Legendary Hero is Dead!](https://anilist.co/anime/148109) (07:45, 01 January 2023)
--   📺 Watched episode 1 of [Land of the Lustrous](https://anilist.co/anime/98707) (22:56, 31 December 2022)
--   📺 Watched episode 1 - 2 of [Yao Shen Ji: Hei Yu Pian](https://anilist.co/anime/116964) (22:52, 31 December 2022)
--   📺 Watched episode 1 - 7 of [Mob Psycho 100 III](https://anilist.co/anime/140439) (22:20, 31 December 2022)
--   📺 Plans to watch [Yao Shen Ji 7](https://anilist.co/anime/159582) (21:33, 31 December 2022)
+-   📖 Plans to read [Inuyashiki](https://anilist.co/manga/85226) (08:36, 01 January 2023)
+-   📖 Plans to read [Imouto ni Kiite Minai to](https://anilist.co/manga/152803) (08:33, 01 January 2023)
+-   📖 Plans to read [Sexcape Room: Pile Up](https://anilist.co/manga/141692) (08:24, 01 January 2023)
+-   📖 Plans to read [Sexcape Room: Wipe Out](https://anilist.co/manga/144698) (08:23, 01 January 2023)
+-   📖 Plans to read [Sexcape Room: Snap Off](https://anilist.co/manga/144700) (08:23, 01 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
