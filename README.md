@@ -13,11 +13,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Rewatched episode 1 of [Yosuga no Sora: In Solitude Where We are Least Alone](https://anilist.co/anime/8861) (20:58, 02 January 2023)
 -   📺 Watched episode 1 of [BOCCHI THE ROCK!](https://anilist.co/anime/130003) (20:11, 02 January 2023)
 -   📺 Plans to watch [BOCCHI THE ROCK!](https://anilist.co/anime/130003) (20:07, 02 January 2023)
 -   📺 Watched episode 1 - 8 of [Mob Psycho 100 III](https://anilist.co/anime/140439) (19:45, 02 January 2023)
 -   📺 Watched episode 1 - 13 of [Sword Art Online](https://anilist.co/anime/11757) (19:19, 02 January 2023)
--   📺 Watched episode 1 - 15 of [Yao Shen Ji: Hei Yu Pian](https://anilist.co/anime/116964) (19:15, 02 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
