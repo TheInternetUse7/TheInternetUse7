@@ -13,11 +13,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 10 of [Yao Shen Ji: Hei Yu Pian](https://anilist.co/anime/116964) (18:34, 02 January 2023)
--   📖 Read chapter 307 - 419 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (03:44, 02 January 2023)
--   📖 Read chapter 88 - 127 of [Girlfriend, Girlfriend](https://anilist.co/manga/116266) (03:44, 02 January 2023)
--   📖 Read chapter 1 - 84 of [The Warrior Returns](https://anilist.co/manga/135318) (03:44, 02 January 2023)
--   📖 Read chapter 339 - 376 of [My Hero Academia](https://anilist.co/manga/85486) (03:44, 02 January 2023)
+-   📺 Watched episode 1 of [BOCCHI THE ROCK!](https://anilist.co/anime/130003) (20:11, 02 January 2023)
+-   📺 Plans to watch [BOCCHI THE ROCK!](https://anilist.co/anime/130003) (20:07, 02 January 2023)
+-   📺 Watched episode 1 - 8 of [Mob Psycho 100 III](https://anilist.co/anime/140439) (19:45, 02 January 2023)
+-   📺 Watched episode 1 - 13 of [Sword Art Online](https://anilist.co/anime/11757) (19:19, 02 January 2023)
+-   📺 Watched episode 1 - 15 of [Yao Shen Ji: Hei Yu Pian](https://anilist.co/anime/116964) (19:15, 02 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
