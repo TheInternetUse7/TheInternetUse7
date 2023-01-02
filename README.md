@@ -13,11 +13,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 307 - 419 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (03:44, 02 January 2023)
+-   📖 Read chapter 88 - 127 of [Girlfriend, Girlfriend](https://anilist.co/manga/116266) (03:44, 02 January 2023)
+-   📖 Read chapter 1 - 84 of [The Warrior Returns](https://anilist.co/manga/135318) (03:44, 02 January 2023)
+-   📖 Read chapter 339 - 376 of [My Hero Academia](https://anilist.co/manga/85486) (03:44, 02 January 2023)
 -   📖 Plans to read [Inuyashiki](https://anilist.co/manga/85226) (08:36, 01 January 2023)
--   📖 Plans to read [Imouto ni Kiite Minai to](https://anilist.co/manga/152803) (08:33, 01 January 2023)
--   📖 Plans to read [Sexcape Room: Pile Up](https://anilist.co/manga/141692) (08:24, 01 January 2023)
--   📖 Plans to read [Sexcape Room: Wipe Out](https://anilist.co/manga/144698) (08:23, 01 January 2023)
--   📖 Plans to read [Sexcape Room: Snap Off](https://anilist.co/manga/144700) (08:23, 01 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
