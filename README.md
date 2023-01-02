@@ -13,7 +13,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 7 of [Yao Shen Ji: Hei Yu Pian](https://anilist.co/anime/116964) (14:35, 02 January 2023)
+-   📺 Watched episode 1 - 10 of [Yao Shen Ji: Hei Yu Pian](https://anilist.co/anime/116964) (18:34, 02 January 2023)
 -   📖 Read chapter 307 - 419 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (03:44, 02 January 2023)
 -   📖 Read chapter 88 - 127 of [Girlfriend, Girlfriend](https://anilist.co/manga/116266) (03:44, 02 January 2023)
 -   📖 Read chapter 1 - 84 of [The Warrior Returns](https://anilist.co/manga/135318) (03:44, 02 January 2023)
