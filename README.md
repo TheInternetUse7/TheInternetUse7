@@ -13,11 +13,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Mob Psycho 100 III](https://anilist.co/anime/140439) (18:37, 03 January 2023)
 -   📺 Watched episode 1 - 11 of [Mob Psycho 100 III](https://anilist.co/anime/140439) (11:51, 03 January 2023)
 -   📖 Completed [Himawari wa Yoru ni Saku](https://anilist.co/manga/125066) (10:47, 03 January 2023)
 -   📖 Read chapter 1001 - 2880 of [Martial Peak](https://anilist.co/manga/104494) (23:58, 02 January 2023)
 -   📖 Read chapter 1 of [Yuusha ni Zenbu Ubawareta Ore wa Yuusha no Hahaoya to Party wo Kumimashita!](https://anilist.co/manga/159187) (22:14, 02 January 2023)
--   📖 Plans to read [Yuusha ni Zenbu Ubawareta Ore wa Yuusha no Hahaoya to Party wo Kumimashita!](https://anilist.co/manga/159187) (21:41, 02 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
