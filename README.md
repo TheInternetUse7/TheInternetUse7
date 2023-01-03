@@ -13,11 +13,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [Himawari wa Yoru ni Saku](https://anilist.co/manga/125066) (10:47, 03 January 2023)
 -   📖 Read chapter 1001 - 2880 of [Martial Peak](https://anilist.co/manga/104494) (23:58, 02 January 2023)
 -   📖 Read chapter 1 of [Yuusha ni Zenbu Ubawareta Ore wa Yuusha no Hahaoya to Party wo Kumimashita!](https://anilist.co/manga/159187) (22:14, 02 January 2023)
 -   📖 Plans to read [Yuusha ni Zenbu Ubawareta Ore wa Yuusha no Hahaoya to Party wo Kumimashita!](https://anilist.co/manga/159187) (21:41, 02 January 2023)
 -   📺 Rewatched episode 1 of [Yosuga no Sora: In Solitude Where We are Least Alone](https://anilist.co/anime/8861) (20:58, 02 January 2023)
--   📺 Watched episode 1 of [BOCCHI THE ROCK!](https://anilist.co/anime/130003) (20:11, 02 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
