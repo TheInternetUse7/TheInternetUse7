@@ -13,11 +13,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Medaka Box](https://anilist.co/anime/11761) (09:27, 04 January 2023)
 -   📺 Watched episode 1 - 15 of [Sword Art Online](https://anilist.co/anime/11757) (08:50, 04 January 2023)
 -   📺 Watched episode 1 of [Date A Live IV](https://anilist.co/anime/116605) (06:30, 04 January 2023)
 -   📺 Watched episode 1 of [Overlord IV](https://anilist.co/anime/133844) (21:49, 03 January 2023)
 -   📺 Watched episode 1 - 2 of [BOCCHI THE ROCK!](https://anilist.co/anime/130003) (21:05, 03 January 2023)
--   📺 Completed [Mob Psycho 100 III](https://anilist.co/anime/140439) (18:37, 03 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
