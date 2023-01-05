@@ -13,9 +13,9 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 16 of [Sword Art Online](https://anilist.co/anime/11757) (09:01, 05 January 2023)
 -   📺 Watched episode 1 - 21 of [Yao Shen Ji: Hei Yu Pian](https://anilist.co/anime/116964) (23:51, 04 January 2023)
 -   📺 Plans to watch [Medaka Box](https://anilist.co/anime/11761) (09:27, 04 January 2023)
--   📺 Watched episode 1 - 15 of [Sword Art Online](https://anilist.co/anime/11757) (08:50, 04 January 2023)
 -   📺 Watched episode 1 of [Date A Live IV](https://anilist.co/anime/116605) (06:30, 04 January 2023)
 -   📺 Watched episode 1 of [Overlord IV](https://anilist.co/anime/133844) (21:49, 03 January 2023)
 
