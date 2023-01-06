@@ -13,11 +13,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 3 of [BOCCHI THE ROCK!](https://anilist.co/anime/130003) (17:52, 06 January 2023)
+-   📺 Watched episode 1 - 14 of [The Eminence in Shadow](https://anilist.co/anime/130298) (17:52, 06 January 2023)
 -   📺 Watched episode 1 - 12 of [Urusei Yatsura (2022)](https://anilist.co/anime/143277) (15:56, 06 January 2023)
 -   📖 Read chapter 1 - 58 of [Punishing My Pet Slave ELF](https://anilist.co/manga/143102) (08:33, 06 January 2023)
 -   📖 Read chapter 49 - 76 of [Landlord Sisters](https://anilist.co/manga/138564) (08:33, 06 January 2023)
--   📖 Read chapter 23 - 33 of [Childhood Friend](https://anilist.co/manga/151890) (08:33, 06 January 2023)
--   📖 Read chapter 4 - 89 of [Dripping Wet](https://anilist.co/manga/133057) (08:33, 06 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
