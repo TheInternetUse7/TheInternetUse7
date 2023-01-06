@@ -13,11 +13,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 94 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (21:48, 05 January 2023)
--   📖 Read chapter 4 - 117 of [Teenage Mercenary](https://anilist.co/manga/126297) (21:26, 05 January 2023)
--   📖 Read chapter 1 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (20:14, 05 January 2023)
--   📖 Plans to read [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (19:37, 05 January 2023)
--   📺 Watched episode 1 of [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (13:13, 05 January 2023)
+-   📖 Read chapter 1 - 58 of [Punishing My Pet Slave ELF](https://anilist.co/manga/143102) (08:33, 06 January 2023)
+-   📖 Read chapter 49 - 76 of [Landlord Sisters](https://anilist.co/manga/138564) (08:33, 06 January 2023)
+-   📖 Read chapter 23 - 33 of [Childhood Friend](https://anilist.co/manga/151890) (08:33, 06 January 2023)
+-   📖 Read chapter 4 - 89 of [Dripping Wet](https://anilist.co/manga/133057) (08:33, 06 January 2023)
+-   📖 Read chapter 1 - 52 of [Sex Study Group](https://anilist.co/manga/145493) (08:33, 06 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
