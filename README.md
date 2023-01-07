@@ -13,11 +13,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Dropped [Chou One x Pako³](https://anilist.co/manga/120738) (14:02, 07 January 2023)
--   📖 Dropped [Dropout](https://anilist.co/manga/92509) (14:01, 07 January 2023)
--   📖 Completed [TiTiKEi](https://anilist.co/manga/88241) (14:00, 07 January 2023)
--   📖 Read chapter 1001 - 2886 of [Martial Peak](https://anilist.co/manga/104494) (22:37, 06 January 2023)
--   📖 Read chapter 339 - 377 of [My Hero Academia](https://anilist.co/manga/85486) (21:58, 06 January 2023)
+-   📺 Watched episode 1 - 24 of [Yao Shen Ji: Hei Yu Pian](https://anilist.co/anime/116964) (15:02, 07 January 2023)
+-   📺 Plans to watch [Lookism](https://anilist.co/anime/158539) (14:47, 07 January 2023)
+-   📺 Plans to watch [Farming Life in Another World](https://anilist.co/anime/146850) (14:45, 07 January 2023)
+-   📺 Plans to watch [The Reincarnation of the Strongest Exorcist in Another World](https://anilist.co/anime/144553) (14:45, 07 January 2023)
+-   📺 Plans to watch [Revenger](https://anilist.co/anime/155202) (14:44, 07 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
