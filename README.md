@@ -13,11 +13,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1001 - 2887 of [Martial Peak](https://anilist.co/manga/104494) (09:13, 08 January 2023)
 -   📺 Watched episode 1 - 26 of [Yao Shen Ji: Hei Yu Pian](https://anilist.co/anime/116964) (22:47, 07 January 2023)
 -   📺 Watched episode 1 - 4 of [BOCCHI THE ROCK!](https://anilist.co/anime/130003) (20:11, 07 January 2023)
 -   📺 Plans to watch [Lookism](https://anilist.co/anime/158539) (14:47, 07 January 2023)
 -   📺 Plans to watch [Farming Life in Another World](https://anilist.co/anime/146850) (14:45, 07 January 2023)
--   📺 Plans to watch [The Reincarnation of the Strongest Exorcist in Another World](https://anilist.co/anime/144553) (14:45, 07 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
