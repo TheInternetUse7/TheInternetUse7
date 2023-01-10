@@ -20,11 +20,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 20 of [Sword Art Online](https://anilist.co/anime/11757) (09:47, 10 January 2023)
 -   📺 Rewatched episode 1 - 2 of [Yosuga no Sora: In Solitude Where We are Least Alone](https://anilist.co/anime/8861) (19:35, 09 January 2023)
 -   📺 Watched episode 1 - 30 of [Yao Shen Ji: Hei Yu Pian](https://anilist.co/anime/116964) (19:35, 09 January 2023)
 -   📺 Watched episode 1 - 5 of [Date A Live IV](https://anilist.co/anime/116605) (19:35, 09 January 2023)
 -   📖 Read chapter 307 - 420 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (16:55, 09 January 2023)
--   📺 Watched episode 1 - 13 of [BLUELOCK](https://anilist.co/anime/137822) (17:09, 08 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
