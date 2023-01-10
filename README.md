@@ -20,11 +20,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 20 of [Sword Art Online](https://anilist.co/anime/11757) (09:47, 10 January 2023)
--   📺 Rewatched episode 1 - 2 of [Yosuga no Sora: In Solitude Where We are Least Alone](https://anilist.co/anime/8861) (19:35, 09 January 2023)
--   📺 Watched episode 1 - 30 of [Yao Shen Ji: Hei Yu Pian](https://anilist.co/anime/116964) (19:35, 09 January 2023)
--   📺 Watched episode 1 - 5 of [Date A Live IV](https://anilist.co/anime/116605) (19:35, 09 January 2023)
--   📖 Read chapter 307 - 420 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (16:55, 09 January 2023)
+-   📖 Read chapter 1 - 4 of [Rain Curtain](https://anilist.co/manga/109327) (10:51, 10 January 2023)
+-   📖 Read chapter 15 - 22 of [Not Safe For Work](https://anilist.co/manga/154190) (10:51, 10 January 2023)
+-   📖 Read chapter 1 - 145 of [My Stepmother's Friends](https://anilist.co/manga/119648) (10:51, 10 January 2023)
+-   📖 Read chapter 1 - 76 of [The Late-Bloomers](https://anilist.co/manga/143608) (10:51, 10 January 2023)
+-   📖 Read chapter 1 - 4 of [What Happens Inside the Dungeon](https://anilist.co/manga/117728) (10:51, 10 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
