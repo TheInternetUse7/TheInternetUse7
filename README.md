@@ -20,11 +20,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Farming Life in Another World](https://anilist.co/anime/146850) (12:04, 11 January 2023)
 -   📺 Watched episode 1 of [The Reincarnation of the Strongest Exorcist in Another World](https://anilist.co/anime/144553) (00:24, 11 January 2023)
 -   📖 Read chapter 1 - 4 of [Rain Curtain](https://anilist.co/manga/109327) (10:51, 10 January 2023)
 -   📖 Read chapter 15 - 22 of [Not Safe For Work](https://anilist.co/manga/154190) (10:51, 10 January 2023)
 -   📖 Read chapter 1 - 145 of [My Stepmother's Friends](https://anilist.co/manga/119648) (10:51, 10 January 2023)
--   📖 Read chapter 1 - 76 of [The Late-Bloomers](https://anilist.co/manga/143608) (10:51, 10 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
