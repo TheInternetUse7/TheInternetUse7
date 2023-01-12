@@ -20,11 +20,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Cheerful Family Living](https://anilist.co/manga/135030) (11:47, 12 January 2023)
 -   📖 Read chapter 1 - 157 of [Overgeared](https://anilist.co/manga/117460) (08:16, 12 January 2023)
 -   📖 Read chapter 88 - 128 of [Girlfriend, Girlfriend](https://anilist.co/manga/116266) (08:16, 12 January 2023)
 -   📺 Watched episode 1 - 6 of [Date A Live IV](https://anilist.co/anime/116605) (21:02, 11 January 2023)
 -   📺 Completed [Sword Art Online](https://anilist.co/anime/11757) (19:11, 11 January 2023)
--   📺 Watched episode 1 - 24 of [Sword Art Online](https://anilist.co/anime/11757) (19:11, 11 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
