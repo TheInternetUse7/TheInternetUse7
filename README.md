@@ -20,11 +20,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Nosewasure: Onna Kyoushi Chuuzenji Ayano no Inutsu na Kore kara](https://anilist.co/anime/21106) (06:21, 13 January 2023)
 -   📖 Read chapter 49 - 77 of [Landlord Sisters](https://anilist.co/manga/138564) (05:30, 13 January 2023)
 -   📖 Read chapter 1001 - 2889 of [Martial Peak](https://anilist.co/manga/104494) (05:30, 13 January 2023)
 -   📖 Read chapter 1 - 147 of [My Stepmother's Friends](https://anilist.co/manga/119648) (05:30, 13 January 2023)
 -   📖 Read chapter 23 - 34 of [Childhood Friend](https://anilist.co/manga/151890) (05:30, 13 January 2023)
--   📖 Read chapter 1 - 139 of [Nano Machine](https://anilist.co/manga/120980) (05:30, 13 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
