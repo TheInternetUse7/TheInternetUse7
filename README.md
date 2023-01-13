@@ -20,11 +20,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 4 of [Overlord IV](https://anilist.co/anime/133844) (14:54, 13 January 2023)
+-   📖 Read chapter 1001 - 2898 of [Martial Peak](https://anilist.co/manga/104494) (16:30, 13 January 2023)
+-   📖 Read chapter 87 - 212 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (16:30, 13 January 2023)
+-   📖 Read chapter 4 - 118 of [Teenage Mercenary](https://anilist.co/manga/126297) (16:29, 13 January 2023)
+-   📺 Watched episode 1 - 5 of [Overlord IV](https://anilist.co/anime/133844) (16:23, 13 January 2023)
 -   📺 Watched episode 1 - 9 of [Date A Live IV](https://anilist.co/anime/116605) (14:54, 13 January 2023)
--   📺 Watched episode 1 - 8 of [Chainsaw Man](https://anilist.co/anime/127230) (14:54, 13 January 2023)
--   📺 Completed [Nosewasure: Onna Kyoushi Chuuzenji Ayano no Inutsu na Kore kara](https://anilist.co/anime/21106) (06:21, 13 January 2023)
--   📖 Read chapter 49 - 77 of [Landlord Sisters](https://anilist.co/manga/138564) (05:30, 13 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
