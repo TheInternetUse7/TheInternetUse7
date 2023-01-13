@@ -20,11 +20,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 2 of [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (23:31, 12 January 2023)
--   📺 Watched episode 1 - 8 of [Date A Live IV](https://anilist.co/anime/116605) (18:30, 12 January 2023)
--   📖 Plans to read [Cheerful Family Living](https://anilist.co/manga/135030) (11:47, 12 January 2023)
--   📖 Read chapter 1 - 157 of [Overgeared](https://anilist.co/manga/117460) (08:16, 12 January 2023)
--   📖 Read chapter 88 - 128 of [Girlfriend, Girlfriend](https://anilist.co/manga/116266) (08:16, 12 January 2023)
+-   📖 Read chapter 49 - 77 of [Landlord Sisters](https://anilist.co/manga/138564) (05:30, 13 January 2023)
+-   📖 Read chapter 1001 - 2889 of [Martial Peak](https://anilist.co/manga/104494) (05:30, 13 January 2023)
+-   📖 Read chapter 1 - 147 of [My Stepmother's Friends](https://anilist.co/manga/119648) (05:30, 13 January 2023)
+-   📖 Read chapter 23 - 34 of [Childhood Friend](https://anilist.co/manga/151890) (05:30, 13 January 2023)
+-   📖 Read chapter 1 - 139 of [Nano Machine](https://anilist.co/manga/120980) (05:30, 13 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
