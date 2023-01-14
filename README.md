@@ -20,9 +20,9 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1001 - 2899 of [Martial Peak](https://anilist.co/manga/104494) (18:22, 14 January 2023)
 -   📺 Completed [Nudist Beach ni Shuugakuryokou de!! THE ANIMATION Bonus](https://anilist.co/anime/108331) (16:00, 14 January 2023)
 -   📖 Plans to read [Siscon Ani to Brocon Imouto ga Fuufu ni Nattara Shiawase Sugite Bakuhatsushisou](https://anilist.co/manga/119816) (15:50, 14 January 2023)
--   📖 Read chapter 1001 - 2898 of [Martial Peak](https://anilist.co/manga/104494) (16:30, 13 January 2023)
 -   📖 Read chapter 87 - 212 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (16:30, 13 January 2023)
 -   📖 Read chapter 4 - 118 of [Teenage Mercenary](https://anilist.co/manga/126297) (16:29, 13 January 2023)
 
