@@ -20,11 +20,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Nudist Beach ni Shuugakuryokou de!! THE ANIMATION Bonus](https://anilist.co/anime/108331) (16:00, 14 January 2023)
+-   📖 Plans to read [Siscon Ani to Brocon Imouto ga Fuufu ni Nattara Shiawase Sugite Bakuhatsushisou](https://anilist.co/manga/119816) (15:50, 14 January 2023)
 -   📖 Read chapter 1001 - 2898 of [Martial Peak](https://anilist.co/manga/104494) (16:30, 13 January 2023)
 -   📖 Read chapter 87 - 212 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (16:30, 13 January 2023)
 -   📖 Read chapter 4 - 118 of [Teenage Mercenary](https://anilist.co/manga/126297) (16:29, 13 January 2023)
--   📺 Watched episode 1 - 5 of [Overlord IV](https://anilist.co/anime/133844) (16:23, 13 January 2023)
--   📺 Watched episode 1 - 9 of [Date A Live IV](https://anilist.co/anime/116605) (14:54, 13 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
