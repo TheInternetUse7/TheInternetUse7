@@ -20,11 +20,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Grimoire of Zero](https://anilist.co/anime/97682) (13:11, 16 January 2023)
+-   📺 Plans to watch [The Dawn of the Witch](https://anilist.co/anime/133175) (13:10, 16 January 2023)
 -   📖 Read chapter 1 - 95 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (11:02, 16 January 2023)
 -   📖 Plans to read [Ranker's Return](https://anilist.co/manga/137969) (08:18, 16 January 2023)
 -   📖 Read chapter 49 - 78 of [Landlord Sisters](https://anilist.co/manga/138564) (07:39, 16 January 2023)
--   📖 Read chapter 307 - 423 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (07:39, 16 January 2023)
--   📺 Watched episode 1 - 13 of [Urusei Yatsura (2022)](https://anilist.co/anime/143277) (23:17, 15 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
