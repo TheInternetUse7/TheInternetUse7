@@ -20,11 +20,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Ranker's Return](https://anilist.co/manga/137969) (08:18, 16 January 2023)
 -   📖 Read chapter 49 - 78 of [Landlord Sisters](https://anilist.co/manga/138564) (07:39, 16 January 2023)
 -   📖 Read chapter 307 - 423 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (07:39, 16 January 2023)
 -   📺 Watched episode 1 - 13 of [Urusei Yatsura (2022)](https://anilist.co/anime/143277) (23:17, 15 January 2023)
 -   📖 Read chapter 1 - 228 of [Eleceed](https://anilist.co/manga/106929) (15:22, 15 January 2023)
--   📺 Watched episode 1 - 2 of [Farming Life in Another World](https://anilist.co/anime/146850) (20:22, 14 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
