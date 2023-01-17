@@ -20,11 +20,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Rewatched episode 1 - 3 of [Yosuga no Sora: In Solitude Where We are Least Alone](https://anilist.co/anime/8861) (09:35, 17 January 2023)
 -   📺 Watched episode 1 - 9 of [Overlord IV](https://anilist.co/anime/133844) (08:58, 17 January 2023)
 -   📺 Watched episode 1 - 10 of [Date A Live IV](https://anilist.co/anime/116605) (07:26, 17 January 2023)
 -   📺 Watched episode 1 - 14 of [BLUELOCK](https://anilist.co/anime/137822) (18:24, 16 January 2023)
 -   📺 Plans to watch [Grimoire of Zero](https://anilist.co/anime/97682) (13:11, 16 January 2023)
--   📺 Plans to watch [The Dawn of the Witch](https://anilist.co/anime/133175) (13:10, 16 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
