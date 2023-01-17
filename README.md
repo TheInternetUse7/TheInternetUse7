@@ -20,7 +20,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 7 of [Overlord IV](https://anilist.co/anime/133844) (07:56, 17 January 2023)
+-   📺 Watched episode 1 - 9 of [Overlord IV](https://anilist.co/anime/133844) (08:58, 17 January 2023)
 -   📺 Watched episode 1 - 10 of [Date A Live IV](https://anilist.co/anime/116605) (07:26, 17 January 2023)
 -   📺 Watched episode 1 - 14 of [BLUELOCK](https://anilist.co/anime/137822) (18:24, 16 January 2023)
 -   📺 Plans to watch [Grimoire of Zero](https://anilist.co/anime/97682) (13:11, 16 January 2023)
