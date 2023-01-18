@@ -20,11 +20,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 10 of [Overlord IV](https://anilist.co/anime/133844) (14:00, 18 January 2023)
 -   📖 Read chapter 4 - 119 of [Teenage Mercenary](https://anilist.co/manga/126297) (10:03, 18 January 2023)
 -   📺 Completed [Date A Live IV](https://anilist.co/anime/116605) (19:13, 17 January 2023)
 -   📺 Watched episode 1 - 11 of [Date A Live IV](https://anilist.co/anime/116605) (18:36, 17 January 2023)
 -   📺 Plans to watch [HIGH CARD](https://anilist.co/anime/135778) (10:33, 17 January 2023)
--   📺 Rewatched episode 1 - 4 of [Yosuga no Sora: In Solitude Where We are Least Alone](https://anilist.co/anime/8861) (10:15, 17 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
