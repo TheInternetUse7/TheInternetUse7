@@ -20,11 +20,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 34 of [Yao Shen Ji: Hei Yu Pian](https://anilist.co/anime/116964) (17:01, 18 January 2023)
+-   📺 Plans to watch [Kurutta Kyoutou: Danzai no Gakuen](https://anilist.co/anime/7455) (16:20, 18 January 2023)
 -   📺 Completed [Overlord IV](https://anilist.co/anime/133844) (15:46, 18 January 2023)
 -   📺 Watched episode 1 - 12 of [Overlord IV](https://anilist.co/anime/133844) (15:05, 18 January 2023)
 -   📖 Read chapter 4 - 119 of [Teenage Mercenary](https://anilist.co/manga/126297) (10:03, 18 January 2023)
--   📺 Completed [Date A Live IV](https://anilist.co/anime/116605) (19:13, 17 January 2023)
--   📺 Watched episode 1 - 11 of [Date A Live IV](https://anilist.co/anime/116605) (18:36, 17 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
