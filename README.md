@@ -20,11 +20,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1001 - 2902 of [Martial Peak](https://anilist.co/manga/104494) (07:14, 19 January 2023)
 -   📺 Watched episode 1 of [Imaizumin-chi wa Douyara Gal no Tamariba ni Natteru Rashii](https://anilist.co/anime/132203) (17:52, 18 January 2023)
 -   📺 Watched episode 1 - 34 of [Yao Shen Ji: Hei Yu Pian](https://anilist.co/anime/116964) (17:01, 18 January 2023)
 -   📺 Plans to watch [Kurutta Kyoutou: Danzai no Gakuen](https://anilist.co/anime/7455) (16:20, 18 January 2023)
 -   📺 Completed [Overlord IV](https://anilist.co/anime/133844) (15:46, 18 January 2023)
--   📺 Watched episode 1 - 12 of [Overlord IV](https://anilist.co/anime/133844) (15:05, 18 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
