@@ -20,11 +20,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 35 of [Yao Shen Ji: Hei Yu Pian](https://anilist.co/anime/116964) (05:01, 20 January 2023)
+-   📖 Read chapter 1 - 2 of [Yuusha ni Zenbu Ubawareta Ore wa Yuusha no Hahaoya to Party wo Kumimashita!](https://anilist.co/manga/159187) (12:49, 20 January 2023)
+-   📺 Watched episode 1 - 37 of [Yao Shen Ji: Hei Yu Pian](https://anilist.co/anime/116964) (12:46, 20 January 2023)
+-   📺 Watched episode 1 - 5 of [BOCCHI THE ROCK!](https://anilist.co/anime/130003) (12:46, 20 January 2023)
 -   📖 Read chapter 1001 - 2923 of [Martial Peak](https://anilist.co/manga/104494) (19:32, 19 January 2023)
 -   📺 Plans to watch [VTuber nanda ga Haishin Kiri Wasuretara Densetsu ni Natteta](https://anilist.co/anime/160488) (10:50, 19 January 2023)
--   📺 Watched episode 1 of [Imaizumin-chi wa Douyara Gal no Tamariba ni Natteru Rashii](https://anilist.co/anime/132203) (17:52, 18 January 2023)
--   📺 Plans to watch [Kurutta Kyoutou: Danzai no Gakuen](https://anilist.co/anime/7455) (16:20, 18 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
