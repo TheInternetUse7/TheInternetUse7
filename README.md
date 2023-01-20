@@ -20,11 +20,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 4 - 93 of [Dripping Wet](https://anilist.co/manga/133057) (16:32, 20 January 2023)
 -   📖 Read chapter 1 - 2 of [Yuusha ni Zenbu Ubawareta Ore wa Yuusha no Hahaoya to Party wo Kumimashita!](https://anilist.co/manga/159187) (12:49, 20 January 2023)
 -   📺 Watched episode 1 - 37 of [Yao Shen Ji: Hei Yu Pian](https://anilist.co/anime/116964) (12:46, 20 January 2023)
 -   📺 Watched episode 1 - 5 of [BOCCHI THE ROCK!](https://anilist.co/anime/130003) (12:46, 20 January 2023)
 -   📖 Read chapter 1001 - 2923 of [Martial Peak](https://anilist.co/manga/104494) (19:32, 19 January 2023)
--   📺 Plans to watch [VTuber nanda ga Haishin Kiri Wasuretara Densetsu ni Natteta](https://anilist.co/anime/160488) (10:50, 19 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
