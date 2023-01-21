@@ -20,11 +20,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 15 of [The Eminence in Shadow](https://anilist.co/anime/130298) (06:58, 21 January 2023)
+-   📖 Plans to read [2.5 Dimensional Seduction](https://anilist.co/manga/110785) (06:45, 21 January 2023)
 -   📺 Watched episode 1 - 42 of [Yao Shen Ji: Hei Yu Pian](https://anilist.co/anime/116964) (19:51, 20 January 2023)
 -   📖 Read chapter 4 - 93 of [Dripping Wet](https://anilist.co/manga/133057) (16:32, 20 January 2023)
 -   📖 Read chapter 1 - 2 of [Yuusha ni Zenbu Ubawareta Ore wa Yuusha no Hahaoya to Party wo Kumimashita!](https://anilist.co/manga/159187) (12:49, 20 January 2023)
--   📺 Watched episode 1 - 5 of [BOCCHI THE ROCK!](https://anilist.co/anime/130003) (12:46, 20 January 2023)
--   📖 Read chapter 1001 - 2923 of [Martial Peak](https://anilist.co/manga/104494) (19:32, 19 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
