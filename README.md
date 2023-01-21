@@ -20,11 +20,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 5 of [Eromanga Sensei](https://anilist.co/anime/21685) (08:37, 21 January 2023)
 -   📺 Watched episode 1 - 16 of [The Eminence in Shadow](https://anilist.co/anime/130298) (07:22, 21 January 2023)
 -   📖 Plans to read [2.5 Dimensional Seduction](https://anilist.co/manga/110785) (06:45, 21 January 2023)
 -   📺 Watched episode 1 - 42 of [Yao Shen Ji: Hei Yu Pian](https://anilist.co/anime/116964) (19:51, 20 January 2023)
 -   📖 Read chapter 4 - 93 of [Dripping Wet](https://anilist.co/manga/133057) (16:32, 20 January 2023)
--   📖 Read chapter 1 - 2 of [Yuusha ni Zenbu Ubawareta Ore wa Yuusha no Hahaoya to Party wo Kumimashita!](https://anilist.co/manga/159187) (12:49, 20 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
