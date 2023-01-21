@@ -20,7 +20,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 15 of [The Eminence in Shadow](https://anilist.co/anime/130298) (06:58, 21 January 2023)
+-   📺 Watched episode 1 - 16 of [The Eminence in Shadow](https://anilist.co/anime/130298) (07:22, 21 January 2023)
 -   📖 Plans to read [2.5 Dimensional Seduction](https://anilist.co/manga/110785) (06:45, 21 January 2023)
 -   📺 Watched episode 1 - 42 of [Yao Shen Ji: Hei Yu Pian](https://anilist.co/anime/116964) (19:51, 20 January 2023)
 -   📖 Read chapter 4 - 93 of [Dripping Wet](https://anilist.co/manga/133057) (16:32, 20 January 2023)
