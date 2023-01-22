@@ -20,11 +20,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 307 - 424 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (15:22, 22 January 2023)
--   📖 Read chapter 1 - 158 of [Overgeared](https://anilist.co/manga/117460) (15:22, 22 January 2023)
--   📺 Watched episode 1 - 47 of [Yao Shen Ji: Hei Yu Pian](https://anilist.co/anime/116964) (10:00, 22 January 2023)
--   📺 Plans to watch [The Magical Revolution of the Reincarnated Princess and the Genius Young Lady](https://anilist.co/anime/153629) (13:44, 21 January 2023)
--   📺 Plans to watch [Saving 80,000 Gold in Another World for My Retirement](https://anilist.co/anime/152765) (13:39, 21 January 2023)
+-   📖 Read chapter 109 - 136 of [Blood on the Tracks](https://anilist.co/manga/98397) (19:44, 22 January 2023)
+-   📖 Read chapter 1 - 229 of [Eleceed](https://anilist.co/manga/106929) (19:40, 22 January 2023)
+-   📖 Read chapter 1 - 140 of [Nano Machine](https://anilist.co/manga/120980) (19:32, 22 January 2023)
+-   📖 Read chapter 307 - 425 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (19:25, 22 January 2023)
+-   📖 Read chapter 339 - 378 of [My Hero Academia](https://anilist.co/manga/85486) (19:20, 22 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
