@@ -20,11 +20,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Rewatched episode 1 - 5 of [Yosuga no Sora: In Solitude Where We are Least Alone](https://anilist.co/anime/8861) (16:11, 25 January 2023)
+-   📺 Watched episode 1 - 7 of [Eromanga Sensei](https://anilist.co/anime/21685) (16:11, 25 January 2023)
+-   📺 Watched episode 1 - 7 of [BOCCHI THE ROCK!](https://anilist.co/anime/130003) (16:11, 25 January 2023)
 -   📺 Watched episode 1 - 2 of [Land of the Lustrous](https://anilist.co/anime/98707) (18:01, 24 January 2023)
 -   📺 Watched episode 1 - 15 of [BLUELOCK](https://anilist.co/anime/137822) (18:01, 24 January 2023)
--   📺 Watched episode 1 - 14 of [Urusei Yatsura (2022)](https://anilist.co/anime/143277) (18:01, 24 January 2023)
--   📺 Completed [Yao Shen Ji: Hei Yu Pian](https://anilist.co/anime/116964) (18:01, 24 January 2023)
--   📺 Watched episode 1 - 51 of [Yao Shen Ji: Hei Yu Pian](https://anilist.co/anime/116964) (14:08, 23 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
