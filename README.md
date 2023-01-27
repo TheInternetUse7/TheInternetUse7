@@ -20,9 +20,9 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Rewatched episode 1 - 7 of [Yosuga no Sora: In Solitude Where We are Least Alone](https://anilist.co/anime/8861) (12:52, 27 January 2023)
 -   📺 Watched episode 1 - 9 of [BOCCHI THE ROCK!](https://anilist.co/anime/130003) (19:33, 26 January 2023)
 -   📺 Watched episode 126 - 192 of [Naruto](https://anilist.co/anime/20) (19:33, 26 January 2023)
--   📺 Rewatched episode 1 - 6 of [Yosuga no Sora: In Solitude Where We are Least Alone](https://anilist.co/anime/8861) (19:33, 26 January 2023)
 -   📖 Read chapter 1001 - 2956 of [Martial Peak](https://anilist.co/manga/104494) (07:38, 26 January 2023)
 -   📖 Read chapter 1 - 96 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (07:38, 26 January 2023)
 
