@@ -20,11 +20,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 15 - 23 of [Not Safe For Work](https://anilist.co/manga/154190) (14:58, 27 January 2023)
+-   📖 Read chapter 1 - 6 of [Rain Curtain](https://anilist.co/manga/109327) (14:58, 27 January 2023)
+-   📖 Read chapter 1 - 19 of [The Butterfly Inside](https://anilist.co/manga/127142) (14:58, 27 January 2023)
 -   📺 Rewatched episode 1 - 7 of [Yosuga no Sora: In Solitude Where We are Least Alone](https://anilist.co/anime/8861) (12:52, 27 January 2023)
 -   📺 Watched episode 1 - 9 of [BOCCHI THE ROCK!](https://anilist.co/anime/130003) (19:33, 26 January 2023)
--   📺 Watched episode 126 - 192 of [Naruto](https://anilist.co/anime/20) (19:33, 26 January 2023)
--   📖 Read chapter 1001 - 2956 of [Martial Peak](https://anilist.co/manga/104494) (07:38, 26 January 2023)
--   📖 Read chapter 1 - 96 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (07:38, 26 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
