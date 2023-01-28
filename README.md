@@ -20,11 +20,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 10 of [BOCCHI THE ROCK!](https://anilist.co/anime/130003) (19:58, 28 January 2023)
 -   📺 Watched episode 1 - 17 of [The Eminence in Shadow](https://anilist.co/anime/130298) (12:14, 28 January 2023)
 -   📖 Read chapter 15 - 23 of [Not Safe For Work](https://anilist.co/manga/154190) (14:58, 27 January 2023)
 -   📖 Read chapter 1 - 6 of [Rain Curtain](https://anilist.co/manga/109327) (14:58, 27 January 2023)
 -   📖 Read chapter 1 - 19 of [The Butterfly Inside](https://anilist.co/manga/127142) (14:58, 27 January 2023)
--   📺 Rewatched episode 1 - 7 of [Yosuga no Sora: In Solitude Where We are Least Alone](https://anilist.co/anime/8861) (12:52, 27 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
