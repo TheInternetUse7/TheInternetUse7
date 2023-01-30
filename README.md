@@ -13,6 +13,11 @@
 ### What I'm doing right now:
 [![Discord Presence](https://lanyard.cnrad.dev/api/534117072796385300)](https://discord.com/users/534117072796385300)
 <hr>
+
+join my server it's open for all <br>
+[![Server Invite](https://invidget.switchblade.xyz/bfYgVHxrSs)](https://discord.gg/bfYgVHxrSs)
+
+<hr>
   
 ### 🌸 My recent AniList activity
 
@@ -31,7 +36,7 @@
 
 <div align="center">
 
-<img width="500" alt="https://anilist.co/user/TheInternetUser/" src="https://img.anili.st/User/929966"/>
+[![AniList Banner](https://img.anili.st/User/929966)](https://anilist.co/user/TheInternetUser)
 
 ![Profile views](https://gpvc.arturio.dev/TheInternetUse7) Since 2023/9/1
 
