@@ -20,11 +20,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 160 of [Overgeared](https://anilist.co/manga/117460) (21:03, 30 January 2023)
+-   📺 Rewatched episode 1 - 8 of [Yosuga no Sora: In Solitude Where We are Least Alone](https://anilist.co/anime/8861) (20:46, 30 January 2023)
 -   📖 Read chapter 1001 - 2957 of [Martial Peak](https://anilist.co/manga/104494) (01:12, 30 January 2023)
 -   📖 Read chapter 49 - 79 of [Landlord Sisters](https://anilist.co/manga/138564) (01:12, 30 January 2023)
 -   📖 Read chapter 88 - 130 of [Girlfriend, Girlfriend](https://anilist.co/manga/116266) (01:12, 30 January 2023)
--   📖 Read chapter 1 - 159 of [Overgeared](https://anilist.co/manga/117460) (01:12, 30 January 2023)
--   📺 Completed [BOCCHI THE ROCK!](https://anilist.co/anime/130003) (09:21, 29 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
