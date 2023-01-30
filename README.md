@@ -20,11 +20,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1001 - 2957 of [Martial Peak](https://anilist.co/manga/104494) (01:12, 30 January 2023)
+-   📖 Read chapter 49 - 79 of [Landlord Sisters](https://anilist.co/manga/138564) (01:12, 30 January 2023)
+-   📖 Read chapter 88 - 130 of [Girlfriend, Girlfriend](https://anilist.co/manga/116266) (01:12, 30 January 2023)
+-   📖 Read chapter 1 - 159 of [Overgeared](https://anilist.co/manga/117460) (01:12, 30 January 2023)
 -   📺 Completed [BOCCHI THE ROCK!](https://anilist.co/anime/130003) (09:21, 29 January 2023)
--   📺 Watched episode 1 - 11 of [BOCCHI THE ROCK!](https://anilist.co/anime/130003) (08:20, 29 January 2023)
--   📺 Watched episode 1 - 17 of [The Eminence in Shadow](https://anilist.co/anime/130298) (12:14, 28 January 2023)
--   📖 Read chapter 15 - 23 of [Not Safe For Work](https://anilist.co/manga/154190) (14:58, 27 January 2023)
--   📖 Read chapter 1 - 6 of [Rain Curtain](https://anilist.co/manga/109327) (14:58, 27 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
