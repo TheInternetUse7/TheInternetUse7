@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 8 of [Eromanga Sensei](https://anilist.co/anime/21685) (16:04, 01 February 2023)
+-   📺 Completed [Chainsaw Man](https://anilist.co/anime/127230) (16:04, 01 February 2023)
+-   📺 Watched episode 1 - 11 of [Chainsaw Man](https://anilist.co/anime/127230) (16:04, 01 February 2023)
 -   📖 Read chapter 1001 - 2963 of [Martial Peak](https://anilist.co/manga/104494) (13:00, 01 February 2023)
 -   📖 Read chapter 1001 - 2962 of [Martial Peak](https://anilist.co/manga/104494) (13:00, 01 February 2023)
--   📺 Watched episode 1 - 10 of [Chainsaw Man](https://anilist.co/anime/127230) (10:26, 01 February 2023)
--   📺 Watched episode 1 - 15 of [Urusei Yatsura (2022)](https://anilist.co/anime/143277) (18:27, 31 January 2023)
--   📖 Read chapter 307 - 426 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (03:21, 31 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
