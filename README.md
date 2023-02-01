@@ -25,7 +25,7 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 9 of [Chainsaw Man](https://anilist.co/anime/127230) (22:22, 31 January 2023)
+-   📺 Watched episode 1 - 10 of [Chainsaw Man](https://anilist.co/anime/127230) (10:26, 01 February 2023)
 -   📺 Watched episode 1 - 15 of [Urusei Yatsura (2022)](https://anilist.co/anime/143277) (18:27, 31 January 2023)
 -   📖 Read chapter 307 - 426 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (03:21, 31 January 2023)
 -   📖 Read chapter 1 - 230 of [Eleceed](https://anilist.co/manga/106929) (03:19, 31 January 2023)
