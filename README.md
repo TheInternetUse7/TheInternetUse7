@@ -25,8 +25,8 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 9 of [Eromanga Sensei](https://anilist.co/anime/21685) (20:38, 01 February 2023)
 -   📖 Read chapter 109 - 137 of [Blood on the Tracks](https://anilist.co/manga/98397) (20:09, 01 February 2023)
--   📺 Watched episode 1 - 8 of [Eromanga Sensei](https://anilist.co/anime/21685) (16:04, 01 February 2023)
 -   📺 Completed [Chainsaw Man](https://anilist.co/anime/127230) (16:04, 01 February 2023)
 -   📺 Watched episode 1 - 11 of [Chainsaw Man](https://anilist.co/anime/127230) (16:04, 01 February 2023)
 -   📖 Read chapter 1001 - 2963 of [Martial Peak](https://anilist.co/manga/104494) (13:00, 01 February 2023)
