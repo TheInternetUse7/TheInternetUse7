@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 161 of [Overgeared](https://anilist.co/manga/117460) (13:49, 02 February 2023)
+-   📖 Read chapter 98 - 121 of [Don't Toy With Me, Miss Nagatoro](https://anilist.co/manga/100664) (13:49, 02 February 2023)
+-   📖 Read chapter 1 - 142 of [Nano Machine](https://anilist.co/manga/120980) (13:49, 02 February 2023)
+-   📖 Read chapter 88 - 131 of [Girlfriend, Girlfriend](https://anilist.co/manga/116266) (13:49, 02 February 2023)
 -   📖 Read chapter 1 - 231 of [Eleceed](https://anilist.co/manga/106929) (12:09, 02 February 2023)
--   📺 Watched episode 1 - 9 of [Eromanga Sensei](https://anilist.co/anime/21685) (20:38, 01 February 2023)
--   📖 Read chapter 109 - 137 of [Blood on the Tracks](https://anilist.co/manga/98397) (20:09, 01 February 2023)
--   📺 Completed [Chainsaw Man](https://anilist.co/anime/127230) (16:04, 01 February 2023)
--   📺 Watched episode 1 - 11 of [Chainsaw Man](https://anilist.co/anime/127230) (16:04, 01 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
