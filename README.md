@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 16 of [BLUELOCK](https://anilist.co/anime/137822) (16:39, 03 February 2023)
 -   📺 Watched episode 1 of [Lycoris Recoil](https://anilist.co/anime/143270) (15:49, 03 February 2023)
 -   📺 Watched episode 1 - 10 of [Eromanga Sensei](https://anilist.co/anime/21685) (14:17, 03 February 2023)
 -   📖 Read chapter 1 - 162 of [Overgeared](https://anilist.co/manga/117460) (10:24, 03 February 2023)
 -   📺 Watched episode 1 - 3 of [Farming Life in Another World](https://anilist.co/anime/146850) (20:59, 02 February 2023)
--   📖 Read chapter 98 - 121 of [Don't Toy With Me, Miss Nagatoro](https://anilist.co/manga/100664) (13:49, 02 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
