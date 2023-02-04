@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 18 of [The Eminence in Shadow](https://anilist.co/anime/130298) (17:09, 04 February 2023)
 -   📺 Watched episode 1 - 2 of [Lycoris Recoil](https://anilist.co/anime/143270) (12:15, 04 February 2023)
 -   📺 Watched episode 1 - 2 of [SPY x FAMILY Cour 2](https://anilist.co/anime/142838) (11:29, 04 February 2023)
 -   📖 Read chapter 15 - 24 of [Not Safe For Work](https://anilist.co/manga/154190) (07:52, 04 February 2023)
 -   📖 Read chapter 49 - 80 of [Landlord Sisters](https://anilist.co/manga/138564) (07:52, 04 February 2023)
--   📖 Read chapter 4 - 97 of [Dripping Wet](https://anilist.co/manga/133057) (07:52, 04 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
