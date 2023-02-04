@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 15 - 24 of [Not Safe For Work](https://anilist.co/manga/154190) (07:52, 04 February 2023)
+-   📖 Read chapter 49 - 80 of [Landlord Sisters](https://anilist.co/manga/138564) (07:52, 04 February 2023)
+-   📖 Read chapter 4 - 97 of [Dripping Wet](https://anilist.co/manga/133057) (07:52, 04 February 2023)
+-   📺 Watched episode 1 - 2 of [The Reincarnation of the Strongest Exorcist in Another World](https://anilist.co/anime/144553) (07:22, 04 February 2023)
 -   📺 Watched episode 1 - 16 of [BLUELOCK](https://anilist.co/anime/137822) (16:39, 03 February 2023)
--   📺 Watched episode 1 of [Lycoris Recoil](https://anilist.co/anime/143270) (15:49, 03 February 2023)
--   📺 Watched episode 1 - 10 of [Eromanga Sensei](https://anilist.co/anime/21685) (14:17, 03 February 2023)
--   📖 Read chapter 1 - 162 of [Overgeared](https://anilist.co/manga/117460) (10:24, 03 February 2023)
--   📺 Watched episode 1 - 3 of [Farming Life in Another World](https://anilist.co/anime/146850) (20:59, 02 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
