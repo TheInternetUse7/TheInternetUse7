@@ -25,7 +25,7 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1001 - 2966 of [Martial Peak](https://anilist.co/manga/104494) (05:29, 05 February 2023)
+-   📖 Read chapter 1001 - 2971 of [Martial Peak](https://anilist.co/manga/104494) (07:37, 05 February 2023)
 -   📖 Read chapter 4 - 121 of [Teenage Mercenary](https://anilist.co/manga/126297) (20:38, 04 February 2023)
 -   📺 Watched episode 1 - 18 of [The Eminence in Shadow](https://anilist.co/anime/130298) (17:09, 04 February 2023)
 -   📺 Watched episode 1 - 2 of [Lycoris Recoil](https://anilist.co/anime/143270) (12:15, 04 February 2023)
