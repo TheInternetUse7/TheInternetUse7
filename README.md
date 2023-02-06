@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 16 of [Urusei Yatsura (2022)](https://anilist.co/anime/143277) (10:00, 06 February 2023)
 -   📺 Watched episode 1 - 4 of [SPY x FAMILY Cour 2](https://anilist.co/anime/142838) (08:23, 06 February 2023)
 -   📖 Read chapter 1001 - 3000 of [Martial Peak](https://anilist.co/manga/104494) (06:02, 06 February 2023)
 -   📺 Watched episode 1 of [To Love Ru](https://anilist.co/anime/3455) (06:02, 06 February 2023)
 -   📺 Watched episode 1 - 3 of [The Reincarnation of the Strongest Exorcist in Another World](https://anilist.co/anime/144553) (13:10, 05 February 2023)
--   📖 Read chapter 4 - 121 of [Teenage Mercenary](https://anilist.co/manga/126297) (20:38, 04 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
