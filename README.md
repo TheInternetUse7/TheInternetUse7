@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1001 - 3019 of [Martial Peak](https://anilist.co/manga/104494) (21:09, 07 February 2023)
 -   📺 Plans to watch [Symphogear](https://anilist.co/anime/11751) (16:58, 07 February 2023)
 -   📺 Completed [My Hero Academia: World Heroes' Mission](https://anilist.co/anime/126659) (15:00, 07 February 2023)
 -   📺 Watched episode 1 of [HIGH CARD](https://anilist.co/anime/135778) (14:55, 07 February 2023)
 -   📺 Completed [My Hero Academia: World Heroes' Mission](https://anilist.co/anime/126659) (13:19, 07 February 2023)
--   📺 Watched episode 1 - 4 of [Farming Life in Another World](https://anilist.co/anime/146850) (13:09, 07 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
