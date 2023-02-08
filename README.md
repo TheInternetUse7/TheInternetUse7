@@ -25,7 +25,7 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1001 - 3022 of [Martial Peak](https://anilist.co/manga/104494) (21:42, 07 February 2023)
+-   📖 Read chapter 1001 - 3027 of [Martial Peak](https://anilist.co/manga/104494) (05:55, 08 February 2023)
 -   📺 Plans to watch [Symphogear](https://anilist.co/anime/11751) (16:58, 07 February 2023)
 -   📺 Completed [My Hero Academia: World Heroes' Mission](https://anilist.co/anime/126659) (15:00, 07 February 2023)
 -   📺 Watched episode 1 of [HIGH CARD](https://anilist.co/anime/135778) (14:55, 07 February 2023)
