@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 19 of [The Eminence in Shadow](https://anilist.co/anime/130298) (17:46, 09 February 2023)
 -   📖 Read chapter 1001 - 3032 of [Martial Peak](https://anilist.co/manga/104494) (16:57, 09 February 2023)
 -   📖 Read chapter 339 - 379 of [My Hero Academia](https://anilist.co/manga/85486) (14:45, 09 February 2023)
 -   📺 Watched episode 1 - 12 of [SPY x FAMILY Cour 2](https://anilist.co/anime/142838) (14:19, 09 February 2023)
 -   📺 Completed [Imaizumin-chi wa Douyara Gal no Tamariba ni Natteru Rashii](https://anilist.co/anime/132203) (14:19, 09 February 2023)
--   📺 Watched episode 1 - 5 of [To Love Ru](https://anilist.co/anime/3455) (14:19, 09 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
