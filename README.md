@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 8 of [SPY x FAMILY Cour 2](https://anilist.co/anime/142838) (06:55, 09 February 2023)
+-   📺 Watched episode 1 - 4 of [Lycoris Recoil](https://anilist.co/anime/143270) (06:55, 09 February 2023)
+-   📺 Completed [Eromanga Sensei](https://anilist.co/anime/21685) (06:55, 09 February 2023)
+-   📺 Watched episode 1 - 2 of [To Love Ru](https://anilist.co/anime/3455) (06:55, 09 February 2023)
 -   📺 Watched episode 1 - 17 of [BLUELOCK](https://anilist.co/anime/137822) (11:07, 08 February 2023)
--   📖 Read chapter 1001 - 3031 of [Martial Peak](https://anilist.co/manga/104494) (10:10, 08 February 2023)
--   📺 Plans to watch [Symphogear](https://anilist.co/anime/11751) (16:58, 07 February 2023)
--   📺 Completed [My Hero Academia: World Heroes' Mission](https://anilist.co/anime/126659) (15:00, 07 February 2023)
--   📺 Watched episode 1 of [HIGH CARD](https://anilist.co/anime/135778) (14:55, 07 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
