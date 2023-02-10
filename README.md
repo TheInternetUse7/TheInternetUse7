@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 8 of [To Love Ru](https://anilist.co/anime/3455) (14:04, 10 February 2023)
 -   📖 Read chapter 1 - 68 of [The Lone Necromancer](https://anilist.co/manga/139572) (13:17, 10 February 2023)
 -   📖 Read chapter 1 - 150 of [The Archmage Returns After 4000 Years](https://anilist.co/manga/118424) (13:17, 10 February 2023)
 -   📖 Read chapter 49 - 81 of [Landlord Sisters](https://anilist.co/manga/138564) (13:17, 10 February 2023)
 -   📺 Watched episode 1 - 7 of [Lycoris Recoil](https://anilist.co/anime/143270) (10:33, 10 February 2023)
--   📺 Completed [SPY x FAMILY Cour 2](https://anilist.co/anime/142838) (05:56, 10 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
