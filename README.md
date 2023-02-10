@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 68 of [The Lone Necromancer](https://anilist.co/manga/139572) (13:17, 10 February 2023)
+-   📖 Read chapter 1 - 150 of [The Archmage Returns After 4000 Years](https://anilist.co/manga/118424) (13:17, 10 February 2023)
+-   📖 Read chapter 49 - 81 of [Landlord Sisters](https://anilist.co/manga/138564) (13:17, 10 February 2023)
 -   📺 Watched episode 1 - 7 of [Lycoris Recoil](https://anilist.co/anime/143270) (10:33, 10 February 2023)
 -   📺 Completed [SPY x FAMILY Cour 2](https://anilist.co/anime/142838) (05:56, 10 February 2023)
--   📖 Read chapter 179 - 184 of [Solo Leveling](https://anilist.co/manga/105398) (04:59, 10 February 2023)
--   📖 Read chapter 1 - 98 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (04:34, 10 February 2023)
--   📖 Read chapter 1 - 163 of [Overgeared](https://anilist.co/manga/117460) (04:25, 10 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
