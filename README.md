@@ -25,7 +25,7 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 6 of [Lycoris Recoil](https://anilist.co/anime/143270) (09:45, 10 February 2023)
+-   📺 Watched episode 1 - 7 of [Lycoris Recoil](https://anilist.co/anime/143270) (10:33, 10 February 2023)
 -   📺 Completed [SPY x FAMILY Cour 2](https://anilist.co/anime/142838) (05:56, 10 February 2023)
 -   📖 Read chapter 179 - 184 of [Solo Leveling](https://anilist.co/manga/105398) (04:59, 10 February 2023)
 -   📖 Read chapter 1 - 98 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (04:34, 10 February 2023)
