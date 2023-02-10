@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 307 - 427 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (18:48, 10 February 2023)
+-   📖 Read chapter 87 - 214 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (18:48, 10 February 2023)
+-   📺 Watched episode 1 - 8 of [Lycoris Recoil](https://anilist.co/anime/143270) (18:32, 10 February 2023)
 -   📺 Watched episode 1 - 8 of [To Love Ru](https://anilist.co/anime/3455) (14:04, 10 February 2023)
 -   📖 Read chapter 1 - 68 of [The Lone Necromancer](https://anilist.co/manga/139572) (13:17, 10 February 2023)
--   📖 Read chapter 1 - 150 of [The Archmage Returns After 4000 Years](https://anilist.co/manga/118424) (13:17, 10 February 2023)
--   📖 Read chapter 49 - 81 of [Landlord Sisters](https://anilist.co/manga/138564) (13:17, 10 February 2023)
--   📺 Watched episode 1 - 7 of [Lycoris Recoil](https://anilist.co/anime/143270) (10:33, 10 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
