@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 164 of [Overgeared](https://anilist.co/manga/117460) (21:11, 11 February 2023)
 -   📺 Watched episode 1 of [To Your Eternity Season 2](https://anilist.co/anime/138565) (17:09, 11 February 2023)
 -   📺 Watched episode 1 of [KONOSUBA -God's blessing on this wonderful world!](https://anilist.co/anime/21202) (17:09, 11 February 2023)
 -   📺 Watched episode 1 - 4 of [The Reincarnation of the Strongest Exorcist in Another World](https://anilist.co/anime/144553) (16:15, 11 February 2023)
 -   📺 Completed [Lycoris Recoil](https://anilist.co/anime/143270) (13:19, 11 February 2023)
--   📺 Watched episode 1 - 12 of [Lycoris Recoil](https://anilist.co/anime/143270) (13:19, 11 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
