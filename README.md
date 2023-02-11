@@ -27,7 +27,7 @@ join my server it's open for all <br>
 
 -   📺 Completed [Lycoris Recoil](https://anilist.co/anime/143270) (13:19, 11 February 2023)
 -   📺 Watched episode 1 - 12 of [Lycoris Recoil](https://anilist.co/anime/143270) (13:19, 11 February 2023)
--   📺 Plans to watch [Lycoris Recoil 2](https://anilist.co/anime/161410) (11:47, 11 February 2023)
+-   📺 Plans to watch [Lycoris Recoil (Shinsaku Animation)](https://anilist.co/anime/161410) (11:47, 11 February 2023)
 -   📖 Read chapter 1 - 49 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (11:45, 11 February 2023)
 -   📺 Watched episode 1 - 10 of [To Love Ru](https://anilist.co/anime/3455) (11:39, 11 February 2023)
 
