@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [To Your Eternity Season 2](https://anilist.co/anime/138565) (17:09, 11 February 2023)
+-   📺 Watched episode 1 of [KONOSUBA -God's blessing on this wonderful world!](https://anilist.co/anime/21202) (17:09, 11 February 2023)
+-   📺 Watched episode 1 - 4 of [The Reincarnation of the Strongest Exorcist in Another World](https://anilist.co/anime/144553) (16:15, 11 February 2023)
 -   📺 Completed [Lycoris Recoil](https://anilist.co/anime/143270) (13:19, 11 February 2023)
 -   📺 Watched episode 1 - 12 of [Lycoris Recoil](https://anilist.co/anime/143270) (13:19, 11 February 2023)
--   📺 Plans to watch [Lycoris Recoil (Shinsaku Animation)](https://anilist.co/anime/161410) (11:47, 11 February 2023)
--   📖 Read chapter 1 - 49 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (11:45, 11 February 2023)
--   📺 Watched episode 1 - 10 of [To Love Ru](https://anilist.co/anime/3455) (11:39, 11 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
