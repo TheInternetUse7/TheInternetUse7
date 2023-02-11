@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 9 of [To Love Ru](https://anilist.co/anime/3455) (10:04, 11 February 2023)
+-   📺 Rewatched episode 1 - 11 of [Yosuga no Sora: In Solitude Where We are Least Alone](https://anilist.co/anime/8861) (09:53, 11 February 2023)
 -   📺 Watched episode 1 - 11 of [Lycoris Recoil](https://anilist.co/anime/143270) (07:26, 11 February 2023)
 -   📖 Read chapter 1 of [Where Is My Little Stick?!](https://anilist.co/manga/157094) (22:43, 10 February 2023)
 -   📖 Plans to read [Where Is My Little Stick?!](https://anilist.co/manga/157094) (22:36, 10 February 2023)
--   📖 Read chapter 1001 - 3043 of [Martial Peak](https://anilist.co/manga/104494) (22:00, 10 February 2023)
--   📖 Read chapter 307 - 427 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (18:48, 10 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
