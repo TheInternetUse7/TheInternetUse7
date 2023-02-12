@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 3 of [KONOSUBA -God's blessing on this wonderful world!](https://anilist.co/anime/21202) (09:28, 12 February 2023)
--   📖 Plans to read [Ore no Imouto ga Saikou no Okazudatta](https://anilist.co/manga/160842) (09:27, 12 February 2023)
--   📖 Read chapter 307 - 429 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (08:48, 12 February 2023)
--   📖 Read chapter 1001 - 3046 of [Martial Peak](https://anilist.co/manga/104494) (08:48, 12 February 2023)
--   📖 Read chapter 4 - 123 of [Teenage Mercenary](https://anilist.co/manga/126297) (08:48, 12 February 2023)
+-   📖 Read chapter 1 of [Ore no Imouto ga Saikou no Okazudatta](https://anilist.co/manga/160842) (16:30, 12 February 2023)
+-   📖 Read chapter 23 - 37 of [Childhood Friend](https://anilist.co/manga/151890) (16:30, 12 February 2023)
+-   📖 Read chapter 1 - 55 of [Sex Study Group](https://anilist.co/manga/145493) (16:30, 12 February 2023)
+-   📺 Watched episode 1 - 4 of [To Your Eternity Season 2](https://anilist.co/anime/138565) (16:20, 12 February 2023)
+-   📺 Watched episode 1 - 11 of [To Love Ru](https://anilist.co/anime/3455) (16:20, 12 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
