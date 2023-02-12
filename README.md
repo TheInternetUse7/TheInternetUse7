@@ -25,10 +25,10 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 5 of [To Your Eternity Season 2](https://anilist.co/anime/138565) (20:10, 12 February 2023)
 -   📖 Read chapter 1 - 2 of [Ore no Imouto ga Saikou no Okazudatta](https://anilist.co/manga/160842) (17:40, 12 February 2023)
 -   📖 Read chapter 23 - 37 of [Childhood Friend](https://anilist.co/manga/151890) (16:30, 12 February 2023)
 -   📖 Read chapter 1 - 55 of [Sex Study Group](https://anilist.co/manga/145493) (16:30, 12 February 2023)
--   📺 Watched episode 1 - 4 of [To Your Eternity Season 2](https://anilist.co/anime/138565) (16:20, 12 February 2023)
 -   📺 Watched episode 1 - 11 of [To Love Ru](https://anilist.co/anime/3455) (16:20, 12 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
