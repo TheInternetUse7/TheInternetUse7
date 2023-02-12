@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 3 of [KONOSUBA -God's blessing on this wonderful world!](https://anilist.co/anime/21202) (09:28, 12 February 2023)
+-   📖 Plans to read [Ore no Imouto ga Saikou no Okazudatta](https://anilist.co/manga/160842) (09:27, 12 February 2023)
 -   📖 Read chapter 307 - 429 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (08:48, 12 February 2023)
 -   📖 Read chapter 1001 - 3046 of [Martial Peak](https://anilist.co/manga/104494) (08:48, 12 February 2023)
 -   📖 Read chapter 4 - 123 of [Teenage Mercenary](https://anilist.co/manga/126297) (08:48, 12 February 2023)
--   📖 Read chapter 1 - 164 of [Overgeared](https://anilist.co/manga/117460) (21:11, 11 February 2023)
--   📺 Watched episode 1 of [To Your Eternity Season 2](https://anilist.co/anime/138565) (17:09, 11 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
