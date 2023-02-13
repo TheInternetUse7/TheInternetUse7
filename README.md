@@ -25,8 +25,8 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 10 of [To Your Eternity Season 2](https://anilist.co/anime/138565) (19:02, 13 February 2023)
 -   📖 Read chapter 1 - 82 of [The Late-Bloomers](https://anilist.co/manga/143608) (15:58, 13 February 2023)
--   📺 Watched episode 1 - 9 of [To Your Eternity Season 2](https://anilist.co/anime/138565) (14:04, 13 February 2023)
 -   📺 Watched episode 1 - 7 of [KONOSUBA -God's blessing on this wonderful world!](https://anilist.co/anime/21202) (11:31, 13 February 2023)
 -   📺 Watched episode 1 - 17 of [Urusei Yatsura (2022)](https://anilist.co/anime/143277) (08:20, 13 February 2023)
 -   📺 Watched episode 1 - 18 of [BLUELOCK](https://anilist.co/anime/137822) (21:35, 12 February 2023)
