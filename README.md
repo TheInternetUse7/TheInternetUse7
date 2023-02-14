@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Taboo Tattoo](https://anilist.co/anime/21031) (13:12, 14 February 2023)
 -   📺 Paused watching [Uchiyama Aki](https://anilist.co/anime/3644) (11:53, 14 February 2023)
 -   📺 Watched episode 1 of [Uchiyama Aki](https://anilist.co/anime/3644) (11:53, 14 February 2023)
 -   📺 Watched episode 1 - 13 of [To Love Ru](https://anilist.co/anime/3455) (09:41, 14 February 2023)
 -   📺 Watched episode 1 - 8 of [KONOSUBA -God's blessing on this wonderful world!](https://anilist.co/anime/21202) (08:48, 14 February 2023)
--   📖 Read chapter 1 of [Sweetness and Lightning](https://anilist.co/manga/86044) (07:57, 14 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
