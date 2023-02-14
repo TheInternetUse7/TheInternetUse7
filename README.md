@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 98 - 122 of [Don't Toy With Me, Miss Nagatoro](https://anilist.co/manga/100664) (14:29, 14 February 2023)
+-   📖 Read chapter 1001 - 3053 of [Martial Peak](https://anilist.co/manga/104494) (14:26, 14 February 2023)
 -   📺 Plans to watch [Taboo Tattoo](https://anilist.co/anime/21031) (13:12, 14 February 2023)
 -   📺 Paused watching [Uchiyama Aki](https://anilist.co/anime/3644) (11:53, 14 February 2023)
 -   📺 Watched episode 1 of [Uchiyama Aki](https://anilist.co/anime/3644) (11:53, 14 February 2023)
--   📺 Watched episode 1 - 13 of [To Love Ru](https://anilist.co/anime/3455) (09:41, 14 February 2023)
--   📺 Watched episode 1 - 8 of [KONOSUBA -God's blessing on this wonderful world!](https://anilist.co/anime/21202) (08:48, 14 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
