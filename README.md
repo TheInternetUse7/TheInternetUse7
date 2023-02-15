@@ -25,7 +25,7 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 13 of [To Your Eternity Season 2](https://anilist.co/anime/138565) (07:08, 15 February 2023)
+-   📺 Watched episode 1 - 14 of [To Your Eternity Season 2](https://anilist.co/anime/138565) (07:35, 15 February 2023)
 -   📖 Read chapter 88 - 132 of [Girlfriend, Girlfriend](https://anilist.co/manga/116266) (06:26, 15 February 2023)
 -   📖 Read chapter 1 - 99 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (06:17, 15 February 2023)
 -   📖 Read chapter 1001 - 3055 of [Martial Peak](https://anilist.co/manga/104494) (06:00, 15 February 2023)
