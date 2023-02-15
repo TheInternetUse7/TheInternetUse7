@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [The Eminence in Shadow](https://anilist.co/anime/130298) (17:06, 15 February 2023)
 -   📺 Rewatched 12 of [Yosuga no Sora: In Solitude Where We are Least Alone](https://anilist.co/anime/8861) (16:13, 15 February 2023)
 -   📺 Watched episode 1 - 5 of [The Reincarnation of the Strongest Exorcist in Another World](https://anilist.co/anime/144553) (10:25, 15 February 2023)
 -   📺 Watched episode 1 - 16 of [To Your Eternity Season 2](https://anilist.co/anime/138565) (08:59, 15 February 2023)
 -   📖 Read chapter 88 - 132 of [Girlfriend, Girlfriend](https://anilist.co/manga/116266) (06:26, 15 February 2023)
--   📖 Read chapter 1 - 99 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (06:17, 15 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
