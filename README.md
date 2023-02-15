@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1001 - 3055 of [Martial Peak](https://anilist.co/manga/104494) (06:00, 15 February 2023)
 -   📺 Watched episode 1 - 12 of [To Your Eternity Season 2](https://anilist.co/anime/138565) (20:40, 14 February 2023)
 -   📺 Completed [KONOSUBA -God's blessing on this wonderful world!: God's Blessings On This Wonderful Choker!](https://anilist.co/anime/21574) (18:07, 14 February 2023)
 -   📺 Plans to watch [KONOSUBA -God's blessing on this wonderful world!: God's Blessings On This Wonderful Choker!](https://anilist.co/anime/21574) (17:59, 14 February 2023)
 -   📺 Completed [KONOSUBA -God's blessing on this wonderful world!](https://anilist.co/anime/21202) (17:36, 14 February 2023)
--   📺 Watched episode 1 - 9 of [KONOSUBA -God's blessing on this wonderful world!](https://anilist.co/anime/21202) (17:11, 14 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
