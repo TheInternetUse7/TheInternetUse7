@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 14 of [To Love Ru](https://anilist.co/anime/3455) (17:33, 16 February 2023)
 -   📺 Plans to watch [Kanojo, Okarishimasu 3rd Season](https://anilist.co/anime/154745) (16:31, 16 February 2023)
 -   📖 Paused reading [Jungle Juice](https://anilist.co/manga/128882) (13:58, 16 February 2023)
 -   📖 Plans to read [Kaguhara-san no Fetish Note](https://anilist.co/manga/141152) (13:57, 16 February 2023)
 -   📖 Read chapter 179 - 185 of [Solo Leveling](https://anilist.co/manga/105398) (10:49, 16 February 2023)
--   📖 Read chapter 1 - 157 of [The Archmage Returns After 4000 Years](https://anilist.co/manga/118424) (10:49, 16 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
