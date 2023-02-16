@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1001 - 3059 of [Martial Peak](https://anilist.co/manga/104494) (21:44, 16 February 2023)
+-   📺 Completed [Eromanga Sensei OVA](https://anilist.co/anime/100523) (21:30, 16 February 2023)
+-   📺 Plans to watch [Eromanga Sensei OVA](https://anilist.co/anime/100523) (21:27, 16 February 2023)
 -   📖 Read chapter 1 - 56 of [Sex Study Group](https://anilist.co/manga/145493) (20:41, 16 February 2023)
 -   📺 Watched episode 1 - 16 of [To Love Ru](https://anilist.co/anime/3455) (19:39, 16 February 2023)
--   📺 Plans to watch [Kanojo, Okarishimasu 3rd Season](https://anilist.co/anime/154745) (16:31, 16 February 2023)
--   📖 Paused reading [Jungle Juice](https://anilist.co/manga/128882) (13:58, 16 February 2023)
--   📖 Plans to read [Kaguhara-san no Fetish Note](https://anilist.co/manga/141152) (13:57, 16 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
