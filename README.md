@@ -25,7 +25,7 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 15 of [To Love Ru](https://anilist.co/anime/3455) (18:36, 16 February 2023)
+-   📺 Watched episode 1 - 16 of [To Love Ru](https://anilist.co/anime/3455) (19:39, 16 February 2023)
 -   📺 Plans to watch [Kanojo, Okarishimasu 3rd Season](https://anilist.co/anime/154745) (16:31, 16 February 2023)
 -   📖 Paused reading [Jungle Juice](https://anilist.co/manga/128882) (13:58, 16 February 2023)
 -   📖 Plans to read [Kaguhara-san no Fetish Note](https://anilist.co/manga/141152) (13:57, 16 February 2023)
