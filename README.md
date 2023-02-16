@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Paused reading [Jungle Juice](https://anilist.co/manga/128882) (13:58, 16 February 2023)
+-   📖 Plans to read [Kaguhara-san no Fetish Note](https://anilist.co/manga/141152) (13:57, 16 February 2023)
 -   📖 Read chapter 179 - 185 of [Solo Leveling](https://anilist.co/manga/105398) (10:49, 16 February 2023)
 -   📖 Read chapter 1 - 157 of [The Archmage Returns After 4000 Years](https://anilist.co/manga/118424) (10:49, 16 February 2023)
 -   📖 Read chapter 87 - 215 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (10:49, 16 February 2023)
--   📖 Read chapter 1001 - 3057 of [Martial Peak](https://anilist.co/manga/104494) (20:02, 15 February 2023)
--   📺 Completed [The Eminence in Shadow](https://anilist.co/anime/130298) (17:06, 15 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
