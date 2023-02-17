@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 3 of [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (05:12, 17 February 2023)
 -   📖 Read chapter 1001 - 3059 of [Martial Peak](https://anilist.co/manga/104494) (21:44, 16 February 2023)
 -   📺 Completed [Eromanga Sensei OVA](https://anilist.co/anime/100523) (21:30, 16 February 2023)
 -   📺 Plans to watch [Eromanga Sensei OVA](https://anilist.co/anime/100523) (21:27, 16 February 2023)
 -   📖 Read chapter 1 - 56 of [Sex Study Group](https://anilist.co/manga/145493) (20:41, 16 February 2023)
--   📺 Watched episode 1 - 16 of [To Love Ru](https://anilist.co/anime/3455) (19:39, 16 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
