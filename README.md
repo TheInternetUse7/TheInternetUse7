@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 2 of [Mushoku Tensei: Jobless Reincarnation](https://anilist.co/anime/108465) (17:29, 17 February 2023)
--   📺 Watched episode 1 - 3 of [My Life as Inukai-san’s Dog](https://anilist.co/anime/146346) (11:38, 17 February 2023)
+-   📺 Watched episode 1 - 17 of [To Love Ru](https://anilist.co/anime/3455) (19:43, 17 February 2023)
+-   📺 Watched episode 1 - 4 of [My Life as Inukai-san’s Dog](https://anilist.co/anime/146346) (19:43, 17 February 2023)
+-   📺 Watched episode 1 - 3 of [Mushoku Tensei: Jobless Reincarnation](https://anilist.co/anime/108465) (19:43, 17 February 2023)
 -   📺 Completed [Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train](https://anilist.co/anime/112151) (09:08, 17 February 2023)
 -   📺 Watched episode 1 - 3 of [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (05:12, 17 February 2023)
--   📖 Read chapter 1001 - 3059 of [Martial Peak](https://anilist.co/manga/104494) (21:44, 16 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
