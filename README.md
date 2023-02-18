@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 7 of [My Life as Inukai-san’s Dog](https://anilist.co/anime/146346) (04:49, 18 February 2023)
+-   📖 Read chapter 1 - 15 of [DRAMA QUEENS](https://anilist.co/manga/131769) (04:05, 18 February 2023)
+-   📖 Read chapter 25 - 32 of [I Guess I Became the Mother of the Great Demon King's 10 Children in Another World](https://anilist.co/manga/109235) (04:05, 18 February 2023)
 -   📖 Read chapter 134 - 173 of [One-Punch Man](https://anilist.co/manga/74347) (03:10, 18 February 2023)
 -   📖 Read chapter 1001 - 3063 of [Martial Peak](https://anilist.co/manga/104494) (03:07, 18 February 2023)
--   📖 Read chapter 1 - 3 of [Yuusha ni Zenbu Ubawareta Ore wa Yuusha no Hahaoya to Party wo Kumimashita!](https://anilist.co/manga/159187) (03:07, 18 February 2023)
--   📺 Watched episode 1 - 17 of [To Love Ru](https://anilist.co/anime/3455) (19:43, 17 February 2023)
--   📺 Watched episode 1 - 4 of [My Life as Inukai-san’s Dog](https://anilist.co/anime/146346) (19:43, 17 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
