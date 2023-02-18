@@ -25,7 +25,7 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 7 of [Mushoku Tensei: Jobless Reincarnation](https://anilist.co/anime/108465) (15:59, 18 February 2023)
+-   📺 Watched episode 1 - 8 of [Mushoku Tensei: Jobless Reincarnation](https://anilist.co/anime/108465) (16:29, 18 February 2023)
 -   📖 Read chapter 134 - 179 of [One-Punch Man](https://anilist.co/manga/74347) (15:39, 18 February 2023)
 -   📖 Read chapter 307 - 432 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (09:38, 18 February 2023)
 -   📖 Read chapter 1001 - 3064 of [Martial Peak](https://anilist.co/manga/104494) (07:30, 18 February 2023)
