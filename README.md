@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Mushoku Tensei: Jobless Reincarnation](https://anilist.co/anime/108465) (11:04, 19 February 2023)
 -   📺 Watched episode 1 - 10 of [Mushoku Tensei: Jobless Reincarnation](https://anilist.co/anime/108465) (09:37, 19 February 2023)
 -   📺 Watched episode 1 - 2 of [Ya Boy Kongming!](https://anilist.co/anime/141774) (20:18, 18 February 2023)
 -   📖 Read chapter 134 - 179 of [One-Punch Man](https://anilist.co/manga/74347) (15:39, 18 February 2023)
 -   📖 Read chapter 307 - 432 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (09:38, 18 February 2023)
--   📖 Read chapter 1001 - 3064 of [Martial Peak](https://anilist.co/manga/104494) (07:30, 18 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
