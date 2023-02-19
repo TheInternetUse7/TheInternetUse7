@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1001 - 3066 of [Martial Peak](https://anilist.co/manga/104494) (19:29, 19 February 2023)
 -   📺 Watched episode 1 - 18 of [Urusei Yatsura (2022)](https://anilist.co/anime/143277) (18:36, 19 February 2023)
 -   📺 Watched episode 1 - 19 of [To Love Ru](https://anilist.co/anime/3455) (14:18, 19 February 2023)
 -   📺 Watched episode 1 - 19 of [BLUELOCK](https://anilist.co/anime/137822) (13:38, 19 February 2023)
 -   📺 Completed [Mushoku Tensei: Jobless Reincarnation](https://anilist.co/anime/108465) (11:04, 19 February 2023)
--   📺 Watched episode 1 - 10 of [Mushoku Tensei: Jobless Reincarnation](https://anilist.co/anime/108465) (09:37, 19 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
