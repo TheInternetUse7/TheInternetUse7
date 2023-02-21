@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Mob Psycho 100](https://anilist.co/anime/21507) (23:24, 20 February 2023)
+-   📺 Plans to watch [Mob Psycho 100](https://anilist.co/anime/21507) (23:23, 20 February 2023)
 -   📺 Watched episode 1 - 20 of [To Love Ru](https://anilist.co/anime/3455) (16:43, 20 February 2023)
 -   📖 Read chapter 1001 - 3070 of [Martial Peak](https://anilist.co/manga/104494) (15:45, 20 February 2023)
 -   📖 Read chapter 4 - 101 of [Dripping Wet](https://anilist.co/manga/133057) (07:02, 20 February 2023)
--   📖 Read chapter 1 - 54 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (06:57, 20 February 2023)
--   📺 Watched episode 1 - 18 of [Urusei Yatsura (2022)](https://anilist.co/anime/143277) (18:36, 19 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
