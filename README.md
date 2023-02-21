@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1001 - 3074 of [Martial Peak](https://anilist.co/manga/104494) (19:05, 21 February 2023)
 -   📖 Read chapter 1 - 234 of [Eleceed](https://anilist.co/manga/106929) (17:57, 21 February 2023)
 -   📺 Plans to watch [In The Beginning: The Bible Stories](https://anilist.co/anime/2282) (09:18, 21 February 2023)
 -   📺 Completed [Mob Psycho 100](https://anilist.co/anime/21507) (23:24, 20 February 2023)
 -   📺 Plans to watch [Mob Psycho 100](https://anilist.co/anime/21507) (23:23, 20 February 2023)
--   📺 Watched episode 1 - 20 of [To Love Ru](https://anilist.co/anime/3455) (16:43, 20 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
