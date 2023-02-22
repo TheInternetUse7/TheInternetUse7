@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 7 of [The Reincarnation of the Strongest Exorcist in Another World](https://anilist.co/anime/144553) (10:46, 22 February 2023)
 -   📖 Read chapter 23 - 39 of [Childhood Friend](https://anilist.co/manga/151890) (07:22, 22 February 2023)
 -   📖 Read chapter 1001 - 3074 of [Martial Peak](https://anilist.co/manga/104494) (19:05, 21 February 2023)
 -   📖 Read chapter 1 - 234 of [Eleceed](https://anilist.co/manga/106929) (17:57, 21 February 2023)
 -   📺 Plans to watch [In The Beginning: The Bible Stories](https://anilist.co/anime/2282) (09:18, 21 February 2023)
--   📺 Completed [Mob Psycho 100](https://anilist.co/anime/21507) (23:24, 20 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
