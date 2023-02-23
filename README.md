@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1001 - 3079 of [Martial Peak](https://anilist.co/manga/104494) (15:13, 23 February 2023)
+-   📖 Read chapter 179 - 186 of [Solo Leveling](https://anilist.co/manga/105398) (15:10, 23 February 2023)
+-   📺 Plans to watch [Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs](https://anilist.co/anime/142074) (14:56, 23 February 2023)
 -   📺 Plans to watch [Kage no Jitsuryokusha ni Naritakute! 2nd Season](https://anilist.co/anime/161964) (17:54, 22 February 2023)
 -   📺 Watched episode 1 - 7 of [The Reincarnation of the Strongest Exorcist in Another World](https://anilist.co/anime/144553) (10:46, 22 February 2023)
--   📖 Read chapter 23 - 39 of [Childhood Friend](https://anilist.co/manga/151890) (07:22, 22 February 2023)
--   📖 Read chapter 1001 - 3074 of [Martial Peak](https://anilist.co/manga/104494) (19:05, 21 February 2023)
--   📖 Read chapter 1 - 234 of [Eleceed](https://anilist.co/manga/106929) (17:57, 21 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
