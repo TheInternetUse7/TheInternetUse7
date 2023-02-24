@@ -25,7 +25,7 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1001 - 3079 of [Martial Peak](https://anilist.co/manga/104494) (15:13, 23 February 2023)
+-   📖 Read chapter 1001 - 3080 of [Martial Peak](https://anilist.co/manga/104494) (14:08, 24 February 2023)
 -   📖 Read chapter 179 - 186 of [Solo Leveling](https://anilist.co/manga/105398) (15:10, 23 February 2023)
 -   📺 Plans to watch [Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs](https://anilist.co/anime/142074) (14:56, 23 February 2023)
 -   📺 Plans to watch [Kage no Jitsuryokusha ni Naritakute! 2nd Season](https://anilist.co/anime/161964) (17:54, 22 February 2023)
