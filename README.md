@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 49 - 82 of [Landlord Sisters](https://anilist.co/manga/138564) (20:51, 25 February 2023)
+-   📖 Read chapter 1 - 57 of [Sex Study Group](https://anilist.co/manga/145493) (20:48, 25 February 2023)
+-   📺 Watched episode 1 of [Boarding School Juliet](https://anilist.co/anime/101310) (20:28, 25 February 2023)
+-   📖 Read chapter 23 - 40 of [Childhood Friend](https://anilist.co/manga/151890) (20:27, 25 February 2023)
 -   📺 Plans to watch [Boarding School Juliet](https://anilist.co/anime/101310) (19:34, 25 February 2023)
--   📖 Read chapter 88 - 133 of [Girlfriend, Girlfriend](https://anilist.co/manga/116266) (18:05, 25 February 2023)
--   📖 Read chapter 1001 - 3087 of [Martial Peak](https://anilist.co/manga/104494) (17:36, 25 February 2023)
--   📖 Read chapter 179 - 186 of [Solo Leveling](https://anilist.co/manga/105398) (15:10, 23 February 2023)
--   📺 Plans to watch [Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs](https://anilist.co/anime/142074) (14:56, 23 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
