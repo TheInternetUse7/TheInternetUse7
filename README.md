@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 of [Issho ni Kurashite Ii desu ka?](https://anilist.co/manga/159549) (17:05, 26 February 2023)
 -   📖 Plans to read [Issho ni Kurashite Ii desu ka?](https://anilist.co/manga/159549) (04:28, 26 February 2023)
 -   📖 Read chapter 49 - 82 of [Landlord Sisters](https://anilist.co/manga/138564) (20:51, 25 February 2023)
 -   📖 Read chapter 1 - 57 of [Sex Study Group](https://anilist.co/manga/145493) (20:48, 25 February 2023)
 -   📺 Watched episode 1 of [Boarding School Juliet](https://anilist.co/anime/101310) (20:28, 25 February 2023)
--   📖 Read chapter 23 - 40 of [Childhood Friend](https://anilist.co/manga/151890) (20:27, 25 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
