@@ -25,7 +25,7 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1001 - 3089 of [Martial Peak](https://anilist.co/manga/104494) (11:08, 27 February 2023)
+-   📖 Read chapter 1001 - 3092 of [Martial Peak](https://anilist.co/manga/104494) (11:30, 27 February 2023)
 -   📺 Watched episode 1 - 2 of [The Misfit of Demon King Academy Ⅱ: History's Strongest Demon King Reincarnates and Goes to School with His Descendants](https://anilist.co/anime/130588) (07:01, 27 February 2023)
 -   📖 Read chapter 1 of [Issho ni Kurashite Ii desu ka?](https://anilist.co/manga/159549) (17:05, 26 February 2023)
 -   📖 Plans to read [Issho ni Kurashite Ii desu ka?](https://anilist.co/manga/159549) (04:28, 26 February 2023)
