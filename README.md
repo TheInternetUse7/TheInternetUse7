@@ -25,7 +25,7 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1001 - 3100 of [Martial Peak](https://anilist.co/manga/104494) (14:54, 02 March 2023)
+-   📖 Read chapter 1001 - 3102 of [Martial Peak](https://anilist.co/manga/104494) (15:50, 02 March 2023)
 -   📖 Read chapter 179 - 187 of [Solo Leveling](https://anilist.co/manga/105398) (11:47, 02 March 2023)
 -   📖 Read chapter 88 - 134 of [Girlfriend, Girlfriend](https://anilist.co/manga/116266) (11:29, 02 March 2023)
 -   📺 Watched episode 1 - 19 of [Urusei Yatsura (2022)](https://anilist.co/anime/143277) (04:59, 02 March 2023)
