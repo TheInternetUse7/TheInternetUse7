@@ -25,8 +25,8 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 7 of [Mushoku Tensei: Jobless Reincarnation Cour 2](https://anilist.co/anime/127720) (17:39, 03 March 2023)
 -   📺 Plans to watch [Charlotte](https://anilist.co/anime/20997) (16:44, 03 March 2023)
--   📺 Watched episode 1 - 4 of [Mushoku Tensei: Jobless Reincarnation Cour 2](https://anilist.co/anime/127720) (11:53, 03 March 2023)
 -   📖 Completed [Zettai ni Bad End wo Mukaeru Hanashi](https://anilist.co/manga/161650) (05:18, 03 March 2023)
 -   📖 Read chapter 1 - 6 of [Zettai ni Bad End wo Mukaeru Hanashi](https://anilist.co/manga/161650) (05:18, 03 March 2023)
 -   📖 Plans to read [Zettai ni Bad End wo Mukaeru Hanashi](https://anilist.co/manga/161650) (04:56, 03 March 2023)
