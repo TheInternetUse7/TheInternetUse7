@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Boys Be...](https://anilist.co/anime/105) (15:51, 04 March 2023)
 -   📖 Read chapter 1 - 2 of [JK Haru is a Sex Worker in Another World](https://anilist.co/manga/110175) (11:11, 04 March 2023)
 -   📖 Read chapter 339 - 381 of [My Hero Academia](https://anilist.co/manga/85486) (10:36, 04 March 2023)
 -   📖 Read chapter 1001 - 3106 of [Martial Peak](https://anilist.co/manga/104494) (10:24, 04 March 2023)
 -   📺 Watched episode 1 - 11 of [Mushoku Tensei: Jobless Reincarnation Cour 2](https://anilist.co/anime/127720) (09:23, 04 March 2023)
--   📺 Plans to watch [Charlotte](https://anilist.co/anime/20997) (16:44, 03 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
