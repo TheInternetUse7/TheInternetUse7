@@ -25,8 +25,8 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1001 - 3103 of [Martial Peak](https://anilist.co/manga/104494) (07:08, 04 March 2023)
--   📺 Watched episode 1 - 7 of [Mushoku Tensei: Jobless Reincarnation Cour 2](https://anilist.co/anime/127720) (17:39, 03 March 2023)
+-   📺 Watched episode 1 - 10 of [Mushoku Tensei: Jobless Reincarnation Cour 2](https://anilist.co/anime/127720) (08:14, 04 March 2023)
+-   📖 Read chapter 1001 - 3105 of [Martial Peak](https://anilist.co/manga/104494) (07:24, 04 March 2023)
 -   📺 Plans to watch [Charlotte](https://anilist.co/anime/20997) (16:44, 03 March 2023)
 -   📖 Completed [Zettai ni Bad End wo Mukaeru Hanashi](https://anilist.co/manga/161650) (05:18, 03 March 2023)
 -   📖 Read chapter 1 - 6 of [Zettai ni Bad End wo Mukaeru Hanashi](https://anilist.co/manga/161650) (05:18, 03 March 2023)
