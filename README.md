@@ -25,7 +25,7 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 8 of [The Eminence in Shadow](https://anilist.co/manga/106758) (08:38, 06 March 2023)
+-   📖 Read chapter 1 - 11 of [The Eminence in Shadow](https://anilist.co/manga/106758) (10:13, 06 March 2023)
 -   📖 Read chapter 1001 - 3113 of [Martial Peak](https://anilist.co/manga/104494) (08:03, 06 March 2023)
 -   📖 Plans to read [The Eminence in Shadow](https://anilist.co/manga/106758) (13:13, 05 March 2023)
 -   📺 Plans to watch [Rec](https://anilist.co/anime/710) (21:34, 04 March 2023)
