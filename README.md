@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [Pandemonium](https://anilist.co/manga/87334) (18:36, 06 March 2023)
 -   📖 Read chapter 1 - 15 of [The Eminence in Shadow](https://anilist.co/manga/106758) (18:05, 06 March 2023)
 -   📖 Read chapter 1001 - 3113 of [Martial Peak](https://anilist.co/manga/104494) (08:03, 06 March 2023)
 -   📖 Plans to read [The Eminence in Shadow](https://anilist.co/manga/106758) (13:13, 05 March 2023)
 -   📺 Plans to watch [Rec](https://anilist.co/anime/710) (21:34, 04 March 2023)
--   📺 Completed [Mushoku Tensei: Jobless Reincarnation Cour 2 - Eris the Goblin Slayer](https://anilist.co/anime/141534) (16:50, 04 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
