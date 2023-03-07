@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 18 of [The Eminence in Shadow](https://anilist.co/manga/106758) (19:40, 07 March 2023)
 -   📖 Read chapter 1001 - 3116 of [Martial Peak](https://anilist.co/manga/104494) (06:28, 07 March 2023)
 -   📖 Read chapter 25 - 33 of [I Guess I Became the Mother of the Great Demon King's 10 Children in Another World](https://anilist.co/manga/109235) (05:17, 07 March 2023)
 -   📖 Read chapter 339 - 382 of [My Hero Academia](https://anilist.co/manga/85486) (05:12, 07 March 2023)
 -   📖 Read chapter 1 - 5 of [Ore no Koto ga Daikirai na Imouto ga Kowai](https://anilist.co/manga/159020) (05:00, 07 March 2023)
--   📖 Read chapter 1 - 102 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (04:59, 07 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
