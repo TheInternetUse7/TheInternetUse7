@@ -25,8 +25,8 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 22 of [The Eminence in Shadow](https://anilist.co/manga/106758) (18:45, 08 March 2023)
 -   📺 Watched episode 1 - 21 of [BLUELOCK](https://anilist.co/anime/137822) (17:40, 08 March 2023)
--   📖 Read chapter 1 - 20 of [The Eminence in Shadow](https://anilist.co/manga/106758) (04:15, 08 March 2023)
 -   📖 Read chapter 1 - 3 of [JK Haru is a Sex Worker in Another World](https://anilist.co/manga/110175) (03:54, 08 March 2023)
 -   📺 Plans to watch [Kimi ga Suki.: THE ANIMATION](https://anilist.co/anime/125516) (03:10, 08 March 2023)
 -   📺 Plans to watch [Melting Juice Lolis' Spa Services: Let us do Slurp-Slurp-Melting Care!](https://anilist.co/anime/125425) (03:10, 08 March 2023)
