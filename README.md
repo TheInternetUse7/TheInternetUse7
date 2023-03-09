@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1001 - 3118 of [Martial Peak](https://anilist.co/manga/104494) (07:06, 09 March 2023)
+-   📖 Read chapter 88 - 135 of [Girlfriend, Girlfriend](https://anilist.co/manga/116266) (06:36, 09 March 2023)
+-   📖 Read chapter 1 - 6 of [Ore no Koto ga Daikirai na Imouto ga Kowai](https://anilist.co/manga/159020) (06:31, 09 March 2023)
 -   📺 Watched episode 1 - 18 of [To Your Eternity Season 2](https://anilist.co/anime/138565) (04:18, 09 March 2023)
 -   📺 Watched episode 1 - 5 of [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (03:45, 09 March 2023)
--   📖 Plans to read [HUNTING MOMS](https://anilist.co/manga/133027) (03:02, 09 March 2023)
--   📺 Plans to watch [Kiznaiver](https://anilist.co/anime/21421) (03:00, 09 March 2023)
--   📖 Read chapter 1 - 22 of [The Eminence in Shadow](https://anilist.co/manga/106758) (18:45, 08 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
