@@ -25,7 +25,7 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 4 of [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (03:04, 09 March 2023)
+-   📺 Watched episode 1 - 5 of [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (03:45, 09 March 2023)
 -   📖 Plans to read [HUNTING MOMS](https://anilist.co/manga/133027) (03:02, 09 March 2023)
 -   📺 Plans to watch [Kiznaiver](https://anilist.co/anime/21421) (03:00, 09 March 2023)
 -   📖 Read chapter 1 - 22 of [The Eminence in Shadow](https://anilist.co/manga/106758) (18:45, 08 March 2023)
