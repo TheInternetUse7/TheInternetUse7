@@ -25,7 +25,7 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 34 of [The Eminence in Shadow](https://anilist.co/manga/106758) (10:53, 11 March 2023)
+-   📖 Read chapter 1 - 38 of [The Eminence in Shadow](https://anilist.co/manga/106758) (11:38, 11 March 2023)
 -   📖 Read chapter 1001 - 3126 of [Martial Peak](https://anilist.co/manga/104494) (16:37, 10 March 2023)
 -   📖 Read chapter 1 - 169 of [Overgeared](https://anilist.co/manga/117460) (15:46, 10 March 2023)
 -   📖 Read chapter 88 - 135 of [Girlfriend, Girlfriend](https://anilist.co/manga/116266) (06:36, 09 March 2023)
