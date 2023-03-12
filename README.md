@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1001 - 3129 of [Martial Peak](https://anilist.co/manga/104494) (16:13, 12 March 2023)
+-   📖 Read chapter 134 - 181 of [One-Punch Man](https://anilist.co/manga/74347) (15:34, 12 March 2023)
 -   📺 Plans to watch [Dr. STONE: NEW WORLD Part 2](https://anilist.co/anime/162670) (12:56, 12 March 2023)
 -   📺 Plans to watch [Fumetsu no Anata e Season 3](https://anilist.co/anime/162669) (12:56, 12 March 2023)
 -   📺 Watched episode 1 - 20 of [Urusei Yatsura (2022)](https://anilist.co/anime/143277) (05:36, 12 March 2023)
--   📖 Read chapter 1 - 50 of [The Eminence in Shadow](https://anilist.co/manga/106758) (04:25, 12 March 2023)
--   📺 Watched episode 1 - 6 of [Ya Boy Kongming!](https://anilist.co/anime/141774) (18:31, 11 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
