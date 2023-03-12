@@ -25,7 +25,7 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1001 - 3129 of [Martial Peak](https://anilist.co/manga/104494) (16:13, 12 March 2023)
+-   📖 Read chapter 1001 - 3132 of [Martial Peak](https://anilist.co/manga/104494) (16:21, 12 March 2023)
 -   📖 Read chapter 134 - 181 of [One-Punch Man](https://anilist.co/manga/74347) (15:34, 12 March 2023)
 -   📺 Plans to watch [Dr. STONE: NEW WORLD Part 2](https://anilist.co/anime/162670) (12:56, 12 March 2023)
 -   📺 Plans to watch [Fumetsu no Anata e Season 3](https://anilist.co/anime/162669) (12:56, 12 March 2023)
