@@ -25,7 +25,7 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 48 of [The Eminence in Shadow](https://anilist.co/manga/106758) (04:05, 12 March 2023)
+-   📖 Read chapter 1 - 50 of [The Eminence in Shadow](https://anilist.co/manga/106758) (04:25, 12 March 2023)
 -   📺 Watched episode 1 - 6 of [Ya Boy Kongming!](https://anilist.co/anime/141774) (18:31, 11 March 2023)
 -   📖 Read chapter 1001 - 3126 of [Martial Peak](https://anilist.co/manga/104494) (16:37, 10 March 2023)
 -   📖 Read chapter 1 - 169 of [Overgeared](https://anilist.co/manga/117460) (15:46, 10 March 2023)
