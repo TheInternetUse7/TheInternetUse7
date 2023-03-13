@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [To Your Eternity Season 2](https://anilist.co/anime/138565) (14:32, 13 March 2023)
 -   📺 Watched episode 1 - 19 of [To Your Eternity Season 2](https://anilist.co/anime/138565) (13:58, 13 March 2023)
 -   📖 Read chapter 1001 - 3132 of [Martial Peak](https://anilist.co/manga/104494) (16:21, 12 March 2023)
 -   📖 Read chapter 134 - 181 of [One-Punch Man](https://anilist.co/manga/74347) (15:34, 12 March 2023)
 -   📺 Plans to watch [Dr. STONE: NEW WORLD Part 2](https://anilist.co/anime/162670) (12:56, 12 March 2023)
--   📺 Plans to watch [Fumetsu no Anata e Season 3](https://anilist.co/anime/162669) (12:56, 12 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
