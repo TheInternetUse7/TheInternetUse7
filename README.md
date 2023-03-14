@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 21 of [Urusei Yatsura (2022)](https://anilist.co/anime/143277) (07:21, 14 March 2023)
 -   📖 Plans to read [I Think I Turned My Childhood Friend Into a Girl](https://anilist.co/manga/114898) (04:02, 14 March 2023)
 -   📖 Plans to read [World's End Harem](https://anilist.co/manga/87260) (03:49, 14 March 2023)
 -   📖 Plans to read [Engineering Beauties](https://anilist.co/manga/144630) (03:48, 14 March 2023)
 -   📖 Read chapter 1001 - 3135 of [Martial Peak](https://anilist.co/manga/104494) (03:44, 14 March 2023)
--   📖 Read chapter 98 - 124 of [Don't Toy With Me, Miss Nagatoro](https://anilist.co/manga/100664) (03:36, 14 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
