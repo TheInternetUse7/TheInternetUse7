@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Plans to watch [Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo](https://anilist.co/anime/162694) (16:24, 13 March 2023)
--   📺 Completed [To Your Eternity Season 2](https://anilist.co/anime/138565) (14:32, 13 March 2023)
--   📺 Watched episode 1 - 19 of [To Your Eternity Season 2](https://anilist.co/anime/138565) (13:58, 13 March 2023)
--   📖 Read chapter 1001 - 3132 of [Martial Peak](https://anilist.co/manga/104494) (16:21, 12 March 2023)
--   📖 Read chapter 134 - 181 of [One-Punch Man](https://anilist.co/manga/74347) (15:34, 12 March 2023)
+-   📖 Plans to read [I Think I Turned My Childhood Friend Into a Girl](https://anilist.co/manga/114898) (04:02, 14 March 2023)
+-   📖 Plans to read [World's End Harem](https://anilist.co/manga/87260) (03:49, 14 March 2023)
+-   📖 Plans to read [Engineering Beauties](https://anilist.co/manga/144630) (03:48, 14 March 2023)
+-   📖 Read chapter 1001 - 3135 of [Martial Peak](https://anilist.co/manga/104494) (03:44, 14 March 2023)
+-   📖 Read chapter 98 - 124 of [Don't Toy With Me, Miss Nagatoro](https://anilist.co/manga/100664) (03:36, 14 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
