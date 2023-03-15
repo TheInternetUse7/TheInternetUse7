@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1001 - 3141 of [Martial Peak](https://anilist.co/manga/104494) (19:37, 15 March 2023)
 -   📖 Read chapter 88 - 136 of [Girlfriend, Girlfriend](https://anilist.co/manga/116266) (18:00, 15 March 2023)
 -   📖 Read chapter 179 - 189 of [Solo Leveling](https://anilist.co/manga/105398) (17:57, 15 March 2023)
 -   📺 Watched episode 1 - 21 of [To Love Ru](https://anilist.co/anime/3455) (00:52, 15 March 2023)
 -   📖 Read chapter 1 - 5 of [Saotome Shimai wa Manga no Tame Nara!?](https://anilist.co/manga/103621) (19:18, 14 March 2023)
--   📖 Read chapter 1001 - 3138 of [Martial Peak](https://anilist.co/manga/104494) (18:25, 14 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
