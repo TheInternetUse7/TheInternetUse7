@@ -38,6 +38,6 @@ join my server it's open for all <br>
 
 [![AniList Banner](https://img.anili.st/User/929966)](https://anilist.co/user/TheInternetUser)
 
-![Profile views](https://gpvc.arturio.dev/TheInternetUse7) Since 2023/9/1
+![Profile views](https://gpvc.arturio.dev/TheInternetUse7) Since 2023-01-09
 
 </div>
