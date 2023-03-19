@@ -25,9 +25,9 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1001 - 3150 of [Martial Peak](https://anilist.co/manga/104494) (16:33, 18 March 2023)
+-   📖 Read chapter 1 - 15 of [Saotome Shimai wa Manga no Tame Nara!?](https://anilist.co/manga/103621) (10:42, 19 March 2023)
+-   📖 Read chapter 1001 - 3152 of [Martial Peak](https://anilist.co/manga/104494) (10:26, 19 March 2023)
 -   📖 Read chapter 1 - 4 of [Yuusha ni Zenbu Ubawareta Ore wa Yuusha no Hahaoya to Party wo Kumimashita!](https://anilist.co/manga/159187) (17:56, 17 March 2023)
--   📖 Read chapter 1 - 12 of [Saotome Shimai wa Manga no Tame Nara!?](https://anilist.co/manga/103621) (20:05, 16 March 2023)
 -   📺 Watched episode 1 - 22 of [Urusei Yatsura (2022)](https://anilist.co/anime/143277) (19:46, 16 March 2023)
 -   📺 Plans to watch [Shishunki no Obenkyou](https://anilist.co/anime/134469) (19:18, 16 March 2023)
 
