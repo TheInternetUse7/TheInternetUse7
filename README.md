@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 88 - 137 of [Girlfriend, Girlfriend](https://anilist.co/manga/116266) (17:15, 22 March 2023)
+-   📖 Read chapter 1 - 6 of [Isekai Danyuu: Shiru Danyuu ga Isekai Tensei Shite Ero Chishiki Full Katsuyou de Musou Danyuu ni Naru Hanashi](https://anilist.co/manga/156621) (17:13, 22 March 2023)
 -   📖 Read chapter 1 - 238 of [Eleceed](https://anilist.co/manga/106929) (17:06, 22 March 2023)
 -   📖 Read chapter 1001 - 3159 of [Martial Peak](https://anilist.co/manga/104494) (17:58, 21 March 2023)
 -   📖 Read chapter 1 - 30 of [Saotome Shimai wa Manga no Tame Nara!?](https://anilist.co/manga/103621) (14:03, 21 March 2023)
--   📖 Read chapter 1 - 103 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (12:42, 20 March 2023)
--   📺 Watched episode 1 - 8 of [Ya Boy Kongming!](https://anilist.co/anime/141774) (09:17, 20 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
