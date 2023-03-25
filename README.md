@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 39 of [Saotome Shimai wa Manga no Tame Nara!?](https://anilist.co/manga/103621) (22:52, 24 March 2023)
+-   📺 Plans to watch [Horimiya -piece- ](https://anilist.co/anime/163132) (08:55, 25 March 2023)
+-   📖 Read chapter 1 - 42 of [Saotome Shimai wa Manga no Tame Nara!?](https://anilist.co/manga/103621) (08:39, 25 March 2023)
 -   📖 Plans to read [Domestic na Kanojo: Koushiki Usui Hon](https://anilist.co/manga/163094) (17:03, 24 March 2023)
 -   📖 Read chapter 1001 - 3166 of [Martial Peak](https://anilist.co/manga/104494) (19:04, 23 March 2023)
 -   📖 Read chapter 1 - 7 of [Ore no Koto ga Daikirai na Imouto ga Kowai](https://anilist.co/manga/159020) (18:51, 22 March 2023)
--   📖 Read chapter 88 - 137 of [Girlfriend, Girlfriend](https://anilist.co/manga/116266) (17:15, 22 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
