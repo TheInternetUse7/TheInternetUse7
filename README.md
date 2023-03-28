@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 46 of [Saotome Shimai wa Manga no Tame Nara!?](https://anilist.co/manga/103621) (21:40, 27 March 2023)
+-   📖 Read chapter 1 - 47 of [Saotome Shimai wa Manga no Tame Nara!?](https://anilist.co/manga/103621) (23:16, 27 March 2023)
+-   📖 Read chapter 98 - 125 of [Don't Toy With Me, Miss Nagatoro](https://anilist.co/manga/100664) (23:12, 27 March 2023)
 -   📖 Read chapter 1001 - 3178 of [Martial Peak](https://anilist.co/manga/104494) (21:24, 27 March 2023)
 -   📖 Read chapter 1 - 104 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (21:16, 27 March 2023)
 -   📖 Plans to read [Free Oppai](https://anilist.co/manga/133569) (16:57, 27 March 2023)
--   📖 Read chapter 1 - 170 of [Overgeared](https://anilist.co/manga/117460) (22:56, 26 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
