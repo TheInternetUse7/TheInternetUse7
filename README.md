@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [WIND BREAKER](https://anilist.co/anime/163270) (15:32, 30 March 2023)
 -   📺 Plans to watch [THE MARGINAL SERVICE](https://anilist.co/anime/156854) (04:00, 30 March 2023)
 -   📺 Plans to watch [My One-Hit Kill Sister](https://anilist.co/anime/146234) (03:53, 30 March 2023)
 -   📺 Plans to watch [KONOSUBA - An Explosion on This Wonderful World!](https://anilist.co/anime/150075) (03:51, 30 March 2023)
 -   📺 Plans to watch [Oshi No Ko](https://anilist.co/anime/150672) (03:51, 30 March 2023)
--   📺 Watched episode 1 - 3 of [Lookism](https://anilist.co/anime/158539) (03:48, 30 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
