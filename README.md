@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 48 of [Saotome Shimai wa Manga no Tame Nara!?](https://anilist.co/manga/103621) (18:34, 29 March 2023)
--   📖 Read chapter 88 - 138 of [Girlfriend, Girlfriend](https://anilist.co/manga/116266) (17:22, 29 March 2023)
--   📖 Read chapter 1001 - 3183 of [Martial Peak](https://anilist.co/manga/104494) (17:18, 29 March 2023)
--   📖 Read chapter 1 - 239 of [Eleceed](https://anilist.co/manga/106929) (00:07, 29 March 2023)
--   📖 Read chapter 98 - 125 of [Don't Toy With Me, Miss Nagatoro](https://anilist.co/manga/100664) (23:12, 27 March 2023)
+-   📺 Plans to watch [THE MARGINAL SERVICE](https://anilist.co/anime/156854) (04:00, 30 March 2023)
+-   📺 Plans to watch [My One-Hit Kill Sister](https://anilist.co/anime/146234) (03:53, 30 March 2023)
+-   📺 Plans to watch [KONOSUBA - An Explosion on This Wonderful World!](https://anilist.co/anime/150075) (03:51, 30 March 2023)
+-   📺 Plans to watch [Oshi No Ko](https://anilist.co/anime/150672) (03:51, 30 March 2023)
+-   📺 Watched episode 1 - 3 of [Lookism](https://anilist.co/anime/158539) (03:48, 30 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
