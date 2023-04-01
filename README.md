@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Go-toubun no Hanayome∽](https://anilist.co/anime/163327) (17:30, 01 April 2023)
 -   📖 Read chapter 339 - 383 of [My Hero Academia](https://anilist.co/manga/85486) (20:47, 30 March 2023)
 -   📖 Read chapter 1001 - 3187 of [Martial Peak](https://anilist.co/manga/104494) (20:35, 30 March 2023)
 -   📖 Read chapter 1 - 51 of [Saotome Shimai wa Manga no Tame Nara!?](https://anilist.co/manga/103621) (20:25, 30 March 2023)
 -   📺 Plans to watch [WIND BREAKER](https://anilist.co/anime/163270) (15:32, 30 March 2023)
--   📺 Plans to watch [THE MARGINAL SERVICE](https://anilist.co/anime/156854) (04:00, 30 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
