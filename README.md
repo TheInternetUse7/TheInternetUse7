@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [K](https://anilist.co/anime/14467) (13:21, 03 April 2023)
 -   📖 Read chapter 1 - 172 of [Overgeared](https://anilist.co/manga/117460) (12:46, 03 April 2023)
 -   📖 Read chapter 1 - 54 of [Saotome Shimai wa Manga no Tame Nara!?](https://anilist.co/manga/103621) (12:38, 03 April 2023)
 -   📖 Read chapter 1 - 54 of [Saotome Shimai wa Manga no Tame Nara!?](https://anilist.co/manga/103621) (12:38, 03 April 2023)
 -   📺 Completed [Kurae! Telepathy](https://anilist.co/anime/163339) (15:39, 02 April 2023)
--   📖 Read chapter 1001 - 3192 of [Martial Peak](https://anilist.co/manga/104494) (23:53, 01 April 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
