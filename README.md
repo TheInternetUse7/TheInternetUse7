@@ -25,9 +25,9 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [Kaguya-sama: Love is War -The First Kiss That Never Ends-](https://anilist.co/anime/151384) (16:57, 04 April 2023)
 -   📖 Read chapter 339 - 384 of [My Hero Academia](https://anilist.co/manga/85486) (07:48, 04 April 2023)
 -   📖 Read chapter 1001 - 3199 of [Martial Peak](https://anilist.co/manga/104494) (07:43, 04 April 2023)
--   📺 Watched episode 1 of [Kaguya-sama: Love is War -The First Kiss That Never Ends-](https://anilist.co/anime/151384) (07:15, 04 April 2023)
 -   📖 Read chapter 1 - 105 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (22:37, 03 April 2023)
 -   📺 Plans to watch [K](https://anilist.co/anime/14467) (13:21, 03 April 2023)
 
