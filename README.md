@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 173 of [Overgeared](https://anilist.co/manga/117460) (09:17, 06 April 2023)
 -   📖 Read chapter 4 - 124 of [Teenage Mercenary](https://anilist.co/manga/126297) (23:56, 05 April 2023)
 -   📖 Read chapter 179 - 192 of [Solo Leveling](https://anilist.co/manga/105398) (23:52, 05 April 2023)
 -   📖 Dropped [Ling Jian Shan](https://anilist.co/manga/86733) (23:45, 05 April 2023)
 -   📖 Completed [My Stepmother's Friends](https://anilist.co/manga/119648) (23:40, 05 April 2023)
--   📖 Read chapter 1 - 62 of [Saotome Shimai wa Manga no Tame Nara!?](https://anilist.co/manga/103621) (23:33, 05 April 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
