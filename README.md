@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 56 of [Saotome Shimai wa Manga no Tame Nara!?](https://anilist.co/manga/103621) (18:33, 05 April 2023)
--   📖 Read chapter 1001 - 3203 of [Martial Peak](https://anilist.co/manga/104494) (18:25, 05 April 2023)
--   📺 Completed [Urusei Yatsura (2022)](https://anilist.co/anime/143277) (18:23, 05 April 2023)
--   📺 Plans to watch [Urusei Yatsura (2022) 2nd Season](https://anilist.co/anime/155645) (18:22, 05 April 2023)
--   📖 Read chapter 1 - 240 of [Eleceed](https://anilist.co/manga/106929) (17:56, 05 April 2023)
+-   📖 Read chapter 4 - 124 of [Teenage Mercenary](https://anilist.co/manga/126297) (23:56, 05 April 2023)
+-   📖 Read chapter 179 - 192 of [Solo Leveling](https://anilist.co/manga/105398) (23:52, 05 April 2023)
+-   📖 Dropped [Ling Jian Shan](https://anilist.co/manga/86733) (23:45, 05 April 2023)
+-   📖 Completed [My Stepmother's Friends](https://anilist.co/manga/119648) (23:40, 05 April 2023)
+-   📖 Read chapter 1 - 62 of [Saotome Shimai wa Manga no Tame Nara!?](https://anilist.co/manga/103621) (23:33, 05 April 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
