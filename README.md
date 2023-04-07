@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 147 of [Nano Machine](https://anilist.co/manga/120980) (05:06, 07 April 2023)
+-   📺 Plans to watch [Mushoku Tensei: Jobless Reincarnation Season 2](https://anilist.co/anime/146065) (04:39, 07 April 2023)
+-   📖 Read chapter 1001 - 3208 of [Martial Peak](https://anilist.co/manga/104494) (04:36, 07 April 2023)
 -   📖 Read chapter 88 - 139 of [Girlfriend, Girlfriend](https://anilist.co/manga/116266) (19:24, 06 April 2023)
 -   📖 Read chapter 1 - 173 of [Overgeared](https://anilist.co/manga/117460) (09:17, 06 April 2023)
--   📖 Read chapter 4 - 124 of [Teenage Mercenary](https://anilist.co/manga/126297) (23:56, 05 April 2023)
--   📖 Read chapter 179 - 192 of [Solo Leveling](https://anilist.co/manga/105398) (23:52, 05 April 2023)
--   📖 Dropped [Ling Jian Shan](https://anilist.co/manga/86733) (23:45, 05 April 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
