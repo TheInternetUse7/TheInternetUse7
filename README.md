@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 11 of [The Reincarnation of the Strongest Exorcist in Another World](https://anilist.co/anime/144553) (20:16, 12 April 2023)
 -   📖 Read chapter 307 - 437 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (03:20, 12 April 2023)
 -   📖 Read chapter 1001 - 3214 of [Martial Peak](https://anilist.co/manga/104494) (04:29, 11 April 2023)
 -   📖 Read chapter 1 - 106 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (04:25, 11 April 2023)
 -   📖 Read chapter 98 - 126 of [Don't Toy With Me, Miss Nagatoro](https://anilist.co/manga/100664) (04:20, 11 April 2023)
--   📖 Read chapter 2 of [Nodohame](https://anilist.co/manga/131211) (08:43, 10 April 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
