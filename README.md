@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 9 of [Ya Boy Kongming!](https://anilist.co/anime/141774) (16:02, 13 April 2023)
 -   📖 Read chapter 1 - 149 of [Nano Machine](https://anilist.co/manga/120980) (09:17, 13 April 2023)
 -   📖 Read chapter 1001 - 3224 of [Martial Peak](https://anilist.co/manga/104494) (09:12, 13 April 2023)
 -   📖 Read chapter 1 - 174 of [Overgeared](https://anilist.co/manga/117460) (22:19, 12 April 2023)
 -   📖 Read chapter 307 - 444 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (21:51, 12 April 2023)
--   📖 Read chapter 1 - 241 of [Eleceed](https://anilist.co/manga/106929) (21:49, 12 April 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
