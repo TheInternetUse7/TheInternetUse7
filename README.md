@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Tsugumomo](https://anilist.co/anime/97625) (23:07, 16 April 2023)
+-   📺 Plans to watch [Tsugumomo](https://anilist.co/anime/97625) (22:43, 16 April 2023)
 -   📺 Completed [The Reincarnation of the Strongest Exorcist in Another World](https://anilist.co/anime/144553) (22:07, 16 April 2023)
 -   📺 Watched episode 1 - 12 of [The Reincarnation of the Strongest Exorcist in Another World](https://anilist.co/anime/144553) (22:07, 16 April 2023)
 -   📖 Read chapter 1 - 72 of [Saotome Shimai wa Manga no Tame Nara!?](https://anilist.co/manga/103621) (21:24, 16 April 2023)
--   📖 Read chapter 339 - 385 of [My Hero Academia](https://anilist.co/manga/85486) (21:09, 16 April 2023)
--   📖 Plans to read [Douteigui!!](https://anilist.co/manga/91772) (12:37, 16 April 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
