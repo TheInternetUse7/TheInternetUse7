@@ -25,7 +25,7 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1001 - 3236 of [Martial Peak](https://anilist.co/manga/104494) (06:30, 16 April 2023)
+-   📖 Read chapter 1001 - 3237 of [Martial Peak](https://anilist.co/manga/104494) (11:17, 16 April 2023)
 -   📖 Read chapter 70 - 87 of [The 100 Girlfriends Who Really, Really, Really, Really, Really Love You](https://anilist.co/manga/114416) (04:37, 15 April 2023)
 -   📖 Read chapter 307 - 445 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (03:40, 15 April 2023)
 -   📺 Completed [BLUELOCK](https://anilist.co/anime/137822) (19:18, 14 April 2023)
