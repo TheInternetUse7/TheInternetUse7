@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [The Reincarnation of the Strongest Exorcist in Another World](https://anilist.co/anime/144553) (22:07, 16 April 2023)
+-   📺 Watched episode 1 - 12 of [The Reincarnation of the Strongest Exorcist in Another World](https://anilist.co/anime/144553) (22:07, 16 April 2023)
+-   📖 Read chapter 1 - 72 of [Saotome Shimai wa Manga no Tame Nara!?](https://anilist.co/manga/103621) (21:24, 16 April 2023)
+-   📖 Read chapter 339 - 385 of [My Hero Academia](https://anilist.co/manga/85486) (21:09, 16 April 2023)
 -   📖 Plans to read [Douteigui!!](https://anilist.co/manga/91772) (12:37, 16 April 2023)
--   📖 Read chapter 1001 - 3237 of [Martial Peak](https://anilist.co/manga/104494) (11:17, 16 April 2023)
--   📖 Read chapter 70 - 87 of [The 100 Girlfriends Who Really, Really, Really, Really, Really Love You](https://anilist.co/manga/114416) (04:37, 15 April 2023)
--   📖 Read chapter 307 - 445 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (03:40, 15 April 2023)
--   📺 Completed [BLUELOCK](https://anilist.co/anime/137822) (19:18, 14 April 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
