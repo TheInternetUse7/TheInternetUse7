@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1001 - 3243 of [Martial Peak](https://anilist.co/manga/104494) (14:50, 19 April 2023)
+-   📖 Read chapter 1001 - 3248 of [Martial Peak](https://anilist.co/manga/104494) (17:30, 21 April 2023)
+-   📖 Read chapter 1 - 150 of [Nano Machine](https://anilist.co/manga/120980) (17:14, 21 April 2023)
+-   📖 Read chapter 1 - 5 of [Yuusha ni Zenbu Ubawareta Ore wa Yuusha no Hahaoya to Party wo Kumimashita!](https://anilist.co/manga/159187) (17:11, 21 April 2023)
 -   📖 Read chapter 1 - 242 of [Eleceed](https://anilist.co/manga/106929) (06:04, 19 April 2023)
 -   📖 Read chapter 4 - 132 of [Teenage Mercenary](https://anilist.co/manga/126297) (18:05, 18 April 2023)
--   📖 Read chapter 1 - 107 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (16:19, 17 April 2023)
--   📺 Watched episode 1 of [Tsugumomo](https://anilist.co/anime/97625) (23:07, 16 April 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
