@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Plans to watch [TONIKAWA: Over The Moon For You](https://anilist.co/anime/116267) (11:08, 22 April 2023)
--   📺 Plans to watch [MASHLE: MAGIC AND MUSCLES](https://anilist.co/anime/151801) (11:07, 22 April 2023)
--   📺 Plans to watch [Gurren Lagann](https://anilist.co/anime/2001) (11:07, 22 April 2023)
--   📺 Plans to watch [Welcome to the N-H-K](https://anilist.co/anime/1210) (11:06, 22 April 2023)
--   📺 Plans to watch [FLCL](https://anilist.co/anime/227) (11:06, 22 April 2023)
+-   📺 Plans to watch [Hellsing Ultimate](https://anilist.co/anime/777) (12:03, 22 April 2023)
+-   📺 Plans to watch [Ranking of Kings](https://anilist.co/anime/113717) (12:02, 22 April 2023)
+-   📺 Plans to watch [Spice and Wolf](https://anilist.co/anime/2966) (12:02, 22 April 2023)
+-   📺 Plans to watch [Gate](https://anilist.co/anime/20994) (12:02, 22 April 2023)
+-   📺 Plans to watch [Arifureta: From Commonplace to World's Strongest](https://anilist.co/anime/100668) (12:02, 22 April 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
