@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1001 - 3252 of [Martial Peak](https://anilist.co/manga/104494) (02:30, 23 April 2023)
 -   📺 Plans to watch [Hellsing Ultimate](https://anilist.co/anime/777) (12:03, 22 April 2023)
 -   📺 Plans to watch [Ranking of Kings](https://anilist.co/anime/113717) (12:02, 22 April 2023)
 -   📺 Plans to watch [Spice and Wolf](https://anilist.co/anime/2966) (12:02, 22 April 2023)
 -   📺 Plans to watch [Gate](https://anilist.co/anime/20994) (12:02, 22 April 2023)
--   📺 Plans to watch [Arifureta: From Commonplace to World's Strongest](https://anilist.co/anime/100668) (12:02, 22 April 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
