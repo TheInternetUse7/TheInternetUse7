@@ -25,7 +25,7 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1001 - 3256 of [Martial Peak](https://anilist.co/manga/104494) (07:49, 23 April 2023)
+-   📖 Read chapter 1001 - 3257 of [Martial Peak](https://anilist.co/manga/104494) (18:58, 24 April 2023)
 -   📺 Plans to watch [Hellsing Ultimate](https://anilist.co/anime/777) (12:03, 22 April 2023)
 -   📺 Plans to watch [Ranking of Kings](https://anilist.co/anime/113717) (12:02, 22 April 2023)
 -   📺 Plans to watch [Spice and Wolf](https://anilist.co/anime/2966) (12:02, 22 April 2023)
