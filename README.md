@@ -25,7 +25,7 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 7 of [Sex & Dungeon!!: Wagaya no Chika ni, H Kaisuu = Level no Dungeon ga Shutsugen shita?!](https://anilist.co/manga/115037) (03:52, 26 April 2023)
+-   📖 Read chapter 1 - 8 of [Sex & Dungeon!!: Wagaya no Chika ni, H Kaisuu = Level no Dungeon ga Shutsugen shita?!](https://anilist.co/manga/115037) (06:13, 26 April 2023)
 -   📖 Read chapter 49 - 91 of [Landlord Sisters](https://anilist.co/manga/138564) (02:21, 26 April 2023)
 -   📖 Read chapter 1 - 243 of [Eleceed](https://anilist.co/manga/106929) (01:17, 26 April 2023)
 -   📖 Read chapter 4 - 133 of [Teenage Mercenary](https://anilist.co/manga/126297) (01:06, 26 April 2023)
