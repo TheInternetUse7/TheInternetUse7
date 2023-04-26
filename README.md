@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1001 - 3263 of [Martial Peak](https://anilist.co/manga/104494) (00:58, 26 April 2023)
+-   📖 Read chapter 49 - 87 of [Landlord Sisters](https://anilist.co/manga/138564) (02:04, 26 April 2023)
+-   📖 Read chapter 1 - 243 of [Eleceed](https://anilist.co/manga/106929) (01:17, 26 April 2023)
+-   📖 Read chapter 4 - 133 of [Teenage Mercenary](https://anilist.co/manga/126297) (01:06, 26 April 2023)
+-   📖 Read chapter 1001 - 3264 of [Martial Peak](https://anilist.co/manga/104494) (01:01, 26 April 2023)
 -   📖 Read chapter 1 - 108 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (00:53, 26 April 2023)
--   📺 Watched episode 1 - 3 of [Boarding School Juliet](https://anilist.co/anime/101310) (07:12, 25 April 2023)
--   📺 Plans to watch [Hellsing Ultimate](https://anilist.co/anime/777) (12:03, 22 April 2023)
--   📺 Plans to watch [Ranking of Kings](https://anilist.co/anime/113717) (12:02, 22 April 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
