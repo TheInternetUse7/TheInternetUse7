@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1001 - 3263 of [Martial Peak](https://anilist.co/manga/104494) (00:58, 26 April 2023)
+-   📖 Read chapter 1 - 108 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (00:53, 26 April 2023)
 -   📺 Watched episode 1 - 3 of [Boarding School Juliet](https://anilist.co/anime/101310) (07:12, 25 April 2023)
--   📖 Read chapter 1001 - 3262 of [Martial Peak](https://anilist.co/manga/104494) (04:42, 25 April 2023)
 -   📺 Plans to watch [Hellsing Ultimate](https://anilist.co/anime/777) (12:03, 22 April 2023)
 -   📺 Plans to watch [Ranking of Kings](https://anilist.co/anime/113717) (12:02, 22 April 2023)
--   📺 Plans to watch [Spice and Wolf](https://anilist.co/anime/2966) (12:02, 22 April 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
