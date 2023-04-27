@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 88 - 141 of [Girlfriend, Girlfriend](https://anilist.co/manga/116266) (18:49, 27 April 2023)
 -   📖 Read chapter 1 - 8 of [Sex & Dungeon!!: Wagaya no Chika ni, H Kaisuu = Level no Dungeon ga Shutsugen shita?!](https://anilist.co/manga/115037) (06:13, 26 April 2023)
 -   📖 Read chapter 49 - 91 of [Landlord Sisters](https://anilist.co/manga/138564) (02:21, 26 April 2023)
 -   📖 Read chapter 1 - 243 of [Eleceed](https://anilist.co/manga/106929) (01:17, 26 April 2023)
 -   📖 Read chapter 4 - 133 of [Teenage Mercenary](https://anilist.co/manga/126297) (01:06, 26 April 2023)
--   📖 Read chapter 1001 - 3264 of [Martial Peak](https://anilist.co/manga/104494) (01:01, 26 April 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
