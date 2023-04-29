@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1001 - 3268 of [Martial Peak](https://anilist.co/manga/104494) (08:43, 28 April 2023)
+-   📖 Read chapter 307 - 446 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (18:43, 29 April 2023)
+-   📖 Read chapter 1001 - 3270 of [Martial Peak](https://anilist.co/manga/104494) (18:38, 29 April 2023)
 -   📖 Read chapter 1 - 151 of [Nano Machine](https://anilist.co/manga/120980) (08:30, 28 April 2023)
 -   📖 Read chapter 1 - 175 of [Overgeared](https://anilist.co/manga/117460) (08:27, 28 April 2023)
 -   📖 Read chapter 179 - 195 of [Solo Leveling](https://anilist.co/manga/105398) (08:17, 28 April 2023)
--   📖 Read chapter 88 - 141 of [Girlfriend, Girlfriend](https://anilist.co/manga/116266) (18:49, 27 April 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
