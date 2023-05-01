@@ -25,7 +25,7 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1001 - 3271 of [Martial Peak](https://anilist.co/manga/104494) (10:09, 30 April 2023)
+-   📖 Read chapter 1001 - 3274 of [Martial Peak](https://anilist.co/manga/104494) (00:29, 01 May 2023)
 -   📖 Read chapter 307 - 446 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (18:43, 29 April 2023)
 -   📖 Read chapter 1 - 151 of [Nano Machine](https://anilist.co/manga/120980) (08:30, 28 April 2023)
 -   📖 Read chapter 1 - 175 of [Overgeared](https://anilist.co/manga/117460) (08:27, 28 April 2023)
