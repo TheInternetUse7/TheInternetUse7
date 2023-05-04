@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 23 of [Futagotachi no Sho Jijou](https://anilist.co/manga/119472) (01:35, 04 May 2023)
+-   📖 Plans to read [Futagotachi no Sho Jijou](https://anilist.co/manga/119472) (01:14, 04 May 2023)
+-   📖 Plans to read [Koi to Utatane](https://anilist.co/manga/99625) (01:12, 04 May 2023)
 -   📖 Read chapter 1001 - 3280 of [Martial Peak](https://anilist.co/manga/104494) (00:50, 04 May 2023)
 -   📖 Read chapter 1 - 152 of [Nano Machine](https://anilist.co/manga/120980) (00:47, 04 May 2023)
--   📖 Read chapter 1 - 9 of [Ore no Koto ga Daikirai na Imouto ga Kowai](https://anilist.co/manga/159020) (00:42, 04 May 2023)
--   📖 Read chapter 1 - 244 of [Eleceed](https://anilist.co/manga/106929) (19:14, 02 May 2023)
--   📖 Read chapter 98 - 127 of [Don't Toy With Me, Miss Nagatoro](https://anilist.co/manga/100664) (19:14, 02 May 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
