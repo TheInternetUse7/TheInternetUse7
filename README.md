@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 29 of [Parallel Paradise](https://anilist.co/manga/98543) (09:29, 05 May 2023)
 -   📖 Read chapter 1 - 8 of [Koi to Utatane](https://anilist.co/manga/99625) (08:50, 05 May 2023)
 -   📖 Read chapter 1 - 35 of [Futagotachi no Sho Jijou](https://anilist.co/manga/119472) (01:58, 05 May 2023)
 -   📖 Plans to read [Futagotachi no Sho Jijou](https://anilist.co/manga/119472) (01:14, 04 May 2023)
 -   📖 Plans to read [Koi to Utatane](https://anilist.co/manga/99625) (01:12, 04 May 2023)
--   📖 Read chapter 1001 - 3280 of [Martial Peak](https://anilist.co/manga/104494) (00:50, 04 May 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
