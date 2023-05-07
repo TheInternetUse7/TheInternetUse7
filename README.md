@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1001 - 3281 of [Martial Peak](https://anilist.co/manga/104494) (00:51, 07 May 2023)
 -   📖 Read chapter 2 of [Kawaii Imouto to Ikenai Koto Shiteimasu!](https://anilist.co/manga/123540) (13:29, 06 May 2023)
 -   📖 Plans to read [Kawaii Imouto to Ikenai Koto Shiteimasu!](https://anilist.co/manga/123540) (13:29, 06 May 2023)
 -   📖 Plans to read [Haha to Imouto](https://anilist.co/manga/119847) (14:09, 05 May 2023)
 -   📖 Read chapter 1 - 29 of [Parallel Paradise](https://anilist.co/manga/98543) (09:29, 05 May 2023)
--   📖 Read chapter 1 - 8 of [Koi to Utatane](https://anilist.co/manga/99625) (08:50, 05 May 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
