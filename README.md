@@ -25,7 +25,7 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1001 - 3282 of [Martial Peak](https://anilist.co/manga/104494) (15:48, 08 May 2023)
+-   📖 Read chapter 1001 - 3285 of [Martial Peak](https://anilist.co/manga/104494) (10:01, 09 May 2023)
 -   📖 Read chapter 1 - 176 of [Overgeared](https://anilist.co/manga/117460) (15:17, 08 May 2023)
 -   📖 Read chapter 2 of [Kawaii Imouto to Ikenai Koto Shiteimasu!](https://anilist.co/manga/123540) (13:29, 06 May 2023)
 -   📖 Plans to read [Kawaii Imouto to Ikenai Koto Shiteimasu!](https://anilist.co/manga/123540) (13:29, 06 May 2023)
