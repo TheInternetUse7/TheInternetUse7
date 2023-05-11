@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 153 of [Nano Machine](https://anilist.co/manga/120980) (07:06, 11 May 2023)
 -   📖 Read chapter 1 - 46 of [Futagotachi no Sho Jijou](https://anilist.co/manga/119472) (16:19, 10 May 2023)
 -   📖 Read chapter 1001 - 3298 of [Martial Peak](https://anilist.co/manga/104494) (15:56, 10 May 2023)
 -   📖 Read chapter 4 - 135 of [Teenage Mercenary](https://anilist.co/manga/126297) (15:50, 10 May 2023)
 -   📖 Read chapter 307 - 447 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (09:32, 10 May 2023)
--   📖 Read chapter 1 - 11 of [Koi to Utatane](https://anilist.co/manga/99625) (05:54, 10 May 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
