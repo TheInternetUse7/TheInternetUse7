@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 177 of [Overgeared](https://anilist.co/manga/117460) (04:00, 12 May 2023)
 -   📖 Read chapter 1 - 10 of [Isekai Danyuu: Shiru Danyuu ga Isekai Tensei Shite Ero Chishiki Full Katsuyou de Musou Danyuu ni Naru Hanashi](https://anilist.co/manga/156621) (15:56, 11 May 2023)
 -   📖 Read chapter 1001 - 3301 of [Martial Peak](https://anilist.co/manga/104494) (15:41, 11 May 2023)
 -   📖 Plans to read [Sex Is Part of Undercover Agents' Job?](https://anilist.co/manga/118667) (15:34, 11 May 2023)
 -   📖 Plans to read [Imouto wa Kanojo ni Dekinai no ni](https://anilist.co/manga/157136) (15:33, 11 May 2023)
--   📖 Plans to read [Magic Maker: Isekai Mahou no Tsukurikata](https://anilist.co/manga/155780) (15:31, 11 May 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
