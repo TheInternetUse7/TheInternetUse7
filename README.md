@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 4 of [JK Haru is a Sex Worker in Another World](https://anilist.co/manga/110175) (22:53, 12 May 2023)
+-   📖 Read chapter 339 - 388 of [My Hero Academia](https://anilist.co/manga/85486) (22:26, 12 May 2023)
 -   📖 Read chapter 1001 - 3303 of [Martial Peak](https://anilist.co/manga/104494) (22:09, 12 May 2023)
 -   📖 Read chapter 179 - 197 of [Solo Leveling](https://anilist.co/manga/105398) (08:25, 12 May 2023)
 -   📖 Read chapter 1 - 177 of [Overgeared](https://anilist.co/manga/117460) (04:00, 12 May 2023)
--   📖 Read chapter 1 - 10 of [Isekai Danyuu: Shiru Danyuu ga Isekai Tensei Shite Ero Chishiki Full Katsuyou de Musou Danyuu ni Naru Hanashi](https://anilist.co/manga/156621) (15:56, 11 May 2023)
--   📖 Plans to read [Sex Is Part of Undercover Agents' Job?](https://anilist.co/manga/118667) (15:34, 11 May 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
