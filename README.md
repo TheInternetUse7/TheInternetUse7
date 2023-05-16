@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Rewatched episode 1 - 2 of [Domestic Girlfriend](https://anilist.co/anime/103139) (00:04, 16 May 2023)
 -   📖 Read chapter 1 - 12 of [JK Haru is a Sex Worker in Another World](https://anilist.co/manga/110175) (20:10, 14 May 2023)
 -   📖 Read chapter 1001 - 3309 of [Martial Peak](https://anilist.co/manga/104494) (11:57, 14 May 2023)
 -   📺 Plans to watch [Shoujo Ramune](https://anilist.co/anime/21828) (11:42, 14 May 2023)
 -   📺 Completed [euphoria](https://anilist.co/anime/10851) (11:39, 14 May 2023)
--   📺 Plans to watch [Perverse Investigations](https://anilist.co/anime/2944) (11:37, 14 May 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
