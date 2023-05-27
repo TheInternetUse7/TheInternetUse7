@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 155 of [Nano Machine](https://anilist.co/manga/120980) (11:51, 25 May 2023)
--   📖 Read chapter 307 - 449 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (11:45, 25 May 2023)
--   📖 Read chapter 1001 - 3319 of [Martial Peak](https://anilist.co/manga/104494) (11:21, 25 May 2023)
--   📖 Read chapter 179 - 199 of [Solo Leveling](https://anilist.co/manga/105398) (22:17, 24 May 2023)
--   📖 Read chapter 1 - 247 of [Eleceed](https://anilist.co/manga/106929) (22:10, 24 May 2023)
+-   📖 Read chapter 1 of [Imouto wa Kanojo ni Dekinai no ni](https://anilist.co/manga/157136) (20:59, 26 May 2023)
+-   📖 Read chapter 1 - 178 of [Overgeared](https://anilist.co/manga/117460) (19:39, 26 May 2023)
+-   📖 Read chapter 4 - 137 of [Teenage Mercenary](https://anilist.co/manga/126297) (01:03, 26 May 2023)
+-   📖 Read chapter 1001 - 3320 of [Martial Peak](https://anilist.co/manga/104494) (01:00, 26 May 2023)
+-   📖 Read chapter 1 - 3 of [Issho ni Kurashite Ii desu ka?](https://anilist.co/manga/159549) (00:53, 26 May 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
