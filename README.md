@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 16 of [Magic Maker: Isekai Mahou no Tsukurikata](https://anilist.co/manga/155780) (18:30, 29 May 2023)
+-   📺 Rewatched episode 1 - 5 of [Domestic Girlfriend](https://anilist.co/anime/103139) (09:09, 29 May 2023)
 -   📖 Read chapter 1 - 14 of [JK Haru is a Sex Worker in Another World](https://anilist.co/manga/110175) (22:15, 28 May 2023)
 -   📖 Read chapter 1 of [Tefure.](https://anilist.co/manga/136415) (22:10, 28 May 2023)
 -   📖 Read chapter 1 - 5 of [Imouto wa Kanojo ni Dekinai no ni](https://anilist.co/manga/157136) (22:01, 28 May 2023)
--   📺 Watched episode 1 - 4 of [Boarding School Juliet](https://anilist.co/anime/101310) (19:59, 28 May 2023)
--   📖 Read chapter 1 - 9 of [Magic Maker: Isekai Mahou no Tsukurikata](https://anilist.co/manga/155780) (13:08, 28 May 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
