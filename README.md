@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 248 of [Eleceed](https://anilist.co/manga/106929) (23:24, 30 May 2023)
--   📖 Read chapter 1 - 16 of [Magic Maker: Isekai Mahou no Tsukurikata](https://anilist.co/manga/155780) (18:30, 29 May 2023)
--   📺 Rewatched episode 1 - 5 of [Domestic Girlfriend](https://anilist.co/anime/103139) (09:09, 29 May 2023)
--   📖 Read chapter 1 - 14 of [JK Haru is a Sex Worker in Another World](https://anilist.co/manga/110175) (22:15, 28 May 2023)
--   📖 Read chapter 1 of [Tefure.](https://anilist.co/manga/136415) (22:10, 28 May 2023)
+-   📺 Watched episode 1 - 3 of [Grand Blue Dreaming](https://anilist.co/anime/100922) (15:36, 31 May 2023)
+-   📖 Completed [Uchi no Tonari no Shougakusei wa Kinpatsu Hekigan Ecchi-zuki](https://anilist.co/manga/155836) (13:09, 31 May 2023)
+-   📖 Read chapter 1 - 55 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (11:56, 31 May 2023)
+-   📖 Read chapter 1 - 85 of [The Warrior Returns](https://anilist.co/manga/135318) (10:29, 31 May 2023)
+-   📖 Read chapter 1 - 3 of [Tefure.](https://anilist.co/manga/136415) (10:27, 31 May 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
