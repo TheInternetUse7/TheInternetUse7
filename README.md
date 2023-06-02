@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 3 of [Grand Blue Dreaming](https://anilist.co/anime/100922) (15:36, 31 May 2023)
--   📖 Completed [Uchi no Tonari no Shougakusei wa Kinpatsu Hekigan Ecchi-zuki](https://anilist.co/manga/155836) (13:09, 31 May 2023)
--   📖 Read chapter 1 - 55 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (11:56, 31 May 2023)
--   📖 Read chapter 1 - 85 of [The Warrior Returns](https://anilist.co/manga/135318) (10:29, 31 May 2023)
--   📖 Read chapter 1 - 3 of [Tefure.](https://anilist.co/manga/136415) (10:27, 31 May 2023)
+-   📺 Completed [To Love Ru](https://anilist.co/anime/3455) (19:08, 01 June 2023)
+-   📺 Watched episode 1 - 25 of [To Love Ru](https://anilist.co/anime/3455) (19:08, 01 June 2023)
+-   📺 Watched episode 1 - 4 of [Grand Blue Dreaming](https://anilist.co/anime/100922) (09:01, 01 June 2023)
+-   📺 Watched episode 126 - 193 of [Naruto](https://anilist.co/anime/20) (01:42, 01 June 2023)
+-   📺 Watched episode 1 - 10 of [Fullmetal Alchemist](https://anilist.co/anime/121) (01:42, 01 June 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
