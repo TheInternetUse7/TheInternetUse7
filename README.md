@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Completed [To Love Ru](https://anilist.co/anime/3455) (19:08, 01 June 2023)
--   📺 Watched episode 1 - 25 of [To Love Ru](https://anilist.co/anime/3455) (19:08, 01 June 2023)
--   📺 Watched episode 1 - 4 of [Grand Blue Dreaming](https://anilist.co/anime/100922) (09:01, 01 June 2023)
--   📺 Watched episode 126 - 193 of [Naruto](https://anilist.co/anime/20) (01:42, 01 June 2023)
--   📺 Watched episode 1 - 10 of [Fullmetal Alchemist](https://anilist.co/anime/121) (01:42, 01 June 2023)
+-   📺 Completed [My Life as Inukai-san’s Dog OVA](https://anilist.co/anime/159807) (20:04, 02 June 2023)
+-   📺 Plans to watch [My Life as Inukai-san’s Dog OVA](https://anilist.co/anime/159807) (20:04, 02 June 2023)
+-   📺 Completed [My Life as Inukai-san’s Dog](https://anilist.co/anime/146346) (20:03, 02 June 2023)
+-   📺 Watched episode 1 - 11 of [My Life as Inukai-san’s Dog](https://anilist.co/anime/146346) (20:03, 02 June 2023)
+-   📖 Completed [Netorarejanai Manga](https://anilist.co/manga/165307) (06:56, 02 June 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
