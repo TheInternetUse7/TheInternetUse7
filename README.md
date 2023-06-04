@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 10 of [Farming Life in Another World](https://anilist.co/anime/146850) (20:46, 03 June 2023)
+-   📺 Watched episode 1 - 7 of [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (16:15, 03 June 2023)
+-   📖 Read chapter 339 - 390 of [My Hero Academia](https://anilist.co/manga/85486) (11:09, 03 June 2023)
 -   📺 Completed [My Life as Inukai-san’s Dog OVA](https://anilist.co/anime/159807) (20:04, 02 June 2023)
 -   📺 Plans to watch [My Life as Inukai-san’s Dog OVA](https://anilist.co/anime/159807) (20:04, 02 June 2023)
--   📺 Completed [My Life as Inukai-san’s Dog](https://anilist.co/anime/146346) (20:03, 02 June 2023)
--   📺 Watched episode 1 - 11 of [My Life as Inukai-san’s Dog](https://anilist.co/anime/146346) (20:03, 02 June 2023)
--   📖 Completed [Netorarejanai Manga](https://anilist.co/manga/165307) (06:56, 02 June 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
