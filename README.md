@@ -38,6 +38,9 @@ join my server it's open for all <br>
 
 [![AniList Banner](https://img.anili.st/User/929966)](https://anilist.co/user/TheInternetUser)
 
-![Profile views](https://gpvc.arturio.dev/TheInternetUse7) Since 2023-01-09
+<!-- ![Profile views](https://gpvc.arturio.dev/TheInternetUse7) Since 2023-01-09 -->
+<br>
+
+![Profile views 2](https://eng8ov7sekpf7ov.m.pipedream.net) Since 2023-06-04
 
 </div>
