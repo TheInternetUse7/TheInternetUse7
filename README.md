@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Plans to read [Nosewasure](https://anilist.co/manga/33815) (21:02, 04 June 2023)
--   📖 Plans to read [Garden](https://anilist.co/manga/132725) (21:00, 04 June 2023)
--   📖 Plans to read [Shishunki no Obenkyou](https://anilist.co/manga/121161) (20:56, 04 June 2023)
--   📖 Plans to read [K-ko to Yamioji Ha](https://anilist.co/manga/146127) (20:55, 04 June 2023)
--   📺 Watched episode 1 - 7 of [Boarding School Juliet](https://anilist.co/anime/101310) (20:11, 04 June 2023)
+-   📖 Read chapter 4 - 138 of [Teenage Mercenary](https://anilist.co/manga/126297) (21:19, 05 June 2023)
+-   📖 Read chapter 1 - 179 of [Overgeared](https://anilist.co/manga/117460) (21:13, 05 June 2023)
+-   📺 Completed [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (17:49, 05 June 2023)
+-   📺 Watched episode 1 - 7 of [Grand Blue Dreaming](https://anilist.co/anime/100922) (17:49, 05 June 2023)
+-   📺 Watched episode 1 - 12 of [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (13:33, 05 June 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
