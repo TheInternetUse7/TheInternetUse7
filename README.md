@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 4 - 138 of [Teenage Mercenary](https://anilist.co/manga/126297) (21:19, 05 June 2023)
--   📖 Read chapter 1 - 179 of [Overgeared](https://anilist.co/manga/117460) (21:13, 05 June 2023)
--   📺 Completed [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (17:49, 05 June 2023)
--   📺 Watched episode 1 - 7 of [Grand Blue Dreaming](https://anilist.co/anime/100922) (17:49, 05 June 2023)
--   📺 Watched episode 1 - 12 of [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (13:33, 05 June 2023)
+-   📺 Paused watching [Imaizumin-chi wa Douyara Gal no Tamariba ni Natteru Rashii](https://anilist.co/anime/132203) (22:20, 06 June 2023)
+-   📺 Watched episode 1 - 9 of [Grand Blue Dreaming](https://anilist.co/anime/100922) (22:20, 06 June 2023)
+-   📺 Watched episode 1 - 11 of [Fullmetal Alchemist](https://anilist.co/anime/121) (16:39, 06 June 2023)
+-   📺 Watched episode 1 - 9 of [Boarding School Juliet](https://anilist.co/anime/101310) (16:38, 06 June 2023)
+-   📺 Plans to watch [Bocchi the Rock! Movie](https://anilist.co/anime/165253) (07:48, 06 June 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
