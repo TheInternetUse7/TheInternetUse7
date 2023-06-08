@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Paused watching [Imaizumin-chi wa Douyara Gal no Tamariba ni Natteru Rashii](https://anilist.co/anime/132203) (22:20, 06 June 2023)
--   📺 Watched episode 1 - 9 of [Grand Blue Dreaming](https://anilist.co/anime/100922) (22:20, 06 June 2023)
--   📺 Watched episode 1 - 11 of [Fullmetal Alchemist](https://anilist.co/anime/121) (16:39, 06 June 2023)
--   📺 Watched episode 1 - 9 of [Boarding School Juliet](https://anilist.co/anime/101310) (16:38, 06 June 2023)
--   📺 Plans to watch [Bocchi the Rock! Movie](https://anilist.co/anime/165253) (07:48, 06 June 2023)
+-   📖 Read chapter 74 of [Saotome Shimai wa Manga no Tame Nara!?](https://anilist.co/manga/103621) (20:43, 07 June 2023)
+-   📖 Read chapter 129 of [Don't Toy With Me, Miss Nagatoro](https://anilist.co/manga/100664) (20:38, 07 June 2023)
+-   📺 Watched episode 1 - 10 of [Boarding School Juliet](https://anilist.co/anime/101310) (12:26, 07 June 2023)
+-   📺 Watched episode 1 - 11 of [Grand Blue Dreaming](https://anilist.co/anime/100922) (12:26, 07 June 2023)
+-   📖 Read chapter 1 - 89 of [The Warrior Returns](https://anilist.co/manga/135318) (06:08, 07 June 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
