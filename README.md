@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 53 of [The Eminence in Shadow](https://anilist.co/manga/106758) (19:45, 10 June 2023)
+-   📖 Read chapter 1 - 92 of [The Warrior Returns](https://anilist.co/manga/135318) (19:37, 10 June 2023)
+-   📖 Read chapter 1 - 18 of [Magic Maker: Isekai Mahou no Tsukurikata](https://anilist.co/manga/155780) (19:13, 10 June 2023)
 -   📖 Read chapter 1 - 157 of [Nano Machine](https://anilist.co/manga/120980) (17:56, 09 June 2023)
 -   📖 Read chapter 30 of [Parallel Paradise](https://anilist.co/manga/98543) (21:40, 08 June 2023)
--   📖 Read chapter 113 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (21:18, 08 June 2023)
--   📺 Completed [Boarding School Juliet](https://anilist.co/anime/101310) (20:46, 08 June 2023)
--   📺 Watched episode 1 - 11 of [Boarding School Juliet](https://anilist.co/anime/101310) (19:32, 08 June 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
