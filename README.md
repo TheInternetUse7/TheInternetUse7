@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 5 of [Tefure.](https://anilist.co/manga/136415) (22:39, 11 June 2023)
+-   📖 Read chapter 1 - 4 of [Haha to Imouto](https://anilist.co/manga/119847) (09:43, 11 June 2023)
+-   📖 Completed [Shishunki no Obenkyou](https://anilist.co/manga/121161) (09:36, 11 June 2023)
 -   📖 Read chapter 53 of [The Eminence in Shadow](https://anilist.co/manga/106758) (19:45, 10 June 2023)
 -   📖 Read chapter 1 - 92 of [The Warrior Returns](https://anilist.co/manga/135318) (19:37, 10 June 2023)
--   📖 Read chapter 1 - 18 of [Magic Maker: Isekai Mahou no Tsukurikata](https://anilist.co/manga/155780) (19:13, 10 June 2023)
--   📖 Read chapter 1 - 157 of [Nano Machine](https://anilist.co/manga/120980) (17:56, 09 June 2023)
--   📖 Read chapter 30 of [Parallel Paradise](https://anilist.co/manga/98543) (21:40, 08 June 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
