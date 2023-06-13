@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 5 of [Tefure.](https://anilist.co/manga/136415) (22:39, 11 June 2023)
+-   📖 Read chapter 1 - 7 of [Tefure.](https://anilist.co/manga/136415) (22:32, 12 June 2023)
+-   📖 Read chapter 136 of [Omniscient Reader](https://anilist.co/manga/119257) (09:14, 12 June 2023)
+-   📺 Plans to watch [Sakuramiya Shimai no Netorare Kiroku](https://anilist.co/anime/108411) (06:27, 12 June 2023)
+-   📖 Plans to read [Mother and No Other!!](https://anilist.co/manga/156627) (04:38, 12 June 2023)
 -   📖 Read chapter 1 - 4 of [Haha to Imouto](https://anilist.co/manga/119847) (09:43, 11 June 2023)
--   📖 Completed [Shishunki no Obenkyou](https://anilist.co/manga/121161) (09:36, 11 June 2023)
--   📖 Read chapter 53 of [The Eminence in Shadow](https://anilist.co/manga/106758) (19:45, 10 June 2023)
--   📖 Read chapter 1 - 92 of [The Warrior Returns](https://anilist.co/manga/135318) (19:37, 10 June 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
