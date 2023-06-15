@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 7 of [Tefure.](https://anilist.co/manga/136415) (22:32, 12 June 2023)
--   📖 Read chapter 136 of [Omniscient Reader](https://anilist.co/manga/119257) (09:14, 12 June 2023)
--   📺 Plans to watch [Sakuramiya Shimai no Netorare Kiroku](https://anilist.co/anime/108411) (06:27, 12 June 2023)
--   📖 Plans to read [Mother and No Other!!](https://anilist.co/manga/156627) (04:38, 12 June 2023)
--   📖 Read chapter 1 - 4 of [Haha to Imouto](https://anilist.co/manga/119847) (09:43, 11 June 2023)
+-   📖 Read chapter 3325 - 3332 of [Martial Peak](https://anilist.co/manga/104494) (21:04, 14 June 2023)
+-   📺 Watched episode 126 - 194 of [Naruto](https://anilist.co/anime/20) (19:16, 14 June 2023)
+-   📺 Watched episode 3 of [Land of the Lustrous](https://anilist.co/anime/98707) (19:16, 14 June 2023)
+-   📖 Completed [Imouto to Nuku](https://anilist.co/manga/164055) (08:15, 14 June 2023)
+-   📖 Plans to read [Boku no Netorase Seiheki ni Tsukiatte Kureru Kanojo](https://anilist.co/manga/164199) (06:23, 14 June 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
