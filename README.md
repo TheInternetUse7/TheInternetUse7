@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 3325 - 3370 of [Martial Peak](https://anilist.co/manga/104494) (18:59, 18 June 2023)
+-   📺 Completed [Lookism](https://anilist.co/anime/158539) (14:51, 19 June 2023)
+-   📺 Watched episode 4 - 7 of [Lookism](https://anilist.co/anime/158539) (14:51, 19 June 2023)
+-   📖 Read chapter 391 of [My Hero Academia](https://anilist.co/manga/85486) (10:46, 19 June 2023)
+-   📖 Read chapter 3325 - 3373 of [Martial Peak](https://anilist.co/manga/104494) (09:48, 19 June 2023)
 -   📖 Completed [Cry-baby Sister](https://anilist.co/manga/60271) (08:37, 18 June 2023)
--   📖 Dropped 2 of [Saimin Seikatsu [Fujimiya Sophia-hen]](https://anilist.co/manga/148734) (08:13, 18 June 2023)
--   📖 Read chapter 74 - 75 of [Saotome Shimai wa Manga no Tame Nara!?](https://anilist.co/manga/103621) (05:27, 18 June 2023)
--   📺 Watched episode 1 - 10 of [In Another World With My Smartphone 2](https://anilist.co/anime/147571) (15:49, 17 June 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
