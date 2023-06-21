@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Completed [Lookism](https://anilist.co/anime/158539) (14:51, 19 June 2023)
--   📺 Watched episode 4 - 7 of [Lookism](https://anilist.co/anime/158539) (14:51, 19 June 2023)
--   📖 Read chapter 391 of [My Hero Academia](https://anilist.co/manga/85486) (10:46, 19 June 2023)
--   📖 Read chapter 3325 - 3373 of [Martial Peak](https://anilist.co/manga/104494) (09:48, 19 June 2023)
--   📖 Completed [Cry-baby Sister](https://anilist.co/manga/60271) (08:37, 18 June 2023)
+-   📖 Plans to read [We're Siblings Yet So Sexually Compatible?!](https://anilist.co/manga/153138) (08:07, 20 June 2023)
+-   📖 Dropped [Secret Sex Room](https://anilist.co/manga/147283) (08:05, 20 June 2023)
+-   📖 Read chapter 1 - 3 of [Secret Sex Room](https://anilist.co/manga/147283) (08:05, 20 June 2023)
+-   📖 Plans to read [Secret Sex Room](https://anilist.co/manga/147283) (08:04, 20 June 2023)
+-   📖 Read chapter 74 - 76 of [Saotome Shimai wa Manga no Tame Nara!?](https://anilist.co/manga/103621) (04:08, 20 June 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
