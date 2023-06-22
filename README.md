@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Plans to read [We're Siblings Yet So Sexually Compatible?!](https://anilist.co/manga/153138) (08:07, 20 June 2023)
--   📖 Dropped [Secret Sex Room](https://anilist.co/manga/147283) (08:05, 20 June 2023)
--   📖 Read chapter 1 - 3 of [Secret Sex Room](https://anilist.co/manga/147283) (08:05, 20 June 2023)
--   📖 Plans to read [Secret Sex Room](https://anilist.co/manga/147283) (08:04, 20 June 2023)
--   📖 Read chapter 74 - 76 of [Saotome Shimai wa Manga no Tame Nara!?](https://anilist.co/manga/103621) (04:08, 20 June 2023)
+-   📖 Read chapter 15 - 16 of [Isekai Danyuu: Shiru Danyuu ga Isekai Tensei Shite Ero Chishiki Full Katsuyou de Musou Danyuu ni Naru Hanashi](https://anilist.co/manga/156621) (22:04, 21 June 2023)
+-   📺 Completed [Shelter](https://anilist.co/anime/97731) (20:13, 21 June 2023)
+-   📺 Completed [Dramaturgy](https://anilist.co/anime/107179) (20:04, 21 June 2023)
+-   📺 Completed [How to Eat Life](https://anilist.co/anime/118857) (20:04, 21 June 2023)
+-   📺 Completed [Ame wo Matsu,](https://anilist.co/anime/120607) (20:02, 21 June 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
