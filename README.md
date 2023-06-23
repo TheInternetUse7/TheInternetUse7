@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 15 - 16 of [Isekai Danyuu: Shiru Danyuu ga Isekai Tensei Shite Ero Chishiki Full Katsuyou de Musou Danyuu ni Naru Hanashi](https://anilist.co/manga/156621) (22:04, 21 June 2023)
--   📺 Completed [Shelter](https://anilist.co/anime/97731) (20:13, 21 June 2023)
--   📺 Completed [Dramaturgy](https://anilist.co/anime/107179) (20:04, 21 June 2023)
--   📺 Completed [How to Eat Life](https://anilist.co/anime/118857) (20:04, 21 June 2023)
--   📺 Completed [Ame wo Matsu,](https://anilist.co/anime/120607) (20:02, 21 June 2023)
+-   📺 Watched episode 1 - 3 of [KONOSUBA -God's blessing on this wonderful world! 2](https://anilist.co/anime/21699) (19:38, 22 June 2023)
+-   📺 Watched episode 1 of [NANA](https://anilist.co/anime/877) (11:23, 22 June 2023)
+-   📺 Plans to watch [KONOSUBA -God's blessing on this wonderful world! 2](https://anilist.co/anime/21699) (10:39, 22 June 2023)
+-   📖 Plans to read [Succubus System](https://anilist.co/manga/162866) (10:37, 22 June 2023)
+-   📖 Read chapter 141 of [Teenage Mercenary](https://anilist.co/manga/126297) (08:47, 22 June 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
