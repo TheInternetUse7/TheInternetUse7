@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 3 of [KONOSUBA -God's blessing on this wonderful world! 2](https://anilist.co/anime/21699) (19:38, 22 June 2023)
--   📺 Watched episode 1 of [NANA](https://anilist.co/anime/877) (11:23, 22 June 2023)
--   📺 Plans to watch [KONOSUBA -God's blessing on this wonderful world! 2](https://anilist.co/anime/21699) (10:39, 22 June 2023)
--   📖 Plans to read [Succubus System](https://anilist.co/manga/162866) (10:37, 22 June 2023)
--   📖 Read chapter 141 of [Teenage Mercenary](https://anilist.co/manga/126297) (08:47, 22 June 2023)
+-   📺 Completed [KONOSUBA -God's blessing on this wonderful world! 2: God's Blessings on These Wonderful Works of Art!](https://anilist.co/anime/97996) (19:37, 23 June 2023)
+-   📺 Plans to watch [KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson](https://anilist.co/anime/102976) (19:06, 23 June 2023)
+-   📺 Plans to watch [Kono Subarashii Sekai ni Shukufuku wo! 3](https://anilist.co/anime/136804) (19:06, 23 June 2023)
+-   📺 Plans to watch [KONOSUBA -God's blessing on this wonderful world! 2: God's Blessings on These Wonderful Works of Art!](https://anilist.co/anime/97996) (19:04, 23 June 2023)
+-   📺 Completed [KONOSUBA -God's blessing on this wonderful world! 2](https://anilist.co/anime/21699) (18:59, 23 June 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
