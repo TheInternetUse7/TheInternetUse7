@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Completed [KONOSUBA -God's blessing on this wonderful world! 2: God's Blessings on These Wonderful Works of Art!](https://anilist.co/anime/97996) (19:37, 23 June 2023)
--   📺 Plans to watch [KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson](https://anilist.co/anime/102976) (19:06, 23 June 2023)
--   📺 Plans to watch [Kono Subarashii Sekai ni Shukufuku wo! 3](https://anilist.co/anime/136804) (19:06, 23 June 2023)
--   📺 Plans to watch [KONOSUBA -God's blessing on this wonderful world! 2: God's Blessings on These Wonderful Works of Art!](https://anilist.co/anime/97996) (19:04, 23 June 2023)
--   📺 Completed [KONOSUBA -God's blessing on this wonderful world! 2](https://anilist.co/anime/21699) (18:59, 23 June 2023)
+-   📖 Read chapter 56 - 62 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (08:33, 24 June 2023)
+-   📖 Read chapter 92 of [Landlord Sisters](https://anilist.co/manga/138564) (08:13, 24 June 2023)
+-   📖 Read chapter 41 of [Childhood Friend](https://anilist.co/manga/151890) (08:03, 24 June 2023)
+-   📖 Read chapter 3325 - 3386 of [Martial Peak](https://anilist.co/manga/104494) (07:57, 24 June 2023)
+-   📖 Read chapter 1 - 159 of [Nano Machine](https://anilist.co/manga/120980) (07:57, 24 June 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
