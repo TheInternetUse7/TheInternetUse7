@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 56 - 62 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (08:33, 24 June 2023)
+-   📺 Plans to watch [When Supernatural Battles Became Commonplace](https://anilist.co/anime/20646) (15:26, 25 June 2023)
+-   📺 Watched episode 2 - 3 of [Tsugumomo](https://anilist.co/anime/97625) (08:55, 25 June 2023)
+-   📖 Read chapter 56 - 68 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (08:11, 25 June 2023)
 -   📖 Read chapter 92 of [Landlord Sisters](https://anilist.co/manga/138564) (08:13, 24 June 2023)
 -   📖 Read chapter 41 of [Childhood Friend](https://anilist.co/manga/151890) (08:03, 24 June 2023)
--   📖 Read chapter 3325 - 3386 of [Martial Peak](https://anilist.co/manga/104494) (07:57, 24 June 2023)
--   📖 Read chapter 1 - 159 of [Nano Machine](https://anilist.co/manga/120980) (07:57, 24 June 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
