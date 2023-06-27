@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Plans to watch [When Supernatural Battles Became Commonplace](https://anilist.co/anime/20646) (15:26, 25 June 2023)
--   📺 Watched episode 2 - 3 of [Tsugumomo](https://anilist.co/anime/97625) (08:55, 25 June 2023)
--   📖 Read chapter 56 - 68 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (08:11, 25 June 2023)
--   📖 Read chapter 92 of [Landlord Sisters](https://anilist.co/manga/138564) (08:13, 24 June 2023)
--   📖 Read chapter 41 of [Childhood Friend](https://anilist.co/manga/151890) (08:03, 24 June 2023)
+-   📖 Read chapter 3325 - 3392 of [Martial Peak](https://anilist.co/manga/104494) (20:06, 26 June 2023)
+-   📖 Read chapter 2 of [Where Is My Little Stick?!](https://anilist.co/manga/157094) (05:48, 26 June 2023)
+-   📖 Read chapter 102 of [Dripping Wet](https://anilist.co/manga/133057) (05:42, 26 June 2023)
+-   📖 Read chapter 180 of [Overgeared](https://anilist.co/manga/117460) (03:27, 26 June 2023)
+-   📖 Read chapter 19 of [Magic Maker: Isekai Mahou no Tsukurikata](https://anilist.co/manga/155780) (03:15, 26 June 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
