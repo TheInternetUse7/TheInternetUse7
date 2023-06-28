@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 3325 - 3392 of [Martial Peak](https://anilist.co/manga/104494) (20:06, 26 June 2023)
+-   📺 Watched episode 1 - 8 of [That Time I Got Reincarnated as a Slime](https://anilist.co/anime/101280) (21:31, 27 June 2023)
+-   📺 Completed [Sakuramiya Shimai no Netorare Kiroku](https://anilist.co/anime/108411) (16:10, 27 June 2023)
+-   📺 Watched episode 2 - 4 of [Tsugumomo](https://anilist.co/anime/97625) (11:47, 27 June 2023)
+-   📖 Read chapter 3325 - 3393 of [Martial Peak](https://anilist.co/manga/104494) (06:08, 27 June 2023)
 -   📖 Read chapter 2 of [Where Is My Little Stick?!](https://anilist.co/manga/157094) (05:48, 26 June 2023)
--   📖 Read chapter 102 of [Dripping Wet](https://anilist.co/manga/133057) (05:42, 26 June 2023)
--   📖 Read chapter 180 of [Overgeared](https://anilist.co/manga/117460) (03:27, 26 June 2023)
--   📖 Read chapter 19 of [Magic Maker: Isekai Mahou no Tsukurikata](https://anilist.co/manga/155780) (03:15, 26 June 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
