@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 18 of [That Time I Got Reincarnated as a Slime](https://anilist.co/anime/101280) (19:51, 01 July 2023)
--   📺 Watched episode 1 - 3 of [kiss×sis (TV)](https://anilist.co/anime/7593) (13:19, 01 July 2023)
--   📖 Read chapter 2 - 9 of [Where Is My Little Stick?!](https://anilist.co/manga/157094) (10:42, 01 July 2023)
--   📺 Plans to watch [NAKAIMO - My Little Sister Is Among Them!](https://anilist.co/anime/13367) (17:10, 30 June 2023)
--   📖 Read chapter 3325 - 3405 of [Martial Peak](https://anilist.co/manga/104494) (10:09, 30 June 2023)
+-   📖 Read chapter 2 - 12 of [Where Is My Little Stick?!](https://anilist.co/manga/157094) (18:42, 02 July 2023)
+-   📺 Watched episode 1 - 21 of [That Time I Got Reincarnated as a Slime](https://anilist.co/anime/101280) (13:41, 02 July 2023)
+-   📺 Plans to watch [Attack on Titan Final Season THE FINAL CHAPTERS Special 2](https://anilist.co/anime/162314) (10:18, 02 July 2023)
+-   📺 Completed [Attack on Titan Final Season THE FINAL CHAPTERS Special 1](https://anilist.co/anime/146984) (09:39, 02 July 2023)
+-   📖 Read chapter 1 - 160 of [Nano Machine](https://anilist.co/manga/120980) (08:04, 02 July 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
