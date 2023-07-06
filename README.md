@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 5 of [kiss×sis (TV)](https://anilist.co/anime/7593) (19:10, 04 July 2023)
+-   📖 Read chapter 1 - 253 of [Eleceed](https://anilist.co/manga/106929) (18:38, 05 July 2023)
+-   📺 Watched episode 1 - 6 of [kiss×sis (TV)](https://anilist.co/anime/7593) (17:28, 05 July 2023)
 -   📺 Completed [That Time I Got Reincarnated as a Slime](https://anilist.co/anime/101280) (17:14, 04 July 2023)
 -   📺 Watched episode 1 - 23 of [That Time I Got Reincarnated as a Slime](https://anilist.co/anime/101280) (13:55, 04 July 2023)
 -   📖 Read chapter 3325 - 3417 of [Martial Peak](https://anilist.co/manga/104494) (12:24, 04 July 2023)
--   📖 Read chapter 114 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (12:09, 04 July 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
