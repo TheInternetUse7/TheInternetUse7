@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 92 - 97 of [Landlord Sisters](https://anilist.co/manga/138564) (12:04, 06 July 2023)
+-   📖 Read chapter 1 - 161 of [Nano Machine](https://anilist.co/manga/120980) (05:45, 06 July 2023)
+-   📖 Read chapter 450 - 451 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (05:45, 06 July 2023)
+-   📖 Read chapter 3325 - 3420 of [Martial Peak](https://anilist.co/manga/104494) (05:22, 06 July 2023)
 -   📖 Read chapter 1 - 253 of [Eleceed](https://anilist.co/manga/106929) (18:38, 05 July 2023)
--   📺 Watched episode 1 - 6 of [kiss×sis (TV)](https://anilist.co/anime/7593) (17:28, 05 July 2023)
--   📺 Completed [That Time I Got Reincarnated as a Slime](https://anilist.co/anime/101280) (17:14, 04 July 2023)
--   📺 Watched episode 1 - 23 of [That Time I Got Reincarnated as a Slime](https://anilist.co/anime/101280) (13:55, 04 July 2023)
--   📖 Read chapter 3325 - 3417 of [Martial Peak](https://anilist.co/manga/104494) (12:24, 04 July 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
