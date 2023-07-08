@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 7 of [kiss×sis (TV)](https://anilist.co/anime/7593) (17:53, 07 July 2023)
+-   📖 Read chapter 180 - 183 of [Overgeared](https://anilist.co/manga/117460) (06:10, 07 July 2023)
+-   📖 Read chapter 3325 - 3421 of [Martial Peak](https://anilist.co/manga/104494) (04:41, 07 July 2023)
+-   📖 Read chapter 17 of [Isekai Danyuu: Shiru Danyuu ga Isekai Tensei Shite Ero Chishiki Full Katsuyou de Musou Danyuu ni Naru Hanashi](https://anilist.co/manga/156621) (04:33, 07 July 2023)
 -   📖 Read chapter 92 - 97 of [Landlord Sisters](https://anilist.co/manga/138564) (12:04, 06 July 2023)
--   📖 Read chapter 1 - 161 of [Nano Machine](https://anilist.co/manga/120980) (05:45, 06 July 2023)
--   📖 Read chapter 450 - 451 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (05:45, 06 July 2023)
--   📖 Read chapter 3325 - 3420 of [Martial Peak](https://anilist.co/manga/104494) (05:22, 06 July 2023)
--   📖 Read chapter 1 - 253 of [Eleceed](https://anilist.co/manga/106929) (18:38, 05 July 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
