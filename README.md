@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 7 of [Oshi No Ko](https://anilist.co/anime/150672) (20:08, 08 July 2023)
+-   📺 Watched episode 1 - 10 of [Oshi No Ko](https://anilist.co/anime/150672) (20:37, 09 July 2023)
+-   📺 Plans to watch [Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2](https://anilist.co/anime/166873) (13:09, 09 July 2023)
 -   📺 Watched episode 1 - 9 of [kiss×sis (TV)](https://anilist.co/anime/7593) (15:14, 08 July 2023)
 -   📖 Read chapter 3325 - 3423 of [Martial Peak](https://anilist.co/manga/104494) (06:50, 08 July 2023)
 -   📖 Read chapter 180 - 183 of [Overgeared](https://anilist.co/manga/117460) (06:10, 07 July 2023)
--   📖 Read chapter 17 of [Isekai Danyuu: Shiru Danyuu ga Isekai Tensei Shite Ero Chishiki Full Katsuyou de Musou Danyuu ni Naru Hanashi](https://anilist.co/manga/156621) (04:33, 07 July 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
