@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 10 of [Oshi No Ko](https://anilist.co/anime/150672) (20:37, 09 July 2023)
--   📺 Plans to watch [Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2](https://anilist.co/anime/166873) (13:09, 09 July 2023)
--   📺 Watched episode 1 - 9 of [kiss×sis (TV)](https://anilist.co/anime/7593) (15:14, 08 July 2023)
--   📖 Read chapter 3325 - 3423 of [Martial Peak](https://anilist.co/manga/104494) (06:50, 08 July 2023)
--   📖 Read chapter 180 - 183 of [Overgeared](https://anilist.co/manga/117460) (06:10, 07 July 2023)
+-   📺 Completed [Oshi No Ko](https://anilist.co/anime/150672) (19:03, 10 July 2023)
+-   📖 Read chapter 92 - 100 of [Landlord Sisters](https://anilist.co/manga/138564) (11:39, 10 July 2023)
+-   📖 Read chapter 71 of [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (11:30, 10 July 2023)
+-   📖 Read chapter 3325 - 3428 of [Martial Peak](https://anilist.co/manga/104494) (11:19, 10 July 2023)
+-   📖 Read chapter 114 - 115 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (11:06, 10 July 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
