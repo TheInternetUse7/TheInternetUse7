@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 3325 - 3437 of [Martial Peak](https://anilist.co/manga/104494) (10:59, 13 July 2023)
+-   📖 Read chapter 1 - 162 of [Nano Machine](https://anilist.co/manga/120980) (10:49, 13 July 2023)
+-   📖 Read chapter 450 - 452 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (02:25, 13 July 2023)
+-   📖 Read chapter 1 - 254 of [Eleceed](https://anilist.co/manga/106929) (02:22, 13 July 2023)
 -   📺 Plans to watch [Ladies Versus Butlers](https://anilist.co/anime/7148) (19:53, 12 July 2023)
--   📖 Read chapter 180 - 184 of [Overgeared](https://anilist.co/manga/117460) (19:52, 12 July 2023)
--   📺 Watched episode 1 - 10 of [kiss×sis (TV)](https://anilist.co/anime/7593) (17:30, 12 July 2023)
--   📖 Read chapter 3325 - 3432 of [Martial Peak](https://anilist.co/manga/104494) (19:45, 11 July 2023)
--   📺 Completed [Oshi No Ko](https://anilist.co/anime/150672) (19:03, 10 July 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
