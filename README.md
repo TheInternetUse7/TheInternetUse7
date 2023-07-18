@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 450 - 453 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (21:42, 17 July 2023)
 -   📖 Read chapter 3325 - 3453 of [Martial Peak](https://anilist.co/manga/104494) (19:56, 16 July 2023)
 -   📖 Read chapter 7 of [Yuusha ni Zenbu Ubawareta Ore wa Yuusha no Hahaoya to Party wo Kumimashita!](https://anilist.co/manga/159187) (19:45, 16 July 2023)
 -   📖 Read chapter 142 - 144 of [Teenage Mercenary](https://anilist.co/manga/126297) (19:37, 16 July 2023)
 -   📺 Completed [kiss×sis (TV)](https://anilist.co/anime/7593) (17:01, 15 July 2023)
--   📺 Watched episode 1 - 11 of [kiss×sis (TV)](https://anilist.co/anime/7593) (17:01, 15 July 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
