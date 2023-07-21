@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [Girlfriend, Girlfriend](https://anilist.co/manga/116266) (20:02, 20 July 2023)
+-   📖 Read chapter 2 - 19 of [Where Is My Little Stick?!](https://anilist.co/manga/157094) (16:10, 20 July 2023)
+-   📺 Watched episode 1 - 2 of [Black Lagoon](https://anilist.co/anime/889) (13:48, 20 July 2023)
 -   📖 Read chapter 1 - 255 of [Eleceed](https://anilist.co/manga/106929) (12:24, 19 July 2023)
 -   📖 Read chapter 3325 - 3457 of [Martial Peak](https://anilist.co/manga/104494) (18:20, 18 July 2023)
--   📖 Read chapter 114 - 116 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (17:19, 18 July 2023)
--   📖 Read chapter 392 - 394 of [My Hero Academia](https://anilist.co/manga/85486) (10:11, 18 July 2023)
--   📖 Read chapter 450 - 453 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (21:42, 17 July 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
