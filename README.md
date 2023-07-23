@@ -25,7 +25,7 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 3325 - 3462 of [Martial Peak](https://anilist.co/manga/104494) (20:55, 21 July 2023)
+-   📖 Read chapter 3325 - 3463 of [Martial Peak](https://anilist.co/manga/104494) (23:11, 22 July 2023)
 -   📖 Read chapter 1 of [Sarasare Aidol](https://anilist.co/manga/122951) (14:42, 21 July 2023)
 -   📖 Plans to read [Sarasare Aidol](https://anilist.co/manga/122951) (14:42, 21 July 2023)
 -   📖 Read chapter 16 of [DRAMA QUEENS](https://anilist.co/manga/131769) (12:50, 21 July 2023)
