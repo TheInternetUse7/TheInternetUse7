@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 3325 - 3463 of [Martial Peak](https://anilist.co/manga/104494) (23:11, 22 July 2023)
+-   📖 Read chapter 3325 - 3465 of [Martial Peak](https://anilist.co/manga/104494) (19:45, 25 July 2023)
+-   📖 Read chapter 180 - 186 of [Overgeared](https://anilist.co/manga/117460) (05:18, 25 July 2023)
 -   📖 Read chapter 1 of [Sarasare Aidol](https://anilist.co/manga/122951) (14:42, 21 July 2023)
 -   📖 Plans to read [Sarasare Aidol](https://anilist.co/manga/122951) (14:42, 21 July 2023)
 -   📖 Read chapter 16 of [DRAMA QUEENS](https://anilist.co/manga/131769) (12:50, 21 July 2023)
--   📖 Read chapter 58 of [Sex Study Group](https://anilist.co/manga/145493) (12:38, 21 July 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
