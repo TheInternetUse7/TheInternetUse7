@@ -25,9 +25,9 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 8 of [School Days (TV)](https://anilist.co/anime/2476) (10:34, 28 July 2023)
 -   📺 Plans to watch [Zom 100: Bucket List of the Dead](https://anilist.co/anime/159831) (23:25, 27 July 2023)
 -   📺 Watched episode 1 - 3 of [Am I Actually the Strongest?](https://anilist.co/anime/154391) (23:09, 27 July 2023)
--   📺 Watched episode 1 - 3 of [School Days (TV)](https://anilist.co/anime/2476) (18:27, 27 July 2023)
 -   📖 Read chapter 1 - 256 of [Eleceed](https://anilist.co/manga/106929) (14:32, 27 July 2023)
 -   📖 Read chapter 1 - 10 of [Engineering Beauties](https://anilist.co/manga/144630) (11:07, 27 July 2023)
 
