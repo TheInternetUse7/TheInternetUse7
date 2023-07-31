@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Plans to read [Inside the Tentacle Cave](https://anilist.co/manga/142839) (15:21, 29 July 2023)
--   📖 Read chapter 450 - 454 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (14:54, 29 July 2023)
--   📖 Read chapter 180 - 187 of [Overgeared](https://anilist.co/manga/117460) (07:54, 29 July 2023)
--   📺 Watched episode 1 - 8 of [School Days (TV)](https://anilist.co/anime/2476) (10:34, 28 July 2023)
--   📺 Plans to watch [Zom 100: Bucket List of the Dead](https://anilist.co/anime/159831) (23:25, 27 July 2023)
+-   📖 Read chapter 163 - 164 of [Nano Machine](https://anilist.co/manga/120980) (19:43, 30 July 2023)
+-   📖 Read chapter 142 - 145 of [Teenage Mercenary](https://anilist.co/manga/126297) (19:25, 30 July 2023)
+-   📖 Read chapter 3325 - 3492 of [Martial Peak](https://anilist.co/manga/104494) (19:16, 30 July 2023)
+-   📖 Plans to read [Bokura ga Sefure ja Nakunaru Hi](https://anilist.co/manga/162431) (15:23, 30 July 2023)
+-   📖 Read chapter 450 - 455 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (13:49, 30 July 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
