@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 3325 - 3494 of [Martial Peak](https://anilist.co/manga/104494) (20:28, 31 July 2023)
--   📺 Watched episode 1 - 4 of [Am I Actually the Strongest?](https://anilist.co/anime/154391) (19:29, 31 July 2023)
--   📺 Completed [School Days (TV)](https://anilist.co/anime/2476) (08:08, 31 July 2023)
--   📺 Watched episode 1 - 11 of [School Days (TV)](https://anilist.co/anime/2476) (07:36, 31 July 2023)
--   📖 Read chapter 163 - 164 of [Nano Machine](https://anilist.co/manga/120980) (19:43, 30 July 2023)
+-   📖 Read chapter 182 - 185 of [One-Punch Man](https://anilist.co/manga/74347) (20:23, 01 August 2023)
+-   📖 Plans to read [Love Letter](https://anilist.co/manga/51241) (14:32, 01 August 2023)
+-   📖 Plans to read [I Love Money](https://anilist.co/manga/132431) (14:30, 01 August 2023)
+-   📖 Completed [Nosewasure](https://anilist.co/manga/33815) (14:26, 01 August 2023)
+-   📖 Read chapter 58 - 64 of [Sex Study Group](https://anilist.co/manga/145493) (14:21, 01 August 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
