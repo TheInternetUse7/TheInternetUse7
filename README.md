@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 137 - 148 of [Omniscient Reader](https://anilist.co/manga/119257) (20:29, 02 August 2023)
--   📖 Read chapter 118 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (19:36, 02 August 2023)
--   📖 Read chapter 1 - 257 of [Eleceed](https://anilist.co/manga/106929) (14:17, 02 August 2023)
--   📖 Read chapter 450 - 456 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (10:36, 02 August 2023)
--   📖 Read chapter 182 - 189 of [One-Punch Man](https://anilist.co/manga/74347) (10:29, 02 August 2023)
+-   📖 Read chapter 137 - 163 of [Omniscient Reader](https://anilist.co/manga/119257) (22:20, 03 August 2023)
+-   📖 Read chapter 1 - 4 of [Love Letter](https://anilist.co/manga/51241) (10:42, 03 August 2023)
+-   📖 Read chapter 137 - 154 of [Omniscient Reader](https://anilist.co/manga/119257) (07:26, 03 August 2023)
+-   📖 Read chapter 163 - 165 of [Nano Machine](https://anilist.co/manga/120980) (06:55, 03 August 2023)
+-   📖 Read chapter 142 - 147 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:55, 03 August 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
