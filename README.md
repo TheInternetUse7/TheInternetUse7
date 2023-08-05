@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 137 - 163 of [Omniscient Reader](https://anilist.co/manga/119257) (22:20, 03 August 2023)
--   📖 Read chapter 1 - 4 of [Love Letter](https://anilist.co/manga/51241) (10:42, 03 August 2023)
+-   📖 Read chapter 137 - 168 of [Omniscient Reader](https://anilist.co/manga/119257) (21:10, 04 August 2023)
+-   📖 Read chapter 1 - 5 of [Love Letter](https://anilist.co/manga/51241) (13:58, 04 August 2023)
+-   📺 Rewatched episode 6 of [Domestic Girlfriend](https://anilist.co/anime/103139) (11:07, 04 August 2023)
+-   📺 Plans to watch [Panty & Stocking with Garterbelt](https://anilist.co/anime/8795) (06:30, 04 August 2023)
 -   📖 Read chapter 137 - 154 of [Omniscient Reader](https://anilist.co/manga/119257) (07:26, 03 August 2023)
--   📖 Read chapter 163 - 165 of [Nano Machine](https://anilist.co/manga/120980) (06:55, 03 August 2023)
--   📖 Read chapter 142 - 147 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:55, 03 August 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
