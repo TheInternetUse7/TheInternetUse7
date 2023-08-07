@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 8 - 9 of [Tefure.](https://anilist.co/manga/136415) (17:39, 05 August 2023)
--   📖 Read chapter 18 - 19 of [Isekai Danyuu: Shiru Danyuu ga Isekai Tensei Shite Ero Chishiki Full Katsuyou de Musou Danyuu ni Naru Hanashi](https://anilist.co/manga/156621) (17:19, 05 August 2023)
--   📖 Read chapter 139 - 146 of [Blood on the Tracks](https://anilist.co/manga/98397) (15:55, 05 August 2023)
--   📖 Read chapter 408 - 421 of [Tales of Demons and Gods](https://anilist.co/manga/86707) (07:52, 05 August 2023)
--   📖 Read chapter 396 of [My Hero Academia](https://anilist.co/manga/85486) (02:37, 05 August 2023)
+-   📖 Read chapter 47 - 69 of [Futagotachi no Sho Jijou](https://anilist.co/manga/119472) (19:25, 06 August 2023)
+-   📖 Read chapter 3325 - 3500 of [Martial Peak](https://anilist.co/manga/104494) (18:28, 06 August 2023)
+-   📺 Plans to watch [Boku no Hero Academia THE MOVIE 4](https://anilist.co/anime/168013) (11:28, 06 August 2023)
+-   📖 Read chapter 89 of [The 100 Girlfriends Who Really, Really, Really, Really, Really Love You](https://anilist.co/manga/114416) (05:12, 06 August 2023)
+-   📺 Plans to watch [Asobi Asobase - workshop of fun -](https://anilist.co/anime/101001) (03:50, 06 August 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
