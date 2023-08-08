@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 47 - 69 of [Futagotachi no Sho Jijou](https://anilist.co/manga/119472) (19:25, 06 August 2023)
--   📖 Read chapter 3325 - 3500 of [Martial Peak](https://anilist.co/manga/104494) (18:28, 06 August 2023)
--   📺 Plans to watch [Boku no Hero Academia THE MOVIE 4](https://anilist.co/anime/168013) (11:28, 06 August 2023)
--   📖 Read chapter 89 of [The 100 Girlfriends Who Really, Really, Really, Really, Really Love You](https://anilist.co/manga/114416) (05:12, 06 August 2023)
--   📺 Plans to watch [Asobi Asobase - workshop of fun -](https://anilist.co/anime/101001) (03:50, 06 August 2023)
+-   📖 Read chapter 450 - 457 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (20:07, 07 August 2023)
+-   📖 Read chapter 3325 - 3501 of [Martial Peak](https://anilist.co/manga/104494) (20:04, 07 August 2023)
+-   📺 Watched episode 1 - 5 of [Am I Actually the Strongest?](https://anilist.co/anime/154391) (09:04, 07 August 2023)
+-   📺 Rewatched episode 6 - 7 of [Domestic Girlfriend](https://anilist.co/anime/103139) (07:42, 07 August 2023)
+-   📺 Watched episode 1 - 6 of [Black Lagoon](https://anilist.co/anime/889) (06:06, 07 August 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
