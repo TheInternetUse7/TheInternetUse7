@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 258 of [Eleceed](https://anilist.co/manga/106929) (18:51, 08 August 2023)
--   📖 Read chapter 180 - 188 of [Overgeared](https://anilist.co/manga/117460) (17:41, 08 August 2023)
--   📖 Read chapter 137 - 170 of [Omniscient Reader](https://anilist.co/manga/119257) (17:28, 08 August 2023)
--   📖 Read chapter 3325 - 3502 of [Martial Peak](https://anilist.co/manga/104494) (17:22, 08 August 2023)
--   📖 Read chapter 450 - 457 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (20:07, 07 August 2023)
+-   📖 Read chapter 163 - 166 of [Nano Machine](https://anilist.co/manga/120980) (21:26, 09 August 2023)
+-   📖 Read chapter 3325 - 3505 of [Martial Peak](https://anilist.co/manga/104494) (21:19, 09 August 2023)
+-   📺 Rewatched episode 6 - 9 of [Domestic Girlfriend](https://anilist.co/anime/103139) (19:13, 09 August 2023)
+-   📖 Read chapter 84 of [Jungle Juice](https://anilist.co/manga/128882) (18:40, 09 August 2023)
+-   📺 Watched episode 1 - 7 of [Black Lagoon](https://anilist.co/anime/889) (15:41, 09 August 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
