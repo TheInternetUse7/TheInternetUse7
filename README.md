@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 163 - 166 of [Nano Machine](https://anilist.co/manga/120980) (21:26, 09 August 2023)
--   📖 Read chapter 3325 - 3505 of [Martial Peak](https://anilist.co/manga/104494) (21:19, 09 August 2023)
--   📺 Rewatched episode 6 - 9 of [Domestic Girlfriend](https://anilist.co/anime/103139) (19:13, 09 August 2023)
--   📖 Read chapter 84 of [Jungle Juice](https://anilist.co/manga/128882) (18:40, 09 August 2023)
--   📺 Watched episode 1 - 7 of [Black Lagoon](https://anilist.co/anime/889) (15:41, 09 August 2023)
+-   📺 Watched episode 1 - 2 of [Rent-a-Girlfriend Season 3](https://anilist.co/anime/154745) (21:26, 10 August 2023)
+-   📺 Watched episode 1 - 8 of [Black Lagoon](https://anilist.co/anime/889) (18:26, 10 August 2023)
+-   📺 Plans to watch [Seikatsu Shuukan THE ANIMATION](https://anilist.co/anime/106578) (06:11, 10 August 2023)
+-   📺 Plans to watch [Tanetsuke Oji-san to NTR Hitozuma Sex](https://anilist.co/anime/164297) (06:11, 10 August 2023)
+-   📖 Read chapter 54 - 55 of [The Eminence in Shadow](https://anilist.co/manga/106758) (04:20, 10 August 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
