@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 2 of [Rent-a-Girlfriend Season 3](https://anilist.co/anime/154745) (21:26, 10 August 2023)
--   📺 Watched episode 1 - 8 of [Black Lagoon](https://anilist.co/anime/889) (18:26, 10 August 2023)
--   📺 Plans to watch [Seikatsu Shuukan THE ANIMATION](https://anilist.co/anime/106578) (06:11, 10 August 2023)
--   📺 Plans to watch [Tanetsuke Oji-san to NTR Hitozuma Sex](https://anilist.co/anime/164297) (06:11, 10 August 2023)
--   📖 Read chapter 54 - 55 of [The Eminence in Shadow](https://anilist.co/manga/106758) (04:20, 10 August 2023)
+-   📖 Read chapter 1 - 3 of [Fushigi Fushidara](https://anilist.co/manga/117115) (19:02, 11 August 2023)
+-   📖 Read chapter 47 - 72 of [Futagotachi no Sho Jijou](https://anilist.co/manga/119472) (18:52, 11 August 2023)
+-   📖 Read chapter 3325 - 3509 of [Martial Peak](https://anilist.co/manga/104494) (18:42, 11 August 2023)
+-   📖 Read chapter 180 - 189 of [Overgeared](https://anilist.co/manga/117460) (11:21, 11 August 2023)
+-   📖 Plans to read [Fushigi Fushidara](https://anilist.co/manga/117115) (11:17, 11 August 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
