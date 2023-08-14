@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 47 - 76 of [Futagotachi no Sho Jijou](https://anilist.co/manga/119472) (20:03, 12 August 2023)
--   📖 Read chapter 84 - 85 of [Jungle Juice](https://anilist.co/manga/128882) (19:57, 12 August 2023)
--   📖 Read chapter 8 of [Yuusha ni Zenbu Ubawareta Ore wa Yuusha no Hahaoya to Party wo Kumimashita!](https://anilist.co/manga/159187) (19:49, 12 August 2023)
--   📖 Read chapter 3325 - 3511 of [Martial Peak](https://anilist.co/manga/104494) (19:34, 12 August 2023)
--   📖 Plans to read [Lilith's Cord](https://anilist.co/manga/87335) (11:48, 12 August 2023)
+-   📖 Read chapter 84 - 89 of [Jungle Juice](https://anilist.co/manga/128882) (15:37, 13 August 2023)
+-   📖 Read chapter 3325 - 3517 of [Martial Peak](https://anilist.co/manga/104494) (15:08, 13 August 2023)
+-   📖 Read chapter 139 - 150 of [Blood on the Tracks](https://anilist.co/manga/98397) (13:45, 13 August 2023)
+-   📖 Completed [Futagotachi no Sho Jijou](https://anilist.co/manga/119472) (13:04, 13 August 2023)
+-   📖 Read chapter 47 - 89 of [Futagotachi no Sho Jijou](https://anilist.co/manga/119472) (05:29, 13 August 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
