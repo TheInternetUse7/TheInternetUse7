@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 3325 - 3524 of [Martial Peak](https://anilist.co/manga/104494) (15:55, 16 August 2023)
+-   📖 Read chapter 137 - 171 of [Omniscient Reader](https://anilist.co/manga/119257) (15:44, 16 August 2023)
+-   📖 Read chapter 180 - 190 of [Overgeared](https://anilist.co/manga/117460) (15:38, 16 August 2023)
+-   📖 Read chapter 1 - 259 of [Eleceed](https://anilist.co/manga/106929) (01:54, 16 August 2023)
 -   📖 Read chapter 118 - 120 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (05:43, 15 August 2023)
--   📖 Read chapter 3325 - 3519 of [Martial Peak](https://anilist.co/manga/104494) (05:38, 15 August 2023)
--   📖 Read chapter 89 - 91 of [The 100 Girlfriends Who Really, Really, Really, Really, Really Love You](https://anilist.co/manga/114416) (12:11, 14 August 2023)
--   📖 Read chapter 84 - 89 of [Jungle Juice](https://anilist.co/manga/128882) (15:37, 13 August 2023)
--   📖 Read chapter 139 - 150 of [Blood on the Tracks](https://anilist.co/manga/98397) (13:45, 13 August 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
