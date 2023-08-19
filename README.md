@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 5 of [Lilith's Cord](https://anilist.co/manga/87335) (08:52, 18 August 2023)
+-   📖 Read chapter 102 of [Landlord Sisters](https://anilist.co/manga/138564) (08:26, 18 August 2023)
+-   📖 Read chapter 1 - 4 of [Aki-Sora](https://anilist.co/manga/42629) (08:20, 18 August 2023)
 -   📖 Read chapter 3325 - 3526 of [Martial Peak](https://anilist.co/manga/104494) (22:37, 17 August 2023)
 -   📖 Read chapter 163 - 167 of [Nano Machine](https://anilist.co/manga/120980) (10:30, 17 August 2023)
--   📖 Read chapter 137 - 171 of [Omniscient Reader](https://anilist.co/manga/119257) (15:44, 16 August 2023)
--   📖 Read chapter 180 - 190 of [Overgeared](https://anilist.co/manga/117460) (15:38, 16 August 2023)
--   📖 Read chapter 1 - 259 of [Eleceed](https://anilist.co/manga/106929) (01:54, 16 August 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
