@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 7 of [Lilith's Cord](https://anilist.co/manga/87335) (00:31, 20 August 2023)
+-   📺 Watched episode 1 - 6 of [Am I Actually the Strongest?](https://anilist.co/anime/154391) (20:23, 20 August 2023)
+-   📺 Watched episode 3 of [The Misfit of Demon King Academy Ⅱ: History's Strongest Demon King Reincarnates and Goes to School with His Descendants](https://anilist.co/anime/130588) (16:01, 20 August 2023)
+-   📺 Watched episode 1 - 6 of [Rent-a-Girlfriend Season 3](https://anilist.co/anime/154745) (11:25, 20 August 2023)
+-   📖 Read chapter 1 - 10 of [Lilith's Cord](https://anilist.co/manga/87335) (00:41, 20 August 2023)
 -   📖 Read chapter 3325 - 3528 of [Martial Peak](https://anilist.co/manga/104494) (00:20, 20 August 2023)
--   📖 Read chapter 397 of [My Hero Academia](https://anilist.co/manga/85486) (06:33, 19 August 2023)
--   📖 Read chapter 84 - 90 of [Jungle Juice](https://anilist.co/manga/128882) (04:20, 19 August 2023)
--   📖 Read chapter 102 of [Landlord Sisters](https://anilist.co/manga/138564) (08:26, 18 August 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
