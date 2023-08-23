@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 17 of [Aki-Sora](https://anilist.co/manga/42629) (00:19, 22 August 2023)
--   📖 Read chapter 3325 - 3529 of [Martial Peak](https://anilist.co/manga/104494) (23:59, 21 August 2023)
--   📖 Plans to read [Gushing over Magical Girls](https://anilist.co/manga/109017) (11:17, 21 August 2023)
--   📺 Watched episode 1 - 6 of [Am I Actually the Strongest?](https://anilist.co/anime/154391) (20:23, 20 August 2023)
--   📺 Watched episode 3 of [The Misfit of Demon King Academy Ⅱ: History's Strongest Demon King Reincarnates and Goes to School with His Descendants](https://anilist.co/anime/130588) (16:01, 20 August 2023)
+-   📖 Read chapter 1 - 260 of [Eleceed](https://anilist.co/manga/106929) (19:29, 22 August 2023)
+-   📖 Read chapter 137 - 172 of [Omniscient Reader](https://anilist.co/manga/119257) (19:21, 22 August 2023)
+-   📺 Watched episode 3 - 4 of [The Misfit of Demon King Academy Ⅱ: History's Strongest Demon King Reincarnates and Goes to School with His Descendants](https://anilist.co/anime/130588) (13:42, 22 August 2023)
+-   📺 Watched episode 1 - 7 of [Rent-a-Girlfriend Season 3](https://anilist.co/anime/154745) (12:06, 22 August 2023)
+-   📖 Read chapter 1 - 19 of [Aki-Sora](https://anilist.co/manga/42629) (05:38, 22 August 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
