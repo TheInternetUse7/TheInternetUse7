@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 27 of [Aki-Sora](https://anilist.co/manga/42629) (19:52, 24 August 2023)
+-   📖 Read chapter 3325 - 3531 of [Martial Peak](https://anilist.co/manga/104494) (07:42, 24 August 2023)
+-   📖 Read chapter 163 - 168 of [Nano Machine](https://anilist.co/manga/120980) (07:33, 24 August 2023)
 -   📺 Completed [School Days: Magical Heart☆Kokoro-chan](https://anilist.co/anime/3328) (18:19, 23 August 2023)
--   📖 Read chapter 1 - 22 of [Aki-Sora](https://anilist.co/manga/42629) (09:29, 23 August 2023)
 -   📖 Read chapter 180 - 191 of [Overgeared](https://anilist.co/manga/117460) (02:30, 23 August 2023)
--   📖 Read chapter 1 - 260 of [Eleceed](https://anilist.co/manga/106929) (19:29, 22 August 2023)
--   📖 Read chapter 137 - 172 of [Omniscient Reader](https://anilist.co/manga/119257) (19:21, 22 August 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
