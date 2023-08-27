@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 11 of [Lilith's Cord](https://anilist.co/manga/87335) (20:20, 25 August 2023)
--   📖 Read chapter 1 - 30 of [Aki-Sora](https://anilist.co/manga/42629) (20:11, 25 August 2023)
--   📖 Read chapter 3325 - 3533 of [Martial Peak](https://anilist.co/manga/104494) (19:53, 25 August 2023)
--   📖 Read chapter 1 - 3 of [Wonderful Days](https://anilist.co/manga/94183) (15:27, 25 August 2023)
--   📖 Plans to read [Wonderful Days](https://anilist.co/manga/94183) (15:26, 25 August 2023)
+-   📖 Read chapter 180 - 192 of [Overgeared](https://anilist.co/manga/117460) (20:12, 26 August 2023)
+-   📖 Read chapter 3325 - 3534 of [Martial Peak](https://anilist.co/manga/104494) (20:01, 26 August 2023)
+-   📖 Read chapter 1 - 3 of [Ane Taiken Jogakuryou](https://anilist.co/manga/141397) (15:54, 26 August 2023)
+-   📖 Plans to read [Ane Taiken Jogakuryou](https://anilist.co/manga/141397) (15:54, 26 August 2023)
+-   📖 Read chapter 1 - 29 of [Lilith's Cord](https://anilist.co/manga/87335) (07:33, 26 August 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
