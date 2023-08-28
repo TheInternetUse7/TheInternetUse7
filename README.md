@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 180 - 192 of [Overgeared](https://anilist.co/manga/117460) (20:12, 26 August 2023)
--   📖 Read chapter 3325 - 3534 of [Martial Peak](https://anilist.co/manga/104494) (20:01, 26 August 2023)
--   📖 Read chapter 1 - 3 of [Ane Taiken Jogakuryou](https://anilist.co/manga/141397) (15:54, 26 August 2023)
--   📖 Plans to read [Ane Taiken Jogakuryou](https://anilist.co/manga/141397) (15:54, 26 August 2023)
--   📖 Read chapter 1 - 29 of [Lilith's Cord](https://anilist.co/manga/87335) (07:33, 26 August 2023)
+-   📖 Read chapter 1 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (20:22, 27 August 2023)
+-   📖 Dropped [If AI Ruled the World](https://anilist.co/manga/132705) (20:14, 27 August 2023)
+-   📖 Read chapter 6 of [Issho ni Kurashite Ii desu ka?](https://anilist.co/manga/159549) (20:12, 27 August 2023)
+-   📺 Watched episode 1 - 7 of [Am I Actually the Strongest?](https://anilist.co/anime/154391) (19:56, 27 August 2023)
+-   📖 Read chapter 1 - 49 of [Lilith's Cord](https://anilist.co/manga/87335) (04:32, 27 August 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
