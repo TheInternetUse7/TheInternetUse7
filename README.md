@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 3325 - 3537 of [Martial Peak](https://anilist.co/manga/104494) (20:24, 29 August 2023)
--   📖 Read chapter 134 of [Don't Toy With Me, Miss Nagatoro](https://anilist.co/manga/100664) (20:18, 29 August 2023)
--   📖 Read chapter 1 - 261 of [Eleceed](https://anilist.co/manga/106929) (20:13, 29 August 2023)
--   📖 Plans to read [Level Up with the Gods](https://anilist.co/manga/138222) (16:57, 29 August 2023)
--   📖 Read chapter 1 - 90 of [Lilith's Cord](https://anilist.co/manga/87335) (11:08, 29 August 2023)
+-   📖 Read chapter 94 - 95 of [The Warrior Returns](https://anilist.co/manga/135318) (19:19, 30 August 2023)
+-   📖 Read chapter 152 of [Blood on the Tracks](https://anilist.co/manga/98397) (18:49, 30 August 2023)
+-   📖 Completed [Lilith's Cord](https://anilist.co/manga/87335) (08:23, 30 August 2023)
+-   📖 Read chapter 1 - 92 of [Lilith's Cord](https://anilist.co/manga/87335) (08:19, 30 August 2023)
+-   📖 Read chapter 216 - 218 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (08:08, 30 August 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
