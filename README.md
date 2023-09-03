@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 148 - 150 of [Teenage Mercenary](https://anilist.co/manga/126297) (18:56, 01 September 2023)
--   📖 Read chapter 103 - 104 of [Landlord Sisters](https://anilist.co/manga/138564) (12:06, 01 September 2023)
--   📖 Read chapter 20 - 21 of [DRAMA QUEENS](https://anilist.co/manga/131769) (11:53, 01 September 2023)
--   📖 Read chapter 84 - 93 of [Jungle Juice](https://anilist.co/manga/128882) (21:05, 31 August 2023)
--   📖 Read chapter 3325 - 3539 of [Martial Peak](https://anilist.co/manga/104494) (20:51, 31 August 2023)
+-   📖 Read chapter 9 of [Sex & Dungeon!!: Wagaya no Chika ni, H Kaisuu = Level no Dungeon ga Shutsugen shita?!](https://anilist.co/manga/115037) (19:03, 02 September 2023)
+-   📺 Watched episode 1 - 8 of [Rent-a-Girlfriend Season 3](https://anilist.co/anime/154745) (17:09, 02 September 2023)
+-   📖 Read chapter 20 - 23 of [DRAMA QUEENS](https://anilist.co/manga/131769) (05:04, 02 September 2023)
+-   📖 Read chapter 65 - 73 of [Sex Study Group](https://anilist.co/manga/145493) (04:50, 02 September 2023)
+-   📖 Read chapter 3325 - 3540 of [Martial Peak](https://anilist.co/manga/104494) (04:17, 02 September 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
