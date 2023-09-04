@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 9 of [Sex & Dungeon!!: Wagaya no Chika ni, H Kaisuu = Level no Dungeon ga Shutsugen shita?!](https://anilist.co/manga/115037) (19:03, 02 September 2023)
+-   📖 Read chapter 9 - 26 of [Sex & Dungeon!!: Wagaya no Chika ni, H Kaisuu = Level no Dungeon ga Shutsugen shita?!](https://anilist.co/manga/115037) (19:22, 03 September 2023)
+-   📖 Read chapter 3325 - 3542 of [Martial Peak](https://anilist.co/manga/104494) (19:04, 03 September 2023)
+-   📖 Read chapter 56 of [The Eminence in Shadow](https://anilist.co/manga/106758) (13:52, 03 September 2023)
 -   📺 Watched episode 1 - 8 of [Rent-a-Girlfriend Season 3](https://anilist.co/anime/154745) (17:09, 02 September 2023)
 -   📖 Read chapter 20 - 23 of [DRAMA QUEENS](https://anilist.co/manga/131769) (05:04, 02 September 2023)
--   📖 Read chapter 65 - 73 of [Sex Study Group](https://anilist.co/manga/145493) (04:50, 02 September 2023)
--   📖 Read chapter 3325 - 3540 of [Martial Peak](https://anilist.co/manga/104494) (04:17, 02 September 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
