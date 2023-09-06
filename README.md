@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 65 - 78 of [Sex Study Group](https://anilist.co/manga/145493) (18:42, 04 September 2023)
--   📖 Completed [Sex & Dungeon!!: Wagaya no Chika ni, H Kaisuu = Level no Dungeon ga Shutsugen shita?!](https://anilist.co/manga/115037) (17:44, 04 September 2023)
--   📖 Read chapter 9 - 36 of [Sex & Dungeon!!: Wagaya no Chika ni, H Kaisuu = Level no Dungeon ga Shutsugen shita?!](https://anilist.co/manga/115037) (16:36, 04 September 2023)
--   📖 Read chapter 3325 - 3542 of [Martial Peak](https://anilist.co/manga/104494) (19:04, 03 September 2023)
--   📖 Read chapter 56 of [The Eminence in Shadow](https://anilist.co/manga/106758) (13:52, 03 September 2023)
+-   📖 Read chapter 137 - 174 of [Omniscient Reader](https://anilist.co/manga/119257) (19:28, 05 September 2023)
+-   📖 Read chapter 1 - 262 of [Eleceed](https://anilist.co/manga/106929) (19:19, 05 September 2023)
+-   📖 Read chapter 140 of [GE: Good Ending](https://anilist.co/manga/45578) (04:18, 05 September 2023)
+-   📖 Read chapter 3325 - 3543 of [Martial Peak](https://anilist.co/manga/104494) (03:58, 05 September 2023)
+-   📖 Plans to read [Kanojo mo Kanojo Kanketsu Kinen Doujinshi](https://anilist.co/manga/168939) (03:41, 05 September 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
