@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 163 - 170 of [Nano Machine](https://anilist.co/manga/120980) (00:28, 07 September 2023)
--   📺 Watched episode 1 - 8 of [Am I Actually the Strongest?](https://anilist.co/anime/154391) (23:24, 06 September 2023)
--   📖 Read chapter 3325 - 3544 of [Martial Peak](https://anilist.co/manga/104494) (16:51, 06 September 2023)
--   📖 Read chapter 137 - 174 of [Omniscient Reader](https://anilist.co/manga/119257) (19:28, 05 September 2023)
--   📖 Read chapter 1 - 262 of [Eleceed](https://anilist.co/manga/106929) (19:19, 05 September 2023)
+-   📖 Read chapter 1 - 5 of [Succubus Nanka ni Makenai Isekai Seikatsu](https://anilist.co/manga/168350) (21:00, 07 September 2023)
+-   📖 Read chapter 3325 - 3546 of [Martial Peak](https://anilist.co/manga/104494) (20:48, 07 September 2023)
+-   📖 Read chapter 148 - 152 of [Teenage Mercenary](https://anilist.co/manga/126297) (20:46, 07 September 2023)
+-   📖 Read chapter 1 - 4 of [Hajirau Kimi ga Mitainda](https://anilist.co/manga/129225) (11:07, 07 September 2023)
+-   📖 Read chapter 1 - 2 of [Yomeiro Choice](https://anilist.co/manga/42090) (09:15, 07 September 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
