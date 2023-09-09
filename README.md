@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 5 of [Succubus Nanka ni Makenai Isekai Seikatsu](https://anilist.co/manga/168350) (21:00, 07 September 2023)
+-   📖 Read chapter 1 - 9 of [Succubus Nanka ni Makenai Isekai Seikatsu](https://anilist.co/manga/168350) (19:47, 08 September 2023)
+-   📖 Read chapter 191 of [One-Punch Man](https://anilist.co/manga/74347) (15:10, 08 September 2023)
 -   📖 Read chapter 3325 - 3546 of [Martial Peak](https://anilist.co/manga/104494) (20:48, 07 September 2023)
 -   📖 Read chapter 148 - 152 of [Teenage Mercenary](https://anilist.co/manga/126297) (20:46, 07 September 2023)
 -   📖 Read chapter 1 - 4 of [Hajirau Kimi ga Mitainda](https://anilist.co/manga/129225) (11:07, 07 September 2023)
--   📖 Read chapter 1 - 2 of [Yomeiro Choice](https://anilist.co/manga/42090) (09:15, 07 September 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
