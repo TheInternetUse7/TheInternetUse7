@@ -25,9 +25,9 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 65 - 84 of [Sex Study Group](https://anilist.co/manga/145493) (21:24, 11 September 2023)
+-   📖 Read chapter 3325 - 3550 of [Martial Peak](https://anilist.co/manga/104494) (21:24, 11 September 2023)
 -   📖 Read chapter 22 of [Where Is My Little Stick?!](https://anilist.co/manga/157094) (22:02, 10 September 2023)
--   📖 Read chapter 65 - 82 of [Sex Study Group](https://anilist.co/manga/145493) (21:59, 10 September 2023)
--   📖 Read chapter 3325 - 3549 of [Martial Peak](https://anilist.co/manga/104494) (21:27, 10 September 2023)
 -   📖 Read chapter 1 - 19 of [Succubus Nanka ni Makenai Isekai Seikatsu](https://anilist.co/manga/168350) (07:30, 10 September 2023)
 -   📖 Completed [Blood on the Tracks](https://anilist.co/manga/98397) (01:34, 10 September 2023)
 
