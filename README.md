@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 84 - 95 of [Jungle Juice](https://anilist.co/manga/128882) (19:27, 13 September 2023)
--   📖 Read chapter 137 - 175 of [Omniscient Reader](https://anilist.co/manga/119257) (05:22, 13 September 2023)
--   📖 Read chapter 1 - 22 of [Succubus Nanka ni Makenai Isekai Seikatsu](https://anilist.co/manga/168350) (21:41, 12 September 2023)
--   📖 Read chapter 1 - 263 of [Eleceed](https://anilist.co/manga/106929) (21:24, 12 September 2023)
--   📖 Read chapter 3325 - 3551 of [Martial Peak](https://anilist.co/manga/104494) (21:16, 12 September 2023)
+-   📖 Read chapter 5 - 6 of [Queen Bee](https://anilist.co/manga/114832) (20:35, 14 September 2023)
+-   📖 Completed [Succubus Nanka ni Makenai Isekai Seikatsu](https://anilist.co/manga/168350) (20:31, 14 September 2023)
+-   📖 Read chapter 1 - 23 of [Succubus Nanka ni Makenai Isekai Seikatsu](https://anilist.co/manga/168350) (20:21, 14 September 2023)
+-   📖 Read chapter 1 - 40 of [Isekai NTR: Shinyuu no Onna wo Saikyou Skill de Otosu Houhou](https://anilist.co/manga/115042) (20:08, 14 September 2023)
+-   📖 Read chapter 3325 - 3553 of [Martial Peak](https://anilist.co/manga/104494) (19:59, 14 September 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
