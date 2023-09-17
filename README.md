@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 3325 - 3555 of [Martial Peak](https://anilist.co/manga/104494) (22:51, 16 September 2023)
+-   📖 Plans to read [Maid Education](https://anilist.co/manga/133941) (07:10, 16 September 2023)
+-   📺 Watched episode 1 - 10 of [Rent-a-Girlfriend Season 3](https://anilist.co/anime/154745) (05:41, 16 September 2023)
 -   📖 Read chapter 5 - 14 of [Queen Bee](https://anilist.co/manga/114832) (21:25, 15 September 2023)
 -   📖 Read chapter 65 - 85 of [Sex Study Group](https://anilist.co/manga/145493) (20:27, 15 September 2023)
--   📖 Read chapter 3325 - 3554 of [Martial Peak](https://anilist.co/manga/104494) (20:23, 15 September 2023)
--   📺 Watched episode 1 - 9 of [Rent-a-Girlfriend Season 3](https://anilist.co/anime/154745) (17:45, 15 September 2023)
--   📖 Read chapter 20 - 22 of [Isekai Danyuu: Shiru Danyuu ga Isekai Tensei Shite Ero Chishiki Full Katsuyou de Musou Danyuu ni Naru Hanashi](https://anilist.co/manga/156621) (15:35, 15 September 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
