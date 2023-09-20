@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 3325 - 3557 of [Martial Peak](https://anilist.co/manga/104494) (21:02, 18 September 2023)
--   📖 Read chapter 1 - 25 of [Hajirau Kimi ga Mitainda](https://anilist.co/manga/129225) (15:55, 18 September 2023)
+-   📖 Read chapter 1 - 264 of [Eleceed](https://anilist.co/manga/106929) (18:54, 19 September 2023)
+-   📖 Read chapter 3325 - 3558 of [Martial Peak](https://anilist.co/manga/104494) (18:47, 19 September 2023)
+-   📖 Read chapter 1 - 29 of [Hajirau Kimi ga Mitainda](https://anilist.co/manga/129225) (18:44, 19 September 2023)
 -   📖 Read chapter 9 of [Yuusha ni Zenbu Ubawareta Ore wa Yuusha no Hahaoya to Party wo Kumimashita!](https://anilist.co/manga/159187) (15:45, 18 September 2023)
 -   📖 Read chapter 1 - 4 of [Maid Education](https://anilist.co/manga/133941) (12:39, 18 September 2023)
--   📖 Read chapter 148 - 154 of [Teenage Mercenary](https://anilist.co/manga/126297) (20:17, 17 September 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
