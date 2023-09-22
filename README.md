@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 84 - 96 of [Jungle Juice](https://anilist.co/manga/128882) (20:34, 20 September 2023)
--   📖 Read chapter 163 - 172 of [Nano Machine](https://anilist.co/manga/120980) (20:27, 20 September 2023)
--   📖 Read chapter 1 - 33 of [Hajirau Kimi ga Mitainda](https://anilist.co/manga/129225) (10:22, 20 September 2023)
--   📖 Read chapter 137 - 176 of [Omniscient Reader](https://anilist.co/manga/119257) (09:56, 20 September 2023)
--   📖 Read chapter 1 - 264 of [Eleceed](https://anilist.co/manga/106929) (18:54, 19 September 2023)
+-   📖 Read chapter 1 - 40 of [Hajirau Kimi ga Mitainda](https://anilist.co/manga/129225) (00:08, 22 September 2023)
+-   📖 Read chapter 3325 - 3560 of [Martial Peak](https://anilist.co/manga/104494) (17:03, 21 September 2023)
+-   📖 Read chapter 65 - 86 of [Sex Study Group](https://anilist.co/manga/145493) (16:44, 21 September 2023)
+-   📖 Completed [Absolute Hypnosis in Another World](https://anilist.co/manga/145575) (16:32, 21 September 2023)
+-   📖 Read chapter 5 - 20 of [Queen Bee](https://anilist.co/manga/114832) (07:19, 21 September 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
