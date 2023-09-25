@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 3325 - 3563 of [Martial Peak](https://anilist.co/manga/104494) (19:52, 24 September 2023)
+-   📖 Read chapter 1 - 48 of [Hajirau Kimi ga Mitainda](https://anilist.co/manga/129225) (08:50, 24 September 2023)
+-   📖 Completed [Otto no Kokoro no Koe ga Kikoeru You ni Natta Tsuma](https://anilist.co/manga/116739) (07:52, 24 September 2023)
+-   📖 Read chapter 20 - 23 of [Isekai Danyuu: Shiru Danyuu ga Isekai Tensei Shite Ero Chishiki Full Katsuyou de Musou Danyuu ni Naru Hanashi](https://anilist.co/manga/156621) (07:48, 24 September 2023)
 -   📖 Read chapter 397 - 401 of [My Hero Academia](https://anilist.co/manga/85486) (23:09, 23 September 2023)
--   📖 Read chapter 3325 - 3561 of [Martial Peak](https://anilist.co/manga/104494) (23:04, 23 September 2023)
--   📖 Plans to read [Otto no Kokoro no Koe ga Kikoeru You ni Natta Tsuma](https://anilist.co/manga/116739) (06:19, 22 September 2023)
--   📖 Read chapter 1 - 40 of [Hajirau Kimi ga Mitainda](https://anilist.co/manga/129225) (00:08, 22 September 2023)
--   📖 Read chapter 65 - 86 of [Sex Study Group](https://anilist.co/manga/145493) (16:44, 21 September 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
