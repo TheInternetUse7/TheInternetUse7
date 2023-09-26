@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 3325 - 3563 of [Martial Peak](https://anilist.co/manga/104494) (19:52, 24 September 2023)
--   📖 Read chapter 1 - 48 of [Hajirau Kimi ga Mitainda](https://anilist.co/manga/129225) (08:50, 24 September 2023)
--   📖 Completed [Otto no Kokoro no Koe ga Kikoeru You ni Natta Tsuma](https://anilist.co/manga/116739) (07:52, 24 September 2023)
--   📖 Read chapter 20 - 23 of [Isekai Danyuu: Shiru Danyuu ga Isekai Tensei Shite Ero Chishiki Full Katsuyou de Musou Danyuu ni Naru Hanashi](https://anilist.co/manga/156621) (07:48, 24 September 2023)
--   📖 Read chapter 397 - 401 of [My Hero Academia](https://anilist.co/manga/85486) (23:09, 23 September 2023)
+-   📖 Read chapter 3325 - 3564 of [Martial Peak](https://anilist.co/manga/104494) (19:18, 25 September 2023)
+-   📺 Watched episode 1 of [Horimiya: The Missing Pieces](https://anilist.co/anime/163132) (18:19, 25 September 2023)
+-   📺 Watched episode 0 of [Redline](https://anilist.co/anime/6675) (17:50, 25 September 2023)
+-   📺 Paused watching 1 of [Redline](https://anilist.co/anime/6675) (17:50, 25 September 2023)
+-   📖 Read chapter 1 - 52 of [Hajirau Kimi ga Mitainda](https://anilist.co/manga/129225) (01:24, 25 September 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
