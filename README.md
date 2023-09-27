@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 3325 - 3564 of [Martial Peak](https://anilist.co/manga/104494) (19:18, 25 September 2023)
+-   📖 Read chapter 5 - 22 of [Queen Bee](https://anilist.co/manga/114832) (19:10, 26 September 2023)
+-   📖 Read chapter 3325 - 3565 of [Martial Peak](https://anilist.co/manga/104494) (18:25, 26 September 2023)
+-   📖 Read chapter 1 - 265 of [Eleceed](https://anilist.co/manga/106929) (18:21, 26 September 2023)
+-   📖 Read chapter 1 - 55 of [Hajirau Kimi ga Mitainda](https://anilist.co/manga/129225) (08:48, 26 September 2023)
 -   📺 Watched episode 1 of [Horimiya: The Missing Pieces](https://anilist.co/anime/163132) (18:19, 25 September 2023)
--   📺 Watched episode 0 of [Redline](https://anilist.co/anime/6675) (17:50, 25 September 2023)
--   📺 Paused watching 1 of [Redline](https://anilist.co/anime/6675) (17:50, 25 September 2023)
--   📖 Read chapter 1 - 52 of [Hajirau Kimi ga Mitainda](https://anilist.co/manga/129225) (01:24, 25 September 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
