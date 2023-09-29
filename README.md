@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 of [Masamune-kun's Revenge R](https://anilist.co/anime/146953) (19:16, 27 September 2023)
--   📺 Watched episode 1 of [Mushoku Tensei: Jobless Reincarnation Season 2](https://anilist.co/anime/146065) (18:01, 27 September 2023)
--   📖 Read chapter 137 - 177 of [Omniscient Reader](https://anilist.co/manga/119257) (15:53, 27 September 2023)
--   📖 Read chapter 1 - 16 of [Ore no Ie no Koakuma Imouto](https://anilist.co/manga/169152) (13:07, 27 September 2023)
--   📖 Read chapter 1 of [Ore no Ie no Koakuma Imouto](https://anilist.co/manga/169152) (12:54, 27 September 2023)
+-   📖 Read chapter 12 of [Koi to Utatane](https://anilist.co/manga/99625) (20:51, 28 September 2023)
+-   📖 Read chapter 163 - 173 of [Nano Machine](https://anilist.co/manga/120980) (20:41, 28 September 2023)
+-   📖 Read chapter 3325 - 3567 of [Martial Peak](https://anilist.co/manga/104494) (20:35, 28 September 2023)
+-   📖 Read chapter 3 of [Yomeiro Choice](https://anilist.co/manga/42090) (19:48, 28 September 2023)
+-   📺 Watched episode 1 - 2 of [Masamune-kun's Revenge R](https://anilist.co/anime/146953) (17:23, 28 September 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
