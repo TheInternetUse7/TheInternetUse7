@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Mushoku Tensei: Jobless Reincarnation Season 2](https://anilist.co/anime/146065) (13:46, 29 September 2023)
+-   📺 Watched episode 1 - 12 of [Mushoku Tensei: Jobless Reincarnation Season 2](https://anilist.co/anime/146065) (13:36, 29 September 2023)
 -   📖 Read chapter 12 of [Koi to Utatane](https://anilist.co/manga/99625) (20:51, 28 September 2023)
 -   📖 Read chapter 163 - 173 of [Nano Machine](https://anilist.co/manga/120980) (20:41, 28 September 2023)
 -   📖 Read chapter 3325 - 3567 of [Martial Peak](https://anilist.co/manga/104494) (20:35, 28 September 2023)
--   📖 Read chapter 3 of [Yomeiro Choice](https://anilist.co/manga/42090) (19:48, 28 September 2023)
--   📺 Watched episode 1 - 2 of [Masamune-kun's Revenge R](https://anilist.co/anime/146953) (17:23, 28 September 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
