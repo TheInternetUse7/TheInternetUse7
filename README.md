@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Completed [Mushoku Tensei: Jobless Reincarnation Season 2](https://anilist.co/anime/146065) (13:46, 29 September 2023)
--   📺 Watched episode 1 - 12 of [Mushoku Tensei: Jobless Reincarnation Season 2](https://anilist.co/anime/146065) (13:36, 29 September 2023)
--   📖 Read chapter 12 of [Koi to Utatane](https://anilist.co/manga/99625) (20:51, 28 September 2023)
--   📖 Read chapter 163 - 173 of [Nano Machine](https://anilist.co/manga/120980) (20:41, 28 September 2023)
--   📖 Read chapter 3325 - 3567 of [Martial Peak](https://anilist.co/manga/104494) (20:35, 28 September 2023)
+-   📺 Completed [Black Lagoon](https://anilist.co/anime/889) (16:11, 30 September 2023)
+-   📺 Watched episode 11 of [Black Lagoon](https://anilist.co/anime/889) (14:05, 30 September 2023)
+-   📺 Completed [Rent-a-Girlfriend Season 3](https://anilist.co/anime/154745) (08:51, 30 September 2023)
+-   📺 Watched episode 11 of [Rent-a-Girlfriend Season 3](https://anilist.co/anime/154745) (08:02, 30 September 2023)
+-   📖 Read chapter 1 of [The Genius Medicinal Mage](https://anilist.co/manga/162190) (06:19, 30 September 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
