@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Completed [Black Lagoon](https://anilist.co/anime/889) (16:11, 30 September 2023)
--   📺 Watched episode 11 of [Black Lagoon](https://anilist.co/anime/889) (14:05, 30 September 2023)
--   📺 Completed [Rent-a-Girlfriend Season 3](https://anilist.co/anime/154745) (08:51, 30 September 2023)
--   📺 Watched episode 11 of [Rent-a-Girlfriend Season 3](https://anilist.co/anime/154745) (08:02, 30 September 2023)
--   📖 Read chapter 1 of [The Genius Medicinal Mage](https://anilist.co/manga/162190) (06:19, 30 September 2023)
+-   📖 Read chapter 3325 - 3570 of [Martial Peak](https://anilist.co/manga/104494) (19:42, 01 October 2023)
+-   📖 Read chapter 195 - 196 of [Overgeared](https://anilist.co/manga/117460) (19:37, 01 October 2023)
+-   📺 Plans to watch [SPY x FAMILY CODE: White ](https://anilist.co/anime/158928) (19:16, 01 October 2023)
+-   📺 Watched episode 1 - 2 of [High School DxD NEW](https://anilist.co/anime/15451) (18:35, 01 October 2023)
+-   📺 Completed [High School DxD OVA](https://anilist.co/anime/12729) (10:56, 01 October 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
