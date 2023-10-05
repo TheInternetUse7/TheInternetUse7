@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 3325 - 3572 of [Martial Peak](https://anilist.co/manga/104494) (20:47, 03 October 2023)
--   📖 Read chapter 1 - 266 of [Eleceed](https://anilist.co/manga/106929) (20:46, 03 October 2023)
--   📺 Completed [Am I Actually the Strongest?](https://anilist.co/anime/154391) (20:33, 03 October 2023)
--   📺 Watched episode 1 - 12 of [Horimiya: The Missing Pieces](https://anilist.co/anime/163132) (18:03, 03 October 2023)
--   📖 Read chapter 1 - 16 of [The Genius Medicinal Mage](https://anilist.co/manga/162190) (11:51, 03 October 2023)
+-   📖 Read chapter 137 - 178 of [Omniscient Reader](https://anilist.co/manga/119257) (20:03, 04 October 2023)
+-   📖 Read chapter 163 - 174 of [Nano Machine](https://anilist.co/manga/120980) (19:55, 04 October 2023)
+-   📖 Read chapter 84 - 98 of [Jungle Juice](https://anilist.co/manga/128882) (19:39, 04 October 2023)
+-   📖 Read chapter 3325 - 3573 of [Martial Peak](https://anilist.co/manga/104494) (19:32, 04 October 2023)
+-   📺 Completed [Horimiya: The Missing Pieces](https://anilist.co/anime/163132) (17:33, 04 October 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
