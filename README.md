@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 39 of [The Genius Medicinal Mage](https://anilist.co/manga/162190) (21:24, 05 October 2023)
--   📖 Read chapter 3325 - 3574 of [Martial Peak](https://anilist.co/manga/104494) (18:23, 05 October 2023)
--   📺 Watched episode 1 - 5 of [Masamune-kun's Revenge R](https://anilist.co/anime/146953) (16:03, 05 October 2023)
--   📺 Plans to watch [Queen's Blade: The Exiled Virgin](https://anilist.co/anime/4719) (09:14, 05 October 2023)
--   📺 Watched episode 5 - 6 of [Tsugumomo](https://anilist.co/anime/97625) (09:02, 05 October 2023)
+-   📖 Read chapter 3325 - 3575 of [Martial Peak](https://anilist.co/manga/104494) (21:26, 06 October 2023)
+-   📺 Plans to watch [Immoral Sisters: Blossoming](https://anilist.co/anime/1636) (13:08, 06 October 2023)
+-   📺 Plans to watch [Immoral Sisters 2](https://anilist.co/anime/1635) (13:07, 06 October 2023)
+-   📺 Plans to watch [Immoral Sisters](https://anilist.co/anime/1634) (13:07, 06 October 2023)
+-   📺 Completed [High School DxD NEW](https://anilist.co/anime/15451) (12:31, 06 October 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
