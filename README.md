@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 3325 - 3575 of [Martial Peak](https://anilist.co/manga/104494) (21:26, 06 October 2023)
--   📺 Plans to watch [Immoral Sisters: Blossoming](https://anilist.co/anime/1636) (13:08, 06 October 2023)
--   📺 Plans to watch [Immoral Sisters 2](https://anilist.co/anime/1635) (13:07, 06 October 2023)
--   📺 Plans to watch [Immoral Sisters](https://anilist.co/anime/1634) (13:07, 06 October 2023)
--   📺 Completed [High School DxD NEW](https://anilist.co/anime/15451) (12:31, 06 October 2023)
+-   📖 Read chapter 148 - 156 of [Teenage Mercenary](https://anilist.co/manga/126297) (20:29, 07 October 2023)
+-   📖 Read chapter 3325 - 3576 of [Martial Peak](https://anilist.co/manga/104494) (20:20, 07 October 2023)
+-   📺 Watched episode 1 of [A Returner's Magic Should Be Special](https://anilist.co/anime/163142) (18:45, 07 October 2023)
+-   📖 Completed [Wonderful Days](https://anilist.co/manga/94183) (10:02, 07 October 2023)
+-   📖 Completed [Sister Breeder](https://anilist.co/manga/92365) (09:55, 07 October 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
