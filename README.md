@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 2 of [Re:ZERO -Starting Life in Another World- Season 2](https://anilist.co/anime/108632) (13:54, 08 October 2023)
--   📖 Completed [Mamacon!](https://anilist.co/manga/102953) (11:59, 08 October 2023)
--   📖 Read chapter 23 - 28 of [Where Is My Little Stick?!](https://anilist.co/manga/157094) (11:55, 08 October 2023)
--   📺 Watched episode 5 - 7 of [Tsugumomo](https://anilist.co/anime/97625) (09:27, 08 October 2023)
--   📺 Watched episode 1 of [SPY x FAMILY Season 2](https://anilist.co/anime/158927) (09:27, 08 October 2023)
+-   📖 Read chapter 3325 - 3578 of [Martial Peak](https://anilist.co/manga/104494) (19:43, 09 October 2023)
+-   📖 Read chapter 148 - 157 of [Teenage Mercenary](https://anilist.co/manga/126297) (19:40, 09 October 2023)
+-   📺 Watched episode 2 - 3 of [HIGH CARD](https://anilist.co/anime/135778) (16:31, 09 October 2023)
+-   📺 Watched episode 5 - 9 of [Tsugumomo](https://anilist.co/anime/97625) (15:04, 09 October 2023)
+-   📖 Read chapter 1 - 27 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (07:52, 09 October 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
