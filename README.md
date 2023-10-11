@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 3325 - 3578 of [Martial Peak](https://anilist.co/manga/104494) (19:43, 09 October 2023)
--   📖 Read chapter 148 - 157 of [Teenage Mercenary](https://anilist.co/manga/126297) (19:40, 09 October 2023)
--   📺 Watched episode 2 - 3 of [HIGH CARD](https://anilist.co/anime/135778) (16:31, 09 October 2023)
--   📺 Watched episode 5 - 9 of [Tsugumomo](https://anilist.co/anime/97625) (15:04, 09 October 2023)
--   📖 Read chapter 1 - 27 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (07:52, 09 October 2023)
+-   📖 Read chapter 3325 - 3579 of [Martial Peak](https://anilist.co/manga/104494) (20:11, 10 October 2023)
+-   📖 Read chapter 1 - 35 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (20:07, 10 October 2023)
+-   📺 Watched episode 5 - 11 of [Tsugumomo](https://anilist.co/anime/97625) (15:14, 10 October 2023)
+-   📺 Watched episode 1 - 6 of [GOBLIN SLAYER](https://anilist.co/anime/101165) (14:26, 10 October 2023)
+-   📖 Read chapter 57 of [The Eminence in Shadow](https://anilist.co/manga/106758) (05:05, 10 October 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
