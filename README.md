@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [A Returner's Magic Should Be Special](https://anilist.co/anime/163142) (19:10, 15 October 2023)
+-   📺 Watched episode 1 - 2 of [The Eminence in Shadow Season 2](https://anilist.co/anime/161964) (17:06, 15 October 2023)
+-   📖 Read chapter 1 - 14 of [Level Up with the Gods](https://anilist.co/manga/138222) (15:06, 15 October 2023)
 -   📖 Read chapter 192 of [One-Punch Man](https://anilist.co/manga/74347) (20:06, 14 October 2023)
 -   📺 Watched episode 1 - 6 of [Masamune-kun's Revenge R](https://anilist.co/anime/146953) (19:05, 14 October 2023)
--   📺 Watched episode 2 - 7 of [HIGH CARD](https://anilist.co/anime/135778) (19:05, 14 October 2023)
--   📖 Read chapter 135 of [Don't Toy With Me, Miss Nagatoro](https://anilist.co/manga/100664) (18:56, 14 October 2023)
--   📖 Completed [Tefure.](https://anilist.co/manga/136415) (07:45, 14 October 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
