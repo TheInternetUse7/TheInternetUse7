@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 268 of [Eleceed](https://anilist.co/manga/106929) (20:36, 17 October 2023)
+-   📖 Read chapter 148 - 158 of [Teenage Mercenary](https://anilist.co/manga/126297) (20:14, 17 October 2023)
+-   📖 Read chapter 3325 - 3586 of [Martial Peak](https://anilist.co/manga/104494) (20:10, 17 October 2023)
+-   📺 Watched episode 1 - 8 of [Masamune-kun's Revenge R](https://anilist.co/anime/146953) (07:09, 17 October 2023)
 -   📖 Read chapter 10 of [Yuusha ni Zenbu Ubawareta Ore wa Yuusha no Hahaoya to Party wo Kumimashita!](https://anilist.co/manga/159187) (19:46, 16 October 2023)
--   📺 Watched episode 1 - 2 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You](https://anilist.co/anime/162694) (07:08, 16 October 2023)
--   📺 Watched episode 1 - 2 of [SPY x FAMILY Season 2](https://anilist.co/anime/158927) (06:26, 16 October 2023)
--   📖 Read chapter 3325 - 3584 of [Martial Peak](https://anilist.co/manga/104494) (05:03, 16 October 2023)
--   📖 Read chapter 192 - 193 of [One-Punch Man](https://anilist.co/manga/74347) (04:58, 16 October 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
