@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 28 of [Level Up with the Gods](https://anilist.co/manga/138222) (19:18, 19 October 2023)
--   📖 Read chapter 1 - 2 of [Potential Husband of The World Tree](https://anilist.co/manga/164510) (10:46, 19 October 2023)
+-   📖 Read chapter 1 - 5 of [Potential Husband of The World Tree](https://anilist.co/manga/164510) (20:17, 20 October 2023)
+-   📖 Read chapter 397 - 404 of [My Hero Academia](https://anilist.co/manga/85486) (19:17, 20 October 2023)
+-   📖 Read chapter 3325 - 3589 of [Martial Peak](https://anilist.co/manga/104494) (19:13, 20 October 2023)
+-   📖 Read chapter 1 - 34 of [Level Up with the Gods](https://anilist.co/manga/138222) (19:06, 20 October 2023)
 -   📖 Plans to read [Potential Husband of The World Tree](https://anilist.co/manga/164510) (10:22, 19 October 2023)
--   📺 Watched episode 2 - 10 of [HIGH CARD](https://anilist.co/anime/135778) (09:11, 19 October 2023)
--   📺 Watched episode 1 - 2 of [FLCL](https://anilist.co/anime/227) (07:42, 19 October 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
