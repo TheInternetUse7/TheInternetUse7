@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Plans to read [High Elf x High School](https://anilist.co/manga/96232) (20:12, 21 October 2023)
--   📖 Plans to read [The Perverted Virgin Public Morals Committee Member’s Secret Naughty Request](https://anilist.co/manga/132548) (20:09, 21 October 2023)
--   📖 Read chapter 3325 - 3590 of [Martial Peak](https://anilist.co/manga/104494) (19:48, 21 October 2023)
--   📺 Watched episode 1 - 3 of [SPY x FAMILY Season 2](https://anilist.co/anime/158927) (19:37, 21 October 2023)
--   📺 Watched episode 1 - 3 of [A Returner's Magic Should Be Special](https://anilist.co/anime/163142) (18:49, 21 October 2023)
+-   📖 Read chapter 1 - 11 of [Potential Husband of The World Tree](https://anilist.co/manga/164510) (18:56, 22 October 2023)
+-   📖 Read chapter 3325 - 3591 of [Martial Peak](https://anilist.co/manga/104494) (18:39, 22 October 2023)
+-   📖 Read chapter 4 of [Ore no Imouto ga Saikou no Okazu Datta](https://anilist.co/manga/160842) (18:37, 22 October 2023)
+-   📺 Watched episode 1 - 3 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You](https://anilist.co/anime/162694) (16:15, 22 October 2023)
+-   📖 Plans to read [Kako wo Kurau (I am here) beyond you.](https://anilist.co/manga/165427) (08:49, 22 October 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
