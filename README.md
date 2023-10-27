@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 57 of [Hajirau Kimi ga Mitainda](https://anilist.co/manga/129225) (20:02, 26 October 2023)
+-   📖 Read chapter 3325 - 3594 of [Martial Peak](https://anilist.co/manga/104494) (19:59, 26 October 2023)
+-   📺 Watched episode 1 - 2 of [The Demon Sword Master of Excalibur Academy](https://anilist.co/anime/140501) (18:14, 26 October 2023)
 -   📖 Read chapter 50 - 55 of [Destiny Lovers](https://anilist.co/manga/104686) (18:40, 25 October 2023)
 -   📖 Read chapter 148 - 159 of [Teenage Mercenary](https://anilist.co/manga/126297) (18:27, 25 October 2023)
--   📖 Read chapter 3325 - 3593 of [Martial Peak](https://anilist.co/manga/104494) (18:22, 25 October 2023)
--   📖 Read chapter 163 - 177 of [Nano Machine](https://anilist.co/manga/120980) (18:20, 25 October 2023)
--   📺 Watched episode 1 - 4 of [The Eminence in Shadow Season 2](https://anilist.co/anime/161964) (16:33, 25 October 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
