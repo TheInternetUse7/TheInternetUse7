@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 76 of [Level Up with the Gods](https://anilist.co/manga/138222) (18:44, 28 October 2023)
--   📖 Read chapter 3325 - 3596 of [Martial Peak](https://anilist.co/manga/104494) (17:23, 28 October 2023)
--   📖 Read chapter 6 of [Imouto wa Kanojo ni Dekinai no ni](https://anilist.co/manga/157136) (17:18, 28 October 2023)
--   📖 Read chapter 1 of [Imouto Access](https://anilist.co/manga/123307) (09:59, 28 October 2023)
--   📺 Watched episode 1 - 5 of [The Demon Sword Master of Excalibur Academy](https://anilist.co/anime/140501) (06:36, 28 October 2023)
+-   📖 Read chapter 1 - 93 of [Level Up with the Gods](https://anilist.co/manga/138222) (18:22, 29 October 2023)
+-   📖 Read chapter 3325 - 3597 of [Martial Peak](https://anilist.co/manga/104494) (17:59, 29 October 2023)
+-   📖 Read chapter 6 - 7 of [Imouto wa Kanojo ni Dekinai no ni](https://anilist.co/manga/157136) (17:15, 29 October 2023)
+-   📺 Watched episode 1 - 4 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You](https://anilist.co/anime/162694) (16:22, 29 October 2023)
+-   📖 Read chapter 1 - 2 of [Imouto Access](https://anilist.co/manga/123307) (14:33, 29 October 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
