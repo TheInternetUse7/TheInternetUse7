@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 2 - 10 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (19:31, 31 October 2023)
--   📖 Read chapter 3325 - 3599 of [Martial Peak](https://anilist.co/manga/104494) (19:22, 31 October 2023)
--   📖 Read chapter 1 - 95 of [Level Up with the Gods](https://anilist.co/manga/138222) (19:18, 31 October 2023)
--   📖 Read chapter 8 - 9 of [Issho ni Kurashite Ii desu ka?](https://anilist.co/manga/159549) (03:36, 31 October 2023)
--   📖 Read chapter 200 of [Overgeared](https://anilist.co/manga/117460) (19:04, 30 October 2023)
+-   📖 Read chapter 2 - 33 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (18:21, 01 November 2023)
+-   📺 Watched episode 1 - 5 of [The Eminence in Shadow Season 2](https://anilist.co/anime/161964) (16:49, 01 November 2023)
+-   📖 Completed [Toaru Yakedo Shoujo no Hanashi](https://anilist.co/manga/132982) (15:01, 01 November 2023)
+-   📖 Read chapter 1 of [Toaru Yakedo Shoujo no Hanashi](https://anilist.co/manga/132982) (14:52, 01 November 2023)
+-   📖 Plans to read [Toaru Yakedo Shoujo no Hanashi](https://anilist.co/manga/132982) (14:50, 01 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
