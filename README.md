@@ -25,8 +25,8 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 2 - 85 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (00:31, 03 November 2023)
--   📖 Read chapter 3325 - 3600 of [Martial Peak](https://anilist.co/manga/104494) (03:37, 02 November 2023)
+-   📖 Read chapter 2 - 105 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (18:35, 03 November 2023)
+-   📖 Read chapter 3325 - 3601 of [Martial Peak](https://anilist.co/manga/104494) (14:05, 03 November 2023)
 -   📖 Read chapter 163 - 178 of [Nano Machine](https://anilist.co/manga/120980) (03:31, 02 November 2023)
 -   📺 Watched episode 1 - 5 of [The Eminence in Shadow Season 2](https://anilist.co/anime/161964) (16:49, 01 November 2023)
 -   📖 Completed [Toaru Yakedo Shoujo no Hanashi](https://anilist.co/manga/132982) (15:01, 01 November 2023)
