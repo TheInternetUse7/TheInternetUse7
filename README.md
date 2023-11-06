@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 2 - 108 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (20:39, 04 November 2023)
--   📖 Read chapter 3325 - 3602 of [Martial Peak](https://anilist.co/manga/104494) (20:26, 04 November 2023)
--   📺 Watched episode 1 - 5 of [SPY x FAMILY Season 2](https://anilist.co/anime/158927) (18:54, 04 November 2023)
--   📺 Watched episode 1 - 5 of [A Returner's Magic Should Be Special](https://anilist.co/anime/163142) (17:46, 04 November 2023)
--   📖 Plans to read [Mister Angel: Adventures of a Sugar Daddy](https://anilist.co/manga/109029) (13:18, 04 November 2023)
+-   📖 Read chapter 2 - 130 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (20:29, 05 November 2023)
+-   📖 Read chapter 87 - 92 of [Sex Study Group](https://anilist.co/manga/145493) (20:27, 05 November 2023)
+-   📖 Read chapter 59 - 60 of [Punishing My Pet Slave ELF](https://anilist.co/manga/143102) (20:24, 05 November 2023)
+-   📖 Read chapter 41 of [Isekai NTR: Shinyuu no Onna wo Saikyou Skill de Otosu Houhou](https://anilist.co/manga/115042) (20:21, 05 November 2023)
+-   📖 Read chapter 3325 - 3604 of [Martial Peak](https://anilist.co/manga/104494) (19:59, 05 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
