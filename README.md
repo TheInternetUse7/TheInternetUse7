@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 2 - 130 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (20:29, 05 November 2023)
+-   📖 Read chapter 194 of [One-Punch Man](https://anilist.co/manga/74347) (18:22, 06 November 2023)
+-   📖 Read chapter 58 of [The Eminence in Shadow](https://anilist.co/manga/106758) (18:12, 06 November 2023)
+-   📖 Read chapter 2 - 142 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (11:25, 06 November 2023)
 -   📖 Read chapter 87 - 92 of [Sex Study Group](https://anilist.co/manga/145493) (20:27, 05 November 2023)
 -   📖 Read chapter 59 - 60 of [Punishing My Pet Slave ELF](https://anilist.co/manga/143102) (20:24, 05 November 2023)
--   📖 Read chapter 41 of [Isekai NTR: Shinyuu no Onna wo Saikyou Skill de Otosu Houhou](https://anilist.co/manga/115042) (20:21, 05 November 2023)
--   📖 Read chapter 3325 - 3604 of [Martial Peak](https://anilist.co/manga/104494) (19:59, 05 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
