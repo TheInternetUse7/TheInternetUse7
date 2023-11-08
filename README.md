@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 194 of [One-Punch Man](https://anilist.co/manga/74347) (18:22, 06 November 2023)
--   📖 Read chapter 58 of [The Eminence in Shadow](https://anilist.co/manga/106758) (18:12, 06 November 2023)
--   📖 Read chapter 2 - 142 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (11:25, 06 November 2023)
--   📖 Read chapter 87 - 92 of [Sex Study Group](https://anilist.co/manga/145493) (20:27, 05 November 2023)
--   📖 Read chapter 59 - 60 of [Punishing My Pet Slave ELF](https://anilist.co/manga/143102) (20:24, 05 November 2023)
+-   📖 Read chapter 20 - 23 of [Potential Husband of The World Tree](https://anilist.co/manga/164510) (00:31, 08 November 2023)
+-   📖 Read chapter 139 of [Don't Toy With Me, Miss Nagatoro](https://anilist.co/manga/100664) (18:32, 07 November 2023)
+-   📖 Read chapter 50 - 66 of [Destiny Lovers](https://anilist.co/manga/104686) (17:19, 07 November 2023)
+-   📖 Read chapter 148 - 161 of [Teenage Mercenary](https://anilist.co/manga/126297) (16:36, 07 November 2023)
+-   📖 Read chapter 123 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (16:23, 07 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
