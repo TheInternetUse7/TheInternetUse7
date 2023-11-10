@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 50 - 75 of [Destiny Lovers](https://anilist.co/manga/104686) (22:03, 08 November 2023)
--   📖 Read chapter 137 - 183 of [Omniscient Reader](https://anilist.co/manga/119257) (21:39, 08 November 2023)
--   📖 Read chapter 1 - 96 of [Level Up with the Gods](https://anilist.co/manga/138222) (21:32, 08 November 2023)
--   📺 Plans to watch [Oyasumi Sex](https://anilist.co/anime/100741) (21:27, 08 November 2023)
--   📺 Watched episode 1 - 6 of [The Eminence in Shadow Season 2](https://anilist.co/anime/161964) (19:23, 08 November 2023)
+-   📖 Read chapter 1 of [Relife Player](https://anilist.co/manga/159438) (21:32, 09 November 2023)
+-   📖 Plans to read [Isekai Meikyuu de Harem wo](https://anilist.co/manga/99462) (21:19, 09 November 2023)
+-   📖 Plans to read [Relife Player](https://anilist.co/manga/159438) (21:00, 09 November 2023)
+-   📖 Plans to read [I’m the Max-Level Newbie](https://anilist.co/manga/137280) (20:59, 09 November 2023)
+-   📖 Read chapter 3325 - 3609 of [Martial Peak](https://anilist.co/manga/104494) (20:46, 09 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
