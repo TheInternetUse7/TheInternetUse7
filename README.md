@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 16 of [Isekai Meikyuu de Harem wo](https://anilist.co/manga/99462) (22:08, 10 November 2023)
+-   📖 Read chapter 52 - 54 of [The World After the Fall](https://anilist.co/manga/144957) (22:06, 10 November 2023)
+-   📖 Read chapter 3325 - 3610 of [Martial Peak](https://anilist.co/manga/104494) (21:23, 10 November 2023)
+-   📖 Read chapter 406 of [My Hero Academia](https://anilist.co/manga/85486) (21:15, 10 November 2023)
 -   📖 Read chapter 1 of [Relife Player](https://anilist.co/manga/159438) (21:32, 09 November 2023)
--   📖 Plans to read [Isekai Meikyuu de Harem wo](https://anilist.co/manga/99462) (21:19, 09 November 2023)
--   📖 Plans to read [Relife Player](https://anilist.co/manga/159438) (21:00, 09 November 2023)
--   📖 Plans to read [I’m the Max-Level Newbie](https://anilist.co/manga/137280) (20:59, 09 November 2023)
--   📖 Read chapter 3325 - 3609 of [Martial Peak](https://anilist.co/manga/104494) (20:46, 09 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
