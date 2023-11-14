@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 70 of [Isekai Meikyuu de Harem wo](https://anilist.co/manga/99462) (18:40, 12 November 2023)
+-   📖 Read chapter 3325 - 3613 of [Martial Peak](https://anilist.co/manga/104494) (23:27, 13 November 2023)
+-   📖 Read chapter 1 - 78 of [Isekai Meikyuu de Harem wo](https://anilist.co/manga/99462) (11:50, 13 November 2023)
+-   📖 Read chapter 123 - 124 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (11:10, 13 November 2023)
+-   📖 Read chapter 20 - 31 of [Potential Husband of The World Tree](https://anilist.co/manga/164510) (11:06, 13 November 2023)
 -   📺 Watched episode 1 - 6 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You](https://anilist.co/anime/162694) (17:36, 12 November 2023)
--   📺 Watched episode 1 - 6 of [SPY x FAMILY Season 2](https://anilist.co/anime/158927) (17:27, 12 November 2023)
--   📖 Plans to read [Nee-chan to Yobanaide](https://anilist.co/manga/66365) (15:22, 12 November 2023)
--   📖 Completed [K-ko to Yamioji Ha](https://anilist.co/manga/146127) (08:03, 12 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
