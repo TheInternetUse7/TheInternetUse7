@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 3 of [Velvet Kiss](https://anilist.co/manga/52638) (20:10, 16 November 2023)
 -   📖 Read chapter 1 - 26 of [Makenshi no Maken Niyoru Maken no Tame no Harem Life](https://anilist.co/manga/109170) (20:43, 15 November 2023)
 -   📖 Read chapter 3325 - 3615 of [Martial Peak](https://anilist.co/manga/104494) (19:56, 15 November 2023)
 -   📖 Read chapter 163 - 180 of [Nano Machine](https://anilist.co/manga/120980) (19:52, 15 November 2023)
 -   📖 Read chapter 58 of [Hajirau Kimi ga Mitainda](https://anilist.co/manga/129225) (19:46, 15 November 2023)
--   📖 Read chapter 59 - 62 of [Punishing My Pet Slave ELF](https://anilist.co/manga/143102) (19:44, 15 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
