@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 3 of [Velvet Kiss](https://anilist.co/manga/52638) (20:10, 16 November 2023)
--   📖 Read chapter 1 - 26 of [Makenshi no Maken Niyoru Maken no Tame no Harem Life](https://anilist.co/manga/109170) (20:43, 15 November 2023)
--   📖 Read chapter 3325 - 3615 of [Martial Peak](https://anilist.co/manga/104494) (19:56, 15 November 2023)
--   📖 Read chapter 163 - 180 of [Nano Machine](https://anilist.co/manga/120980) (19:52, 15 November 2023)
--   📖 Read chapter 58 of [Hajirau Kimi ga Mitainda](https://anilist.co/manga/129225) (19:46, 15 November 2023)
+-   📖 Read chapter 3325 - 3617 of [Martial Peak](https://anilist.co/manga/104494) (21:14, 17 November 2023)
+-   📖 Completed [Daremo Okite wa Naranu](https://anilist.co/manga/98003) (20:30, 17 November 2023)
+-   📺 Watched episode 198 of [Naruto](https://anilist.co/anime/20) (18:51, 17 November 2023)
+-   📺 Watched episode 4 of [Land of the Lustrous](https://anilist.co/anime/98707) (18:29, 17 November 2023)
+-   📖 Read chapter 5 - 6 of [Ore no Imouto ga Saikou no Okazu Datta](https://anilist.co/manga/160842) (07:54, 17 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
