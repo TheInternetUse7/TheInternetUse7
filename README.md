@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 3325 - 3617 of [Martial Peak](https://anilist.co/manga/104494) (21:14, 17 November 2023)
--   📖 Completed [Daremo Okite wa Naranu](https://anilist.co/manga/98003) (20:30, 17 November 2023)
--   📺 Watched episode 198 of [Naruto](https://anilist.co/anime/20) (18:51, 17 November 2023)
--   📺 Watched episode 4 of [Land of the Lustrous](https://anilist.co/anime/98707) (18:29, 17 November 2023)
--   📖 Read chapter 5 - 6 of [Ore no Imouto ga Saikou no Okazu Datta](https://anilist.co/manga/160842) (07:54, 17 November 2023)
+-   📺 Watched episode 1 - 7 of [SPY x FAMILY Season 2](https://anilist.co/anime/158927) (18:39, 18 November 2023)
+-   📺 Completed [Attack on Titan Final Season THE FINAL CHAPTERS Special 2](https://anilist.co/anime/162314) (17:57, 18 November 2023)
+-   📺 Completed [Attack on Titan Final Season THE FINAL CHAPTERS Special 2](https://anilist.co/anime/162314) (17:43, 18 November 2023)
+-   📖 Read chapter 1 - 23 of [Relife Player](https://anilist.co/manga/159438) (06:15, 18 November 2023)
+-   📖 Read chapter 406 - 407 of [My Hero Academia](https://anilist.co/manga/85486) (04:15, 18 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
