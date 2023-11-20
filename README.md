@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 7 of [SPY x FAMILY Season 2](https://anilist.co/anime/158927) (18:39, 18 November 2023)
--   📺 Completed [Attack on Titan Final Season THE FINAL CHAPTERS Special 2](https://anilist.co/anime/162314) (17:57, 18 November 2023)
--   📺 Completed [Attack on Titan Final Season THE FINAL CHAPTERS Special 2](https://anilist.co/anime/162314) (17:43, 18 November 2023)
--   📖 Read chapter 1 - 23 of [Relife Player](https://anilist.co/manga/159438) (06:15, 18 November 2023)
--   📖 Read chapter 406 - 407 of [My Hero Academia](https://anilist.co/manga/85486) (04:15, 18 November 2023)
+-   📖 Read chapter 200 - 202 of [Overgeared](https://anilist.co/manga/117460) (21:48, 19 November 2023)
+-   📺 Watched episode 1 - 7 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You](https://anilist.co/anime/162694) (20:43, 19 November 2023)
+-   📖 Read chapter 17 - 19 of [Ore no Ie no Koakuma Imouto](https://anilist.co/manga/169152) (09:33, 19 November 2023)
+-   📖 Read chapter 4 - 7 of [Fushigi Fushidara](https://anilist.co/manga/117115) (06:49, 19 November 2023)
+-   📖 Read chapter 1 - 31 of [Relife Player](https://anilist.co/manga/159438) (04:58, 19 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
