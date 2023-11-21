@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 200 - 202 of [Overgeared](https://anilist.co/manga/117460) (21:48, 19 November 2023)
--   📺 Watched episode 1 - 7 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You](https://anilist.co/anime/162694) (20:43, 19 November 2023)
--   📖 Read chapter 17 - 19 of [Ore no Ie no Koakuma Imouto](https://anilist.co/manga/169152) (09:33, 19 November 2023)
--   📖 Read chapter 4 - 7 of [Fushigi Fushidara](https://anilist.co/manga/117115) (06:49, 19 November 2023)
--   📖 Read chapter 1 - 31 of [Relife Player](https://anilist.co/manga/159438) (04:58, 19 November 2023)
+-   📖 Read chapter 20 - 32 of [Potential Husband of The World Tree](https://anilist.co/manga/164510) (20:48, 20 November 2023)
+-   📖 Read chapter 77 of [Saotome Shimai wa Manga no Tame Nara!?](https://anilist.co/manga/103621) (20:45, 20 November 2023)
+-   📖 Read chapter 3325 - 3620 of [Martial Peak](https://anilist.co/manga/104494) (20:37, 20 November 2023)
+-   📖 Read chapter 59 - 63 of [Punishing My Pet Slave ELF](https://anilist.co/manga/143102) (20:32, 20 November 2023)
+-   📖 Read chapter 1 - 6 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (10:55, 20 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
