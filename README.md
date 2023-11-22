@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 20 - 32 of [Potential Husband of The World Tree](https://anilist.co/manga/164510) (20:48, 20 November 2023)
--   📖 Read chapter 77 of [Saotome Shimai wa Manga no Tame Nara!?](https://anilist.co/manga/103621) (20:45, 20 November 2023)
--   📖 Read chapter 3325 - 3620 of [Martial Peak](https://anilist.co/manga/104494) (20:37, 20 November 2023)
--   📖 Read chapter 59 - 63 of [Punishing My Pet Slave ELF](https://anilist.co/manga/143102) (20:32, 20 November 2023)
--   📖 Read chapter 1 - 6 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (10:55, 20 November 2023)
+-   📖 Read chapter 3325 - 3621 of [Martial Peak](https://anilist.co/manga/104494) (20:58, 21 November 2023)
+-   📖 Read chapter 1 - 272 of [Eleceed](https://anilist.co/manga/106929) (20:57, 21 November 2023)
+-   📺 Rewatched episode 10 of [Domestic Girlfriend](https://anilist.co/anime/103139) (20:22, 21 November 2023)
+-   📺 Watched episode 1 - 7 of [A Returner's Magic Should Be Special](https://anilist.co/anime/163142) (13:10, 21 November 2023)
+-   📖 Read chapter 24 - 25 of [Isekai Danyuu: Shiru Danyuu ga Isekai Tensei Shite Ero Chishiki Full Katsuyou de Musou Danyuu ni Naru Hanashi](https://anilist.co/manga/156621) (09:08, 21 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
