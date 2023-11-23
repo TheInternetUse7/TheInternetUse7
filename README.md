@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 3325 - 3621 of [Martial Peak](https://anilist.co/manga/104494) (20:58, 21 November 2023)
--   📖 Read chapter 1 - 272 of [Eleceed](https://anilist.co/manga/106929) (20:57, 21 November 2023)
--   📺 Rewatched episode 10 of [Domestic Girlfriend](https://anilist.co/anime/103139) (20:22, 21 November 2023)
--   📺 Watched episode 1 - 7 of [A Returner's Magic Should Be Special](https://anilist.co/anime/163142) (13:10, 21 November 2023)
--   📖 Read chapter 24 - 25 of [Isekai Danyuu: Shiru Danyuu ga Isekai Tensei Shite Ero Chishiki Full Katsuyou de Musou Danyuu ni Naru Hanashi](https://anilist.co/manga/156621) (09:08, 21 November 2023)
+-   📖 Read chapter 3325 - 3622 of [Martial Peak](https://anilist.co/manga/104494) (20:46, 22 November 2023)
+-   📖 Read chapter 1 - 46 of [Relife Player](https://anilist.co/manga/159438) (08:48, 22 November 2023)
+-   📖 Read chapter 87 - 94 of [Sex Study Group](https://anilist.co/manga/145493) (08:13, 22 November 2023)
+-   📖 Completed [Fushigi Fushidara](https://anilist.co/manga/117115) (08:12, 22 November 2023)
+-   📖 Read chapter 4 - 8 of [Fushigi Fushidara](https://anilist.co/manga/117115) (08:12, 22 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
