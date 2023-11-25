@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 3325 - 3624 of [Martial Peak](https://anilist.co/manga/104494) (23:48, 24 November 2023)
+-   📖 Read chapter 1 - 30 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (11:08, 24 November 2023)
+-   📖 Read chapter 87 - 95 of [Sex Study Group](https://anilist.co/manga/145493) (10:45, 24 November 2023)
+-   📖 Read chapter 5 - 7 of [Ore no Imouto ga Saikou no Okazu Datta](https://anilist.co/manga/160842) (10:28, 24 November 2023)
 -   📺 Watched episode 1 - 8 of [The Eminence in Shadow Season 2](https://anilist.co/anime/161964) (15:26, 23 November 2023)
--   📖 Read chapter 1 - 11 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (10:14, 23 November 2023)
--   📖 Read chapter 148 - 163 of [Teenage Mercenary](https://anilist.co/manga/126297) (04:35, 23 November 2023)
--   📖 Read chapter 163 - 181 of [Nano Machine](https://anilist.co/manga/120980) (04:29, 23 November 2023)
--   📖 Read chapter 3325 - 3622 of [Martial Peak](https://anilist.co/manga/104494) (20:46, 22 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
