@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 8 of [A Returner's Magic Should Be Special](https://anilist.co/anime/163142) (23:56, 25 November 2023)
--   📖 Read chapter 77 - 78 of [Saotome Shimai wa Manga no Tame Nara!?](https://anilist.co/manga/103621) (15:44, 25 November 2023)
--   📖 Read chapter 1 - 2 of [Guilty Sacrifice](https://anilist.co/manga/83749) (13:51, 25 November 2023)
--   📖 Read chapter 4 of [Uwa-Koi](https://anilist.co/manga/59931) (13:46, 25 November 2023)
--   📖 Read chapter 1 - 7 of [Destiny Lovers](https://anilist.co/manga/119932) (13:20, 25 November 2023)
+-   📺 Watched episode 1 - 8 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You](https://anilist.co/anime/162694) (19:00, 26 November 2023)
+-   📖 Read chapter 1 - 6 of [Guilty Sacrifice](https://anilist.co/manga/83749) (06:40, 26 November 2023)
+-   📖 Read chapter 4 - 14 of [Uwa-Koi](https://anilist.co/manga/59931) (06:33, 26 November 2023)
+-   📖 Read chapter 1 of [Guilty Circle](https://anilist.co/manga/133592) (05:57, 26 November 2023)
+-   📖 Read chapter 1 - 10 of [Destiny Lovers](https://anilist.co/manga/119932) (05:52, 26 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
