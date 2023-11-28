@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 8 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You](https://anilist.co/anime/162694) (19:00, 26 November 2023)
--   📖 Read chapter 1 - 6 of [Guilty Sacrifice](https://anilist.co/manga/83749) (06:40, 26 November 2023)
--   📖 Read chapter 4 - 14 of [Uwa-Koi](https://anilist.co/manga/59931) (06:33, 26 November 2023)
--   📖 Read chapter 1 of [Guilty Circle](https://anilist.co/manga/133592) (05:57, 26 November 2023)
--   📖 Read chapter 1 - 10 of [Destiny Lovers](https://anilist.co/manga/119932) (05:52, 26 November 2023)
+-   📖 Read chapter 4 - 21 of [Uwa-Koi](https://anilist.co/manga/59931) (21:50, 27 November 2023)
+-   📖 Read chapter 1 - 12 of [Destiny Lovers](https://anilist.co/manga/119932) (19:46, 27 November 2023)
+-   📖 Read chapter 1 - 9 of [Guilty Sacrifice](https://anilist.co/manga/83749) (08:30, 27 November 2023)
+-   📖 Read chapter 1 - 79 of [Isekai Meikyuu de Harem wo](https://anilist.co/manga/99462) (08:20, 27 November 2023)
+-   📖 Read chapter 59 - 64 of [Punishing My Pet Slave ELF](https://anilist.co/manga/143102) (08:03, 27 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
