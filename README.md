@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 4 - 21 of [Uwa-Koi](https://anilist.co/manga/59931) (21:50, 27 November 2023)
+-   📖 Read chapter 4 - 24 of [Uwa-Koi](https://anilist.co/manga/59931) (22:39, 28 November 2023)
+-   📖 Read chapter 1 - 273 of [Eleceed](https://anilist.co/manga/106929) (22:20, 28 November 2023)
+-   📖 Read chapter 3325 - 3626 of [Martial Peak](https://anilist.co/manga/104494) (22:13, 28 November 2023)
 -   📖 Read chapter 1 - 12 of [Destiny Lovers](https://anilist.co/manga/119932) (19:46, 27 November 2023)
 -   📖 Read chapter 1 - 9 of [Guilty Sacrifice](https://anilist.co/manga/83749) (08:30, 27 November 2023)
--   📖 Read chapter 1 - 79 of [Isekai Meikyuu de Harem wo](https://anilist.co/manga/99462) (08:20, 27 November 2023)
--   📖 Read chapter 59 - 64 of [Punishing My Pet Slave ELF](https://anilist.co/manga/143102) (08:03, 27 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
