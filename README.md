@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 2 - 146 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (20:25, 29 November 2023)
--   📺 Watched episode 1 - 9 of [The Eminence in Shadow Season 2](https://anilist.co/anime/161964) (19:47, 29 November 2023)
--   📺 Plans to watch [Paripi Koumei: Road To Summer Sonia](https://anilist.co/anime/171026) (18:18, 29 November 2023)
--   📖 Read chapter 4 - 24 of [Uwa-Koi](https://anilist.co/manga/59931) (22:39, 28 November 2023)
--   📖 Read chapter 1 - 273 of [Eleceed](https://anilist.co/manga/106929) (22:20, 28 November 2023)
+-   📖 Read chapter 92 - 94 of [The 100 Girlfriends Who Really, Really, Really, Really, Really Love You](https://anilist.co/manga/114416) (21:48, 30 November 2023)
+-   📖 Read chapter 148 - 164 of [Teenage Mercenary](https://anilist.co/manga/126297) (21:42, 30 November 2023)
+-   📖 Read chapter 3325 - 3628 of [Martial Peak](https://anilist.co/manga/104494) (21:37, 30 November 2023)
+-   📖 Read chapter 163 - 182 of [Nano Machine](https://anilist.co/manga/120980) (21:32, 30 November 2023)
+-   📺 Watched episode 12 of [Gintama](https://anilist.co/anime/918) (20:18, 30 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
