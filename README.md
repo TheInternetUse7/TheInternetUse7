@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 42 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (22:53, 02 December 2023)
+-   📖 Read chapter 59 - 65 of [Punishing My Pet Slave ELF](https://anilist.co/manga/143102) (21:12, 02 December 2023)
+-   📖 Read chapter 3325 - 3630 of [Martial Peak](https://anilist.co/manga/104494) (21:07, 02 December 2023)
+-   📺 Watched episode 1 - 9 of [A Returner's Magic Should Be Special](https://anilist.co/anime/163142) (19:52, 02 December 2023)
 -   📖 Read chapter 1 - 12 of [Guilty Sacrifice](https://anilist.co/manga/83749) (21:57, 01 December 2023)
--   📖 Read chapter 1 - 19 of [Destiny Lovers](https://anilist.co/manga/119932) (21:49, 01 December 2023)
--   📖 Read chapter 1 - 3 of [Isekai demo Oppai kara Me ga Hanasenai!!](https://anilist.co/manga/135531) (21:31, 01 December 2023)
--   📖 Read chapter 406 - 408 of [My Hero Academia](https://anilist.co/manga/85486) (21:22, 01 December 2023)
--   📖 Read chapter 9 of [Netorare Manga no Kuzu Otoko ni Tensei Shita Hazu ga Heroine ga Yotte Kuru Ken](https://anilist.co/manga/163733) (21:22, 01 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
