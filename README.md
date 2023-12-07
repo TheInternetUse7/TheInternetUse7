@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 274 of [Eleceed](https://anilist.co/manga/106929) (19:42, 05 December 2023)
--   📖 Plans to read [Astral Pet Store](https://anilist.co/manga/160143) (07:24, 05 December 2023)
--   📖 Completed [Isekai demo Oppai kara Me ga Hanasenai!!](https://anilist.co/manga/135531) (04:25, 05 December 2023)
--   📖 Read chapter 1 - 6 of [Isekai demo Oppai kara Me ga Hanasenai!!](https://anilist.co/manga/135531) (04:22, 05 December 2023)
--   📖 Read chapter 1 of [The Nuna at Our Office](https://anilist.co/manga/125229) (20:00, 04 December 2023)
+-   📖 Read chapter 163 - 183 of [Nano Machine](https://anilist.co/manga/120980) (20:43, 06 December 2023)
+-   📖 Read chapter 3325 - 3633 of [Martial Peak](https://anilist.co/manga/104494) (20:40, 06 December 2023)
+-   📖 Read chapter 2 - 147 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (20:37, 06 December 2023)
+-   📖 Read chapter 1 of [Astral Pet Store](https://anilist.co/manga/160143) (04:10, 06 December 2023)
+-   📖 Read chapter 97 - 98 of [Level Up with the Gods](https://anilist.co/manga/138222) (03:59, 06 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
