@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 5 - 8 of [Ore no Imouto ga Saikou no Okazu Datta](https://anilist.co/manga/160842) (20:08, 07 December 2023)
--   📺 Watched episode 1 - 10 of [The Eminence in Shadow Season 2](https://anilist.co/anime/161964) (12:14, 07 December 2023)
--   📖 Read chapter 92 - 95 of [The 100 Girlfriends Who Really, Really, Really, Really, Really Love You](https://anilist.co/manga/114416) (10:57, 07 December 2023)
--   📖 Read chapter 1 - 2 of [Astral Pet Store](https://anilist.co/manga/160143) (10:31, 07 December 2023)
--   📖 Read chapter 59 of [The Eminence in Shadow](https://anilist.co/manga/106758) (10:21, 07 December 2023)
+-   📖 Read chapter 32 - 34 of [Where Is My Little Stick?!](https://anilist.co/manga/157094) (19:45, 08 December 2023)
+-   📖 Read chapter 92 - 96 of [The 100 Girlfriends Who Really, Really, Really, Really, Really Love You](https://anilist.co/manga/114416) (19:35, 08 December 2023)
+-   📖 Read chapter 100 - 106 of [Jungle Juice](https://anilist.co/manga/128882) (11:37, 08 December 2023)
+-   📖 Read chapter 406 - 409 of [My Hero Academia](https://anilist.co/manga/85486) (09:21, 08 December 2023)
+-   📖 Read chapter 203 - 204 of [Overgeared](https://anilist.co/manga/117460) (09:17, 08 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
