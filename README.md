@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 2 - 5 of [Happy Harem Making with the Mightiest Orc!](https://anilist.co/manga/116809) (18:42, 10 December 2023)
--   📺 Watched episode 1 - 10 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You](https://anilist.co/anime/162694) (15:25, 10 December 2023)
--   📖 Read chapter 100 - 107 of [Jungle Juice](https://anilist.co/manga/128882) (08:39, 10 December 2023)
--   📖 Read chapter 3325 - 3634 of [Martial Peak](https://anilist.co/manga/104494) (08:32, 10 December 2023)
--   📖 Read chapter 59 - 66 of [Punishing My Pet Slave ELF](https://anilist.co/manga/143102) (08:29, 10 December 2023)
+-   📖 Plans to read [Love Selection](https://anilist.co/manga/30632) (19:00, 11 December 2023)
+-   📖 Read chapter 2 - 37 of [Happy Harem Making with the Mightiest Orc!](https://anilist.co/manga/116809) (18:30, 11 December 2023)
+-   📖 Read chapter 32 - 41 of [Where Is My Little Stick?!](https://anilist.co/manga/157094) (17:59, 11 December 2023)
+-   📖 Read chapter 33 of [Potential Husband of The World Tree](https://anilist.co/manga/164510) (12:22, 11 December 2023)
+-   📖 Read chapter 33 of [Potential Husband of The World Tree](https://anilist.co/manga/164510) (12:22, 11 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
