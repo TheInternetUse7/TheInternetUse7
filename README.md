@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 275 of [Eleceed](https://anilist.co/manga/106929) (19:04, 12 December 2023)
+-   📖 Read chapter 2 - 63 of [Happy Harem Making with the Mightiest Orc!](https://anilist.co/manga/116809) (16:32, 12 December 2023)
+-   📖 Paused reading 49 of [Happy Harem Making with the Mightiest Orc!](https://anilist.co/manga/116809) (15:10, 12 December 2023)
+-   📺 Plans to watch [trapezium](https://anilist.co/anime/171291) (09:19, 12 December 2023)
 -   📖 Plans to read [Love Selection](https://anilist.co/manga/30632) (19:00, 11 December 2023)
--   📖 Read chapter 2 - 37 of [Happy Harem Making with the Mightiest Orc!](https://anilist.co/manga/116809) (18:30, 11 December 2023)
--   📖 Read chapter 32 - 41 of [Where Is My Little Stick?!](https://anilist.co/manga/157094) (17:59, 11 December 2023)
--   📖 Read chapter 33 of [Potential Husband of The World Tree](https://anilist.co/manga/164510) (12:22, 11 December 2023)
--   📖 Read chapter 33 of [Potential Husband of The World Tree](https://anilist.co/manga/164510) (12:22, 11 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
