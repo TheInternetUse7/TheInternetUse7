@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Plans to read [Make Heroine ga Oosugiru! @comic](https://anilist.co/manga/147664) (18:43, 14 December 2023)
--   📖 Read chapter 2 - 86 of [Happy Harem Making with the Mightiest Orc!](https://anilist.co/manga/116809) (10:29, 14 December 2023)
--   📖 Read chapter 3325 - 3637 of [Martial Peak](https://anilist.co/manga/104494) (03:48, 14 December 2023)
--   📖 Read chapter 163 - 184 of [Nano Machine](https://anilist.co/manga/120980) (19:36, 13 December 2023)
--   📺 Watched episode 1 - 11 of [The Eminence in Shadow Season 2](https://anilist.co/anime/161964) (17:03, 13 December 2023)
+-   📖 Read chapter 2 - 96 of [Happy Harem Making with the Mightiest Orc!](https://anilist.co/manga/116809) (23:27, 15 December 2023)
+-   📖 Read chapter 3325 - 3639 of [Martial Peak](https://anilist.co/manga/104494) (23:19, 15 December 2023)
+-   📺 Watched episode 5 of [The Demon Sword Master of Excalibur Academy](https://anilist.co/anime/140501) (20:58, 15 December 2023)
+-   📖 Read chapter 97 - 98 of [Sex Study Group](https://anilist.co/manga/145493) (20:24, 15 December 2023)
+-   📖 Read chapter 203 - 205 of [Overgeared](https://anilist.co/manga/117460) (03:25, 15 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
