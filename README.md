@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 2 - 96 of [Happy Harem Making with the Mightiest Orc!](https://anilist.co/manga/116809) (23:27, 15 December 2023)
--   📖 Read chapter 3325 - 3639 of [Martial Peak](https://anilist.co/manga/104494) (23:19, 15 December 2023)
--   📺 Watched episode 5 of [The Demon Sword Master of Excalibur Academy](https://anilist.co/anime/140501) (20:58, 15 December 2023)
--   📖 Read chapter 97 - 98 of [Sex Study Group](https://anilist.co/manga/145493) (20:24, 15 December 2023)
--   📖 Read chapter 203 - 205 of [Overgeared](https://anilist.co/manga/117460) (03:25, 15 December 2023)
+-   📖 Read chapter 1 - 4 of [Love Selection](https://anilist.co/manga/30632) (20:46, 16 December 2023)
+-   📖 Read chapter 20 - 21 of [DRAMA QUEENS](https://anilist.co/manga/131769) (12:29, 16 December 2023)
+-   📖 Completed [Happy Harem Making with the Mightiest Orc!](https://anilist.co/manga/116809) (12:15, 16 December 2023)
+-   📖 Read chapter 2 - 112 of [Happy Harem Making with the Mightiest Orc!](https://anilist.co/manga/116809) (12:15, 16 December 2023)
+-   📖 Read chapter 59 - 67 of [Punishing My Pet Slave ELF](https://anilist.co/manga/143102) (11:39, 16 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
