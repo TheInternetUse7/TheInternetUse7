@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 4 of [Love Selection](https://anilist.co/manga/30632) (20:46, 16 December 2023)
--   📖 Read chapter 20 - 21 of [DRAMA QUEENS](https://anilist.co/manga/131769) (12:29, 16 December 2023)
--   📖 Completed [Happy Harem Making with the Mightiest Orc!](https://anilist.co/manga/116809) (12:15, 16 December 2023)
--   📖 Read chapter 2 - 112 of [Happy Harem Making with the Mightiest Orc!](https://anilist.co/manga/116809) (12:15, 16 December 2023)
--   📖 Read chapter 59 - 67 of [Punishing My Pet Slave ELF](https://anilist.co/manga/143102) (11:39, 16 December 2023)
+-   📺 Watched episode 1 - 11 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You](https://anilist.co/anime/162694) (16:03, 17 December 2023)
+-   📺 Watched episode 1 - 2 of [Shangri-La Frontier](https://anilist.co/anime/151970) (13:41, 17 December 2023)
+-   📖 Read chapter 92 - 99 of [The 100 Girlfriends Who Really, Really, Really, Really, Really Love You](https://anilist.co/manga/114416) (09:08, 17 December 2023)
+-   📖 Plans to read [Jishou F-Rank no Oniisama ga Game de Hyouka sareru Gakuen no Chouten ni Kunrin suru Sou desu yo?](https://anilist.co/manga/101848) (08:36, 17 December 2023)
+-   📺 Plans to watch [Chainsaw Man – The Movie: Reze Arc](https://anilist.co/anime/171627) (08:34, 17 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
