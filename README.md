@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 11 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You](https://anilist.co/anime/162694) (16:03, 17 December 2023)
--   📺 Watched episode 1 - 2 of [Shangri-La Frontier](https://anilist.co/anime/151970) (13:41, 17 December 2023)
--   📖 Read chapter 92 - 99 of [The 100 Girlfriends Who Really, Really, Really, Really, Really Love You](https://anilist.co/manga/114416) (09:08, 17 December 2023)
--   📖 Plans to read [Jishou F-Rank no Oniisama ga Game de Hyouka sareru Gakuen no Chouten ni Kunrin suru Sou desu yo?](https://anilist.co/manga/101848) (08:36, 17 December 2023)
--   📺 Plans to watch [Chainsaw Man – The Movie: Reze Arc](https://anilist.co/anime/171627) (08:34, 17 December 2023)
+-   📖 Read chapter 33 - 34 of [Potential Husband of The World Tree](https://anilist.co/manga/164510) (19:56, 18 December 2023)
+-   📖 Read chapter 8 of [Imouto wa Kanojo ni Dekinai no ni](https://anilist.co/manga/157136) (06:31, 18 December 2023)
+-   📖 Read chapter 123 - 129 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (06:26, 18 December 2023)
+-   📖 Read chapter 3325 - 3641 of [Martial Peak](https://anilist.co/manga/104494) (06:23, 18 December 2023)
+-   📖 Read chapter 1 - 56 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (06:21, 18 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
