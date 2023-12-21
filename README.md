@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 92 - 102 of [The 100 Girlfriends Who Really, Really, Really, Really, Really Love You](https://anilist.co/manga/114416) (11:05, 19 December 2023)
--   📖 Read chapter 33 - 34 of [Potential Husband of The World Tree](https://anilist.co/manga/164510) (19:56, 18 December 2023)
--   📖 Read chapter 8 of [Imouto wa Kanojo ni Dekinai no ni](https://anilist.co/manga/157136) (06:31, 18 December 2023)
--   📖 Read chapter 123 - 129 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (06:26, 18 December 2023)
--   📖 Read chapter 3325 - 3641 of [Martial Peak](https://anilist.co/manga/104494) (06:23, 18 December 2023)
+-   📖 Read chapter 1 of [VR Eroge yattetara Isekai ni Tensei shita no de, Bishoujo Maou wo Doreika suru: Cross Out Saber](https://anilist.co/manga/107278) (20:33, 20 December 2023)
+-   📖 Plans to read [Sword King In A Women's World](https://anilist.co/manga/116027) (20:30, 20 December 2023)
+-   📖 Plans to read [Ochikobore Datta Ani ga Jitsu wa Saikyou: Shijou Saikyou no Yuusha wa Tenseishi, Gakuen de Mujikaku ni Musou suru](https://anilist.co/manga/145429) (20:29, 20 December 2023)
+-   📖 Plans to read [VR Eroge yattetara Isekai ni Tensei shita no de, Bishoujo Maou wo Doreika suru: Cross Out Saber](https://anilist.co/manga/107278) (20:23, 20 December 2023)
+-   📖 Read chapter 92 - 103 of [The 100 Girlfriends Who Really, Really, Really, Really, Really Love You](https://anilist.co/manga/114416) (20:07, 20 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
