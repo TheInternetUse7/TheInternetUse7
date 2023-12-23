@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 97 - 99 of [Sex Study Group](https://anilist.co/manga/145493) (19:46, 21 December 2023)
--   📖 Read chapter 3325 - 3644 of [Martial Peak](https://anilist.co/manga/104494) (19:24, 21 December 2023)
--   📺 Plans to watch [Dr. STONE: SCIENCE FUTURE](https://anilist.co/anime/172019) (17:27, 21 December 2023)
--   📺 Completed [The Eminence in Shadow Season 2](https://anilist.co/anime/161964) (11:48, 21 December 2023)
--   📖 Read chapter 1 - 4 of [VR Eroge yattetara Isekai ni Tensei shita no de, Bishoujo Maou wo Doreika suru: Cross Out Saber](https://anilist.co/manga/107278) (03:29, 21 December 2023)
+-   📖 Read chapter 6 - 103 of [The 100 Girlfriends Who Really, Really, Really, Really, Really Love You](https://anilist.co/manga/114416) (19:53, 22 December 2023)
+-   📖 Read chapter 1 - 11 of [VR Eroge yattetara Isekai ni Tensei shita no de, Bishoujo Maou wo Doreika suru: Cross Out Saber](https://anilist.co/manga/107278) (12:57, 22 December 2023)
+-   📖 Read chapter 1 - 2 of [Ochikobore Datta Ani ga Jitsu wa Saikyou: Shijou Saikyou no Yuusha wa Tenseishi, Gakuen de Mujikaku ni Musou suru](https://anilist.co/manga/145429) (11:32, 22 December 2023)
+-   📖 Read chapter 1 - 19 of [Sword King In A Women's World](https://anilist.co/manga/116027) (10:17, 22 December 2023)
+-   📖 Read chapter 137 - 189 of [Omniscient Reader](https://anilist.co/manga/119257) (10:14, 22 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
