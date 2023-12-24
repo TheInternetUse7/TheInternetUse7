@@ -25,10 +25,10 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 31 of [Sword King In A Women's World](https://anilist.co/manga/116027) (21:02, 23 December 2023)
 -   📖 Read chapter 6 - 103 of [The 100 Girlfriends Who Really, Really, Really, Really, Really Love You](https://anilist.co/manga/114416) (19:53, 22 December 2023)
 -   📖 Read chapter 1 - 11 of [VR Eroge yattetara Isekai ni Tensei shita no de, Bishoujo Maou wo Doreika suru: Cross Out Saber](https://anilist.co/manga/107278) (12:57, 22 December 2023)
 -   📖 Read chapter 1 - 2 of [Ochikobore Datta Ani ga Jitsu wa Saikyou: Shijou Saikyou no Yuusha wa Tenseishi, Gakuen de Mujikaku ni Musou suru](https://anilist.co/manga/145429) (11:32, 22 December 2023)
--   📖 Read chapter 1 - 19 of [Sword King In A Women's World](https://anilist.co/manga/116027) (10:17, 22 December 2023)
 -   📖 Read chapter 137 - 189 of [Omniscient Reader](https://anilist.co/manga/119257) (10:14, 22 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
