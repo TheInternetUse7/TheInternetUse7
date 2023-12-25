@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 31 of [Sword King In A Women's World](https://anilist.co/manga/116027) (21:02, 23 December 2023)
--   📖 Read chapter 6 - 103 of [The 100 Girlfriends Who Really, Really, Really, Really, Really Love You](https://anilist.co/manga/114416) (19:53, 22 December 2023)
--   📖 Read chapter 1 - 11 of [VR Eroge yattetara Isekai ni Tensei shita no de, Bishoujo Maou wo Doreika suru: Cross Out Saber](https://anilist.co/manga/107278) (12:57, 22 December 2023)
--   📖 Read chapter 1 - 2 of [Ochikobore Datta Ani ga Jitsu wa Saikyou: Shijou Saikyou no Yuusha wa Tenseishi, Gakuen de Mujikaku ni Musou suru](https://anilist.co/manga/145429) (11:32, 22 December 2023)
--   📖 Read chapter 137 - 189 of [Omniscient Reader](https://anilist.co/manga/119257) (10:14, 22 December 2023)
+-   📖 Read chapter 1 - 58 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (22:13, 24 December 2023)
+-   📺 Completed [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You](https://anilist.co/anime/162694) (16:07, 24 December 2023)
+-   📖 Read chapter 1 - 16 of [VR Eroge yattetara Isekai ni Tensei shita no de, Bishoujo Maou wo Doreika suru: Cross Out Saber](https://anilist.co/manga/107278) (06:31, 24 December 2023)
+-   📖 Read chapter 1 - 4 of [Ochikobore Datta Ani ga Jitsu wa Saikyou: Shijou Saikyou no Yuusha wa Tenseishi, Gakuen de Mujikaku ni Musou suru](https://anilist.co/manga/145429) (06:25, 24 December 2023)
+-   📖 Read chapter 1 - 45 of [Sword King In A Women's World](https://anilist.co/manga/116027) (04:53, 24 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
