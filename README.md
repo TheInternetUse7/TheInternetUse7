@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 58 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (22:13, 24 December 2023)
--   📺 Completed [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You](https://anilist.co/anime/162694) (16:07, 24 December 2023)
--   📖 Read chapter 1 - 16 of [VR Eroge yattetara Isekai ni Tensei shita no de, Bishoujo Maou wo Doreika suru: Cross Out Saber](https://anilist.co/manga/107278) (06:31, 24 December 2023)
--   📖 Read chapter 1 - 4 of [Ochikobore Datta Ani ga Jitsu wa Saikyou: Shijou Saikyou no Yuusha wa Tenseishi, Gakuen de Mujikaku ni Musou suru](https://anilist.co/manga/145429) (06:25, 24 December 2023)
--   📖 Read chapter 1 - 45 of [Sword King In A Women's World](https://anilist.co/manga/116027) (04:53, 24 December 2023)
+-   📺 Watched episode 1 of [Like Mother Like Daughter](https://anilist.co/anime/3422) (11:03, 25 December 2023)
+-   📖 Read chapter 26 of [Isekai Danyuu: Shiru Danyuu ga Isekai Tensei Shite Ero Chishiki Full Katsuyou de Musou Danyuu ni Naru Hanashi](https://anilist.co/manga/156621) (10:55, 25 December 2023)
+-   📖 Read chapter 3325 - 3645 of [Martial Peak](https://anilist.co/manga/104494) (09:28, 25 December 2023)
+-   📖 Read chapter 123 - 130 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (09:00, 25 December 2023)
+-   📖 Read chapter 203 - 208 of [Overgeared](https://anilist.co/manga/117460) (06:05, 25 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
