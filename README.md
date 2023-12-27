@@ -25,9 +25,9 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 3325 - 3648 of [Martial Peak](https://anilist.co/manga/104494) (21:15, 26 December 2023)
 -   📺 Watched episode 1 of [Like Mother Like Daughter](https://anilist.co/anime/3422) (11:03, 25 December 2023)
 -   📖 Read chapter 26 of [Isekai Danyuu: Shiru Danyuu ga Isekai Tensei Shite Ero Chishiki Full Katsuyou de Musou Danyuu ni Naru Hanashi](https://anilist.co/manga/156621) (10:55, 25 December 2023)
--   📖 Read chapter 3325 - 3645 of [Martial Peak](https://anilist.co/manga/104494) (09:28, 25 December 2023)
 -   📖 Read chapter 123 - 130 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (09:00, 25 December 2023)
 -   📖 Read chapter 203 - 208 of [Overgeared](https://anilist.co/manga/117460) (06:05, 25 December 2023)
 
