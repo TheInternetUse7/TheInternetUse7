@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 97 - 100 of [Sex Study Group](https://anilist.co/manga/145493) (21:10, 29 December 2023)
--   📖 Read chapter 1 - 4 of [Nüzhu Cong Shu Li Pao Chulai Le Zenmeban](https://anilist.co/manga/165424) (03:49, 29 December 2023)
--   📖 Read chapter 3325 - 3650 of [Martial Peak](https://anilist.co/manga/104494) (03:43, 29 December 2023)
--   📖 Read chapter 148 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (03:36, 29 December 2023)
--   📖 Read chapter 42 - 43 of [Isekai NTR: Shinyuu no Onna wo Saikyou Skill de Otosu Houhou](https://anilist.co/manga/115042) (18:30, 28 December 2023)
+-   📖 Read chapter 42 - 44 of [Isekai NTR: Shinyuu no Onna wo Saikyou Skill de Otosu Houhou](https://anilist.co/manga/115042) (21:39, 30 December 2023)
+-   📖 Read chapter 1 - 7 of [Moby Dick](https://anilist.co/manga/172094) (10:13, 30 December 2023)
+-   📖 Read chapter 1 - 72 of [Sword King In A Women's World](https://anilist.co/manga/116027) (09:57, 30 December 2023)
+-   📖 Read chapter 203 - 209 of [Overgeared](https://anilist.co/manga/117460) (09:31, 30 December 2023)
+-   📖 Read chapter 1 - 9 of [Nüzhu Cong Shu Li Pao Chulai Le Zenmeban](https://anilist.co/manga/165424) (02:45, 30 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
