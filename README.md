@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 42 - 44 of [Isekai NTR: Shinyuu no Onna wo Saikyou Skill de Otosu Houhou](https://anilist.co/manga/115042) (21:39, 30 December 2023)
--   📖 Read chapter 1 - 7 of [Moby Dick](https://anilist.co/manga/172094) (10:13, 30 December 2023)
--   📖 Read chapter 1 - 72 of [Sword King In A Women's World](https://anilist.co/manga/116027) (09:57, 30 December 2023)
--   📖 Read chapter 203 - 209 of [Overgeared](https://anilist.co/manga/117460) (09:31, 30 December 2023)
--   📖 Read chapter 1 - 9 of [Nüzhu Cong Shu Li Pao Chulai Le Zenmeban](https://anilist.co/manga/165424) (02:45, 30 December 2023)
+-   📺 Plans to watch [Gushing Over Magical Girls](https://anilist.co/anime/162780) (14:41, 31 December 2023)
+-   📺 Plans to watch [HIGH CARD Season 2](https://anilist.co/anime/163151) (14:40, 31 December 2023)
+-   📖 Read chapter 42 - 45 of [Where Is My Little Stick?!](https://anilist.co/manga/157094) (05:03, 31 December 2023)
+-   📖 Read chapter 1 - 14 of [Nüzhu Cong Shu Li Pao Chulai Le Zenmeban](https://anilist.co/manga/165424) (04:08, 31 December 2023)
+-   📖 Read chapter 1 - 80 of [Sword King In A Women's World](https://anilist.co/manga/116027) (03:46, 31 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
