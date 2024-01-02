@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 59 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (17:54, 01 January 2024)
 -   📺 Plans to watch [Gushing Over Magical Girls](https://anilist.co/anime/162780) (14:41, 31 December 2023)
 -   📺 Plans to watch [HIGH CARD Season 2](https://anilist.co/anime/163151) (14:40, 31 December 2023)
 -   📖 Read chapter 42 - 45 of [Where Is My Little Stick?!](https://anilist.co/manga/157094) (05:03, 31 December 2023)
 -   📖 Read chapter 1 - 14 of [Nüzhu Cong Shu Li Pao Chulai Le Zenmeban](https://anilist.co/manga/165424) (04:08, 31 December 2023)
--   📖 Read chapter 1 - 80 of [Sword King In A Women's World](https://anilist.co/manga/116027) (03:46, 31 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
