@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 42 - 48 of [Where Is My Little Stick?!](https://anilist.co/manga/157094) (20:08, 02 January 2024)
--   📖 Plans to read [Flirting With Her](https://anilist.co/manga/145990) (19:45, 02 January 2024)
--   📖 Read chapter 81 of [Saotome Shimai wa Manga no Tame Nara!?](https://anilist.co/manga/103621) (18:33, 02 January 2024)
--   📖 Read chapter 1 - 59 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (17:54, 01 January 2024)
--   📺 Plans to watch [Gushing Over Magical Girls](https://anilist.co/anime/162780) (14:41, 31 December 2023)
+-   📺 Watched episode 1 of [Gushing Over Magical Girls](https://anilist.co/anime/162780) (17:41, 03 January 2024)
+-   📖 Read chapter 3325 - 3651 of [Martial Peak](https://anilist.co/manga/104494) (17:21, 03 January 2024)
+-   📺 Completed [Like Mother Like Daughter](https://anilist.co/anime/3422) (07:28, 03 January 2024)
+-   📖 Read chapter 1 of [Jishou F-Rank no Oniisama ga Game de Hyouka sareru Gakuen no Chouten ni Kunrin suru Sou desu yo?](https://anilist.co/manga/101848) (04:08, 03 January 2024)
+-   📖 Read chapter 1 - 3 of [Flirting With Her](https://anilist.co/manga/145990) (03:51, 03 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
