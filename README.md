@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 10 of [A Returner's Magic Should Be Special](https://anilist.co/anime/163142) (20:29, 04 January 2024)
+-   📺 Dropped [ONIMAI: I'm Now Your Sister!](https://anilist.co/anime/147864) (20:07, 04 January 2024)
+-   📺 Watched episode 1 of [ONIMAI: I'm Now Your Sister!](https://anilist.co/anime/147864) (19:37, 04 January 2024)
+-   📺 Watched episode 11 of [SPY x FAMILY Season 2](https://anilist.co/anime/158927) (19:33, 04 January 2024)
 -   📺 Watched episode 1 of [Gushing Over Magical Girls](https://anilist.co/anime/162780) (17:41, 03 January 2024)
--   📖 Read chapter 3325 - 3651 of [Martial Peak](https://anilist.co/manga/104494) (17:21, 03 January 2024)
--   📺 Completed [Like Mother Like Daughter](https://anilist.co/anime/3422) (07:28, 03 January 2024)
--   📖 Read chapter 1 of [Jishou F-Rank no Oniisama ga Game de Hyouka sareru Gakuen no Chouten ni Kunrin suru Sou desu yo?](https://anilist.co/manga/101848) (04:08, 03 January 2024)
--   📖 Read chapter 1 - 3 of [Flirting With Her](https://anilist.co/manga/145990) (03:51, 03 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
