@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 81 of [Sword King In A Women's World](https://anilist.co/manga/116027) (22:01, 05 January 2024)
+-   📺 Watched episode 1 of [Chained Soldier](https://anilist.co/anime/141821) (20:05, 06 January 2024)
+-   📺 Watched episode 1 of [Solo Leveling](https://anilist.co/anime/151807) (18:32, 06 January 2024)
+-   📖 Read chapter 80 of [Isekai Meikyuu de Harem wo](https://anilist.co/manga/99462) (15:20, 06 January 2024)
+-   📖 Read chapter 1 - 90 of [Sword King In A Women's World](https://anilist.co/manga/116027) (03:33, 06 January 2024)
 -   📖 Read chapter 1 of [Yandere Ouji ga Shachiku Onna no Watashi wo Hanasanai](https://anilist.co/manga/149636) (21:34, 05 January 2024)
--   📖 Completed [Yandere Ouji ga Shachiku Onna no Watashi wo Hanasanai](https://anilist.co/manga/149636) (21:34, 05 January 2024)
--   📖 Completed [Love Selection](https://anilist.co/manga/30632) (21:32, 05 January 2024)
--   📖 Read chapter 137 - 191 of [Omniscient Reader](https://anilist.co/manga/119257) (09:46, 05 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
