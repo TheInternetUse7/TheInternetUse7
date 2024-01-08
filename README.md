@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 60 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (18:02, 07 January 2024)
+-   📺 Watched episode 10 - 11 of [A Returner's Magic Should Be Special](https://anilist.co/anime/163142) (12:54, 07 January 2024)
+-   📖 Read chapter 1 - 95 of [Sword King In A Women's World](https://anilist.co/manga/116027) (04:47, 07 January 2024)
+-   📖 Read chapter 97 - 101 of [Sex Study Group](https://anilist.co/manga/145493) (04:29, 07 January 2024)
 -   📺 Watched episode 1 of [Chained Soldier](https://anilist.co/anime/141821) (20:05, 06 January 2024)
--   📺 Watched episode 1 of [Solo Leveling](https://anilist.co/anime/151807) (18:32, 06 January 2024)
--   📖 Read chapter 80 of [Isekai Meikyuu de Harem wo](https://anilist.co/manga/99462) (15:20, 06 January 2024)
--   📖 Read chapter 1 - 90 of [Sword King In A Women's World](https://anilist.co/manga/116027) (03:33, 06 January 2024)
--   📖 Read chapter 1 of [Yandere Ouji ga Shachiku Onna no Watashi wo Hanasanai](https://anilist.co/manga/149636) (21:34, 05 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
