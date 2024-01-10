@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 42 - 46 of [Isekai NTR: Shinyuu no Onna wo Saikyou Skill de Otosu Houhou](https://anilist.co/manga/115042) (19:23, 09 January 2024)
+-   📖 Completed [Not Safe For Work](https://anilist.co/manga/154190) (09:28, 09 January 2024)
+-   📖 Read chapter 1 - 115 of [Sword King In A Women's World](https://anilist.co/manga/116027) (09:24, 09 January 2024)
+-   📖 Read chapter 59 - 70 of [Punishing My Pet Slave ELF](https://anilist.co/manga/143102) (08:39, 09 January 2024)
 -   📖 Read chapter 3325 - 3652 of [Martial Peak](https://anilist.co/manga/104494) (20:27, 08 January 2024)
--   📖 Read chapter 59 - 69 of [Punishing My Pet Slave ELF](https://anilist.co/manga/143102) (20:23, 08 January 2024)
--   📖 Read chapter 81 - 82 of [Saotome Shimai wa Manga no Tame Nara!?](https://anilist.co/manga/103621) (20:15, 08 January 2024)
--   📖 Read chapter 1 - 109 of [Sword King In A Women's World](https://anilist.co/manga/116027) (03:47, 08 January 2024)
--   📖 Read chapter 1 - 60 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (18:02, 07 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
