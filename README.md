@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 42 - 46 of [Isekai NTR: Shinyuu no Onna wo Saikyou Skill de Otosu Houhou](https://anilist.co/manga/115042) (19:23, 09 January 2024)
--   📖 Completed [Not Safe For Work](https://anilist.co/manga/154190) (09:28, 09 January 2024)
--   📖 Read chapter 1 - 115 of [Sword King In A Women's World](https://anilist.co/manga/116027) (09:24, 09 January 2024)
--   📖 Read chapter 59 - 70 of [Punishing My Pet Slave ELF](https://anilist.co/manga/143102) (08:39, 09 January 2024)
--   📖 Read chapter 3325 - 3652 of [Martial Peak](https://anilist.co/manga/104494) (20:27, 08 January 2024)
+-   📺 Watched episode 1 - 2 of [Gushing Over Magical Girls](https://anilist.co/anime/162780) (17:46, 10 January 2024)
+-   📖 Read chapter 60 of [The Eminence in Shadow](https://anilist.co/manga/106758) (10:04, 10 January 2024)
+-   📖 Read chapter 1 - 118 of [Sword King In A Women's World](https://anilist.co/manga/116027) (05:18, 10 January 2024)
+-   📖 Read chapter 137 - 192 of [Omniscient Reader](https://anilist.co/manga/119257) (03:40, 10 January 2024)
+-   📖 Read chapter 3325 - 3653 of [Martial Peak](https://anilist.co/manga/104494) (03:33, 10 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
