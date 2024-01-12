@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 2 of [Gushing Over Magical Girls](https://anilist.co/anime/162780) (17:46, 10 January 2024)
--   📖 Read chapter 60 of [The Eminence in Shadow](https://anilist.co/manga/106758) (10:04, 10 January 2024)
--   📖 Read chapter 1 - 118 of [Sword King In A Women's World](https://anilist.co/manga/116027) (05:18, 10 January 2024)
--   📖 Read chapter 137 - 192 of [Omniscient Reader](https://anilist.co/manga/119257) (03:40, 10 January 2024)
--   📖 Read chapter 3325 - 3653 of [Martial Peak](https://anilist.co/manga/104494) (03:33, 10 January 2024)
+-   📖 Read chapter 1 - 2 of [Fudajo!: Otome Shoukan Datsui Taisen](https://anilist.co/manga/94991) (10:22, 11 January 2024)
+-   📖 Read chapter 1 - 279 of [Eleceed](https://anilist.co/manga/106929) (07:52, 11 January 2024)
+-   📖 Plans to read [Fudajo!: Otome Shoukan Datsui Taisen](https://anilist.co/manga/94991) (07:32, 11 January 2024)
+-   📖 Read chapter 1 - 129 of [Sword King In A Women's World](https://anilist.co/manga/116027) (02:18, 11 January 2024)
+-   📖 Plans to read [Boundless Ascension](https://anilist.co/manga/159439) (01:42, 11 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
