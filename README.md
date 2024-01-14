@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 7 of [Fudajo!: Otome Shoukan Datsui Taisen](https://anilist.co/manga/94991) (23:58, 12 January 2024)
--   📖 Read chapter 1 - 131 of [Sword King In A Women's World](https://anilist.co/manga/116027) (23:25, 12 January 2024)
--   📺 Watched episode 1 - 2 of [Chained Soldier](https://anilist.co/anime/141821) (18:42, 12 January 2024)
--   📺 Watched episode 1 of [Urusei Yatsura (2022) Season 3](https://anilist.co/anime/155645) (17:52, 12 January 2024)
--   📖 Read chapter 1 - 2 of [Boundless Ascension](https://anilist.co/manga/159439) (03:44, 12 January 2024)
+-   📖 Read chapter 3325 - 3655 of [Martial Peak](https://anilist.co/manga/104494) (00:33, 14 January 2024)
+-   📖 Read chapter 36 of [Potential Husband of The World Tree](https://anilist.co/manga/164510) (00:30, 14 January 2024)
+-   📺 Watched episode 1 - 2 of [Solo Leveling](https://anilist.co/anime/151807) (17:51, 13 January 2024)
+-   📖 Read chapter 1 - 10 of [Boundless Ascension](https://anilist.co/manga/159439) (13:00, 13 January 2024)
+-   📖 Plans to read [Trapped in a Hentai Game Academy](https://anilist.co/manga/151601) (10:34, 13 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
