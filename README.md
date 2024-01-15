@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 3325 - 3655 of [Martial Peak](https://anilist.co/manga/104494) (00:33, 14 January 2024)
--   📖 Read chapter 36 of [Potential Husband of The World Tree](https://anilist.co/manga/164510) (00:30, 14 January 2024)
--   📺 Watched episode 1 - 2 of [Solo Leveling](https://anilist.co/anime/151807) (17:51, 13 January 2024)
--   📖 Read chapter 1 - 10 of [Boundless Ascension](https://anilist.co/manga/159439) (13:00, 13 January 2024)
--   📖 Plans to read [Trapped in a Hentai Game Academy](https://anilist.co/manga/151601) (10:34, 13 January 2024)
+-   📖 Read chapter 13 of [Issho ni Kurashite Ii desu ka?](https://anilist.co/manga/159549) (20:01, 14 January 2024)
+-   📖 Read chapter 3325 - 3656 of [Martial Peak](https://anilist.co/manga/104494) (19:55, 14 January 2024)
+-   📖 Read chapter 1 - 61 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (19:49, 14 January 2024)
+-   📖 Plans to read [Maid Yome](https://anilist.co/manga/40245) (09:15, 14 January 2024)
+-   📖 Plans to read [How to Build a Dungeon: Book of the Demon King](https://anilist.co/manga/86242) (09:15, 14 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
