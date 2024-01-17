@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 25 of [Boundless Ascension](https://anilist.co/manga/159439) (09:16, 15 January 2024)
--   📖 Read chapter 1 of [NTREVENGE](https://anilist.co/manga/167427) (07:11, 15 January 2024)
+-   📖 Read chapter 1 - 26 of [Boundless Ascension](https://anilist.co/manga/159439) (19:24, 16 January 2024)
+-   📖 Read chapter 1 - 16 of [NTREVENGE](https://anilist.co/manga/167427) (19:23, 16 January 2024)
+-   📖 Read chapter 123 - 132 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (11:48, 16 January 2024)
+-   📖 Read chapter 36 - 37 of [Potential Husband of The World Tree](https://anilist.co/manga/164510) (11:37, 16 January 2024)
 -   📖 Read chapter 1 - 2 of [Jishou F-Rank no Oniisama ga Game de Hyouka sareru Gakuen no Chouten ni Kunrin suru Sou desu yo?](https://anilist.co/manga/101848) (06:50, 15 January 2024)
--   📖 Read chapter 1 - 2 of [Trapped in a Hentai Game Academy](https://anilist.co/manga/151601) (06:47, 15 January 2024)
--   📖 Read chapter 97 - 102 of [Sex Study Group](https://anilist.co/manga/145493) (05:22, 15 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
