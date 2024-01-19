@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 3 of [Gushing Over Magical Girls](https://anilist.co/anime/162780) (21:43, 17 January 2024)
--   📖 Read chapter 1 - 26 of [Boundless Ascension](https://anilist.co/manga/159439) (19:24, 16 January 2024)
--   📖 Read chapter 1 - 16 of [NTREVENGE](https://anilist.co/manga/167427) (19:23, 16 January 2024)
--   📖 Read chapter 123 - 132 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (11:48, 16 January 2024)
--   📖 Read chapter 36 - 37 of [Potential Husband of The World Tree](https://anilist.co/manga/164510) (11:37, 16 January 2024)
+-   📖 Read chapter 203 - 211 of [Overgeared](https://anilist.co/manga/117460) (06:11, 18 January 2024)
+-   📖 Read chapter 3325 - 3657 of [Martial Peak](https://anilist.co/manga/104494) (05:58, 18 January 2024)
+-   📖 Read chapter 101 - 103 of [Level Up with the Gods](https://anilist.co/manga/138222) (05:54, 18 January 2024)
+-   📖 Read chapter 148 - 151 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (05:50, 18 January 2024)
+-   📖 Read chapter 81 - 83 of [Saotome Shimai wa Manga no Tame Nara!?](https://anilist.co/manga/103621) (05:45, 18 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
