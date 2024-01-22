@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 of [Houjou no Reizoku Elf](https://anilist.co/manga/112672) (10:52, 21 January 2024)
 -   📖 Completed [Haitoku no Oniwa](https://anilist.co/manga/34741) (07:26, 19 January 2024)
 -   📖 Completed [Inside the Tentacle Cave](https://anilist.co/manga/142839) (07:18, 19 January 2024)
 -   📖 Completed [Ero Sugiru Doukyonin: Dosukebe Shimai to 1K Doukyo Seikatsu](https://anilist.co/manga/148088) (07:15, 19 January 2024)
 -   📖 Read chapter 3325 - 3659 of [Martial Peak](https://anilist.co/manga/104494) (06:45, 19 January 2024)
--   📖 Read chapter 203 - 212 of [Overgeared](https://anilist.co/manga/117460) (06:40, 19 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
