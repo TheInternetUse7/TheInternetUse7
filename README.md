@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 62 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (21:58, 22 January 2024)
+-   📺 Watched episode 1 - 2 of [Urusei Yatsura (2022) Season 3](https://anilist.co/anime/155645) (21:11, 22 January 2024)
 -   📖 Read chapter 1 of [Houjou no Reizoku Elf](https://anilist.co/manga/112672) (10:52, 21 January 2024)
 -   📖 Completed [Haitoku no Oniwa](https://anilist.co/manga/34741) (07:26, 19 January 2024)
 -   📖 Completed [Inside the Tentacle Cave](https://anilist.co/manga/142839) (07:18, 19 January 2024)
--   📖 Completed [Ero Sugiru Doukyonin: Dosukebe Shimai to 1K Doukyo Seikatsu](https://anilist.co/manga/148088) (07:15, 19 January 2024)
--   📖 Read chapter 3325 - 3659 of [Martial Peak](https://anilist.co/manga/104494) (06:45, 19 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
