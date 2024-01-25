@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 203 - 213 of [Overgeared](https://anilist.co/manga/117460) (09:58, 23 January 2024)
--   📖 Read chapter 1 - 62 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (21:58, 22 January 2024)
--   📺 Watched episode 1 - 2 of [Urusei Yatsura (2022) Season 3](https://anilist.co/anime/155645) (21:11, 22 January 2024)
--   📖 Read chapter 1 of [Houjou no Reizoku Elf](https://anilist.co/manga/112672) (10:52, 21 January 2024)
--   📖 Completed [Haitoku no Oniwa](https://anilist.co/manga/34741) (07:26, 19 January 2024)
+-   📺 Watched episode 1 - 4 of [Gushing Over Magical Girls](https://anilist.co/anime/162780) (20:17, 24 January 2024)
+-   📖 Read chapter 9 of [Moby Dick](https://anilist.co/manga/172094) (09:41, 24 January 2024)
+-   📖 Read chapter 58 - 63 of [Relife Player](https://anilist.co/manga/159438) (09:35, 24 January 2024)
+-   📖 Read chapter 123 - 133 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (06:04, 24 January 2024)
+-   📖 Read chapter 97 - 103 of [Sex Study Group](https://anilist.co/manga/145493) (06:00, 24 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
