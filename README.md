@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 185 - 188 of [Nano Machine](https://anilist.co/manga/120980) (17:52, 25 January 2024)
+-   📖 Read chapter 58 - 65 of [Relife Player](https://anilist.co/manga/159438) (17:22, 25 January 2024)
+-   📖 Read chapter 10 of [Ore no Koto ga Daikirai na Imouto ga Kowai](https://anilist.co/manga/159020) (17:10, 25 January 2024)
+-   📖 Read chapter 148 - 152 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (17:09, 25 January 2024)
 -   📺 Watched episode 1 - 4 of [Gushing Over Magical Girls](https://anilist.co/anime/162780) (20:17, 24 January 2024)
--   📖 Read chapter 9 of [Moby Dick](https://anilist.co/manga/172094) (09:41, 24 January 2024)
--   📖 Read chapter 58 - 63 of [Relife Player](https://anilist.co/manga/159438) (09:35, 24 January 2024)
--   📖 Read chapter 123 - 133 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (06:04, 24 January 2024)
--   📖 Read chapter 97 - 103 of [Sex Study Group](https://anilist.co/manga/145493) (06:00, 24 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
