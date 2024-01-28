@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 3 - 4 of [Chained Soldier](https://anilist.co/anime/141821) (22:53, 26 January 2024)
--   📖 Read chapter 412 of [My Hero Academia](https://anilist.co/manga/85486) (12:39, 26 January 2024)
--   📖 Read chapter 3325 - 3664 of [Martial Peak](https://anilist.co/manga/104494) (12:27, 26 January 2024)
--   📖 Read chapter 185 - 189 of [Nano Machine](https://anilist.co/manga/120980) (04:34, 26 January 2024)
--   📖 Read chapter 58 - 65 of [Relife Player](https://anilist.co/manga/159438) (17:22, 25 January 2024)
+-   📖 Read chapter 3325 - 3670 of [Martial Peak](https://anilist.co/manga/104494) (00:23, 28 January 2024)
+-   📖 Completed [Siscon Ani to Brocon Imouto ga Fuufu ni Nattara Shiawase Sugite Bakuhatsushisou](https://anilist.co/manga/119816) (21:11, 27 January 2024)
+-   📖 Plans to read [Renai Shoshinsha na Yankee Joshi no Manga](https://anilist.co/manga/107505) (20:29, 27 January 2024)
+-   📖 Plans to read [Ani to Imouto no Shitai Shitai Shitai Koto](https://anilist.co/manga/142135) (20:28, 27 January 2024)
+-   📖 Read chapter 97 - 104 of [Sex Study Group](https://anilist.co/manga/145493) (15:20, 27 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
