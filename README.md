@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 2 of [Tensei gotoki de Nigerareru to demo, Nii-san?](https://anilist.co/manga/126078) (20:19, 28 January 2024)
--   📖 Read chapter 3325 - 3671 of [Martial Peak](https://anilist.co/manga/104494) (19:40, 28 January 2024)
--   📖 Completed [Siscon Ani to Brocon Imouto ga Fuufu ni Nattara Shiawase Sugite Bakuhatsushisou](https://anilist.co/manga/119816) (21:11, 27 January 2024)
--   📖 Plans to read [Renai Shoshinsha na Yankee Joshi no Manga](https://anilist.co/manga/107505) (20:29, 27 January 2024)
--   📖 Plans to read [Ani to Imouto no Shitai Shitai Shitai Koto](https://anilist.co/manga/142135) (20:28, 27 January 2024)
+-   📖 Read chapter 36 - 39 of [Potential Husband of The World Tree](https://anilist.co/manga/164510) (23:49, 29 January 2024)
+-   📖 Read chapter 193 - 195 of [Omniscient Reader](https://anilist.co/manga/119257) (23:44, 29 January 2024)
+-   📖 Read chapter 3325 - 3672 of [Martial Peak](https://anilist.co/manga/104494) (23:37, 29 January 2024)
+-   📖 Read chapter 71 of [Punishing My Pet Slave ELF](https://anilist.co/manga/143102) (23:31, 29 January 2024)
+-   📖 Read chapter 109 - 114 of [Jungle Juice](https://anilist.co/manga/128882) (23:24, 29 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
