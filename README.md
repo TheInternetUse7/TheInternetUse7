@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 33 of [Boundless Ascension](https://anilist.co/manga/159439) (22:09, 01 February 2024)
--   📖 Read chapter 193 - 196 of [Omniscient Reader](https://anilist.co/manga/119257) (05:07, 01 February 2024)
--   📖 Read chapter 3325 - 3674 of [Martial Peak](https://anilist.co/manga/104494) (05:00, 01 February 2024)
--   📖 Read chapter 11 of [Seikatsu Shuukan](https://anilist.co/manga/91951) (21:33, 31 January 2024)
--   📺 Watched episode 1 - 5 of [Gushing Over Magical Girls](https://anilist.co/anime/162780) (17:10, 31 January 2024)
+-   📖 Read chapter 3325 - 3676 of [Martial Peak](https://anilist.co/manga/104494) (22:56, 02 February 2024)
+-   📖 Read chapter 1 - 6 of [Tensei gotoki de Nigerareru to demo, Nii-san?](https://anilist.co/manga/126078) (17:56, 02 February 2024)
+-   📖 Read chapter 1 - 34 of [Boundless Ascension](https://anilist.co/manga/159439) (09:49, 02 February 2024)
+-   📖 Read chapter 1 - 18 of [NTREVENGE](https://anilist.co/manga/167427) (09:38, 02 February 2024)
+-   📖 Read chapter 71 - 73 of [Punishing My Pet Slave ELF](https://anilist.co/manga/143102) (09:34, 02 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
