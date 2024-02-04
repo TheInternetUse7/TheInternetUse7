@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 3325 - 3676 of [Martial Peak](https://anilist.co/manga/104494) (22:56, 02 February 2024)
--   📖 Read chapter 1 - 6 of [Tensei gotoki de Nigerareru to demo, Nii-san?](https://anilist.co/manga/126078) (17:56, 02 February 2024)
--   📖 Read chapter 1 - 34 of [Boundless Ascension](https://anilist.co/manga/159439) (09:49, 02 February 2024)
--   📖 Read chapter 1 - 18 of [NTREVENGE](https://anilist.co/manga/167427) (09:38, 02 February 2024)
--   📖 Read chapter 71 - 73 of [Punishing My Pet Slave ELF](https://anilist.co/manga/143102) (09:34, 02 February 2024)
+-   📺 Plans to watch [Re:ZERO -Starting Life in Another World- Season 2 Part 2](https://anilist.co/anime/119661) (23:05, 03 February 2024)
+-   📖 Read chapter 3 - 7 of [Trapped in a Hentai Game Academy](https://anilist.co/manga/151601) (18:54, 03 February 2024)
+-   📖 Read chapter 1 - 4 of [Akuyaku Reijou desu ga, Watashi wo Anata no Seidorei ni Shite Kudasai!](https://anilist.co/manga/171022) (18:46, 03 February 2024)
+-   📖 Read chapter 185 - 190 of [Nano Machine](https://anilist.co/manga/120980) (18:35, 03 February 2024)
+-   📖 Read chapter 3325 - 3677 of [Martial Peak](https://anilist.co/manga/104494) (18:31, 03 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
