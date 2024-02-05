@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 3 - 10 of [Trapped in a Hentai Game Academy](https://anilist.co/manga/151601) (22:16, 04 February 2024)
+-   📖 Read chapter 1 - 64 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (22:08, 04 February 2024)
+-   📖 Plans to read [My Harem in Another World](https://anilist.co/manga/116136) (11:02, 04 February 2024)
+-   📖 Read chapter 109 - 115 of [Jungle Juice](https://anilist.co/manga/128882) (03:17, 04 February 2024)
 -   📺 Plans to watch [Re:ZERO -Starting Life in Another World- Season 2 Part 2](https://anilist.co/anime/119661) (23:05, 03 February 2024)
--   📖 Read chapter 3 - 7 of [Trapped in a Hentai Game Academy](https://anilist.co/manga/151601) (18:54, 03 February 2024)
--   📖 Read chapter 1 - 4 of [Akuyaku Reijou desu ga, Watashi wo Anata no Seidorei ni Shite Kudasai!](https://anilist.co/manga/171022) (18:46, 03 February 2024)
--   📖 Read chapter 185 - 190 of [Nano Machine](https://anilist.co/manga/120980) (18:35, 03 February 2024)
--   📖 Read chapter 3325 - 3677 of [Martial Peak](https://anilist.co/manga/104494) (18:31, 03 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
