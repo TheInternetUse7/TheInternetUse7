@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 3 - 18 of [Trapped in a Hentai Game Academy](https://anilist.co/manga/151601) (09:41, 08 February 2024)
+-   📖 Read chapter 203 - 216 of [Overgeared](https://anilist.co/manga/117460) (09:33, 08 February 2024)
+-   📖 Read chapter 3325 - 3681 of [Martial Peak](https://anilist.co/manga/104494) (08:42, 08 February 2024)
 -   📖 Read chapter 42 - 47 of [Isekai NTR: Shinyuu no Onna wo Saikyou Skill de Otosu Houhou](https://anilist.co/manga/115042) (23:25, 07 February 2024)
 -   📖 Read chapter 1 - 43 of [Boundless Ascension](https://anilist.co/manga/159439) (10:10, 07 February 2024)
--   📖 Read chapter 123 - 135 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (23:33, 06 February 2024)
--   📖 Read chapter 166 - 174 of [Teenage Mercenary](https://anilist.co/manga/126297) (23:29, 06 February 2024)
--   📖 Read chapter 193 - 197 of [Omniscient Reader](https://anilist.co/manga/119257) (23:24, 06 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
