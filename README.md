@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 5 of [Urusei Yatsura (2022) Season 3](https://anilist.co/anime/155645) (21:21, 15 February 2024)
+-   📺 Watched episode 1 - 2 of [Do You Love Your Mom and Her Two-Hit Multi-Target Attacks?](https://anilist.co/anime/104723) (13:06, 15 February 2024)
 -   📖 Read chapter 3325 - 3687 of [Martial Peak](https://anilist.co/manga/104494) (11:01, 14 February 2024)
 -   📖 Read chapter 105 - 111 of [Landlord Sisters](https://anilist.co/manga/138564) (05:21, 14 February 2024)
--   📺 Watched episode 1 of [Do You Love Your Mom and Her Two-Hit Multi-Target Attacks?](https://anilist.co/anime/104723) (21:45, 13 February 2024)
 -   📺 Plans to watch [Do You Love Your Mom and Her Two-Hit Multi-Target Attacks?](https://anilist.co/anime/104723) (20:39, 13 February 2024)
--   📺 Watched episode 1 - 6 of [Gushing Over Magical Girls](https://anilist.co/anime/162780) (20:00, 13 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
