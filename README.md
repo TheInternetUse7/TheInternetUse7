@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 105 - 115 of [Landlord Sisters](https://anilist.co/manga/138564) (06:34, 19 February 2024)
--   📖 Read chapter 3325 - 3691 of [Martial Peak](https://anilist.co/manga/104494) (06:06, 19 February 2024)
--   📖 Read chapter 1 - 67 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (05:57, 19 February 2024)
--   📖 Read chapter 1 - 67 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (05:57, 19 February 2024)
--   📺 Watched episode 1 - 5 of [Solo Leveling](https://anilist.co/anime/151807) (23:03, 17 February 2024)
+-   📖 Read chapter 166 - 176 of [Teenage Mercenary](https://anilist.co/manga/126297) (20:52, 20 February 2024)
+-   📖 Read chapter 193 - 199 of [Omniscient Reader](https://anilist.co/manga/119257) (20:48, 20 February 2024)
+-   📖 Read chapter 123 - 137 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (20:43, 20 February 2024)
+-   📖 Read chapter 203 - 217 of [Overgeared](https://anilist.co/manga/117460) (20:40, 20 February 2024)
+-   📺 Completed [KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson](https://anilist.co/anime/102976) (19:54, 20 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
