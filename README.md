@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 166 - 176 of [Teenage Mercenary](https://anilist.co/manga/126297) (20:52, 20 February 2024)
--   📖 Read chapter 193 - 199 of [Omniscient Reader](https://anilist.co/manga/119257) (20:48, 20 February 2024)
--   📖 Read chapter 123 - 137 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (20:43, 20 February 2024)
--   📖 Read chapter 203 - 217 of [Overgeared](https://anilist.co/manga/117460) (20:40, 20 February 2024)
--   📺 Completed [KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson](https://anilist.co/anime/102976) (19:54, 20 February 2024)
+-   📖 Read chapter 148 - 155 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (19:36, 21 February 2024)
+-   📖 Read chapter 1 - 5 of [Succubus System](https://anilist.co/manga/162866) (14:48, 21 February 2024)
+-   📖 Read chapter 3 - 29 of [Trapped in a Hentai Game Academy](https://anilist.co/manga/151601) (13:10, 21 February 2024)
+-   📖 Read chapter 1 - 44 of [Boundless Ascension](https://anilist.co/manga/159439) (12:47, 21 February 2024)
+-   📺 Completed [SPY x FAMILY Season 2](https://anilist.co/anime/158927) (08:24, 21 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
