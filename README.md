@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 2 of [To LOVE-Ru OVA](https://anilist.co/anime/5667) (11:49, 22 February 2024)
+-   📖 Read chapter 1 - 46 of [Boundless Ascension](https://anilist.co/manga/159439) (23:29, 23 February 2024)
+-   📖 Read chapter 412 - 415 of [My Hero Academia](https://anilist.co/manga/85486) (23:22, 23 February 2024)
+-   📺 Watched episode 1 - 3 of [To LOVE-Ru OVA](https://anilist.co/anime/5667) (11:54, 23 February 2024)
 -   📺 Plans to watch [To LOVE-Ru OVA](https://anilist.co/anime/5667) (10:17, 22 February 2024)
 -   📺 Completed [A Returner's Magic Should Be Special](https://anilist.co/anime/163142) (07:17, 22 February 2024)
--   📺 Watched episode 1 - 6 of [Urusei Yatsura (2022) Season 3](https://anilist.co/anime/155645) (06:32, 22 February 2024)
--   📺 Watched episode 1 - 7 of [Gushing Over Magical Girls](https://anilist.co/anime/162780) (06:29, 22 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
