@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 97 - 107 of [Sex Study Group](https://anilist.co/manga/145493) (19:55, 24 February 2024)
--   📖 Read chapter 1 - 46 of [Boundless Ascension](https://anilist.co/manga/159439) (23:29, 23 February 2024)
--   📖 Read chapter 412 - 415 of [My Hero Academia](https://anilist.co/manga/85486) (23:22, 23 February 2024)
--   📺 Watched episode 1 - 3 of [To LOVE-Ru OVA](https://anilist.co/anime/5667) (11:54, 23 February 2024)
--   📺 Plans to watch [To LOVE-Ru OVA](https://anilist.co/anime/5667) (10:17, 22 February 2024)
+-   📺 Watched episode 1 - 8 of [Gushing Over Magical Girls](https://anilist.co/anime/162780) (21:50, 25 February 2024)
+-   📺 Watched episode 1 - 4 of [To LOVE-Ru OVA](https://anilist.co/anime/5667) (21:29, 25 February 2024)
+-   📺 Watched episode 1 - 6 of [Solo Leveling](https://anilist.co/anime/151807) (07:25, 25 February 2024)
+-   📺 Watched episode 1 - 4 of [Do You Love Your Mom and Her Two-Hit Multi-Target Attacks?](https://anilist.co/anime/104723) (07:03, 25 February 2024)
+-   📖 Read chapter 105 - 119 of [Landlord Sisters](https://anilist.co/manga/138564) (06:49, 25 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
