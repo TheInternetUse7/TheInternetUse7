@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 8 of [Gushing Over Magical Girls](https://anilist.co/anime/162780) (21:50, 25 February 2024)
--   📺 Watched episode 1 - 4 of [To LOVE-Ru OVA](https://anilist.co/anime/5667) (21:29, 25 February 2024)
--   📺 Watched episode 1 - 6 of [Solo Leveling](https://anilist.co/anime/151807) (07:25, 25 February 2024)
--   📺 Watched episode 1 - 4 of [Do You Love Your Mom and Her Two-Hit Multi-Target Attacks?](https://anilist.co/anime/104723) (07:03, 25 February 2024)
--   📖 Read chapter 105 - 119 of [Landlord Sisters](https://anilist.co/manga/138564) (06:49, 25 February 2024)
+-   📖 Read chapter 166 - 177 of [Teenage Mercenary](https://anilist.co/manga/126297) (20:41, 26 February 2024)
+-   📖 Read chapter 81 - 82 of [Isekai Meikyuu de Harem wo](https://anilist.co/manga/99462) (20:36, 26 February 2024)
+-   📖 Read chapter 109 - 118 of [Jungle Juice](https://anilist.co/manga/128882) (08:37, 26 February 2024)
+-   📖 Read chapter 3325 - 3694 of [Martial Peak](https://anilist.co/manga/104494) (08:31, 26 February 2024)
+-   📖 Read chapter 1 - 69 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (05:08, 26 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
