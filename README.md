@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 71 - 77 of [Punishing My Pet Slave ELF](https://anilist.co/manga/143102) (21:00, 27 February 2024)
+-   📖 Read chapter 3 - 45 of [Trapped in a Hentai Game Academy](https://anilist.co/manga/151601) (06:05, 27 February 2024)
+-   📖 Read chapter 3325 - 3695 of [Martial Peak](https://anilist.co/manga/104494) (05:11, 27 February 2024)
 -   📖 Read chapter 166 - 177 of [Teenage Mercenary](https://anilist.co/manga/126297) (20:41, 26 February 2024)
 -   📖 Read chapter 81 - 82 of [Isekai Meikyuu de Harem wo](https://anilist.co/manga/99462) (20:36, 26 February 2024)
--   📖 Read chapter 109 - 118 of [Jungle Juice](https://anilist.co/manga/128882) (08:37, 26 February 2024)
--   📖 Read chapter 3325 - 3694 of [Martial Peak](https://anilist.co/manga/104494) (08:31, 26 February 2024)
--   📖 Read chapter 1 - 69 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (05:08, 26 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
