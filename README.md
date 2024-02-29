@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 71 - 77 of [Punishing My Pet Slave ELF](https://anilist.co/manga/143102) (21:00, 27 February 2024)
--   📖 Read chapter 3 - 45 of [Trapped in a Hentai Game Academy](https://anilist.co/manga/151601) (06:05, 27 February 2024)
--   📖 Read chapter 3325 - 3695 of [Martial Peak](https://anilist.co/manga/104494) (05:11, 27 February 2024)
--   📖 Read chapter 166 - 177 of [Teenage Mercenary](https://anilist.co/manga/126297) (20:41, 26 February 2024)
--   📖 Read chapter 81 - 82 of [Isekai Meikyuu de Harem wo](https://anilist.co/manga/99462) (20:36, 26 February 2024)
+-   📖 Read chapter 3 - 52 of [Trapped in a Hentai Game Academy](https://anilist.co/manga/151601) (19:02, 28 February 2024)
+-   📖 Read chapter 185 - 194 of [Nano Machine](https://anilist.co/manga/120980) (18:48, 28 February 2024)
+-   📖 Read chapter 3325 - 3697 of [Martial Peak](https://anilist.co/manga/104494) (18:42, 28 February 2024)
+-   📖 Read chapter 101 - 106 of [Level Up with the Gods](https://anilist.co/manga/138222) (10:00, 28 February 2024)
+-   📖 Read chapter 193 - 200 of [Omniscient Reader](https://anilist.co/manga/119257) (04:38, 28 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
