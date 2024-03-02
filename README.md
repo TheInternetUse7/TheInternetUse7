@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Completed [To LOVE-Ru OVA](https://anilist.co/anime/5667) (19:57, 29 February 2024)
--   📺 Watched episode 1 - 5 of [To LOVE-Ru OVA](https://anilist.co/anime/5667) (18:25, 29 February 2024)
--   📺 Watched episode 1 - 9 of [Gushing Over Magical Girls](https://anilist.co/anime/162780) (13:09, 29 February 2024)
--   📖 Read chapter 3 - 52 of [Trapped in a Hentai Game Academy](https://anilist.co/manga/151601) (19:02, 28 February 2024)
--   📖 Read chapter 185 - 194 of [Nano Machine](https://anilist.co/manga/120980) (18:48, 28 February 2024)
+-   📖 Read chapter 185 - 195 of [Nano Machine](https://anilist.co/manga/120980) (21:25, 01 March 2024)
+-   📖 Read chapter 148 - 156 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (21:16, 01 March 2024)
+-   📺 Watched episode 3 - 5 of [Chained Soldier](https://anilist.co/anime/141821) (12:15, 01 March 2024)
+-   📺 Paused watching [Gintama](https://anilist.co/anime/918) (11:49, 01 March 2024)
+-   📺 Watched episode 1 - 7 of [Urusei Yatsura (2022) Season 3](https://anilist.co/anime/155645) (11:47, 01 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
