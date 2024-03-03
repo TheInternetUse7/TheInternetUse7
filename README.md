@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 185 - 195 of [Nano Machine](https://anilist.co/manga/120980) (21:25, 01 March 2024)
--   📖 Read chapter 148 - 156 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (21:16, 01 March 2024)
--   📺 Watched episode 3 - 5 of [Chained Soldier](https://anilist.co/anime/141821) (12:15, 01 March 2024)
--   📺 Paused watching [Gintama](https://anilist.co/anime/918) (11:49, 01 March 2024)
--   📺 Watched episode 1 - 7 of [Urusei Yatsura (2022) Season 3](https://anilist.co/anime/155645) (11:47, 01 March 2024)
+-   📖 Read chapter 1 of [Boukensha ni Narenakatta Ore, Skill "Oppai Kyousei" de Nayameru Ano Ko wo Hitodasuke!? ](https://anilist.co/manga/172559) (22:14, 02 March 2024)
+-   📺 Watched episode 1 of [Code Geass: Lelouch of the Rebellion](https://anilist.co/anime/1575) (21:55, 02 March 2024)
+-   📖 Plans to read [The Manga Guide to Linear Algebra](https://anilist.co/manga/133867) (21:07, 02 March 2024)
+-   📖 Plans to read [Manga Dogs](https://anilist.co/manga/51385) (21:06, 02 March 2024)
+-   📖 Plans to read [The Manga Guide to Statistics](https://anilist.co/manga/129911) (21:06, 02 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
