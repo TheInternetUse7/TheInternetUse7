@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 3 - 55 of [Trapped in a Hentai Game Academy](https://anilist.co/manga/151601) (14:45, 04 March 2024)
+-   📺 Watched episode 1 - 5 of [Code Geass: Lelouch of the Rebellion](https://anilist.co/anime/1575) (20:08, 05 March 2024)
+-   📖 Read chapter 3 - 61 of [Trapped in a Hentai Game Academy](https://anilist.co/manga/151601) (03:53, 05 March 2024)
 -   📖 Read chapter 1 - 51 of [Boundless Ascension](https://anilist.co/manga/159439) (14:41, 04 March 2024)
 -   📖 Read chapter 26 - 28 of [Isekai Danyuu: Shiru Danyuu ga Isekai Tensei Shite Ero Chishiki Full Katsuyou de Musou Danyuu ni Naru Hanashi](https://anilist.co/manga/156621) (10:06, 04 March 2024)
 -   📖 Read chapter 36 - 44 of [Potential Husband of The World Tree](https://anilist.co/manga/164510) (09:48, 04 March 2024)
--   📖 Read chapter 97 - 108 of [Sex Study Group](https://anilist.co/manga/145493) (09:41, 04 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
