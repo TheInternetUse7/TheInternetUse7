@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 3 - 65 of [Trapped in a Hentai Game Academy](https://anilist.co/manga/151601) (19:32, 06 March 2024)
+-   📖 Read chapter 3 - 79 of [Trapped in a Hentai Game Academy](https://anilist.co/manga/151601) (20:30, 07 March 2024)
+-   📺 Watched episode 1 - 8 of [Urusei Yatsura (2022) Season 3](https://anilist.co/anime/155645) (13:54, 07 March 2024)
 -   📖 Read chapter 97 - 109 of [Sex Study Group](https://anilist.co/manga/145493) (19:13, 06 March 2024)
 -   📖 Read chapter 3325 - 3700 of [Martial Peak](https://anilist.co/manga/104494) (08:30, 06 March 2024)
 -   📖 Read chapter 193 - 201 of [Omniscient Reader](https://anilist.co/manga/119257) (08:04, 06 March 2024)
--   📖 Read chapter 1 - 19 of [NTREVENGE](https://anilist.co/manga/167427) (08:00, 06 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
