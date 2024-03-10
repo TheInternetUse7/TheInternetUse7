@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 18 of [Sextopwatch](https://anilist.co/manga/152411) (20:20, 08 March 2024)
--   📖 Read chapter 185 - 196 of [Nano Machine](https://anilist.co/manga/120980) (20:15, 08 March 2024)
--   📖 Read chapter 3 - 86 of [Trapped in a Hentai Game Academy](https://anilist.co/manga/151601) (10:01, 08 March 2024)
--   📖 Plans to read [Tsuma, Shougakusei ni Naru.](https://anilist.co/manga/109047) (09:58, 08 March 2024)
--   📖 Read chapter 109 - 120 of [Jungle Juice](https://anilist.co/manga/128882) (09:52, 08 March 2024)
+-   📖 Read chapter 3 - 89 of [Trapped in a Hentai Game Academy](https://anilist.co/manga/151601) (23:22, 09 March 2024)
+-   📺 Watched episode 1 - 9 of [Code Geass: Lelouch of the Rebellion](https://anilist.co/anime/1575) (22:35, 09 March 2024)
+-   📺 Watched episode 3 - 6 of [Chained Soldier](https://anilist.co/anime/141821) (22:11, 09 March 2024)
+-   📺 Plans to watch [Hyouka](https://anilist.co/anime/12189) (21:47, 09 March 2024)
+-   📺 Watched episode 1 - 5 of [Do You Love Your Mom and Her Two-Hit Multi-Target Attacks?](https://anilist.co/anime/104723) (19:29, 09 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
