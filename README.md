@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 37 of [Sextopwatch](https://anilist.co/manga/152411) (22:04, 10 March 2024)
--   📺 Watched episode 1 - 15 of [Code Geass: Lelouch of the Rebellion](https://anilist.co/anime/1575) (16:55, 10 March 2024)
--   📖 Read chapter 203 - 220 of [Overgeared](https://anilist.co/manga/117460) (08:55, 10 March 2024)
--   📖 Read chapter 3 - 89 of [Trapped in a Hentai Game Academy](https://anilist.co/manga/151601) (23:22, 09 March 2024)
--   📺 Watched episode 3 - 6 of [Chained Soldier](https://anilist.co/anime/141821) (22:11, 09 March 2024)
+-   📖 Read chapter 1 - 51 of [Sextopwatch](https://anilist.co/manga/152411) (00:23, 12 March 2024)
+-   📖 Read chapter 3325 - 3705 of [Martial Peak](https://anilist.co/manga/104494) (00:01, 12 March 2024)
+-   📖 Read chapter 1 - 39 of [Sextopwatch](https://anilist.co/manga/152411) (17:18, 11 March 2024)
+-   📺 Watched episode 3 - 7 of [Chained Soldier](https://anilist.co/anime/141821) (09:03, 11 March 2024)
+-   📺 Watched episode 1 - 19 of [Code Geass: Lelouch of the Rebellion](https://anilist.co/anime/1575) (08:28, 11 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
