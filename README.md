@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Completed [Code Geass: Lelouch of the Rebellion](https://anilist.co/anime/1575) (18:29, 13 March 2024)
--   📺 Watched episode 1 - 24 of [Code Geass: Lelouch of the Rebellion](https://anilist.co/anime/1575) (18:05, 13 March 2024)
--   📖 Read chapter 1 - 54 of [Boundless Ascension](https://anilist.co/manga/159439) (14:52, 13 March 2024)
--   📖 Read chapter 1 - 68 of [Sextopwatch](https://anilist.co/manga/152411) (10:07, 13 March 2024)
--   📖 Read chapter 1 - 20 of [NTREVENGE](https://anilist.co/manga/167427) (07:14, 13 March 2024)
+-   📺 Watched episode 1 - 2 of [Frieren: Beyond Journey’s End](https://anilist.co/anime/154587) (20:49, 14 March 2024)
+-   📖 Read chapter 3325 - 3707 of [Martial Peak](https://anilist.co/manga/104494) (15:20, 14 March 2024)
+-   📖 Read chapter 36 - 45 of [Potential Husband of The World Tree](https://anilist.co/manga/164510) (14:50, 14 March 2024)
+-   📖 Read chapter 123 - 140 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (14:45, 14 March 2024)
+-   📺 Plans to watch [Frieren: Beyond Journey’s End](https://anilist.co/anime/154587) (10:14, 14 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
