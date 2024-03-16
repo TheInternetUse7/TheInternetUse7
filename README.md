@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 2 of [Frieren: Beyond Journey’s End](https://anilist.co/anime/154587) (20:49, 14 March 2024)
+-   📺 Watched episode 1 - 3 of [Frieren: Beyond Journey’s End](https://anilist.co/anime/154587) (16:17, 15 March 2024)
+-   📺 Watched episode 3 - 8 of [Chained Soldier](https://anilist.co/anime/141821) (09:53, 15 March 2024)
 -   📖 Read chapter 3325 - 3707 of [Martial Peak](https://anilist.co/manga/104494) (15:20, 14 March 2024)
 -   📖 Read chapter 36 - 45 of [Potential Husband of The World Tree](https://anilist.co/manga/164510) (14:50, 14 March 2024)
 -   📖 Read chapter 123 - 140 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (14:45, 14 March 2024)
--   📺 Plans to watch [Frieren: Beyond Journey’s End](https://anilist.co/anime/154587) (10:14, 14 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
