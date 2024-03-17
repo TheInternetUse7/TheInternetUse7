@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 3 of [Frieren: Beyond Journey’s End](https://anilist.co/anime/154587) (16:17, 15 March 2024)
--   📺 Watched episode 3 - 8 of [Chained Soldier](https://anilist.co/anime/141821) (09:53, 15 March 2024)
--   📖 Read chapter 3325 - 3707 of [Martial Peak](https://anilist.co/manga/104494) (15:20, 14 March 2024)
--   📖 Read chapter 36 - 45 of [Potential Husband of The World Tree](https://anilist.co/manga/164510) (14:50, 14 March 2024)
--   📖 Read chapter 123 - 140 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (14:45, 14 March 2024)
+-   📖 Read chapter 166 - 179 of [Teenage Mercenary](https://anilist.co/manga/126297) (19:32, 16 March 2024)
+-   📖 Read chapter 3325 - 3708 of [Martial Peak](https://anilist.co/manga/104494) (19:29, 16 March 2024)
+-   📖 Read chapter 185 - 197 of [Nano Machine](https://anilist.co/manga/120980) (19:28, 16 March 2024)
+-   📖 Read chapter 109 - 121 of [Jungle Juice](https://anilist.co/manga/128882) (19:20, 16 March 2024)
+-   📖 Read chapter 109 - 121 of [Jungle Juice](https://anilist.co/manga/128882) (19:20, 16 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
