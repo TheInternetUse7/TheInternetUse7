@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 166 - 179 of [Teenage Mercenary](https://anilist.co/manga/126297) (19:32, 16 March 2024)
--   📖 Read chapter 3325 - 3708 of [Martial Peak](https://anilist.co/manga/104494) (19:29, 16 March 2024)
--   📖 Read chapter 185 - 197 of [Nano Machine](https://anilist.co/manga/120980) (19:28, 16 March 2024)
--   📖 Read chapter 109 - 121 of [Jungle Juice](https://anilist.co/manga/128882) (19:20, 16 March 2024)
--   📖 Read chapter 109 - 121 of [Jungle Juice](https://anilist.co/manga/128882) (19:20, 16 March 2024)
+-   📖 Read chapter 412 - 416 of [My Hero Academia](https://anilist.co/manga/85486) (18:49, 17 March 2024)
+-   📖 Read chapter 1 - 4 of [Furoufushi Shoujo no Naedoko Ryokouki](https://anilist.co/manga/172835) (11:40, 17 March 2024)
+-   📖 Read chapter 1 - 69 of [Sextopwatch](https://anilist.co/manga/152411) (10:25, 17 March 2024)
+-   📖 Read chapter 193 - 202 of [Omniscient Reader](https://anilist.co/manga/119257) (10:23, 17 March 2024)
+-   📖 Read chapter 3325 - 3709 of [Martial Peak](https://anilist.co/manga/104494) (08:53, 17 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
