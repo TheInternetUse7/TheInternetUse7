@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 412 - 416 of [My Hero Academia](https://anilist.co/manga/85486) (18:49, 17 March 2024)
--   📖 Read chapter 1 - 4 of [Furoufushi Shoujo no Naedoko Ryokouki](https://anilist.co/manga/172835) (11:40, 17 March 2024)
--   📖 Read chapter 1 - 69 of [Sextopwatch](https://anilist.co/manga/152411) (10:25, 17 March 2024)
--   📖 Read chapter 193 - 202 of [Omniscient Reader](https://anilist.co/manga/119257) (10:23, 17 March 2024)
--   📖 Read chapter 3325 - 3709 of [Martial Peak](https://anilist.co/manga/104494) (08:53, 17 March 2024)
+-   📖 Read chapter 1 - 77 of [Sextopwatch](https://anilist.co/manga/152411) (20:22, 18 March 2024)
+-   📖 Read chapter 1 - 16 of [Nüzhu Cong Shu Li Pao Chulai Le Zenmeban](https://anilist.co/manga/165424) (14:42, 18 March 2024)
+-   📖 Read chapter 1 - 5 of [Furoufushi Shoujo no Naedoko Ryokouki](https://anilist.co/manga/172835) (08:43, 18 March 2024)
+-   📖 Read chapter 412 - 417 of [My Hero Academia](https://anilist.co/manga/85486) (08:41, 18 March 2024)
+-   📖 Read chapter 1 - 72 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (08:34, 18 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
