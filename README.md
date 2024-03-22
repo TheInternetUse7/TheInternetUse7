@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 21 of [NTREVENGE](https://anilist.co/manga/167427) (21:14, 21 March 2024)
+-   📺 Watched episode 1 - 12 of [Gushing Over Magical Girls](https://anilist.co/anime/162780) (09:15, 21 March 2024)
 -   📖 Read chapter 71 - 78 of [Punishing My Pet Slave ELF](https://anilist.co/manga/143102) (19:47, 20 March 2024)
 -   📖 Read chapter 3 - 91 of [Trapped in a Hentai Game Academy](https://anilist.co/manga/151601) (19:43, 20 March 2024)
 -   📖 Read chapter 1 - 78 of [Sextopwatch](https://anilist.co/manga/152411) (03:19, 20 March 2024)
--   📖 Read chapter 101 - 108 of [Level Up with the Gods](https://anilist.co/manga/138222) (03:15, 20 March 2024)
--   📖 Read chapter 3325 - 3713 of [Martial Peak](https://anilist.co/manga/104494) (03:10, 20 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
