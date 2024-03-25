@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 3325 - 3717 of [Martial Peak](https://anilist.co/manga/104494) (19:50, 23 March 2024)
--   📖 Read chapter 9 - 19 of [Moby Dick](https://anilist.co/manga/172094) (17:08, 23 March 2024)
--   📺 Plans to watch [Date A Live V](https://anilist.co/anime/151380) (11:29, 23 March 2024)
--   📺 Plans to watch [Zton Jingai Animation: A Beautiful Greed Nulu Nulu](https://anilist.co/anime/98528) (07:49, 23 March 2024)
--   📺 Plans to watch [Kemonokko Tsuushin: The Animation - Ushi Musume Bell](https://anilist.co/anime/143118) (07:49, 23 March 2024)
+-   📖 Read chapter 166 - 180 of [Teenage Mercenary](https://anilist.co/manga/126297) (11:55, 24 March 2024)
+-   📖 Read chapter 105 - 134 of [Landlord Sisters](https://anilist.co/manga/138564) (11:47, 24 March 2024)
+-   📖 Read chapter 185 - 198 of [Nano Machine](https://anilist.co/manga/120980) (11:28, 24 March 2024)
+-   📺 Watched episode 1 - 9 of [Solo Leveling](https://anilist.co/anime/151807) (09:17, 24 March 2024)
+-   📖 Read chapter 1 - 5 of [Akuyaku Reijou desu ga, Watashi wo Anata no Seidorei ni Shite Kudasai!](https://anilist.co/manga/171022) (08:53, 24 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
