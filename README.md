@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 123 - 141 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (19:24, 25 March 2024)
--   📖 Read chapter 12 - 16 of [Gushing over Magical Girls](https://anilist.co/manga/109017) (13:33, 25 March 2024)
--   📖 Read chapter 105 - 135 of [Landlord Sisters](https://anilist.co/manga/138564) (13:12, 25 March 2024)
--   📖 Read chapter 3325 - 3718 of [Martial Peak](https://anilist.co/manga/104494) (12:34, 25 March 2024)
--   📖 Read chapter 1 - 73 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (12:30, 25 March 2024)
+-   📖 Read chapter 5 - 10 of [Kanojo no Sore ni Yarareteru](https://anilist.co/manga/160465) (18:48, 26 March 2024)
+-   📺 Plans to watch [(Title to be Announced)](https://anilist.co/anime/176373) (17:41, 26 March 2024)
+-   📖 Plans to read [Kanojo no Sore ni Yarareteru](https://anilist.co/manga/160465) (14:46, 26 March 2024)
+-   📖 Read chapter 3325 - 3719 of [Martial Peak](https://anilist.co/manga/104494) (14:42, 26 March 2024)
+-   📖 Read chapter 166 - 181 of [Teenage Mercenary](https://anilist.co/manga/126297) (14:16, 26 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
