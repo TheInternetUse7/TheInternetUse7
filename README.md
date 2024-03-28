@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 5 - 10 of [Kanojo no Sore ni Yarareteru](https://anilist.co/manga/160465) (18:48, 26 March 2024)
+-   📖 Read chapter 5 - 14 of [Kanojo no Sore ni Yarareteru](https://anilist.co/manga/160465) (20:01, 27 March 2024)
+-   📖 Read chapter 3325 - 3720 of [Martial Peak](https://anilist.co/manga/104494) (08:56, 27 March 2024)
+-   📖 Read chapter 81 - 83 of [Isekai Meikyuu de Harem wo](https://anilist.co/manga/99462) (08:43, 27 March 2024)
 -   📺 Plans to watch [(Title to be Announced)](https://anilist.co/anime/176373) (17:41, 26 March 2024)
 -   📖 Plans to read [Kanojo no Sore ni Yarareteru](https://anilist.co/manga/160465) (14:46, 26 March 2024)
--   📖 Read chapter 3325 - 3719 of [Martial Peak](https://anilist.co/manga/104494) (14:42, 26 March 2024)
--   📖 Read chapter 166 - 181 of [Teenage Mercenary](https://anilist.co/manga/126297) (14:16, 26 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
