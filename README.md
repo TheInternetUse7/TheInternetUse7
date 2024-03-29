@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 5 - 14 of [Kanojo no Sore ni Yarareteru](https://anilist.co/manga/160465) (20:01, 27 March 2024)
--   📖 Read chapter 3325 - 3720 of [Martial Peak](https://anilist.co/manga/104494) (08:56, 27 March 2024)
+-   📖 Read chapter 3325 - 3721 of [Martial Peak](https://anilist.co/manga/104494) (03:25, 28 March 2024)
+-   📖 Read chapter 1 - 83 of [Sextopwatch](https://anilist.co/manga/152411) (03:19, 28 March 2024)
+-   📖 Read chapter 71 - 79 of [Punishing My Pet Slave ELF](https://anilist.co/manga/143102) (03:16, 28 March 2024)
+-   📖 Read chapter 5 - 18 of [Kanojo no Sore ni Yarareteru](https://anilist.co/manga/160465) (03:12, 28 March 2024)
 -   📖 Read chapter 81 - 83 of [Isekai Meikyuu de Harem wo](https://anilist.co/manga/99462) (08:43, 27 March 2024)
--   📺 Plans to watch [(Title to be Announced)](https://anilist.co/anime/176373) (17:41, 26 March 2024)
--   📖 Plans to read [Kanojo no Sore ni Yarareteru](https://anilist.co/manga/160465) (14:46, 26 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
