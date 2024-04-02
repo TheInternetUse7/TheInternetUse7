@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 74 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (20:47, 31 March 2024)
--   📖 Read chapter 3325 - 3723 of [Martial Peak](https://anilist.co/manga/104494) (20:40, 31 March 2024)
--   📖 Plans to read [Cheolsu Saves the World](https://anilist.co/manga/154474) (19:18, 31 March 2024)
--   📖 Read chapter 36 - 46 of [Potential Husband of The World Tree](https://anilist.co/manga/164510) (11:23, 31 March 2024)
--   📖 Read chapter 61 - 64 of [Hajirau Kimi ga Mitainda](https://anilist.co/manga/129225) (00:24, 31 March 2024)
+-   📖 Read chapter 203 - 222 of [Overgeared](https://anilist.co/manga/117460) (23:19, 01 April 2024)
+-   📖 Read chapter 166 - 182 of [Teenage Mercenary](https://anilist.co/manga/126297) (16:32, 01 April 2024)
+-   📖 Read chapter 3325 - 3725 of [Martial Peak](https://anilist.co/manga/104494) (16:27, 01 April 2024)
+-   📖 Read chapter 148 - 158 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (16:19, 01 April 2024)
+-   📺 Completed [Shrek](https://anilist.co/anime/176519) (10:41, 01 April 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
