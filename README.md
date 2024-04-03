@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 203 - 222 of [Overgeared](https://anilist.co/manga/117460) (23:19, 01 April 2024)
--   📖 Read chapter 166 - 182 of [Teenage Mercenary](https://anilist.co/manga/126297) (16:32, 01 April 2024)
--   📖 Read chapter 3325 - 3725 of [Martial Peak](https://anilist.co/manga/104494) (16:27, 01 April 2024)
--   📖 Read chapter 148 - 158 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (16:19, 01 April 2024)
--   📺 Completed [Shrek](https://anilist.co/anime/176519) (10:41, 01 April 2024)
+-   📖 Read chapter 101 - 109 of [Level Up with the Gods](https://anilist.co/manga/138222) (14:43, 02 April 2024)
+-   📖 Read chapter 193 - 204 of [Omniscient Reader](https://anilist.co/manga/119257) (14:38, 02 April 2024)
+-   📖 Read chapter 412 - 418 of [My Hero Academia](https://anilist.co/manga/85486) (14:25, 02 April 2024)
+-   📖 Read chapter 194 - 202 of [One-Punch Man](https://anilist.co/manga/74347) (14:22, 02 April 2024)
+-   📖 Completed [Sex Study Group](https://anilist.co/manga/145493) (09:58, 02 April 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
