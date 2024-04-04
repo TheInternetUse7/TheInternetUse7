@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 101 - 109 of [Level Up with the Gods](https://anilist.co/manga/138222) (14:43, 02 April 2024)
--   📖 Read chapter 193 - 204 of [Omniscient Reader](https://anilist.co/manga/119257) (14:38, 02 April 2024)
--   📖 Read chapter 412 - 418 of [My Hero Academia](https://anilist.co/manga/85486) (14:25, 02 April 2024)
--   📖 Read chapter 194 - 202 of [One-Punch Man](https://anilist.co/manga/74347) (14:22, 02 April 2024)
--   📖 Completed [Sex Study Group](https://anilist.co/manga/145493) (09:58, 02 April 2024)
+-   📖 Read chapter 2 - 16 of [Cheolsu Saves the World](https://anilist.co/manga/154474) (20:43, 03 April 2024)
+-   📖 Read chapter 105 - 136 of [Landlord Sisters](https://anilist.co/manga/138564) (20:35, 03 April 2024)
+-   📖 Read chapter 1 - 84 of [Sextopwatch](https://anilist.co/manga/152411) (20:31, 03 April 2024)
+-   📖 Read chapter 60 - 62 of [The Eminence in Shadow](https://anilist.co/manga/106758) (20:09, 03 April 2024)
+-   📖 Read chapter 101 - 110 of [Level Up with the Gods](https://anilist.co/manga/138222) (10:31, 03 April 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
