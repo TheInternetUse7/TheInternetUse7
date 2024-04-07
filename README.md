@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 2 - 65 of [Cheolsu Saves the World](https://anilist.co/manga/154474) (20:14, 05 April 2024)
--   📖 Read chapter 3325 - 3728 of [Martial Peak](https://anilist.co/manga/104494) (19:51, 05 April 2024)
--   📺 Watched episode 1 - 10 of [Solo Leveling](https://anilist.co/anime/151807) (08:50, 05 April 2024)
--   📺 Plans to watch [Gimai Seikatsu](https://anilist.co/anime/152681) (03:36, 05 April 2024)
--   📖 Read chapter 109 - 123 of [Jungle Juice](https://anilist.co/manga/128882) (03:28, 05 April 2024)
+-   📖 Read chapter 1 - 7 of [Sexercise](https://anilist.co/manga/116774) (20:44, 06 April 2024)
+-   📖 Plans to read [Ablovecadabra](https://anilist.co/manga/176254) (20:26, 06 April 2024)
+-   📖 Read chapter 412 - 419 of [My Hero Academia](https://anilist.co/manga/85486) (20:18, 06 April 2024)
+-   📖 Plans to read [The Perks of Working in the Black Magic Industry](https://anilist.co/manga/107700) (19:55, 06 April 2024)
+-   📖 Plans to read [Erosugi Cheat de Isekai Harem♪ Comic Anthology](https://anilist.co/manga/174175) (19:54, 06 April 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
