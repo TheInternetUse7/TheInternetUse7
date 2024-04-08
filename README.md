@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 7 of [Sexercise](https://anilist.co/manga/116774) (20:44, 06 April 2024)
--   📖 Plans to read [Ablovecadabra](https://anilist.co/manga/176254) (20:26, 06 April 2024)
--   📖 Read chapter 412 - 419 of [My Hero Academia](https://anilist.co/manga/85486) (20:18, 06 April 2024)
--   📖 Plans to read [The Perks of Working in the Black Magic Industry](https://anilist.co/manga/107700) (19:55, 06 April 2024)
--   📖 Plans to read [Erosugi Cheat de Isekai Harem♪ Comic Anthology](https://anilist.co/manga/174175) (19:54, 06 April 2024)
+-   📖 Read chapter 1 - 8 of [Sexercise](https://anilist.co/manga/116774) (20:52, 07 April 2024)
+-   📖 Read chapter 1 - 3 of [Erosugi Cheat de Isekai Harem♪ Comic Anthology](https://anilist.co/manga/174175) (20:51, 07 April 2024)
+-   📖 Read chapter 1 of [Ablovecadabra](https://anilist.co/manga/176254) (20:41, 07 April 2024)
+-   📖 Completed [Landlord Sisters](https://anilist.co/manga/138564) (20:22, 07 April 2024)
+-   📖 Read chapter 166 - 183 of [Teenage Mercenary](https://anilist.co/manga/126297) (20:10, 07 April 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
