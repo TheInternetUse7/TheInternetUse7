@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 5 of [Tales of Wedding Rings](https://anilist.co/anime/160389) (21:56, 09 April 2024)
+-   📖 Read chapter 1 - 4 of [Erosugi Cheat de Isekai Harem♪ Comic Anthology](https://anilist.co/manga/174175) (14:27, 09 April 2024)
+-   📖 Read chapter 1 - 16 of [Sexercise](https://anilist.co/manga/116774) (14:20, 09 April 2024)
+-   📖 Read chapter 3325 - 3729 of [Martial Peak](https://anilist.co/manga/104494) (09:46, 09 April 2024)
 -   📖 Read chapter 13 - 18 of [Issho ni Kurashite Ii desu ka?](https://anilist.co/manga/159549) (20:35, 08 April 2024)
--   📺 Watched episode 1 of [The Irregular at Magic High School Season 3](https://anilist.co/anime/143271) (20:26, 08 April 2024)
--   📺 Watched episode 3 - 9 of [Chained Soldier](https://anilist.co/anime/141821) (19:37, 08 April 2024)
--   📺 Watched episode 1 - 4 of [Tales of Wedding Rings](https://anilist.co/anime/160389) (19:15, 08 April 2024)
--   📖 Read chapter 1 - 8 of [Sexercise](https://anilist.co/manga/116774) (20:52, 07 April 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
