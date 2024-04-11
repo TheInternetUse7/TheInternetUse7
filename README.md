@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 5 of [Tales of Wedding Rings](https://anilist.co/anime/160389) (21:56, 09 April 2024)
--   📖 Read chapter 1 - 4 of [Erosugi Cheat de Isekai Harem♪ Comic Anthology](https://anilist.co/manga/174175) (14:27, 09 April 2024)
--   📖 Read chapter 1 - 16 of [Sexercise](https://anilist.co/manga/116774) (14:20, 09 April 2024)
--   📖 Read chapter 3325 - 3729 of [Martial Peak](https://anilist.co/manga/104494) (09:46, 09 April 2024)
--   📖 Read chapter 13 - 18 of [Issho ni Kurashite Ii desu ka?](https://anilist.co/manga/159549) (20:35, 08 April 2024)
+-   📖 Read chapter 1 - 18 of [Sexercise](https://anilist.co/manga/116774) (21:41, 10 April 2024)
+-   📺 Watched episode 1 - 11 of [Solo Leveling](https://anilist.co/anime/151807) (06:15, 10 April 2024)
+-   📖 Read chapter 193 - 206 of [Omniscient Reader](https://anilist.co/manga/119257) (05:00, 10 April 2024)
+-   📖 Read chapter 101 - 111 of [Level Up with the Gods](https://anilist.co/manga/138222) (04:46, 10 April 2024)
+-   📖 Read chapter 71 - 81 of [Punishing My Pet Slave ELF](https://anilist.co/manga/143102) (04:33, 10 April 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
