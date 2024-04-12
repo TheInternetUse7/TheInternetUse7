@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 18 of [Sexercise](https://anilist.co/manga/116774) (21:41, 10 April 2024)
--   📺 Watched episode 1 - 11 of [Solo Leveling](https://anilist.co/anime/151807) (06:15, 10 April 2024)
--   📖 Read chapter 193 - 206 of [Omniscient Reader](https://anilist.co/manga/119257) (05:00, 10 April 2024)
--   📖 Read chapter 101 - 111 of [Level Up with the Gods](https://anilist.co/manga/138222) (04:46, 10 April 2024)
--   📖 Read chapter 71 - 81 of [Punishing My Pet Slave ELF](https://anilist.co/manga/143102) (04:33, 10 April 2024)
+-   📖 Read chapter 1 - 22 of [Sexercise](https://anilist.co/manga/116774) (20:34, 11 April 2024)
+-   📖 Read chapter 1 - 6 of [Erosugi Cheat de Isekai Harem♪ Comic Anthology](https://anilist.co/manga/174175) (09:00, 11 April 2024)
+-   📖 Read chapter 1 - 2 of [Ablovecadabra](https://anilist.co/manga/176254) (08:51, 11 April 2024)
+-   📖 Read chapter 123 - 143 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (08:43, 11 April 2024)
+-   📖 Read chapter 148 - 160 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (08:36, 11 April 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
