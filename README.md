@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 22 of [Sexercise](https://anilist.co/manga/116774) (20:34, 11 April 2024)
--   📖 Read chapter 1 - 6 of [Erosugi Cheat de Isekai Harem♪ Comic Anthology](https://anilist.co/manga/174175) (09:00, 11 April 2024)
--   📖 Read chapter 1 - 2 of [Ablovecadabra](https://anilist.co/manga/176254) (08:51, 11 April 2024)
--   📖 Read chapter 123 - 143 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (08:43, 11 April 2024)
--   📖 Read chapter 148 - 160 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (08:36, 11 April 2024)
+-   📖 Read chapter 42 - 49 of [Where Is My Little Stick?!](https://anilist.co/manga/157094) (20:22, 12 April 2024)
+-   📺 Completed [Chained Soldier](https://anilist.co/anime/141821) (20:15, 12 April 2024)
+-   📺 Watched episode 3 - 11 of [Chained Soldier](https://anilist.co/anime/141821) (19:41, 12 April 2024)
+-   📖 Read chapter 1 - 26 of [Sexercise](https://anilist.co/manga/116774) (04:47, 12 April 2024)
+-   📖 Read chapter 1 - 85 of [Sextopwatch](https://anilist.co/manga/152411) (04:17, 12 April 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
