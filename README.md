@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 of [Moteharune, Ashiya-kun](https://anilist.co/manga/174993) (19:18, 14 April 2024)
--   📺 Watched episode 1 of [Mother of the Goddess’ Dormitory](https://anilist.co/anime/117989) (10:58, 14 April 2024)
--   📖 Plans to read [Moteharune, Ashiya-kun](https://anilist.co/manga/174993) (08:00, 14 April 2024)
--   📖 Read chapter 412 - 420 of [My Hero Academia](https://anilist.co/manga/85486) (07:47, 14 April 2024)
--   📖 Read chapter 17 - 26 of [Ore no Ie no Koakuma Imouto](https://anilist.co/manga/169152) (19:15, 13 April 2024)
+-   📖 Read chapter 1 - 56 of [Boundless Ascension](https://anilist.co/manga/159439) (18:55, 15 April 2024)
+-   📖 Read chapter 1 - 3 of [Moteharune, Ashiya-kun](https://anilist.co/manga/174993) (18:22, 15 April 2024)
+-   📖 Read chapter 3325 - 3731 of [Martial Peak](https://anilist.co/manga/104494) (18:10, 15 April 2024)
+-   📖 Read chapter 42 - 50 of [Where Is My Little Stick?!](https://anilist.co/manga/157094) (12:30, 15 April 2024)
+-   📖 Read chapter 1 - 14 of [Your GF Was Delicious](https://anilist.co/manga/169210) (12:28, 15 April 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
