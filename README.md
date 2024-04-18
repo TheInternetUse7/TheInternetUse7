@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 59 of [Boundless Ascension](https://anilist.co/manga/159439) (04:04, 16 April 2024)
+-   📖 Read chapter 71 - 82 of [Punishing My Pet Slave ELF](https://anilist.co/manga/143102) (19:11, 17 April 2024)
+-   📖 Read chapter 1 - 65 of [Boundless Ascension](https://anilist.co/manga/159439) (10:31, 17 April 2024)
+-   📖 Read chapter 1 - 17 of [VR Eroge yattetara Isekai ni Tensei shita no de, Bishoujo Maou wo Doreika suru: Cross Out Saber](https://anilist.co/manga/107278) (04:35, 17 April 2024)
+-   📖 Read chapter 193 - 207 of [Omniscient Reader](https://anilist.co/manga/119257) (04:20, 17 April 2024)
 -   📖 Read chapter 1 - 3 of [Moteharune, Ashiya-kun](https://anilist.co/manga/174993) (18:22, 15 April 2024)
--   📖 Read chapter 3325 - 3731 of [Martial Peak](https://anilist.co/manga/104494) (18:10, 15 April 2024)
--   📖 Read chapter 42 - 50 of [Where Is My Little Stick?!](https://anilist.co/manga/157094) (12:30, 15 April 2024)
--   📖 Read chapter 1 - 14 of [Your GF Was Delicious](https://anilist.co/manga/169210) (12:28, 15 April 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
