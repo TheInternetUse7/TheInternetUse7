@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 71 - 82 of [Punishing My Pet Slave ELF](https://anilist.co/manga/143102) (19:11, 17 April 2024)
--   📖 Read chapter 1 - 65 of [Boundless Ascension](https://anilist.co/manga/159439) (10:31, 17 April 2024)
--   📖 Read chapter 1 - 17 of [VR Eroge yattetara Isekai ni Tensei shita no de, Bishoujo Maou wo Doreika suru: Cross Out Saber](https://anilist.co/manga/107278) (04:35, 17 April 2024)
--   📖 Read chapter 193 - 207 of [Omniscient Reader](https://anilist.co/manga/119257) (04:20, 17 April 2024)
--   📖 Read chapter 1 - 3 of [Moteharune, Ashiya-kun](https://anilist.co/manga/174993) (18:22, 15 April 2024)
+-   📖 Read chapter 166 - 184 of [Teenage Mercenary](https://anilist.co/manga/126297) (20:22, 18 April 2024)
+-   📖 Read chapter 139 - 146 of [Don't Toy With Me, Miss Nagatoro](https://anilist.co/manga/100664) (20:10, 18 April 2024)
+-   📖 Read chapter 123 - 144 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (19:39, 18 April 2024)
+-   📖 Read chapter 36 - 49 of [Potential Husband of The World Tree](https://anilist.co/manga/164510) (19:36, 18 April 2024)
+-   📖 Read chapter 203 - 224 of [Overgeared](https://anilist.co/manga/117460) (19:32, 18 April 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
