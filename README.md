@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 166 - 184 of [Teenage Mercenary](https://anilist.co/manga/126297) (20:22, 18 April 2024)
--   📖 Read chapter 139 - 146 of [Don't Toy With Me, Miss Nagatoro](https://anilist.co/manga/100664) (20:10, 18 April 2024)
--   📖 Read chapter 123 - 144 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (19:39, 18 April 2024)
--   📖 Read chapter 36 - 49 of [Potential Husband of The World Tree](https://anilist.co/manga/164510) (19:36, 18 April 2024)
--   📖 Read chapter 203 - 224 of [Overgeared](https://anilist.co/manga/117460) (19:32, 18 April 2024)
+-   📖 Read chapter 1 - 5 of [Ani to Imouto no Shitai Shitai Shitai Koto](https://anilist.co/manga/142135) (21:54, 19 April 2024)
+-   📖 Plans to read [Watari-kun's ****** Is about to Collapse](https://anilist.co/manga/85703) (17:40, 19 April 2024)
+-   📖 Plans to read [Harem Marriage](https://anilist.co/manga/86283) (17:28, 19 April 2024)
+-   📖 Read chapter 109 - 125 of [Jungle Juice](https://anilist.co/manga/128882) (08:47, 19 April 2024)
+-   📖 Read chapter 61 - 65 of [Hajirau Kimi ga Mitainda](https://anilist.co/manga/129225) (08:40, 19 April 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
