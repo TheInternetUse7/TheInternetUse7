@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 5 of [Ani to Imouto no Shitai Shitai Shitai Koto](https://anilist.co/manga/142135) (21:54, 19 April 2024)
--   📖 Plans to read [Watari-kun's ****** Is about to Collapse](https://anilist.co/manga/85703) (17:40, 19 April 2024)
--   📖 Plans to read [Harem Marriage](https://anilist.co/manga/86283) (17:28, 19 April 2024)
--   📖 Read chapter 109 - 125 of [Jungle Juice](https://anilist.co/manga/128882) (08:47, 19 April 2024)
--   📖 Read chapter 61 - 65 of [Hajirau Kimi ga Mitainda](https://anilist.co/manga/129225) (08:40, 19 April 2024)
+-   📺 Completed [Solo Leveling](https://anilist.co/anime/151807) (14:54, 20 April 2024)
+-   📖 Read chapter 1 - 7 of [Harem Marriage](https://anilist.co/manga/86283) (14:30, 20 April 2024)
+-   📖 Completed [Ani to Imouto no Shitai Shitai Shitai Koto](https://anilist.co/manga/142135) (13:47, 20 April 2024)
+-   📖 Read chapter 1 - 17 of [Ani to Imouto no Shitai Shitai Shitai Koto](https://anilist.co/manga/142135) (12:15, 20 April 2024)
+-   📖 Read chapter 3325 - 3733 of [Martial Peak](https://anilist.co/manga/104494) (09:48, 20 April 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
