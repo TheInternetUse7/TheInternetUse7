@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Completed [Solo Leveling](https://anilist.co/anime/151807) (14:54, 20 April 2024)
--   📖 Read chapter 1 - 7 of [Harem Marriage](https://anilist.co/manga/86283) (14:30, 20 April 2024)
--   📖 Completed [Ani to Imouto no Shitai Shitai Shitai Koto](https://anilist.co/manga/142135) (13:47, 20 April 2024)
--   📖 Read chapter 1 - 17 of [Ani to Imouto no Shitai Shitai Shitai Koto](https://anilist.co/manga/142135) (12:15, 20 April 2024)
--   📖 Read chapter 3325 - 3733 of [Martial Peak](https://anilist.co/manga/104494) (09:48, 20 April 2024)
+-   📖 Read chapter 1 - 11 of [Harem Marriage](https://anilist.co/manga/86283) (21:20, 21 April 2024)
+-   📖 Read chapter 1 - 87 of [Sextopwatch](https://anilist.co/manga/152411) (21:11, 21 April 2024)
+-   📖 Read chapter 3325 - 3734 of [Martial Peak](https://anilist.co/manga/104494) (21:07, 21 April 2024)
+-   📖 Read chapter 13 - 19 of [Issho ni Kurashite Ii desu ka?](https://anilist.co/manga/159549) (21:02, 21 April 2024)
+-   📖 Read chapter 1 - 32 of [Your GF Was Delicious](https://anilist.co/manga/169210) (14:23, 21 April 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
