@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 29 of [Sexercise](https://anilist.co/manga/116774) (14:31, 24 April 2024)
+-   📖 Read chapter 101 - 112 of [Level Up with the Gods](https://anilist.co/manga/138222) (14:24, 24 April 2024)
+-   📖 Read chapter 193 - 208 of [Omniscient Reader](https://anilist.co/manga/119257) (14:18, 24 April 2024)
+-   📖 Read chapter 148 - 162 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (14:13, 24 April 2024)
 -   📖 Read chapter 123 - 145 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (21:15, 23 April 2024)
--   📖 Read chapter 1 - 32 of [Harem Marriage](https://anilist.co/manga/86283) (05:07, 23 April 2024)
--   📖 Read chapter 1 - 36 of [Your GF Was Delicious](https://anilist.co/manga/169210) (15:55, 22 April 2024)
--   📖 Read chapter 185 - 200 of [Nano Machine](https://anilist.co/manga/120980) (15:48, 22 April 2024)
--   📖 Read chapter 1 - 6 of [Watari-kun's ****** Is about to Collapse](https://anilist.co/manga/85703) (08:55, 22 April 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
