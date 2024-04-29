@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 15 of [Watari-kun's ****** Is about to Collapse](https://anilist.co/manga/85703) (19:05, 27 April 2024)
--   📖 Read chapter 185 - 201 of [Nano Machine](https://anilist.co/manga/120980) (18:24, 27 April 2024)
--   📖 Read chapter 1 - 88 of [Sextopwatch](https://anilist.co/manga/152411) (18:17, 27 April 2024)
--   📖 Read chapter 3325 - 3736 of [Martial Peak](https://anilist.co/manga/104494) (18:14, 27 April 2024)
--   📖 Read chapter 9 - 24 of [Moby Dick](https://anilist.co/manga/172094) (13:28, 27 April 2024)
+-   📖 Read chapter 1 - 22 of [Watari-kun's ****** Is about to Collapse](https://anilist.co/manga/85703) (19:48, 28 April 2024)
+-   📖 Read chapter 10 - 12 of [Netorare Manga no Kuzu Otoko ni Tensei Shita Hazu ga Heroine ga Yotte Kuru Ken](https://anilist.co/manga/163733) (19:31, 28 April 2024)
+-   📺 Plans to watch [Go-toubun no Hanayome *](https://anilist.co/anime/177191) (12:18, 28 April 2024)
+-   📖 Read chapter 203 - 225 of [Overgeared](https://anilist.co/manga/117460) (10:52, 28 April 2024)
+-   📖 Read chapter 3325 - 3737 of [Martial Peak](https://anilist.co/manga/104494) (10:40, 28 April 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
