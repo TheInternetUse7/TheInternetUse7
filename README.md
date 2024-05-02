@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 26 of [Watari-kun's ****** Is about to Collapse](https://anilist.co/manga/85703) (17:39, 30 April 2024)
+-   📖 Read chapter 1 - 36 of [Watari-kun's ****** Is about to Collapse](https://anilist.co/manga/85703) (20:47, 01 May 2024)
+-   📺 Plans to watch [Astral Sutra](https://anilist.co/anime/129203) (12:58, 01 May 2024)
+-   📖 Read chapter 60 - 63 of [The Eminence in Shadow](https://anilist.co/manga/106758) (02:22, 01 May 2024)
 -   📖 Read chapter 139 - 149 of [Don't Toy With Me, Miss Nagatoro](https://anilist.co/manga/100664) (16:43, 30 April 2024)
 -   📖 Read chapter 1 - 22 of [NTREVENGE](https://anilist.co/manga/167427) (16:30, 30 April 2024)
--   📖 Read chapter 10 - 12 of [Netorare Manga no Kuzu Otoko ni Tensei Shita Hazu ga Heroine ga Yotte Kuru Ken](https://anilist.co/manga/163733) (19:31, 28 April 2024)
--   📺 Plans to watch [Go-toubun no Hanayome *](https://anilist.co/anime/177191) (12:18, 28 April 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
