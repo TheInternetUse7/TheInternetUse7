@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 36 of [Watari-kun's ****** Is about to Collapse](https://anilist.co/manga/85703) (20:47, 01 May 2024)
--   📺 Plans to watch [Astral Sutra](https://anilist.co/anime/129203) (12:58, 01 May 2024)
--   📖 Read chapter 60 - 63 of [The Eminence in Shadow](https://anilist.co/manga/106758) (02:22, 01 May 2024)
--   📖 Read chapter 139 - 149 of [Don't Toy With Me, Miss Nagatoro](https://anilist.co/manga/100664) (16:43, 30 April 2024)
--   📖 Read chapter 1 - 22 of [NTREVENGE](https://anilist.co/manga/167427) (16:30, 30 April 2024)
+-   📖 Read chapter 1 - 38 of [Your GF Was Delicious](https://anilist.co/manga/169210) (19:20, 02 May 2024)
+-   📖 Read chapter 9 - 25 of [Moby Dick](https://anilist.co/manga/172094) (19:16, 02 May 2024)
+-   📖 Read chapter 1 - 39 of [Watari-kun's ****** Is about to Collapse](https://anilist.co/manga/85703) (08:52, 02 May 2024)
+-   📖 Read chapter 185 - 203 of [Nano Machine](https://anilist.co/manga/120980) (08:28, 02 May 2024)
+-   📖 Read chapter 101 - 113 of [Level Up with the Gods](https://anilist.co/manga/138222) (08:17, 02 May 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
