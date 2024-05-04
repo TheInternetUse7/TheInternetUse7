@@ -25,9 +25,9 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 50 of [Watari-kun's ****** Is about to Collapse](https://anilist.co/manga/85703) (19:39, 03 May 2024)
 -   📖 Read chapter 1 - 38 of [Your GF Was Delicious](https://anilist.co/manga/169210) (19:20, 02 May 2024)
 -   📖 Read chapter 9 - 25 of [Moby Dick](https://anilist.co/manga/172094) (19:16, 02 May 2024)
--   📖 Read chapter 1 - 39 of [Watari-kun's ****** Is about to Collapse](https://anilist.co/manga/85703) (08:52, 02 May 2024)
 -   📖 Read chapter 185 - 203 of [Nano Machine](https://anilist.co/manga/120980) (08:28, 02 May 2024)
 -   📖 Read chapter 101 - 113 of [Level Up with the Gods](https://anilist.co/manga/138222) (08:17, 02 May 2024)
 
