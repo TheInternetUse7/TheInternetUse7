@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 148 - 163 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (23:01, 08 May 2024)
+-   📖 Read chapter 71 - 84 of [Punishing My Pet Slave ELF](https://anilist.co/manga/143102) (22:55, 08 May 2024)
+-   📖 Read chapter 1 - 5 of [Hazure Skill "Soine" ga Kakuseishi, Boku ga Saikyou Harem wo Kizuku made: Micchaku Soine de Ganbou Kaihou!? Yuuwakusare Makutte Komattemasu!!](https://anilist.co/manga/175861) (13:11, 08 May 2024)
+-   📖 Read chapter 193 - 209 of [Omniscient Reader](https://anilist.co/manga/119257) (11:38, 08 May 2024)
 -   📖 Read chapter 166 - 187 of [Teenage Mercenary](https://anilist.co/manga/126297) (21:00, 07 May 2024)
--   📖 Read chapter 3325 - 3739 of [Martial Peak](https://anilist.co/manga/104494) (20:52, 07 May 2024)
--   📖 Completed [Watari-kun's ****** Is about to Collapse](https://anilist.co/manga/85703) (05:57, 07 May 2024)
--   📖 Read chapter 1 - 92 of [Watari-kun's ****** Is about to Collapse](https://anilist.co/manga/85703) (05:32, 07 May 2024)
--   📖 Read chapter 1 of [Hazure Skill "Soine" ga Kakuseishi, Boku ga Saikyou Harem wo Kizuku made: Micchaku Soine de Ganbou Kaihou!? Yuuwakusare Makutte Komattemasu!!](https://anilist.co/manga/175861) (21:11, 06 May 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
