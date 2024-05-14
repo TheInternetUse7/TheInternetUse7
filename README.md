@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 81 - 89 of [Saotome Shimai wa Manga no Tame Nara!?](https://anilist.co/manga/103621) (23:59, 12 May 2024)
--   📖 Read chapter 1 - 31 of [Dorei wo Choukyoushite Harem Tsukuru](https://anilist.co/manga/149329) (19:31, 11 May 2024)
--   📖 Read chapter 1 of [Dorei wo Choukyoushite Harem Tsukuru Kako-hen](https://anilist.co/manga/151605) (11:20, 11 May 2024)
--   📖 Read chapter 3325 - 3740 of [Martial Peak](https://anilist.co/manga/104494) (11:19, 11 May 2024)
--   📺 Plans to watch [Kakushite! Makina-san!!](https://anilist.co/anime/177509) (09:56, 11 May 2024)
+-   📖 Read chapter 1 - 33 of [Dorei wo Choukyoushite Harem Tsukuru](https://anilist.co/manga/149329) (19:33, 13 May 2024)
+-   📖 Read chapter 1 - 23 of [NTREVENGE](https://anilist.co/manga/167427) (13:52, 13 May 2024)
+-   📖 Read chapter 36 - 51 of [Potential Husband of The World Tree](https://anilist.co/manga/164510) (13:48, 13 May 2024)
+-   📖 Read chapter 123 - 147 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (13:46, 13 May 2024)
+-   📖 Read chapter 203 - 226 of [Overgeared](https://anilist.co/manga/117460) (13:28, 13 May 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
