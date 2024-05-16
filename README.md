@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 45 of [Dorei wo Choukyoushite Harem Tsukuru](https://anilist.co/manga/149329) (20:03, 14 May 2024)
--   📖 Read chapter 139 - 150 of [Don't Toy With Me, Miss Nagatoro](https://anilist.co/manga/100664) (10:26, 14 May 2024)
--   📖 Read chapter 1 - 23 of [NTREVENGE](https://anilist.co/manga/167427) (13:52, 13 May 2024)
--   📖 Read chapter 36 - 51 of [Potential Husband of The World Tree](https://anilist.co/manga/164510) (13:48, 13 May 2024)
--   📖 Read chapter 123 - 147 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (13:46, 13 May 2024)
+-   📖 Read chapter 1 - 63 of [Harem Marriage](https://anilist.co/manga/86283) (19:46, 15 May 2024)
+-   📖 Read chapter 1 - 49 of [Dorei wo Choukyoushite Harem Tsukuru](https://anilist.co/manga/149329) (06:31, 15 May 2024)
+-   📖 Read chapter 101 - 114 of [Level Up with the Gods](https://anilist.co/manga/138222) (06:13, 15 May 2024)
+-   📖 Read chapter 166 - 188 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:06, 15 May 2024)
+-   📖 Read chapter 193 - 210 of [Omniscient Reader](https://anilist.co/manga/119257) (06:02, 15 May 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
