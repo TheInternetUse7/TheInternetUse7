@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 40 of [Your GF Was Delicious](https://anilist.co/manga/169210) (11:21, 19 May 2024)
+-   📖 Read chapter 203 - 228 of [Overgeared](https://anilist.co/manga/117460) (11:18, 19 May 2024)
+-   📖 Read chapter 61 - 66 of [Hajirau Kimi ga Mitainda](https://anilist.co/manga/129225) (10:51, 19 May 2024)
+-   📖 Read chapter 1 of [Minamoto-kun Monogatari](https://anilist.co/manga/60123) (01:13, 19 May 2024)
 -   📖 Read chapter 1 - 70 of [Harem Marriage](https://anilist.co/manga/86283) (23:49, 18 May 2024)
--   📺 Watched episode 1 - 9 of [Urusei Yatsura (2022) Season 3](https://anilist.co/anime/155645) (04:27, 18 May 2024)
--   📺 Watched episode 1 - 2 of [Mother of the Goddess’ Dormitory](https://anilist.co/anime/117989) (04:09, 18 May 2024)
--   📖 Read chapter 412 - 423 of [My Hero Academia](https://anilist.co/manga/85486) (03:17, 18 May 2024)
--   📖 Read chapter 13 - 21 of [Issho ni Kurashite Ii desu ka?](https://anilist.co/manga/159549) (03:12, 18 May 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
