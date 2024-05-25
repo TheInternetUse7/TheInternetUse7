@@ -25,7 +25,7 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 92 of [Minamoto-kun Monogatari](https://anilist.co/manga/60123) (19:56, 23 May 2024)
+-   📖 Read chapter 1 - 102 of [Minamoto-kun Monogatari](https://anilist.co/manga/60123) (19:07, 24 May 2024)
 -   📖 Read chapter 148 - 164 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (19:24, 23 May 2024)
 -   📖 Read chapter 3325 - 3742 of [Martial Peak](https://anilist.co/manga/104494) (19:18, 23 May 2024)
 -   📖 Read chapter 9 - 28 of [Moby Dick](https://anilist.co/manga/172094) (19:12, 23 May 2024)
