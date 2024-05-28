@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 129 of [Minamoto-kun Monogatari](https://anilist.co/manga/60123) (19:48, 26 May 2024)
+-   📖 Read chapter 1 - 184 of [Minamoto-kun Monogatari](https://anilist.co/manga/60123) (20:31, 27 May 2024)
+-   📖 Read chapter 3325 - 3744 of [Martial Peak](https://anilist.co/manga/104494) (20:28, 27 May 2024)
+-   📖 Read chapter 1 - 24 of [NTREVENGE](https://anilist.co/manga/167427) (10:04, 27 May 2024)
 -   📖 Read chapter 166 - 189 of [Teenage Mercenary](https://anilist.co/manga/126297) (19:32, 26 May 2024)
 -   📖 Read chapter 1 - 10 of [Erosugi Cheat de Isekai Harem♪ Comic Anthology](https://anilist.co/manga/174175) (17:13, 25 May 2024)
--   📖 Read chapter 81 - 85 of [Isekai Meikyuu de Harem wo](https://anilist.co/manga/99462) (17:10, 25 May 2024)
--   📖 Read chapter 3325 - 3743 of [Martial Peak](https://anilist.co/manga/104494) (17:02, 25 May 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
