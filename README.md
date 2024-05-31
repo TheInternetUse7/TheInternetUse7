@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 210 of [Minamoto-kun Monogatari](https://anilist.co/manga/60123) (18:01, 29 May 2024)
+-   📖 Read chapter 1 - 228 of [Minamoto-kun Monogatari](https://anilist.co/manga/60123) (20:45, 30 May 2024)
+-   📖 Read chapter 9 - 29 of [Moby Dick](https://anilist.co/manga/172094) (20:31, 30 May 2024)
+-   📖 Read chapter 101 - 115 of [Level Up with the Gods](https://anilist.co/manga/138222) (20:17, 30 May 2024)
+-   📺 Watched episode 1 - 13 of [Urusei Yatsura (2022) Season 3](https://anilist.co/anime/155645) (16:31, 30 May 2024)
 -   📖 Read chapter 3325 - 3745 of [Martial Peak](https://anilist.co/manga/104494) (17:08, 29 May 2024)
--   📖 Read chapter 1 - 92 of [Sextopwatch](https://anilist.co/manga/152411) (21:05, 28 May 2024)
--   📖 Read chapter 193 - 212 of [Omniscient Reader](https://anilist.co/manga/119257) (21:01, 28 May 2024)
--   📺 Watched episode 1 - 7 of [KONOSUBA -God's Blessing on This Wonderful World! 3](https://anilist.co/anime/136804) (12:49, 28 May 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
