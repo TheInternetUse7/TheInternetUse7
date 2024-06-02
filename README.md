@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 36 - 53 of [Potential Husband of The World Tree](https://anilist.co/manga/164510) (21:13, 31 May 2024)
--   📖 Read chapter 3 - 100 of [Trapped in a Hentai Game Academy](https://anilist.co/manga/151601) (21:04, 31 May 2024)
--   📖 Read chapter 71 - 86 of [Punishing My Pet Slave ELF](https://anilist.co/manga/143102) (20:43, 31 May 2024)
--   📺 Watched episode 1 - 14 of [Urusei Yatsura (2022) Season 3](https://anilist.co/anime/155645) (05:56, 31 May 2024)
--   📖 Read chapter 1 - 228 of [Minamoto-kun Monogatari](https://anilist.co/manga/60123) (20:45, 30 May 2024)
+-   📖 Read chapter 60 - 64 of [The Eminence in Shadow](https://anilist.co/manga/106758) (19:22, 01 June 2024)
+-   📖 Read chapter 203 - 233 of [Overgeared](https://anilist.co/manga/117460) (11:25, 01 June 2024)
+-   📖 Read chapter 412 - 424 of [My Hero Academia](https://anilist.co/manga/85486) (08:55, 01 June 2024)
+-   📖 Read chapter 1 - 242 of [Minamoto-kun Monogatari](https://anilist.co/manga/60123) (04:43, 01 June 2024)
+-   📖 Read chapter 101 - 116 of [Level Up with the Gods](https://anilist.co/manga/138222) (04:15, 01 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
