@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 293 of [Minamoto-kun Monogatari](https://anilist.co/manga/60123) (22:43, 02 June 2024)
+-   📖 Plans to read [Tensei ni Hakobi-jin no Isekai Kouryakuhou](https://anilist.co/manga/167472) (21:01, 03 June 2024)
+-   📖 Read chapter 1 - 337 of [Minamoto-kun Monogatari](https://anilist.co/manga/60123) (15:19, 03 June 2024)
+-   📖 Read chapter 3325 - 3746 of [Martial Peak](https://anilist.co/manga/104494) (10:07, 03 June 2024)
 -   📖 Read chapter 1 - 42 of [Your GF Was Delicious](https://anilist.co/manga/169210) (21:47, 02 June 2024)
 -   📖 Read chapter 1 - 72 of [Harem Marriage](https://anilist.co/manga/86283) (15:00, 02 June 2024)
--   📖 Read chapter 36 - 54 of [Potential Husband of The World Tree](https://anilist.co/manga/164510) (04:01, 02 June 2024)
--   📖 Read chapter 60 - 64 of [The Eminence in Shadow](https://anilist.co/manga/106758) (19:22, 01 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
