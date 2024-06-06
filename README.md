@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 3 - 101 of [Trapped in a Hentai Game Academy](https://anilist.co/manga/151601) (20:18, 04 June 2024)
--   📖 Read chapter 123 - 150 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (20:13, 04 June 2024)
--   📖 Read chapter 139 - 151 of [Don't Toy With Me, Miss Nagatoro](https://anilist.co/manga/100664) (20:04, 04 June 2024)
--   📖 Read chapter 1 - 3 of [Tensei ni Hakobi-jin no Isekai Kouryakuhou](https://anilist.co/manga/167472) (11:43, 04 June 2024)
--   📖 Plans to read [Tensei ni Hakobi-jin no Isekai Kouryakuhou](https://anilist.co/manga/167472) (21:01, 03 June 2024)
+-   📖 Read chapter 1 - 347 of [Minamoto-kun Monogatari](https://anilist.co/manga/60123) (21:59, 05 June 2024)
+-   📖 Read chapter 1 - 11 of [Tensei ni Hakobi-jin no Isekai Kouryakuhou](https://anilist.co/manga/167472) (08:22, 05 June 2024)
+-   📖 Read chapter 166 - 190 of [Teenage Mercenary](https://anilist.co/manga/126297) (03:52, 05 June 2024)
+-   📖 Read chapter 10 - 13 of [Netorare Manga no Kuzu Otoko ni Tensei Shita Hazu ga Heroine ga Yotte Kuru Ken](https://anilist.co/manga/163733) (03:47, 05 June 2024)
+-   📖 Read chapter 193 - 213 of [Omniscient Reader](https://anilist.co/manga/119257) (03:38, 05 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
