@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 347 of [Minamoto-kun Monogatari](https://anilist.co/manga/60123) (21:59, 05 June 2024)
--   📖 Read chapter 1 - 11 of [Tensei ni Hakobi-jin no Isekai Kouryakuhou](https://anilist.co/manga/167472) (08:22, 05 June 2024)
--   📖 Read chapter 166 - 190 of [Teenage Mercenary](https://anilist.co/manga/126297) (03:52, 05 June 2024)
--   📖 Read chapter 10 - 13 of [Netorare Manga no Kuzu Otoko ni Tensei Shita Hazu ga Heroine ga Yotte Kuru Ken](https://anilist.co/manga/163733) (03:47, 05 June 2024)
--   📖 Read chapter 193 - 213 of [Omniscient Reader](https://anilist.co/manga/119257) (03:38, 05 June 2024)
+-   📖 Read chapter 13 - 22 of [Issho ni Kurashite Ii desu ka?](https://anilist.co/manga/159549) (21:42, 06 June 2024)
+-   📖 Read chapter 9 - 30 of [Moby Dick](https://anilist.co/manga/172094) (21:16, 06 June 2024)
+-   📖 Read chapter 1 - 10 of [Wo You Jiuqianwan-yi Tian Gou Jin](https://anilist.co/manga/174177) (12:13, 06 June 2024)
+-   📖 Read chapter 1 - 282 of [Eleceed](https://anilist.co/manga/106929) (11:43, 06 June 2024)
+-   📖 Read chapter 109 - 131 of [Jungle Juice](https://anilist.co/manga/128882) (11:19, 06 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
