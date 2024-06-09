@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 283 of [Eleceed](https://anilist.co/manga/106929) (19:10, 07 June 2024)
+-   📖 Completed [Erosugi Cheat de Isekai Harem♪ Comic Anthology](https://anilist.co/manga/174175) (21:54, 08 June 2024)
+-   📖 Read chapter 3325 - 3747 of [Martial Peak](https://anilist.co/manga/104494) (21:46, 08 June 2024)
+-   📖 Read chapter 1 - 293 of [Eleceed](https://anilist.co/manga/106929) (10:20, 08 June 2024)
+-   📖 Read chapter 3 - 4 of [Yomeiro Choice](https://anilist.co/manga/42090) (04:03, 08 June 2024)
 -   📖 Completed [Potential Husband of The World Tree](https://anilist.co/manga/164510) (18:54, 07 June 2024)
--   📖 Read chapter 1 - 93 of [Sextopwatch](https://anilist.co/manga/152411) (10:15, 07 June 2024)
--   📖 Read chapter 412 - 425 of [My Hero Academia](https://anilist.co/manga/85486) (10:11, 07 June 2024)
--   📖 Read chapter 148 - 166 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (10:02, 07 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
