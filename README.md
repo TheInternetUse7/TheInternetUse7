@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 74 of [Boundless Ascension](https://anilist.co/manga/159439) (17:55, 10 June 2024)
--   📺 Watched episode 1 - 8 of [KONOSUBA -God's Blessing on This Wonderful World! 3](https://anilist.co/anime/136804) (17:35, 10 June 2024)
--   📖 Read chapter 1 - 78 of [Harem Marriage](https://anilist.co/manga/86283) (19:46, 09 June 2024)
--   📖 Read chapter 185 - 210 of [Nano Machine](https://anilist.co/manga/120980) (19:30, 09 June 2024)
--   📖 Read chapter 1 - 301 of [Eleceed](https://anilist.co/manga/106929) (13:01, 09 June 2024)
+-   📖 Read chapter 1 - 11 of [Fudajo!: Otome Shoukan Datsui Taisen](https://anilist.co/manga/94991) (11:22, 11 June 2024)
+-   📖 Read chapter 1 of [Bitch de Asobo](https://anilist.co/manga/150965) (10:13, 11 June 2024)
+-   📖 Completed [Bitch de Asobo](https://anilist.co/manga/150965) (10:12, 11 June 2024)
+-   📖 Plans to read [Kinkyori Koubi](https://anilist.co/manga/119504) (10:11, 11 June 2024)
+-   📖 Plans to read [Konomi ja Nai kedo: Mukatsuku Ane to Aishou Batsugun Ecchi](https://anilist.co/manga/163992) (09:21, 11 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
