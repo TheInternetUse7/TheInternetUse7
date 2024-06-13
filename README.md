@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 11 of [Fudajo!: Otome Shoukan Datsui Taisen](https://anilist.co/manga/94991) (11:22, 11 June 2024)
--   📖 Read chapter 1 of [Bitch de Asobo](https://anilist.co/manga/150965) (10:13, 11 June 2024)
--   📖 Completed [Bitch de Asobo](https://anilist.co/manga/150965) (10:12, 11 June 2024)
--   📖 Plans to read [Kinkyori Koubi](https://anilist.co/manga/119504) (10:11, 11 June 2024)
--   📖 Plans to read [Konomi ja Nai kedo: Mukatsuku Ane to Aishou Batsugun Ecchi](https://anilist.co/manga/163992) (09:21, 11 June 2024)
+-   📖 Read chapter 1 of [Konomi ja Nai kedo: Mukatsuku Ane to Aishou Batsugun Ecchi](https://anilist.co/manga/163992) (20:04, 12 June 2024)
+-   📖 Completed [Pathos dj - EX](https://anilist.co/manga/32004) (19:41, 12 June 2024)
+-   📖 Completed [Houjou no Reizoku Elf](https://anilist.co/manga/112672) (19:40, 12 June 2024)
+-   📖 Completed [Shougo no](https://anilist.co/manga/140433) (19:38, 12 June 2024)
+-   📖 Completed [Kyoudai ni Okeru Seikoushou no Kiroku](https://anilist.co/manga/131310) (19:36, 12 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
