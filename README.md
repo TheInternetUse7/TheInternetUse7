@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 of [Konomi ja Nai kedo: Mukatsuku Ane to Aishou Batsugun Ecchi](https://anilist.co/manga/163992) (20:04, 12 June 2024)
--   📖 Completed [Pathos dj - EX](https://anilist.co/manga/32004) (19:41, 12 June 2024)
--   📖 Completed [Houjou no Reizoku Elf](https://anilist.co/manga/112672) (19:40, 12 June 2024)
--   📖 Completed [Shougo no](https://anilist.co/manga/140433) (19:38, 12 June 2024)
--   📖 Completed [Kyoudai ni Okeru Seikoushou no Kiroku](https://anilist.co/manga/131310) (19:36, 12 June 2024)
+-   📖 Read chapter 1 - 81 of [Boundless Ascension](https://anilist.co/manga/159439) (19:52, 13 June 2024)
+-   📖 Read chapter 2 of [Hypnotic Sexual Counseling](https://anilist.co/manga/104449) (19:45, 13 June 2024)
+-   📖 Plans to read [Ending Maker](https://anilist.co/manga/150170) (15:09, 13 June 2024)
+-   📺 Watched episode 1 - 9 of [KONOSUBA -God's Blessing on This Wonderful World! 3](https://anilist.co/anime/136804) (11:06, 13 June 2024)
+-   📖 Read chapter 1 of [My Stepsister Who Tells Me To Die Every Day Tries to Hypnotize Me So I Would Fall for Her...!](https://anilist.co/manga/128413) (10:51, 13 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
