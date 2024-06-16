@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 9 - 31 of [Moby Dick](https://anilist.co/manga/172094) (22:22, 14 June 2024)
--   📖 Read chapter 61 - 67 of [Hajirau Kimi ga Mitainda](https://anilist.co/manga/129225) (22:17, 14 June 2024)
--   📖 Read chapter 71 - 88 of [Punishing My Pet Slave ELF](https://anilist.co/manga/143102) (22:07, 14 June 2024)
--   📖 Read chapter 1 - 85 of [Boundless Ascension](https://anilist.co/manga/159439) (10:40, 14 June 2024)
--   📖 Read chapter 2 of [Hypnotic Sexual Counseling](https://anilist.co/manga/104449) (19:45, 13 June 2024)
+-   📖 Completed [Sister Island](https://anilist.co/manga/150935) (21:51, 15 June 2024)
+-   📖 Plans to read [Sister Island](https://anilist.co/manga/150935) (21:19, 15 June 2024)
+-   📖 Read chapter 1 - 44 of [Your GF Was Delicious](https://anilist.co/manga/169210) (21:17, 15 June 2024)
+-   📖 Read chapter 166 - 192 of [Teenage Mercenary](https://anilist.co/manga/126297) (21:12, 15 June 2024)
+-   📖 Read chapter 3325 - 3748 of [Martial Peak](https://anilist.co/manga/104494) (13:19, 15 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
