@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Completed [Sister Island](https://anilist.co/manga/150935) (21:51, 15 June 2024)
--   📖 Plans to read [Sister Island](https://anilist.co/manga/150935) (21:19, 15 June 2024)
--   📖 Read chapter 1 - 44 of [Your GF Was Delicious](https://anilist.co/manga/169210) (21:17, 15 June 2024)
--   📖 Read chapter 166 - 192 of [Teenage Mercenary](https://anilist.co/manga/126297) (21:12, 15 June 2024)
--   📖 Read chapter 3325 - 3748 of [Martial Peak](https://anilist.co/manga/104494) (13:19, 15 June 2024)
+-   📖 Read chapter 1 of [Isekai Majutsushi wa Mahou wo Tonaenai](https://anilist.co/manga/119973) (00:08, 17 June 2024)
+-   📖 Plans to read [Isekai Majutsushi wa Mahou wo Tonaenai](https://anilist.co/manga/119973) (23:46, 16 June 2024)
+-   📖 Plans to read [She’s the Strongest Bride, But I’m Stronger in Night Battles: A Harem Chronicle of Advancing Through Cunning Tactics](https://anilist.co/manga/161499) (23:00, 16 June 2024)
+-   📖 Plans to read [Tensei Colosseum: Saijaku Skill de Saikyou no Onna-tachi wo Kouryaku Shite Dorei Harem Tsukurimasu](https://anilist.co/manga/152284) (22:59, 16 June 2024)
+-   📺 Watched episode 1 - 18 of [Urusei Yatsura (2022) Season 3](https://anilist.co/anime/155645) (20:34, 16 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
