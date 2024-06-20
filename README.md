@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 302 of [Eleceed](https://anilist.co/manga/106929) (16:15, 19 June 2024)
 -   📖 Read chapter 3 - 102 of [Trapped in a Hentai Game Academy](https://anilist.co/manga/151601) (20:46, 18 June 2024)
 -   📖 Read chapter 11 - 15 of [Yuusha ni Zenbu Ubawareta Ore wa Yuusha no Hahaoya to Party wo Kumimashita!](https://anilist.co/manga/159187) (20:43, 18 June 2024)
 -   📖 Read chapter 139 - 152 of [Don't Toy With Me, Miss Nagatoro](https://anilist.co/manga/100664) (20:36, 18 June 2024)
 -   📖 Read chapter 1 - 2 of [Tensei Colosseum: Saijaku Skill de Saikyou no Onna-tachi wo Kouryaku Shite Dorei Harem Tsukurimasu](https://anilist.co/manga/152284) (05:08, 17 June 2024)
--   📖 Read chapter 1 of [Isekai Majutsushi wa Mahou wo Tonaenai](https://anilist.co/manga/119973) (00:08, 17 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
