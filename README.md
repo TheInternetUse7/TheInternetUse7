@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 303 of [Eleceed](https://anilist.co/manga/106929) (20:23, 22 June 2024)
+-   📺 Watched episode 1 - 21 of [Urusei Yatsura (2022) Season 3](https://anilist.co/anime/155645) (18:52, 22 June 2024)
+-   📺 Completed [Tales of Wedding Rings](https://anilist.co/anime/160389) (09:58, 22 June 2024)
 -   📖 Read chapter 1 - 3 of [Isekai Majutsushi wa Mahou wo Tonaenai](https://anilist.co/manga/119973) (09:11, 21 June 2024)
 -   📖 Read chapter 1 - 265 of [Wo You Jiuqianwan-yi Tian Gou Jin](https://anilist.co/manga/174177) (09:08, 21 June 2024)
--   📖 Read chapter 109 - 133 of [Jungle Juice](https://anilist.co/manga/128882) (09:05, 21 June 2024)
--   📺 Watched episode 1 - 11 of [Tales of Wedding Rings](https://anilist.co/anime/160389) (05:51, 21 June 2024)
--   📺 Watched episode 1 - 19 of [Urusei Yatsura (2022) Season 3](https://anilist.co/anime/155645) (18:12, 20 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
