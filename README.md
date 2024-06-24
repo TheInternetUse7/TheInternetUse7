@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 303 of [Eleceed](https://anilist.co/manga/106929) (20:23, 22 June 2024)
--   📺 Watched episode 1 - 21 of [Urusei Yatsura (2022) Season 3](https://anilist.co/anime/155645) (18:52, 22 June 2024)
--   📺 Completed [Tales of Wedding Rings](https://anilist.co/anime/160389) (09:58, 22 June 2024)
--   📖 Read chapter 1 - 3 of [Isekai Majutsushi wa Mahou wo Tonaenai](https://anilist.co/manga/119973) (09:11, 21 June 2024)
--   📖 Read chapter 1 - 265 of [Wo You Jiuqianwan-yi Tian Gou Jin](https://anilist.co/manga/174177) (09:08, 21 June 2024)
+-   📖 Read chapter 1 - 17 of [Isekai Majutsushi wa Mahou wo Tonaenai](https://anilist.co/manga/119973) (23:01, 23 June 2024)
+-   📖 Read chapter 1 - 2 of [Him and Him and Him](https://anilist.co/manga/130795) (22:51, 23 June 2024)
+-   📖 Plans to read [Him and Him and Him](https://anilist.co/manga/130795) (22:15, 23 June 2024)
+-   📖 Read chapter 194 - 203 of [One-Punch Man](https://anilist.co/manga/74347) (22:10, 23 June 2024)
+-   📖 Read chapter 216 - 219 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (22:06, 23 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
