@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 20 of [Isekai Majutsushi wa Mahou wo Tonaenai](https://anilist.co/manga/119973) (17:31, 25 June 2024)
+-   📖 Read chapter 3 - 103 of [Trapped in a Hentai Game Academy](https://anilist.co/manga/151601) (16:58, 25 June 2024)
+-   📺 Plans to watch [Ranma 1/2 (Shinsaku Anime)](https://anilist.co/anime/178533) (16:45, 25 June 2024)
 -   📺 Watched episode 1 of [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064) (17:34, 24 June 2024)
 -   📺 Completed [Girl's Education](https://anilist.co/anime/21166) (16:56, 24 June 2024)
--   📖 Read chapter 1 - 17 of [Isekai Majutsushi wa Mahou wo Tonaenai](https://anilist.co/manga/119973) (23:01, 23 June 2024)
--   📖 Read chapter 1 - 2 of [Him and Him and Him](https://anilist.co/manga/130795) (22:51, 23 June 2024)
--   📖 Plans to read [Him and Him and Him](https://anilist.co/manga/130795) (22:15, 23 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
