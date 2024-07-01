@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 109 - 134 of [Jungle Juice](https://anilist.co/manga/128882) (18:04, 29 June 2024)
--   📺 Completed [KONOSUBA -God's Blessing on This Wonderful World! 3](https://anilist.co/anime/136804) (16:18, 29 June 2024)
--   📖 Read chapter 1 - 12 of [Tensei ni Hakobi-jin no Isekai Kouryakuhou](https://anilist.co/manga/167472) (20:46, 28 June 2024)
--   📖 Read chapter 71 - 89 of [Punishing My Pet Slave ELF](https://anilist.co/manga/143102) (20:41, 28 June 2024)
--   📺 Watched episode 1 - 2 of [The Irregular at Magic High School Season 3](https://anilist.co/anime/143271) (20:09, 28 June 2024)
+-   📖 Read chapter 148 - 167 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (23:50, 30 June 2024)
+-   📖 Read chapter 123 - 153 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (23:48, 30 June 2024)
+-   📖 Read chapter 1 - 45 of [Your GF Was Delicious](https://anilist.co/manga/169210) (23:41, 30 June 2024)
+-   📖 Read chapter 2 of [Shounen ga Otona ni Natta Natsu](https://anilist.co/manga/168524) (10:29, 30 June 2024)
+-   📖 Read chapter 1 - 2 of [My Ideal Life in Another World](https://anilist.co/manga/116963) (03:54, 30 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
