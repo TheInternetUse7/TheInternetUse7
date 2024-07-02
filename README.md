@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 148 - 167 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (23:50, 30 June 2024)
--   📖 Read chapter 123 - 153 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (23:48, 30 June 2024)
--   📖 Read chapter 1 - 45 of [Your GF Was Delicious](https://anilist.co/manga/169210) (23:41, 30 June 2024)
--   📖 Read chapter 2 of [Shounen ga Otona ni Natta Natsu](https://anilist.co/manga/168524) (10:29, 30 June 2024)
--   📖 Read chapter 1 - 2 of [My Ideal Life in Another World](https://anilist.co/manga/116963) (03:54, 30 June 2024)
+-   📖 Read chapter 3 of [Futago Matomete "Kanojo" ni Shinai?](https://anilist.co/manga/177186) (18:20, 01 July 2024)
+-   📖 Read chapter 166 - 194 of [Teenage Mercenary](https://anilist.co/manga/126297) (18:12, 01 July 2024)
+-   📖 Read chapter 412 - 426 of [My Hero Academia](https://anilist.co/manga/85486) (17:57, 01 July 2024)
+-   📖 Read chapter 2 - 4 of [Kawaii Imouto to Ikenai Koto Shiteimasu!](https://anilist.co/manga/123540) (06:54, 01 July 2024)
+-   📖 Completed [Oshikake Ane](https://anilist.co/manga/150360) (06:49, 01 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
