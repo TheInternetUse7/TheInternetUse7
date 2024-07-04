@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 139 - 153 of [Don't Toy With Me, Miss Nagatoro](https://anilist.co/manga/100664) (00:27, 03 July 2024)
--   📺 Watched episode 1 - 5 of [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064) (16:06, 02 July 2024)
--   📺 Watched episode 1 - 3 of [Mushoku Tensei: Jobless Reincarnation Season 2 Part 2](https://anilist.co/anime/166873) (13:42, 02 July 2024)
--   📺 Watched episode 1 - 2 of [Mother of the Goddess’ Dormitory](https://anilist.co/anime/117989) (13:42, 02 July 2024)
--   📖 Read chapter 3 of [Futago Matomete "Kanojo" ni Shinai?](https://anilist.co/manga/177186) (18:20, 01 July 2024)
+-   📖 Read chapter 216 - 250 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (21:31, 03 July 2024)
+-   📺 Watched episode 1 of [Cowboy Bebop](https://anilist.co/anime/1) (17:52, 03 July 2024)
+-   📺 Watched episode 1 - 9 of [Masamune-kun's Revenge R](https://anilist.co/anime/146953) (17:52, 03 July 2024)
+-   📺 Watched episode 1 - 8 of [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064) (17:52, 03 July 2024)
+-   📺 Watched episode 1 - 5 of [Mushoku Tensei: Jobless Reincarnation Season 2 Part 2](https://anilist.co/anime/166873) (17:52, 03 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
