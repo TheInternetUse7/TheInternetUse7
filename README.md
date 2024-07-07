@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 71 - 90 of [Punishing My Pet Slave ELF](https://anilist.co/manga/143102) (19:35, 05 July 2024)
--   📖 Read chapter 61 - 68 of [Hajirau Kimi ga Mitainda](https://anilist.co/manga/129225) (19:31, 05 July 2024)
--   📺 Watched episode 1 of [Days with My Stepsister](https://anilist.co/anime/152681) (10:40, 05 July 2024)
--   📺 Watched episode 1 - 6 of [Mushoku Tensei: Jobless Reincarnation Season 2 Part 2](https://anilist.co/anime/166873) (10:03, 05 July 2024)
--   📖 Read chapter 1 - 89 of [Boundless Ascension](https://anilist.co/manga/159439) (06:05, 04 July 2024)
+-   📺 Completed [Mushoku Tensei: Jobless Reincarnation Season 2 Part 2](https://anilist.co/anime/166873) (00:15, 07 July 2024)
+-   📺 Watched episode 1 - 11 of [Mushoku Tensei: Jobless Reincarnation Season 2 Part 2](https://anilist.co/anime/166873) (23:34, 06 July 2024)
+-   📖 Read chapter 148 - 169 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (12:07, 06 July 2024)
+-   📖 Read chapter 27 - 28 of [The Cursed Sword Master’s Harem Life: By the Sword, For the Sword](https://anilist.co/manga/109170) (11:53, 06 July 2024)
+-   📖 Plans to read [Oideyo! Kunoichi no Sato](https://anilist.co/manga/119627) (08:49, 06 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
