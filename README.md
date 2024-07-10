@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 4 of [Shangri-La Frontier](https://anilist.co/anime/151970) (22:04, 08 July 2024)
--   📺 Watched episode 1 - 16 of [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064) (21:09, 08 July 2024)
--   📖 Read chapter 3 of [Hina Mix](https://anilist.co/manga/147746) (20:36, 08 July 2024)
--   📖 Read chapter 1 - 5 of [Nano List](https://anilist.co/manga/97615) (18:12, 08 July 2024)
--   📖 Plans to read [Hina Mix](https://anilist.co/manga/147746) (14:24, 08 July 2024)
+-   📖 Read chapter 3 - 6 of [Hina Mix](https://anilist.co/manga/147746) (12:38, 09 July 2024)
+-   📺 Watched episode 1 - 7 of [Shangri-La Frontier](https://anilist.co/anime/151970) (12:15, 09 July 2024)
+-   📺 Watched episode 1 - 17 of [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064) (11:53, 09 July 2024)
+-   📖 Plans to read [Mankitsu Shitai Jouren-san](https://anilist.co/manga/170601) (11:12, 09 July 2024)
+-   📖 Dropped [Joushiki Kaihen Katsudou Kiroku](https://anilist.co/manga/173239) (10:08, 09 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
