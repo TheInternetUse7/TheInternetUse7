@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 3 - 6 of [Hina Mix](https://anilist.co/manga/147746) (12:38, 09 July 2024)
--   📺 Watched episode 1 - 7 of [Shangri-La Frontier](https://anilist.co/anime/151970) (12:15, 09 July 2024)
--   📺 Watched episode 1 - 17 of [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064) (11:53, 09 July 2024)
--   📖 Plans to read [Mankitsu Shitai Jouren-san](https://anilist.co/manga/170601) (11:12, 09 July 2024)
--   📖 Dropped [Joushiki Kaihen Katsudou Kiroku](https://anilist.co/manga/173239) (10:08, 09 July 2024)
+-   📖 Read chapter 1 - 2 of [Zhe Ge Yongzhe Shi Jin Qian Zhi Zhang Zhuyizhe](https://anilist.co/manga/177981) (19:28, 10 July 2024)
+-   📺 Completed [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064) (17:04, 10 July 2024)
+-   📺 Watched episode 1 - 22 of [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064) (16:25, 10 July 2024)
+-   📖 Plans to read [Zhe Ge Yongzhe Shi Jin Qian Zhi Zhang Zhuyizhe](https://anilist.co/manga/177981) (13:21, 10 July 2024)
+-   📖 Completed [Magic Maker: Isekai Mahou no Tsukurikata](https://anilist.co/manga/155780) (12:27, 10 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
