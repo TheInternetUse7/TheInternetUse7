@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 2 of [Zhe Ge Yongzhe Shi Jin Qian Zhi Zhang Zhuyizhe](https://anilist.co/manga/177981) (19:28, 10 July 2024)
--   📺 Completed [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064) (17:04, 10 July 2024)
--   📺 Watched episode 1 - 22 of [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064) (16:25, 10 July 2024)
--   📖 Plans to read [Zhe Ge Yongzhe Shi Jin Qian Zhi Zhang Zhuyizhe](https://anilist.co/manga/177981) (13:21, 10 July 2024)
--   📖 Completed [Magic Maker: Isekai Mahou no Tsukurikata](https://anilist.co/manga/155780) (12:27, 10 July 2024)
+-   📖 Read chapter 9 - 33 of [Moby Dick](https://anilist.co/manga/172094) (18:22, 11 July 2024)
+-   📖 Read chapter 148 - 170 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (18:19, 11 July 2024)
+-   📺 Plans to watch [Kanojo, Okarishimasu 4th Season](https://anilist.co/anime/179344) (16:20, 11 July 2024)
+-   📺 Watched episode 1 of [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (15:43, 11 July 2024)
+-   📺 Watched episode 1 - 2 of [Days with My Stepsister](https://anilist.co/anime/152681) (13:47, 11 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
