@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 9 - 33 of [Moby Dick](https://anilist.co/manga/172094) (18:22, 11 July 2024)
--   📖 Read chapter 148 - 170 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (18:19, 11 July 2024)
--   📺 Plans to watch [Kanojo, Okarishimasu 4th Season](https://anilist.co/anime/179344) (16:20, 11 July 2024)
--   📺 Watched episode 1 of [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (15:43, 11 July 2024)
--   📺 Watched episode 1 - 2 of [Days with My Stepsister](https://anilist.co/anime/152681) (13:47, 11 July 2024)
+-   📖 Read chapter 216 - 256 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (18:03, 12 July 2024)
+-   📖 Read chapter 1 - 98 of [Sextopwatch](https://anilist.co/manga/152411) (14:50, 12 July 2024)
+-   📺 Watched episode 1 of [My Deer Friend Nokotan](https://anilist.co/anime/175977) (12:46, 12 July 2024)
+-   📺 Watched episode 1 - 8 of [Shangri-La Frontier](https://anilist.co/anime/151970) (12:21, 12 July 2024)
+-   📺 Watched episode 1 - 2 of [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (06:42, 12 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
