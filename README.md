@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 3 - 6 of [The Misfit of Demon King Academy Ⅱ: History's Strongest Demon King Reincarnates and Goes to School with His Descendants](https://anilist.co/anime/130588) (20:54, 13 July 2024)
--   📖 Read chapter 216 - 256 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (18:03, 12 July 2024)
--   📖 Read chapter 1 - 98 of [Sextopwatch](https://anilist.co/manga/152411) (14:50, 12 July 2024)
--   📺 Watched episode 1 of [My Deer Friend Nokotan](https://anilist.co/anime/175977) (12:46, 12 July 2024)
--   📺 Watched episode 1 - 8 of [Shangri-La Frontier](https://anilist.co/anime/151970) (12:21, 12 July 2024)
+-   📖 Read chapter 166 - 196 of [Teenage Mercenary](https://anilist.co/manga/126297) (18:14, 15 July 2024)
+-   📖 Read chapter 1 - 4 of [Moteharune, Ashiya-kun](https://anilist.co/manga/174993) (17:51, 15 July 2024)
+-   📖 Read chapter 109 - 136 of [Jungle Juice](https://anilist.co/manga/128882) (17:40, 15 July 2024)
+-   📖 Read chapter 1 - 51 of [Dorei wo Choukyoushite Harem Tsukuru](https://anilist.co/manga/149329) (17:28, 15 July 2024)
+-   📺 Watched episode 1 - 3 of [Mother of the Goddess’ Dormitory](https://anilist.co/anime/117989) (14:08, 15 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
