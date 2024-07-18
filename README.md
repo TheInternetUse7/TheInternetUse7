@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 71 - 91 of [Punishing My Pet Slave ELF](https://anilist.co/manga/143102) (00:20, 17 July 2024)
--   📺 Watched episode 1 - 9 of [Shangri-La Frontier](https://anilist.co/anime/151970) (17:01, 16 July 2024)
--   📺 Watched episode 3 - 8 of [The Misfit of Demon King Academy Ⅱ: History's Strongest Demon King Reincarnates and Goes to School with His Descendants](https://anilist.co/anime/130588) (16:09, 16 July 2024)
--   📖 Read chapter 3 of [#Yuuryou Shoujo [Kougaku Shien Ban]: Okane wo Harau to ○○ Shite Kureru Onnanoko](https://anilist.co/manga/174671) (12:35, 16 July 2024)
--   📖 Plans to read [#Yuuryou Shoujo [Kougaku Shien Ban]: Okane wo Harau to ○○ Shite Kureru Onnanoko](https://anilist.co/manga/174671) (12:34, 16 July 2024)
+-   📖 Read chapter 1 - 10 of [The Shiunji Family Children](https://anilist.co/manga/144374) (19:44, 17 July 2024)
+-   📖 Read chapter 1 - 99 of [Sextopwatch](https://anilist.co/manga/152411) (18:58, 17 July 2024)
+-   📺 Watched episode 1 - 3 of [The Irregular at Magic High School Season 3](https://anilist.co/anime/143271) (12:10, 17 July 2024)
+-   📺 Watched episode 1 of [Blue Archive The Animation](https://anilist.co/anime/160589) (11:58, 17 July 2024)
+-   📺 Plans to watch [Blue Archive The Animation](https://anilist.co/anime/160589) (11:36, 17 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
