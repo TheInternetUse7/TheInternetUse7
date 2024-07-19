@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 10 of [The Shiunji Family Children](https://anilist.co/manga/144374) (19:44, 17 July 2024)
--   📖 Read chapter 1 - 99 of [Sextopwatch](https://anilist.co/manga/152411) (18:58, 17 July 2024)
--   📺 Watched episode 1 - 3 of [The Irregular at Magic High School Season 3](https://anilist.co/anime/143271) (12:10, 17 July 2024)
--   📺 Watched episode 1 of [Blue Archive The Animation](https://anilist.co/anime/160589) (11:58, 17 July 2024)
--   📺 Plans to watch [Blue Archive The Animation](https://anilist.co/anime/160589) (11:36, 17 July 2024)
+-   📖 Read chapter 185 - 214 of [Nano Machine](https://anilist.co/manga/120980) (07:19, 19 July 2024)
+-   📖 Read chapter 1 - 27 of [The Shiunji Family Children](https://anilist.co/manga/144374) (06:55, 19 July 2024)
+-   📖 Read chapter 3 - 106 of [Trapped in a Hentai Game Academy](https://anilist.co/manga/151601) (02:23, 19 July 2024)
+-   📺 Watched episode 1 - 6 of [The Irregular at Magic High School Season 3](https://anilist.co/anime/143271) (02:03, 19 July 2024)
+-   📖 Read chapter 1 - 48 of [Your GF Was Delicious](https://anilist.co/manga/169210) (10:37, 18 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
