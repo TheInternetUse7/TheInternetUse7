@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 185 - 214 of [Nano Machine](https://anilist.co/manga/120980) (07:19, 19 July 2024)
--   📖 Read chapter 1 - 27 of [The Shiunji Family Children](https://anilist.co/manga/144374) (06:55, 19 July 2024)
--   📖 Read chapter 3 - 106 of [Trapped in a Hentai Game Academy](https://anilist.co/manga/151601) (02:23, 19 July 2024)
--   📺 Watched episode 1 - 6 of [The Irregular at Magic High School Season 3](https://anilist.co/anime/143271) (02:03, 19 July 2024)
--   📖 Read chapter 1 - 48 of [Your GF Was Delicious](https://anilist.co/manga/169210) (10:37, 18 July 2024)
+-   📖 Read chapter 1 of [Tonari no Neko to Koi Shirazu](https://anilist.co/manga/174790) (18:43, 19 July 2024)
+-   📖 Read chapter 412 - 428 of [My Hero Academia](https://anilist.co/manga/85486) (13:17, 19 July 2024)
+-   📺 Watched episode 1 - 8 of [The Irregular at Magic High School Season 3](https://anilist.co/anime/143271) (09:53, 19 July 2024)
+-   📖 Read chapter 203 - 237 of [Overgeared](https://anilist.co/manga/117460) (08:25, 19 July 2024)
+-   📖 Plans to read [Tonari no Neko to Koi Shirazu](https://anilist.co/manga/174790) (07:41, 19 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
