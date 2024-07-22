@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 10 of [The Irregular at Magic High School Season 3](https://anilist.co/anime/143271) (00:26, 21 July 2024)
--   📺 Watched episode 1 - 3 of [Days with My Stepsister](https://anilist.co/anime/152681) (23:02, 20 July 2024)
--   📖 Read chapter 1 - 307 of [Eleceed](https://anilist.co/manga/106929) (18:09, 20 July 2024)
--   📖 Read chapter 1 of [Tonari no Neko to Koi Shirazu](https://anilist.co/manga/174790) (18:43, 19 July 2024)
--   📖 Read chapter 412 - 428 of [My Hero Academia](https://anilist.co/manga/85486) (13:17, 19 July 2024)
+-   📖 Read chapter 203 - 238 of [Overgeared](https://anilist.co/manga/117460) (17:15, 21 July 2024)
+-   📖 Read chapter 1 - 4 of [She’s the Strongest Bride, But I’m Stronger in Night Battles: A Harem Chronicle of Advancing Through Cunning Tactics](https://anilist.co/manga/161499) (17:11, 21 July 2024)
+-   📖 Completed [Punishing My Pet Slave ELF](https://anilist.co/manga/143102) (16:35, 21 July 2024)
+-   📺 Watched episode 1 - 2 of [My Deer Friend Nokotan](https://anilist.co/anime/175977) (15:22, 21 July 2024)
+-   📺 Watched episode 1 - 4 of [High School of the Dead](https://anilist.co/anime/8074) (14:47, 21 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
