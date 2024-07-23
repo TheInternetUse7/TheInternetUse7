@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 203 - 238 of [Overgeared](https://anilist.co/manga/117460) (17:15, 21 July 2024)
--   📖 Read chapter 1 - 4 of [She’s the Strongest Bride, But I’m Stronger in Night Battles: A Harem Chronicle of Advancing Through Cunning Tactics](https://anilist.co/manga/161499) (17:11, 21 July 2024)
--   📖 Completed [Punishing My Pet Slave ELF](https://anilist.co/manga/143102) (16:35, 21 July 2024)
--   📺 Watched episode 1 - 2 of [My Deer Friend Nokotan](https://anilist.co/anime/175977) (15:22, 21 July 2024)
--   📺 Watched episode 1 - 4 of [High School of the Dead](https://anilist.co/anime/8074) (14:47, 21 July 2024)
+-   📖 Read chapter 1 - 49 of [Your GF Was Delicious](https://anilist.co/manga/169210) (00:31, 23 July 2024)
+-   📖 Read chapter 1 - 28 of [NTREVENGE](https://anilist.co/manga/167427) (18:59, 22 July 2024)
+-   📖 Read chapter 1 - 6 of [Akuyaku Reijou desu ga, Watashi wo Anata no Seidorei ni Shite Kudasai!](https://anilist.co/manga/171022) (18:50, 22 July 2024)
+-   📖 Read chapter 1 - 100 of [Sextopwatch](https://anilist.co/manga/152411) (18:44, 22 July 2024)
+-   📺 Watched episode 1 - 7 of [High School of the Dead](https://anilist.co/anime/8074) (16:43, 22 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
