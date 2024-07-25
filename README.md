@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Plans to read [Sweet Life in Another World](https://anilist.co/manga/142615) (00:37, 24 July 2024)
--   📖 Read chapter 193 - 220 of [Omniscient Reader](https://anilist.co/manga/119257) (23:32, 23 July 2024)
--   📖 Read chapter 1 of [Rosen Garten Saga](https://anilist.co/manga/125528) (17:44, 23 July 2024)
--   📖 Read chapter 1 - 3 of [Perfect Half](https://anilist.co/manga/87400) (17:32, 23 July 2024)
--   📖 Read chapter 185 - 216 of [Nano Machine](https://anilist.co/manga/120980) (17:24, 23 July 2024)
+-   📖 Read chapter 3 - 4 of [Futago Matomete "Kanojo" ni Shinai?](https://anilist.co/manga/177186) (19:41, 24 July 2024)
+-   📖 Read chapter 1 - 15 of [Rosen Garten Saga](https://anilist.co/manga/125528) (19:32, 24 July 2024)
+-   📖 Read chapter 1 - 308 of [Eleceed](https://anilist.co/manga/106929) (17:05, 24 July 2024)
+-   📺 Completed [The Irregular at Magic High School Season 3](https://anilist.co/anime/143271) (15:42, 24 July 2024)
+-   📺 Watched episode 1 - 12 of [The Irregular at Magic High School Season 3](https://anilist.co/anime/143271) (14:15, 24 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
