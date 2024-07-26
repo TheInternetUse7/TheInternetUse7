@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 of [Seiyoku Tsuyo Tsuyo](https://anilist.co/manga/164921) (12:25, 25 July 2024)
+-   📖 Read chapter 1 - 17 of [Rosen Garten Saga](https://anilist.co/manga/125528) (08:12, 25 July 2024)
+-   📺 Plans to watch [Demon Slayer: Kimetsu no Yaiba Mugen Train Arc](https://anilist.co/anime/129874) (05:10, 25 July 2024)
 -   📖 Read chapter 3 - 4 of [Futago Matomete "Kanojo" ni Shinai?](https://anilist.co/manga/177186) (19:41, 24 July 2024)
--   📖 Read chapter 1 - 15 of [Rosen Garten Saga](https://anilist.co/manga/125528) (19:32, 24 July 2024)
 -   📖 Read chapter 1 - 308 of [Eleceed](https://anilist.co/manga/106929) (17:05, 24 July 2024)
--   📺 Completed [The Irregular at Magic High School Season 3](https://anilist.co/anime/143271) (15:42, 24 July 2024)
--   📺 Watched episode 1 - 12 of [The Irregular at Magic High School Season 3](https://anilist.co/anime/143271) (14:15, 24 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
