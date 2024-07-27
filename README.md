@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 of [Seiyoku Tsuyo Tsuyo](https://anilist.co/manga/164921) (12:25, 25 July 2024)
--   📖 Read chapter 1 - 17 of [Rosen Garten Saga](https://anilist.co/manga/125528) (08:12, 25 July 2024)
--   📺 Plans to watch [Demon Slayer: Kimetsu no Yaiba Mugen Train Arc](https://anilist.co/anime/129874) (05:10, 25 July 2024)
--   📖 Read chapter 3 - 4 of [Futago Matomete "Kanojo" ni Shinai?](https://anilist.co/manga/177186) (19:41, 24 July 2024)
--   📖 Read chapter 1 - 308 of [Eleceed](https://anilist.co/manga/106929) (17:05, 24 July 2024)
+-   📺 Plans to watch [High School of the Dead: Drifters of the Dead](https://anilist.co/anime/9515) (23:18, 26 July 2024)
+-   📺 Completed [High School of the Dead](https://anilist.co/anime/8074) (23:18, 26 July 2024)
+-   📖 Read chapter 61 - 69 of [Hajirau Kimi ga Mitainda](https://anilist.co/manga/129225) (16:51, 26 July 2024)
+-   📖 Dropped [Berserk](https://anilist.co/manga/30002) (07:30, 26 July 2024)
+-   📖 Read chapter 1 of [Taima no Haha](https://anilist.co/manga/131348) (06:39, 26 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
