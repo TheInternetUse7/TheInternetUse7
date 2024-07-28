@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 10 of [Tensei Colosseum: Saijaku Skill de Saikyou no Onna-tachi wo Kouryaku Shite Dorei Harem Tsukurimasu](https://anilist.co/manga/152284) (10:30, 27 July 2024)
+-   📺 Watched episode 1 of [Suicide Squad ISEKAI](https://anilist.co/anime/166710) (09:23, 27 July 2024)
 -   📺 Plans to watch [High School of the Dead: Drifters of the Dead](https://anilist.co/anime/9515) (23:18, 26 July 2024)
 -   📺 Completed [High School of the Dead](https://anilist.co/anime/8074) (23:18, 26 July 2024)
 -   📖 Read chapter 61 - 69 of [Hajirau Kimi ga Mitainda](https://anilist.co/manga/129225) (16:51, 26 July 2024)
--   📖 Dropped [Berserk](https://anilist.co/manga/30002) (07:30, 26 July 2024)
--   📖 Read chapter 1 of [Taima no Haha](https://anilist.co/manga/131348) (06:39, 26 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
