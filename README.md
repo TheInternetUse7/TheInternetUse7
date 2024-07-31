@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 3 - 108 of [Trapped in a Hentai Game Academy](https://anilist.co/manga/151601) (18:12, 28 July 2024)
--   📖 Read chapter 1 - 2 of [The Perks of Working in the Black Magic Industry](https://anilist.co/manga/107700) (17:52, 28 July 2024)
--   📺 Completed [High School of the Dead: Drifters of the Dead](https://anilist.co/anime/9515) (09:01, 28 July 2024)
--   📖 Read chapter 1 - 14 of [Tensei Colosseum: Saijaku Skill de Saikyou no Onna-tachi wo Kouryaku Shite Dorei Harem Tsukurimasu](https://anilist.co/manga/152284) (07:56, 28 July 2024)
--   📖 Read chapter 203 - 241 of [Overgeared](https://anilist.co/manga/117460) (07:26, 28 July 2024)
+-   📺 Watched episode 3 - 10 of [The Misfit of Demon King Academy Ⅱ: History's Strongest Demon King Reincarnates and Goes to School with His Descendants](https://anilist.co/anime/130588) (14:40, 30 July 2024)
+-   📺 Watched episode 1 - 11 of [Shangri-La Frontier](https://anilist.co/anime/151970) (13:28, 30 July 2024)
+-   📖 Read chapter 1 - 3 of [Seiyoku Tsuyo Tsuyo](https://anilist.co/manga/164921) (12:00, 30 July 2024)
+-   📖 Read chapter 1 - 8 of [The Perks of Working in the Black Magic Industry](https://anilist.co/manga/107700) (11:53, 30 July 2024)
+-   📖 Read chapter 166 - 198 of [Teenage Mercenary](https://anilist.co/manga/126297) (11:49, 30 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
