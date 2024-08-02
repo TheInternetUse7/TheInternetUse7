@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 11 of [The Perks of Working in the Black Magic Industry](https://anilist.co/manga/107700) (23:27, 31 July 2024)
--   📖 Read chapter 60 - 66 of [The Eminence in Shadow](https://anilist.co/manga/106758) (22:38, 31 July 2024)
--   📖 Read chapter 42 - 50 of [Isekai NTR: Shinyuu no Onna wo Saikyou Skill de Otosu Houhou](https://anilist.co/manga/115042) (18:07, 31 July 2024)
--   📖 Read chapter 123 - 157 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (18:02, 31 July 2024)
--   📖 Plans to read [Tokyo R.I.P](https://anilist.co/manga/176124) (07:35, 31 July 2024)
+-   📖 Read chapter 1 - 30 of [Isekai Majutsushi wa Mahou wo Tonaenai](https://anilist.co/manga/119973) (19:03, 01 August 2024)
+-   📖 Read chapter 1 - 309 of [Eleceed](https://anilist.co/manga/106929) (18:16, 01 August 2024)
+-   📺 Watched episode 1 - 12 of [Shangri-La Frontier](https://anilist.co/anime/151970) (15:13, 01 August 2024)
+-   📺 Watched episode 1 - 2 of [Blue Archive The Animation](https://anilist.co/anime/160589) (13:41, 01 August 2024)
+-   📺 Watched episode 1 - 5 of [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (13:41, 01 August 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
