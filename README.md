@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 30 of [Isekai Majutsushi wa Mahou wo Tonaenai](https://anilist.co/manga/119973) (19:03, 01 August 2024)
--   📖 Read chapter 1 - 309 of [Eleceed](https://anilist.co/manga/106929) (18:16, 01 August 2024)
--   📺 Watched episode 1 - 12 of [Shangri-La Frontier](https://anilist.co/anime/151970) (15:13, 01 August 2024)
--   📺 Watched episode 1 - 2 of [Blue Archive The Animation](https://anilist.co/anime/160589) (13:41, 01 August 2024)
--   📺 Watched episode 1 - 5 of [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (13:41, 01 August 2024)
+-   📖 Read chapter 9 - 34 of [Moby Dick](https://anilist.co/manga/172094) (19:57, 02 August 2024)
+-   📺 Watched episode 1 - 13 of [Shangri-La Frontier](https://anilist.co/anime/151970) (19:29, 02 August 2024)
+-   📺 Plans to watch [Pupa](https://anilist.co/anime/19315) (15:47, 02 August 2024)
+-   📺 Watched episode 1 - 3 of [My Deer Friend Nokotan](https://anilist.co/anime/175977) (14:13, 02 August 2024)
+-   📖 Read chapter 1 - 35 of [Isekai Majutsushi wa Mahou wo Tonaenai](https://anilist.co/manga/119973) (07:11, 02 August 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
