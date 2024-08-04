@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 9 - 34 of [Moby Dick](https://anilist.co/manga/172094) (19:57, 02 August 2024)
--   📺 Watched episode 1 - 13 of [Shangri-La Frontier](https://anilist.co/anime/151970) (19:29, 02 August 2024)
--   📺 Plans to watch [Pupa](https://anilist.co/anime/19315) (15:47, 02 August 2024)
--   📺 Watched episode 1 - 3 of [My Deer Friend Nokotan](https://anilist.co/anime/175977) (14:13, 02 August 2024)
--   📖 Read chapter 1 - 35 of [Isekai Majutsushi wa Mahou wo Tonaenai](https://anilist.co/manga/119973) (07:11, 02 August 2024)
+-   📺 Watched episode 1 - 15 of [Shangri-La Frontier](https://anilist.co/anime/151970) (18:25, 03 August 2024)
+-   📖 Plans to read [Kichiku Eiyuu](https://anilist.co/manga/139415) (10:18, 03 August 2024)
+-   📖 Plans to read [Ore dake Fuguu Skill no Isekai Shoukan Hangyakuki: Saijaku Skill "Kyuushuu" ga Subete wo Nomikomu made](https://anilist.co/manga/158654) (10:13, 03 August 2024)
+-   📖 Plans to read [Osananajimi no Ijou Kawaii Imouto-chan](https://anilist.co/manga/168398) (10:08, 03 August 2024)
+-   📖 Read chapter 1 - 6 of [Seiyoku Tsuyo Tsuyo](https://anilist.co/manga/164921) (06:25, 03 August 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
