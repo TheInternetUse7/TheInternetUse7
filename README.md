@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 53 of [Kichiku Eiyuu](https://anilist.co/manga/139415) (00:35, 06 August 2024)
--   📖 Read chapter 3325 - 3753 of [Martial Peak](https://anilist.co/manga/104494) (09:46, 05 August 2024)
--   📖 Read chapter 1 - 5 of [She’s the Strongest Bride, But I’m Stronger in Night Battles: A Harem Chronicle of Advancing Through Cunning Tactics](https://anilist.co/manga/161499) (07:23, 05 August 2024)
--   📖 Read chapter 185 - 218 of [Nano Machine](https://anilist.co/manga/120980) (22:39, 04 August 2024)
--   📖 Read chapter 9 - 36 of [Moby Dick](https://anilist.co/manga/172094) (22:35, 04 August 2024)
+-   📺 Watched episode 1 - 20 of [Shangri-La Frontier](https://anilist.co/anime/151970) (23:49, 06 August 2024)
+-   📖 Read chapter 1 - 64 of [Kichiku Eiyuu](https://anilist.co/manga/139415) (18:00, 06 August 2024)
+-   📖 Read chapter 193 - 222 of [Omniscient Reader](https://anilist.co/manga/119257) (17:36, 06 August 2024)
+-   📖 Read chapter 1 - 51 of [Your GF Was Delicious](https://anilist.co/manga/169210) (17:28, 06 August 2024)
+-   📺 Watched episode 1 - 5 of [Days with My Stepsister](https://anilist.co/anime/152681) (06:34, 06 August 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
