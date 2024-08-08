@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 20 of [Shangri-La Frontier](https://anilist.co/anime/151970) (23:49, 06 August 2024)
--   📖 Read chapter 1 - 64 of [Kichiku Eiyuu](https://anilist.co/manga/139415) (18:00, 06 August 2024)
--   📖 Read chapter 193 - 222 of [Omniscient Reader](https://anilist.co/manga/119257) (17:36, 06 August 2024)
--   📖 Read chapter 1 - 51 of [Your GF Was Delicious](https://anilist.co/manga/169210) (17:28, 06 August 2024)
--   📺 Watched episode 1 - 5 of [Days with My Stepsister](https://anilist.co/anime/152681) (06:34, 06 August 2024)
+-   📖 Read chapter 1 - 6 of [Ore dake Fuguu Skill no Isekai Shoukan Hangyakuki: Saijaku Skill "Kyuushuu" ga Subete wo Nomikomu made](https://anilist.co/manga/158654) (18:08, 07 August 2024)
+-   📖 Read chapter 1 - 3 of [Osananajimi no Ijou Kawaii Imouto-chan](https://anilist.co/manga/168398) (14:09, 07 August 2024)
+-   📖 Read chapter 109 - 139 of [Jungle Juice](https://anilist.co/manga/128882) (13:30, 07 August 2024)
+-   📖 Read chapter 1 - 28 of [The Shiunji Family Children](https://anilist.co/manga/144374) (13:23, 07 August 2024)
+-   📖 Read chapter 1 - 310 of [Eleceed](https://anilist.co/manga/106929) (13:15, 07 August 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
