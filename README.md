@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 102 of [Sextopwatch](https://anilist.co/manga/152411) (11:56, 09 August 2024)
--   📺 Watched episode 1 - 22 of [Shangri-La Frontier](https://anilist.co/anime/151970) (11:18, 09 August 2024)
--   📖 Read chapter 1 - 2 of [Na Honjaman Level Up: Ragnarok](https://anilist.co/manga/179445) (05:23, 09 August 2024)
--   📖 Read chapter 185 - 219 of [Nano Machine](https://anilist.co/manga/120980) (04:22, 09 August 2024)
--   📖 Read chapter 9 - 37 of [Moby Dick](https://anilist.co/manga/172094) (21:30, 08 August 2024)
+-   📺 Watched episode 1 - 4 of [Suicide Squad ISEKAI](https://anilist.co/anime/166710) (15:45, 10 August 2024)
+-   📖 Read chapter 1 - 13 of [Na Honjaman Level Up: Ragnarok](https://anilist.co/manga/179445) (13:51, 10 August 2024)
+-   📺 Watched episode 1 - 4 of [My Deer Friend Nokotan](https://anilist.co/anime/175977) (07:48, 10 August 2024)
+-   📺 Watched episode 1 - 23 of [Shangri-La Frontier](https://anilist.co/anime/151970) (06:40, 10 August 2024)
+-   📖 Read chapter 13 - 25 of [Issho ni Kurashite Ii desu ka?](https://anilist.co/manga/159549) (03:42, 10 August 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
