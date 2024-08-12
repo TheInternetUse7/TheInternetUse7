@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 4 of [Suicide Squad ISEKAI](https://anilist.co/anime/166710) (15:45, 10 August 2024)
--   📖 Read chapter 1 - 13 of [Na Honjaman Level Up: Ragnarok](https://anilist.co/manga/179445) (13:51, 10 August 2024)
--   📺 Watched episode 1 - 4 of [My Deer Friend Nokotan](https://anilist.co/anime/175977) (07:48, 10 August 2024)
--   📺 Watched episode 1 - 23 of [Shangri-La Frontier](https://anilist.co/anime/151970) (06:40, 10 August 2024)
--   📖 Read chapter 13 - 25 of [Issho ni Kurashite Ii desu ka?](https://anilist.co/manga/159549) (03:42, 10 August 2024)
+-   📖 Read chapter 1 - 20 of [Ore dake Fuguu Skill no Isekai Shoukan Hangyakuki: Saijaku Skill "Kyuushuu" ga Subete wo Nomikomu made](https://anilist.co/manga/158654) (21:34, 11 August 2024)
+-   📖 Read chapter 1 - 21 of [Tensei Colosseum: Saijaku Skill de Saikyou no Onna-tachi wo Kouryaku Shite Dorei Harem Tsukurimasu](https://anilist.co/manga/152284) (21:09, 11 August 2024)
+-   📖 Read chapter 1 - 4 of [Osananajimi no Ijou Kawaii Imouto-chan](https://anilist.co/manga/168398) (13:24, 11 August 2024)
+-   📖 Read chapter 1 - 5 of [Namaiki na Gal Ane wo Wakaraseru Hanashi](https://anilist.co/manga/179506) (13:19, 11 August 2024)
+-   📖 Read chapter 1 - 14 of [Na Honjaman Level Up: Ragnarok](https://anilist.co/manga/179445) (09:44, 11 August 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
