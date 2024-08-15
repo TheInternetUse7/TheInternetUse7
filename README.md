@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 36 of [Ore dake Fuguu Skill no Isekai Shoukan Hangyakuki: Saijaku Skill "Kyuushuu" ga Subete wo Nomikomu made](https://anilist.co/manga/158654) (16:57, 13 August 2024)
--   📖 Read chapter 4 of [Kage no Jitsuryokusha ni Naritakute!: Master of Garden - Shichikage Retsuden](https://anilist.co/manga/179256) (16:39, 13 August 2024)
--   📺 Completed [Shangri-La Frontier](https://anilist.co/anime/151970) (16:25, 13 August 2024)
--   📺 Watched episode 1 - 24 of [Shangri-La Frontier](https://anilist.co/anime/151970) (16:09, 13 August 2024)
--   📖 Read chapter 1 of [Kodomo datte Ecchi nano](https://anilist.co/manga/99151) (13:03, 13 August 2024)
+-   📖 Read chapter 1 of [Isekai Shihai no Skill Taker: Zero kara Hajimeru Dorei Harem](https://anilist.co/manga/98118) (11:33, 14 August 2024)
+-   📖 Read chapter 1 - 6 of [Osananajimi no Ijou Kawaii Imouto-chan](https://anilist.co/manga/168398) (06:30, 14 August 2024)
+-   📖 Read chapter 1 - 40 of [Ore dake Fuguu Skill no Isekai Shoukan Hangyakuki: Saijaku Skill "Kyuushuu" ga Subete wo Nomikomu made](https://anilist.co/manga/158654) (06:18, 14 August 2024)
+-   📖 Read chapter 193 - 223 of [Omniscient Reader](https://anilist.co/manga/119257) (05:54, 14 August 2024)
+-   📖 Read chapter 2 - 3 of [Doutei Yuusha no Harem Maou Toubatsuki](https://anilist.co/manga/178884) (01:35, 14 August 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
