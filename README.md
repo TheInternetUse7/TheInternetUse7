@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 123 - 159 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (17:59, 15 August 2024)
--   📖 Read chapter 148 - 173 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (17:55, 15 August 2024)
--   📺 Rewatched episode 1 - 2 of [Yosuga no Sora: In Solitude Where We are Least Alone](https://anilist.co/anime/8861) (17:25, 15 August 2024)
--   📺 Completed [Konomi ja Nai kedo: Mukatsuku Ane to Aishou Batsugun Ecchi](https://anilist.co/anime/170297) (08:30, 15 August 2024)
--   📺 Watched episode 1 - 5 of [My Deer Friend Nokotan](https://anilist.co/anime/175977) (08:27, 15 August 2024)
+-   📺 Completed [Masamune-kun's Revenge R](https://anilist.co/anime/146953) (23:57, 16 August 2024)
+-   📺 Watched episode 1 - 11 of [Masamune-kun's Revenge R](https://anilist.co/anime/146953) (23:35, 16 August 2024)
+-   📺 Completed [The Misfit of Demon King Academy Ⅱ: History's Strongest Demon King Reincarnates and Goes to School with His Descendants](https://anilist.co/anime/130588) (23:08, 16 August 2024)
+-   📺 Watched episode 3 - 11 of [The Misfit of Demon King Academy Ⅱ: History's Strongest Demon King Reincarnates and Goes to School with His Descendants](https://anilist.co/anime/130588) (22:47, 16 August 2024)
+-   📖 Read chapter 9 - 38 of [Moby Dick](https://anilist.co/manga/172094) (17:34, 16 August 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
