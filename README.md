@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Completed [Masamune-kun's Revenge R](https://anilist.co/anime/146953) (23:57, 16 August 2024)
--   📺 Watched episode 1 - 11 of [Masamune-kun's Revenge R](https://anilist.co/anime/146953) (23:35, 16 August 2024)
--   📺 Completed [The Misfit of Demon King Academy Ⅱ: History's Strongest Demon King Reincarnates and Goes to School with His Descendants](https://anilist.co/anime/130588) (23:08, 16 August 2024)
--   📺 Watched episode 3 - 11 of [The Misfit of Demon King Academy Ⅱ: History's Strongest Demon King Reincarnates and Goes to School with His Descendants](https://anilist.co/anime/130588) (22:47, 16 August 2024)
--   📖 Read chapter 9 - 38 of [Moby Dick](https://anilist.co/manga/172094) (17:34, 16 August 2024)
+-   📖 Read chapter 3325 - 3754 of [Martial Peak](https://anilist.co/manga/104494) (18:32, 17 August 2024)
+-   📖 Read chapter 1 - 5 of [Moteharune, Ashiya-kun](https://anilist.co/manga/174993) (18:30, 17 August 2024)
+-   📖 Plans to read [Cheat Mode Farming in Another World](https://anilist.co/manga/137901) (18:18, 17 August 2024)
+-   📺 Watched episode 1 - 6 of [My Deer Friend Nokotan](https://anilist.co/anime/175977) (09:12, 17 August 2024)
+-   📺 Watched episode 1 - 6 of [Days with My Stepsister](https://anilist.co/anime/152681) (09:12, 17 August 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
