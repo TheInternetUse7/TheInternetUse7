@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 3325 - 3754 of [Martial Peak](https://anilist.co/manga/104494) (18:32, 17 August 2024)
--   📖 Read chapter 1 - 5 of [Moteharune, Ashiya-kun](https://anilist.co/manga/174993) (18:30, 17 August 2024)
--   📖 Plans to read [Cheat Mode Farming in Another World](https://anilist.co/manga/137901) (18:18, 17 August 2024)
--   📺 Watched episode 1 - 6 of [My Deer Friend Nokotan](https://anilist.co/anime/175977) (09:12, 17 August 2024)
--   📺 Watched episode 1 - 6 of [Days with My Stepsister](https://anilist.co/anime/152681) (09:12, 17 August 2024)
+-   📖 Read chapter 185 - 220 of [Nano Machine](https://anilist.co/manga/120980) (19:13, 18 August 2024)
+-   📖 Read chapter 3325 - 3755 of [Martial Peak](https://anilist.co/manga/104494) (17:57, 18 August 2024)
+-   📖 Read chapter 1 - 103 of [Sextopwatch](https://anilist.co/manga/152411) (16:06, 18 August 2024)
+-   📺 Watched episode 1 of [Demon Slayer: Kimetsu no Yaiba Mugen Train Arc](https://anilist.co/anime/129874) (12:09, 18 August 2024)
+-   📖 Read chapter 1 - 2 of [Guilty Circle](https://anilist.co/manga/133592) (06:18, 18 August 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
