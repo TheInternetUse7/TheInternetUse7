@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 2 of [Fukushuu wo Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou suru](https://anilist.co/manga/107780) (20:56, 19 August 2024)
+-   📖 Plans to read [Fukushuu wo Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou suru](https://anilist.co/manga/107780) (20:36, 19 August 2024)
+-   📺 Watched episode 1 - 9 of [Re:ZERO -Starting Life in Another World- Season 2 Part 2](https://anilist.co/anime/119661) (20:26, 19 August 2024)
+-   📖 Read chapter 1 - 11 of [Cheat Mode Farming in Another World](https://anilist.co/manga/137901) (17:49, 19 August 2024)
 -   📖 Read chapter 185 - 220 of [Nano Machine](https://anilist.co/manga/120980) (19:13, 18 August 2024)
--   📖 Read chapter 3325 - 3755 of [Martial Peak](https://anilist.co/manga/104494) (17:57, 18 August 2024)
--   📖 Read chapter 1 - 103 of [Sextopwatch](https://anilist.co/manga/152411) (16:06, 18 August 2024)
--   📺 Watched episode 1 of [Demon Slayer: Kimetsu no Yaiba Mugen Train Arc](https://anilist.co/anime/129874) (12:09, 18 August 2024)
--   📖 Read chapter 1 - 2 of [Guilty Circle](https://anilist.co/manga/133592) (06:18, 18 August 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
