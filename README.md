@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 2 of [Fukushuu wo Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou suru](https://anilist.co/manga/107780) (20:56, 19 August 2024)
--   📖 Plans to read [Fukushuu wo Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou suru](https://anilist.co/manga/107780) (20:36, 19 August 2024)
--   📺 Watched episode 1 - 9 of [Re:ZERO -Starting Life in Another World- Season 2 Part 2](https://anilist.co/anime/119661) (20:26, 19 August 2024)
--   📖 Read chapter 1 - 11 of [Cheat Mode Farming in Another World](https://anilist.co/manga/137901) (17:49, 19 August 2024)
--   📖 Read chapter 185 - 220 of [Nano Machine](https://anilist.co/manga/120980) (19:13, 18 August 2024)
+-   📖 Read chapter 193 - 224 of [Omniscient Reader](https://anilist.co/manga/119257) (21:26, 20 August 2024)
+-   📖 Read chapter 1 - 12 of [Cheat Mode Farming in Another World](https://anilist.co/manga/137901) (17:02, 20 August 2024)
+-   📖 Read chapter 1 - 14 of [Fukushuu wo Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou suru](https://anilist.co/manga/107780) (16:56, 20 August 2024)
+-   📖 Read chapter 34 - 35 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (10:58, 20 August 2024)
+-   📖 Read chapter 1 - 8 of [Isekai Shihai no Skill Taker: Zero kara Hajimeru Dorei Harem](https://anilist.co/manga/98118) (08:31, 20 August 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
