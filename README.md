@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 193 - 224 of [Omniscient Reader](https://anilist.co/manga/119257) (21:26, 20 August 2024)
--   📖 Read chapter 1 - 12 of [Cheat Mode Farming in Another World](https://anilist.co/manga/137901) (17:02, 20 August 2024)
--   📖 Read chapter 1 - 14 of [Fukushuu wo Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou suru](https://anilist.co/manga/107780) (16:56, 20 August 2024)
--   📖 Read chapter 34 - 35 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (10:58, 20 August 2024)
--   📖 Read chapter 1 - 8 of [Isekai Shihai no Skill Taker: Zero kara Hajimeru Dorei Harem](https://anilist.co/manga/98118) (08:31, 20 August 2024)
+-   📖 Read chapter 1 - 11 of [Tensei gotoki de Nigerareru to demo, Nii-san?](https://anilist.co/manga/126078) (21:17, 21 August 2024)
+-   📖 Read chapter 1 - 16 of [Na Honjaman Level Up: Ragnarok](https://anilist.co/manga/179445) (20:15, 21 August 2024)
+-   📖 Read chapter 42 - 52 of [Isekai NTR: Shinyuu no Onna wo Saikyou Skill de Otosu Houhou](https://anilist.co/manga/115042) (20:07, 21 August 2024)
+-   📖 Read chapter 1 - 11 of [Isekai Shihai no Skill Taker: Zero kara Hajimeru Dorei Harem](https://anilist.co/manga/98118) (10:46, 21 August 2024)
+-   📖 Read chapter 1 - 24 of [Fukushuu wo Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou suru](https://anilist.co/manga/107780) (10:34, 21 August 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
