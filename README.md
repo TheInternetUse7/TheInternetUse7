@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 7 of [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (16:46, 22 August 2024)
--   📖 Plans to read [Ataerareta Skill wo Tsukatte Kasei de Isekai Bijotachi to Ichaicha shitai ](https://anilist.co/manga/147685) (14:26, 22 August 2024)
--   📖 Read chapter 185 - 221 of [Nano Machine](https://anilist.co/manga/120980) (14:14, 22 August 2024)
--   📖 Read chapter 1 - 54 of [Your GF Was Delicious](https://anilist.co/manga/169210) (05:28, 22 August 2024)
--   📖 Read chapter 1 - 15 of [Tensei gotoki de Nigerareru to demo, Nii-san?](https://anilist.co/manga/126078) (05:21, 22 August 2024)
+-   📖 Read chapter 1 - 7 of [Namaiki na Gal Ane wo Wakaraseru Hanashi](https://anilist.co/manga/179506) (19:45, 23 August 2024)
+-   📖 Read chapter 61 - 70 of [Hajirau Kimi ga Mitainda](https://anilist.co/manga/129225) (19:42, 23 August 2024)
+-   📖 Plans to read [Gokusotsu Kraken](https://anilist.co/manga/152815) (15:15, 23 August 2024)
+-   📖 Read chapter 9 - 39 of [Moby Dick](https://anilist.co/manga/172094) (11:19, 23 August 2024)
+-   📖 Read chapter 123 - 160 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (11:12, 23 August 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
