@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 7 of [Namaiki na Gal Ane wo Wakaraseru Hanashi](https://anilist.co/manga/179506) (19:45, 23 August 2024)
--   📖 Read chapter 61 - 70 of [Hajirau Kimi ga Mitainda](https://anilist.co/manga/129225) (19:42, 23 August 2024)
--   📖 Plans to read [Gokusotsu Kraken](https://anilist.co/manga/152815) (15:15, 23 August 2024)
--   📖 Read chapter 9 - 39 of [Moby Dick](https://anilist.co/manga/172094) (11:19, 23 August 2024)
--   📖 Read chapter 123 - 160 of [The Player Who Can't Level Up](https://anilist.co/manga/130511) (11:12, 23 August 2024)
+-   📖 Read chapter 1 - 3 of [Gokusotsu Kraken](https://anilist.co/manga/152815) (21:05, 24 August 2024)
+-   📖 Read chapter 1 - 6 of [Boku wa Kimitachi wo Shihai suru](https://anilist.co/manga/146731) (18:09, 24 August 2024)
+-   📖 Read chapter 3 - 111 of [Trapped in a Hentai Game Academy](https://anilist.co/manga/151601) (12:31, 24 August 2024)
+-   📖 Read chapter 1 - 104 of [Sextopwatch](https://anilist.co/manga/152411) (12:28, 24 August 2024)
+-   📺 Watched episode 1 - 10 of [Re:ZERO -Starting Life in Another World- Season 2 Part 2](https://anilist.co/anime/119661) (11:40, 24 August 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
