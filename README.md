@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 29 of [Fukushuu wo Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou suru](https://anilist.co/manga/107780) (19:43, 25 August 2024)
--   📖 Read chapter 203 - 245 of [Overgeared](https://anilist.co/manga/117460) (16:07, 25 August 2024)
--   📖 Read chapter 1 - 9 of [Boku wa Kimitachi wo Shihai suru](https://anilist.co/manga/146731) (05:28, 25 August 2024)
--   📖 Read chapter 1 - 14 of [Gokusotsu Kraken](https://anilist.co/manga/152815) (05:08, 25 August 2024)
--   📖 Read chapter 1 - 105 of [Sextopwatch](https://anilist.co/manga/152411) (03:47, 25 August 2024)
+-   📖 Read chapter 1 of [You're All Mine](https://anilist.co/manga/113601) (11:30, 26 August 2024)
+-   📖 Completed [Kodomo datte Ecchi nano](https://anilist.co/manga/99151) (10:45, 26 August 2024)
+-   📖 Completed [Horny Mama](https://anilist.co/manga/180527) (09:45, 26 August 2024)
+-   📺 Completed [Kyonyuu Princess Saimin](https://anilist.co/anime/113705) (09:27, 26 August 2024)
+-   📺 Completed [Re:ZERO -Starting Life in Another World- Season 2 Part 2](https://anilist.co/anime/119661) (07:42, 26 August 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
