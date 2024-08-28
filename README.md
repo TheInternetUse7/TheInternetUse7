@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 23 of [Boku wa Kimitachi wo Shihai suru](https://anilist.co/manga/146731) (20:20, 27 August 2024)
+-   📖 Read chapter 34 - 36 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (18:26, 27 August 2024)
+-   📖 Read chapter 1 - 312 of [Eleceed](https://anilist.co/manga/106929) (18:14, 27 August 2024)
+-   📖 Read chapter 1 - 14 of [Cheat Mode Farming in Another World](https://anilist.co/manga/137901) (09:40, 27 August 2024)
 -   📖 Read chapter 1 of [You're All Mine](https://anilist.co/manga/113601) (11:30, 26 August 2024)
--   📖 Completed [Kodomo datte Ecchi nano](https://anilist.co/manga/99151) (10:45, 26 August 2024)
--   📖 Completed [Horny Mama](https://anilist.co/manga/180527) (09:45, 26 August 2024)
--   📺 Completed [Kyonyuu Princess Saimin](https://anilist.co/anime/113705) (09:27, 26 August 2024)
--   📺 Completed [Re:ZERO -Starting Life in Another World- Season 2 Part 2](https://anilist.co/anime/119661) (07:42, 26 August 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
