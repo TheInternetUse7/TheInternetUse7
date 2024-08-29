@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 23 of [Boku wa Kimitachi wo Shihai suru](https://anilist.co/manga/146731) (20:20, 27 August 2024)
--   📖 Read chapter 34 - 36 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (18:26, 27 August 2024)
--   📖 Read chapter 1 - 312 of [Eleceed](https://anilist.co/manga/106929) (18:14, 27 August 2024)
--   📖 Read chapter 1 - 14 of [Cheat Mode Farming in Another World](https://anilist.co/manga/137901) (09:40, 27 August 2024)
--   📖 Read chapter 1 of [You're All Mine](https://anilist.co/manga/113601) (11:30, 26 August 2024)
+-   📖 Read chapter 1 - 69 of [Kichiku Eiyuu](https://anilist.co/manga/139415) (20:32, 28 August 2024)
+-   📖 Read chapter 1 - 17 of [Na Honjaman Level Up: Ragnarok](https://anilist.co/manga/179445) (20:15, 28 August 2024)
+-   📖 Read chapter 11 - 19 of [Betrayed by the Hero, I Formed a MILF Party with His Mom](https://anilist.co/manga/159187) (16:44, 28 August 2024)
+-   📺 Watched episode 1 - 3 of [Demon Slayer: Kimetsu no Yaiba Mugen Train Arc](https://anilist.co/anime/129874) (14:19, 28 August 2024)
+-   📺 Watched episode 1 - 2 of [Cowboy Bebop](https://anilist.co/anime/1) (14:19, 28 August 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
