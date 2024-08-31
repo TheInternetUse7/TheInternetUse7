@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 148 - 175 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (19:28, 29 August 2024)
--   📖 Completed [Ningen Danna Mochi Hitozuma Elf Muke Ninkatsu Salon e Youkoso](https://anilist.co/manga/160577) (09:35, 29 August 2024)
--   📖 Completed [Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita](https://anilist.co/manga/131190) (09:28, 29 August 2024)
--   📖 Completed [Rako Slip!](https://anilist.co/manga/151450) (09:20, 29 August 2024)
--   📖 Completed [Hypnotic Sexual Counseling](https://anilist.co/manga/104449) (09:19, 29 August 2024)
+-   📖 Read chapter 1 - 25 of [Boku wa Kimitachi wo Shihai suru](https://anilist.co/manga/146731) (18:45, 30 August 2024)
+-   📖 Read chapter 3 - 112 of [Trapped in a Hentai Game Academy](https://anilist.co/manga/151601) (18:35, 30 August 2024)
+-   📺 Watched episode 1 - 3 of [Arifureta: From Commonplace to World's Strongest](https://anilist.co/anime/100668) (17:13, 30 August 2024)
+-   📖 Plans to read [Goodnight Punpun](https://anilist.co/manga/34632) (14:37, 30 August 2024)
+-   📺 Watched episode 1 - 8 of [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (08:40, 30 August 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
