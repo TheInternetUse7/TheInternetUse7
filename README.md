@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 25 of [Boku wa Kimitachi wo Shihai suru](https://anilist.co/manga/146731) (18:45, 30 August 2024)
--   📖 Read chapter 3 - 112 of [Trapped in a Hentai Game Academy](https://anilist.co/manga/151601) (18:35, 30 August 2024)
--   📺 Watched episode 1 - 3 of [Arifureta: From Commonplace to World's Strongest](https://anilist.co/anime/100668) (17:13, 30 August 2024)
--   📖 Plans to read [Goodnight Punpun](https://anilist.co/manga/34632) (14:37, 30 August 2024)
--   📺 Watched episode 1 - 8 of [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (08:40, 30 August 2024)
+-   📖 Read chapter 42 - 53 of [Isekai NTR: Shinyuu no Onna wo Saikyou Skill de Otosu Houhou](https://anilist.co/manga/115042) (17:31, 31 August 2024)
+-   📖 Read chapter 1 - 55 of [Your GF Was Delicious](https://anilist.co/manga/169210) (17:28, 31 August 2024)
+-   📺 Watched episode 1 - 7 of [Arifureta: From Commonplace to World's Strongest](https://anilist.co/anime/100668) (17:15, 31 August 2024)
+-   📖 Completed [Bishoujo wo Shiawase ni NTR Suru Yankee](https://anilist.co/manga/149691) (14:38, 31 August 2024)
+-   📖 Plans to read 1 of [Bishoujo wo Shiawase ni NTR Suru Yankee](https://anilist.co/manga/149691) (14:37, 31 August 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
