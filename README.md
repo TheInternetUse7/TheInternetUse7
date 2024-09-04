@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Is It Wrong to Try to Pick Up Girls in a Dungeon?](https://anilist.co/anime/20920) (12:34, 03 September 2024)
+-   📺 Completed [Arifureta: From Commonplace to World's Strongest](https://anilist.co/anime/100668) (07:05, 03 September 2024)
+-   📺 Watched episode 1 - 12 of [Arifureta: From Commonplace to World's Strongest](https://anilist.co/anime/100668) (07:05, 03 September 2024)
 -   📖 Read chapter 34 - 37 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (00:33, 03 September 2024)
--   📺 Watched episode 1 - 10 of [Arifureta: From Commonplace to World's Strongest](https://anilist.co/anime/100668) (00:04, 03 September 2024)
 -   📖 Read chapter 1 - 3 of [Jashin Kankin Harem de Isekai Seifuku!](https://anilist.co/manga/176112) (09:54, 02 September 2024)
--   📖 Read chapter 1 - 22 of [Tensei Colosseum: Saijaku Skill de Saikyou no Onna-tachi wo Kouryaku Shite Dorei Harem Tsukurimasu](https://anilist.co/manga/152284) (02:36, 02 September 2024)
--   📖 Read chapter 1 - 106 of [Sextopwatch](https://anilist.co/manga/152411) (19:01, 01 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
