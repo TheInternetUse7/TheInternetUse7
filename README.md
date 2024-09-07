@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 56 of [Your GF Was Delicious](https://anilist.co/manga/169210) (20:52, 05 September 2024)
--   📖 Read chapter 9 - 40 of [Moby Dick](https://anilist.co/manga/172094) (20:40, 05 September 2024)
--   📺 Watched episode 1 - 3 of [Is It Wrong to Try to Pick Up Girls in a Dungeon?](https://anilist.co/anime/20920) (11:56, 05 September 2024)
--   📖 Read chapter 1 of [Doukyo Shiteiru Kensei no Onna Shishou ga Kawaisugite Mainichi Shiawase desu](https://anilist.co/manga/178571) (08:32, 05 September 2024)
--   📖 Read chapter 1 - 18 of [Na Honjaman Level Up: Ragnarok](https://anilist.co/manga/179445) (05:33, 05 September 2024)
+-   📺 Watched episode 1 - 7 of [Days with My Stepsister](https://anilist.co/anime/152681) (20:46, 06 September 2024)
+-   📺 Watched episode 1 - 4 of [Is It Wrong to Try to Pick Up Girls in a Dungeon?](https://anilist.co/anime/20920) (20:28, 06 September 2024)
+-   📺 Completed [Go-Getters](https://anilist.co/anime/180817) (10:58, 06 September 2024)
+-   📖 Read chapter 1 - 2 of [Doukyo Shiteiru Kensei no Onna Shishou ga Kawaisugite Mainichi Shiawase desu](https://anilist.co/manga/178571) (05:42, 06 September 2024)
+-   📖 Read chapter 1 - 3 of [Anatatachi Soredemo Sensei desu ka!](https://anilist.co/manga/174169) (05:38, 06 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
