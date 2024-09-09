@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 3 of [Doukyo Shiteiru Kensei no Onna Shishou ga Kawaisugite Mainichi Shiawase desu](https://anilist.co/manga/178571) (17:33, 07 September 2024)
--   📖 Read chapter 166 - 204 of [Teenage Mercenary](https://anilist.co/manga/126297) (17:29, 07 September 2024)
--   📺 Watched episode 1 - 5 of [Is It Wrong to Try to Pick Up Girls in a Dungeon?](https://anilist.co/anime/20920) (17:01, 07 September 2024)
--   📖 Plans to read [Makabe-sensei's Perfect Plan](https://anilist.co/manga/115075) (10:56, 07 September 2024)
--   📖 Read chapter 1 - 5 of [Guilty Circle](https://anilist.co/manga/133592) (09:00, 07 September 2024)
+-   📖 Read chapter 1 - 4 of [Anatatachi Soredemo Sensei desu ka!](https://anilist.co/manga/174169) (19:35, 08 September 2024)
+-   📖 Read chapter 1 of [Makabe-sensei's Perfect Plan](https://anilist.co/manga/115075) (18:56, 08 September 2024)
+-   📺 Watched episode 1 - 6 of [Is It Wrong to Try to Pick Up Girls in a Dungeon?](https://anilist.co/anime/20920) (12:58, 08 September 2024)
+-   📖 Plans to read [Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de.](https://anilist.co/manga/97553) (10:59, 08 September 2024)
+-   📖 Plans to read [Lo-Fi After School](https://anilist.co/manga/75689) (10:57, 08 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
