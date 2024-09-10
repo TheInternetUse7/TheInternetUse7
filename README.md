@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 4 of [Anatatachi Soredemo Sensei desu ka!](https://anilist.co/manga/174169) (19:35, 08 September 2024)
--   📖 Read chapter 1 of [Makabe-sensei's Perfect Plan](https://anilist.co/manga/115075) (18:56, 08 September 2024)
--   📺 Watched episode 1 - 6 of [Is It Wrong to Try to Pick Up Girls in a Dungeon?](https://anilist.co/anime/20920) (12:58, 08 September 2024)
--   📖 Plans to read [Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de.](https://anilist.co/manga/97553) (10:59, 08 September 2024)
--   📖 Plans to read [Lo-Fi After School](https://anilist.co/manga/75689) (10:57, 08 September 2024)
+-   📖 Read chapter 3 - 113 of [Trapped in a Hentai Game Academy](https://anilist.co/manga/151601) (19:22, 09 September 2024)
+-   📖 Read chapter 1 - 107 of [Sextopwatch](https://anilist.co/manga/152411) (19:18, 09 September 2024)
+-   📖 Read chapter 1 - 7 of [Hazure Skill "Soine" ga Kakuseishi, Boku ga Saikyou Harem wo Kizuku made: Micchaku Soine de Ganbou Kaihou!? Yuuwakusare Makutte Komattemasu!!](https://anilist.co/manga/175861) (09:10, 09 September 2024)
+-   📖 Read chapter 1 - 23 of [Rosen Garten Saga](https://anilist.co/manga/125528) (08:37, 09 September 2024)
+-   📖 Read chapter 1 - 8 of [Anatatachi Soredemo Sensei desu ka!](https://anilist.co/manga/174169) (03:47, 09 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
