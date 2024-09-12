@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 4 - 5 of [Kage no Jitsuryokusha ni Naritakute!: Master of Garden - Shichikage Retsuden](https://anilist.co/manga/179256) (23:11, 10 September 2024)
--   📖 Read chapter 3325 - 3758 of [Martial Peak](https://anilist.co/manga/104494) (23:06, 10 September 2024)
--   📖 Read chapter 42 - 54 of [Isekai NTR: Shinyuu no Onna wo Saikyou Skill de Otosu Houhou](https://anilist.co/manga/115042) (23:03, 10 September 2024)
--   📖 Plans to read [/Blush-DC: Himitsu](https://anilist.co/manga/51035) (22:26, 10 September 2024)
--   📖 Plans to read [Yuki Nee-chan no Kannou Gokko.](https://anilist.co/manga/104266) (22:21, 10 September 2024)
+-   📖 Read chapter 1 - 6 of [Moteharune, Ashiya-kun](https://anilist.co/manga/174993) (19:19, 11 September 2024)
+-   📖 Plans to read [World’s End Harem: Fantasia](https://anilist.co/manga/101718) (09:56, 11 September 2024)
+-   📖 Plans to read [Might as Well Cheat: I Got Transported to Another World Where I Can Live My Wildest Dreams!](https://anilist.co/manga/101294) (09:43, 11 September 2024)
+-   📖 Read chapter 1 - 7 of [/Blush-DC: Himitsu](https://anilist.co/manga/51035) (08:00, 11 September 2024)
+-   📖 Read chapter 1 - 6 of [Survival in Another World with My Mistress!](https://anilist.co/manga/123747) (07:35, 11 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
