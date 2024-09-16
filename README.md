@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 9 of [Is It Wrong to Try to Pick Up Girls in a Dungeon?](https://anilist.co/anime/20920) (14:02, 13 September 2024)
--   📺 Watched episode 1 - 4 of [Mother of the Goddess’ Dormitory](https://anilist.co/anime/117989) (10:01, 13 September 2024)
--   📺 Watched episode 1 - 9 of [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (08:46, 13 September 2024)
--   📖 Read chapter 1 - 9 of [/Blush-DC: Himitsu](https://anilist.co/manga/51035) (07:04, 12 September 2024)
--   📖 Read chapter 1 - 7 of [Survival in Another World with My Mistress!](https://anilist.co/manga/123747) (06:51, 12 September 2024)
+-   📖 Read chapter 1 - 11 of [World’s End Harem: Fantasia](https://anilist.co/manga/101718) (19:26, 15 September 2024)
+-   📖 Read chapter 1 - 7 of [Moteharune, Ashiya-kun](https://anilist.co/manga/174993) (19:25, 15 September 2024)
+-   📺 Watched episode 1 - 12 of [Is It Wrong to Try to Pick Up Girls in a Dungeon?](https://anilist.co/anime/20920) (17:54, 15 September 2024)
+-   📺 Plans to watch [Kono Subarashii Sekai ni Shukufuku wo! 3 OVA](https://anilist.co/anime/181244) (10:07, 15 September 2024)
+-   📖 Read chapter 1 - 19 of [/Blush-DC: Himitsu](https://anilist.co/manga/51035) (09:38, 15 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
