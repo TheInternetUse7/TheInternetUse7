@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 11 of [World’s End Harem: Fantasia](https://anilist.co/manga/101718) (19:26, 15 September 2024)
--   📖 Read chapter 1 - 7 of [Moteharune, Ashiya-kun](https://anilist.co/manga/174993) (19:25, 15 September 2024)
--   📺 Watched episode 1 - 12 of [Is It Wrong to Try to Pick Up Girls in a Dungeon?](https://anilist.co/anime/20920) (17:54, 15 September 2024)
--   📺 Plans to watch [Kono Subarashii Sekai ni Shukufuku wo! 3 OVA](https://anilist.co/anime/181244) (10:07, 15 September 2024)
--   📖 Read chapter 1 - 19 of [/Blush-DC: Himitsu](https://anilist.co/manga/51035) (09:38, 15 September 2024)
+-   📖 Read chapter 1 - 30 of [World’s End Harem: Fantasia](https://anilist.co/manga/101718) (17:04, 16 September 2024)
+-   📖 Read chapter 1 - 78 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (10:19, 16 September 2024)
+-   📖 Read chapter 1 - 7 of [Guilty Circle](https://anilist.co/manga/133592) (04:08, 16 September 2024)
+-   📺 Completed [Is It Wrong to Try to Pick Up Girls in a Dungeon?: Is It Wrong to Expect a Hot Spring in a Dungeon?](https://anilist.co/anime/21660) (03:30, 16 September 2024)
+-   📺 Plans to watch [Is It Wrong to Try to Pick Up Girls in a Dungeon?: Is It Wrong to Expect a Hot Spring in a Dungeon?](https://anilist.co/anime/21660) (03:08, 16 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
