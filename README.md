@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Plans to read [World’s End Harem: Fantasia Academy](https://anilist.co/manga/118483) (18:54, 18 September 2024)
--   📖 Read chapter 1 - 56 of [World’s End Harem: Fantasia](https://anilist.co/manga/101718) (18:37, 18 September 2024)
--   📖 Plans to read [You Like Me, Not My Daughter?!](https://anilist.co/manga/124676) (14:49, 17 September 2024)
--   📖 Read chapter 1 - 78 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (10:19, 16 September 2024)
--   📖 Read chapter 1 - 7 of [Guilty Circle](https://anilist.co/manga/133592) (04:08, 16 September 2024)
+-   📖 Read chapter 1 - 19 of [World's End Harem](https://anilist.co/manga/87260) (05:50, 19 September 2024)
+-   📖 Read chapter 34 - 39 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (05:12, 19 September 2024)
+-   📖 Read chapter 3325 - 3759 of [Martial Peak](https://anilist.co/manga/104494) (05:05, 19 September 2024)
+-   📖 Read chapter 1 - 20 of [Na Honjaman Level Up: Ragnarok](https://anilist.co/manga/179445) (04:43, 19 September 2024)
+-   📖 Read chapter 1 - 58 of [Your GF Was Delicious](https://anilist.co/manga/169210) (04:36, 19 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
