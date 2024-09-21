@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 61 - 71 of [Hajirau Kimi ga Mitainda](https://anilist.co/manga/129225) (18:29, 20 September 2024)
+-   📖 Read chapter 1 - 10 of [Namaiki na Gal Ane wo Wakaraseru Hanashi](https://anilist.co/manga/179506) (18:26, 20 September 2024)
+-   📖 Read chapter 5 of [Lo-Fi After School](https://anilist.co/manga/75689) (09:05, 20 September 2024)
 -   📖 Read chapter 1 - 19 of [World's End Harem](https://anilist.co/manga/87260) (05:50, 19 September 2024)
 -   📖 Read chapter 34 - 39 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (05:12, 19 September 2024)
--   📖 Read chapter 3325 - 3759 of [Martial Peak](https://anilist.co/manga/104494) (05:05, 19 September 2024)
--   📖 Read chapter 1 - 20 of [Na Honjaman Level Up: Ragnarok](https://anilist.co/manga/179445) (04:43, 19 September 2024)
--   📖 Read chapter 1 - 58 of [Your GF Was Delicious](https://anilist.co/manga/169210) (04:36, 19 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
