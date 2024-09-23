@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 34 of [World's End Harem](https://anilist.co/manga/87260) (13:13, 21 September 2024)
--   📖 Read chapter 61 - 71 of [Hajirau Kimi ga Mitainda](https://anilist.co/manga/129225) (18:29, 20 September 2024)
--   📖 Read chapter 1 - 10 of [Namaiki na Gal Ane wo Wakaraseru Hanashi](https://anilist.co/manga/179506) (18:26, 20 September 2024)
--   📖 Read chapter 5 of [Lo-Fi After School](https://anilist.co/manga/75689) (09:05, 20 September 2024)
--   📖 Read chapter 34 - 39 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (05:12, 19 September 2024)
+-   📖 Read chapter 185 - 223 of [Nano Machine](https://anilist.co/manga/120980) (20:10, 22 September 2024)
+-   📖 Read chapter 13 - 28 of [Issho ni Kurashite Ii desu ka?](https://anilist.co/manga/159549) (20:03, 22 September 2024)
+-   📺 Watched episode 1 - 4 of [Demon Slayer: Kimetsu no Yaiba Mugen Train Arc](https://anilist.co/anime/129874) (16:48, 22 September 2024)
+-   📖 Read chapter 1 - 41 of [World's End Harem](https://anilist.co/manga/87260) (04:49, 22 September 2024)
+-   📖 Read chapter 1 - 7 of [She’s the Strongest Bride, But I’m Stronger in Night Battles: A Harem Chronicle of Advancing Through Cunning Tactics](https://anilist.co/manga/161499) (03:45, 22 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
