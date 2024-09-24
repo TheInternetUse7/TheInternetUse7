@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 185 - 223 of [Nano Machine](https://anilist.co/manga/120980) (20:10, 22 September 2024)
--   📖 Read chapter 13 - 28 of [Issho ni Kurashite Ii desu ka?](https://anilist.co/manga/159549) (20:03, 22 September 2024)
--   📺 Watched episode 1 - 4 of [Demon Slayer: Kimetsu no Yaiba Mugen Train Arc](https://anilist.co/anime/129874) (16:48, 22 September 2024)
--   📖 Read chapter 1 - 41 of [World's End Harem](https://anilist.co/manga/87260) (04:49, 22 September 2024)
--   📖 Read chapter 1 - 7 of [She’s the Strongest Bride, But I’m Stronger in Night Battles: A Harem Chronicle of Advancing Through Cunning Tactics](https://anilist.co/manga/161499) (03:45, 22 September 2024)
+-   📖 Read chapter 3 - 115 of [Trapped in a Hentai Game Academy](https://anilist.co/manga/151601) (18:45, 23 September 2024)
+-   📖 Read chapter 1 - 109 of [Sextopwatch](https://anilist.co/manga/152411) (18:42, 23 September 2024)
+-   📖 Read chapter 42 - 55 of [Isekai NTR: Shinyuu no Onna wo Saikyou Skill de Otosu Houhou](https://anilist.co/manga/115042) (18:35, 23 September 2024)
+-   📖 Read chapter 1 - 79 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (18:28, 23 September 2024)
+-   📖 Read chapter 3325 - 3760 of [Martial Peak](https://anilist.co/manga/104494) (18:06, 23 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
