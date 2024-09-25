@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 69 of [World's End Harem](https://anilist.co/manga/87260) (14:15, 24 September 2024)
+-   📖 Read chapter 34 - 40 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (04:00, 24 September 2024)
 -   📖 Read chapter 3 - 115 of [Trapped in a Hentai Game Academy](https://anilist.co/manga/151601) (18:45, 23 September 2024)
 -   📖 Read chapter 1 - 109 of [Sextopwatch](https://anilist.co/manga/152411) (18:42, 23 September 2024)
 -   📖 Read chapter 42 - 55 of [Isekai NTR: Shinyuu no Onna wo Saikyou Skill de Otosu Houhou](https://anilist.co/manga/115042) (18:35, 23 September 2024)
--   📖 Read chapter 1 - 79 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (18:28, 23 September 2024)
--   📖 Read chapter 3325 - 3760 of [Martial Peak](https://anilist.co/manga/104494) (18:06, 23 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
