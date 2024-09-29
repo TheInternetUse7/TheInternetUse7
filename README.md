@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 10 of [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (04:29, 27 September 2024)
--   📺 Watched episode 1 - 6 of [Frieren: Beyond Journey’s End](https://anilist.co/anime/154587) (02:29, 27 September 2024)
--   📖 Read chapter 1 - 21 of [Na Honjaman Level Up: Ragnarok](https://anilist.co/manga/179445) (19:12, 26 September 2024)
--   📺 Watched episode 1 - 8 of [My Deer Friend Nokotan](https://anilist.co/anime/175977) (05:21, 26 September 2024)
--   📖 Read chapter 3 - 116 of [Trapped in a Hentai Game Academy](https://anilist.co/manga/151601) (18:14, 25 September 2024)
+-   📖 Read chapter 193 - 229 of [Omniscient Reader](https://anilist.co/manga/119257) (18:26, 28 September 2024)
+-   📖 Read chapter 1 - 110 of [Sextopwatch](https://anilist.co/manga/152411) (18:19, 28 September 2024)
+-   📖 Read chapter 1 - 11 of [Namaiki na Gal Ane wo Wakaraseru Hanashi](https://anilist.co/manga/179506) (18:15, 28 September 2024)
+-   📖 Read chapter 11 - 20 of [Betrayed by the Hero, I Formed a MILF Party with His Mom](https://anilist.co/manga/159187) (18:12, 28 September 2024)
+-   📺 Watched episode 1 - 11 of [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (11:22, 28 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
