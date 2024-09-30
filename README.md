@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 193 - 229 of [Omniscient Reader](https://anilist.co/manga/119257) (18:26, 28 September 2024)
--   📖 Read chapter 1 - 110 of [Sextopwatch](https://anilist.co/manga/152411) (18:19, 28 September 2024)
--   📖 Read chapter 1 - 11 of [Namaiki na Gal Ane wo Wakaraseru Hanashi](https://anilist.co/manga/179506) (18:15, 28 September 2024)
--   📖 Read chapter 11 - 20 of [Betrayed by the Hero, I Formed a MILF Party with His Mom](https://anilist.co/manga/159187) (18:12, 28 September 2024)
--   📺 Watched episode 1 - 11 of [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (11:22, 28 September 2024)
+-   📺 Watched episode 1 - 8 of [Frieren: Beyond Journey’s End](https://anilist.co/anime/154587) (18:50, 29 September 2024)
+-   📖 Read chapter 1 - 4 of [Doukyo Shiteiru Kensei no Onna Shishou ga Kawaisugite Mainichi Shiawase desu](https://anilist.co/manga/178571) (08:24, 29 September 2024)
+-   📖 Read chapter 185 - 226 of [Nano Machine](https://anilist.co/manga/120980) (08:17, 29 September 2024)
+-   📖 Read chapter 203 - 250 of [Overgeared](https://anilist.co/manga/117460) (08:02, 29 September 2024)
+-   📖 Read chapter 81 - 89 of [Isekai Meikyuu de Harem wo](https://anilist.co/manga/99462) (02:00, 29 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
