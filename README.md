@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Amai Seikatsu](https://anilist.co/manga/90835) (19:38, 01 October 2024)
+-   📖 Plans to read [Sundome!! Milky Way](https://anilist.co/manga/100106) (19:32, 01 October 2024)
+-   📖 Read chapter 3 - 117 of [Trapped in a Hentai Game Academy](https://anilist.co/manga/151601) (19:02, 01 October 2024)
+-   📖 Read chapter 166 - 207 of [Teenage Mercenary](https://anilist.co/manga/126297) (12:31, 01 October 2024)
 -   📖 Read chapter 1 - 8 of [Guilty Circle](https://anilist.co/manga/133592) (18:53, 30 September 2024)
--   📖 Read chapter 34 - 41 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (18:43, 30 September 2024)
--   📺 Plans to watch [Grand Blue Season 2](https://anilist.co/anime/182309) (15:36, 30 September 2024)
--   📺 Watched episode 1 - 11 of [Frieren: Beyond Journey’s End](https://anilist.co/anime/154587) (15:32, 30 September 2024)
--   📖 Read chapter 1 - 80 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (09:57, 30 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
