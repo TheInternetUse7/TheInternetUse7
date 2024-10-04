@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 317 of [Eleceed](https://anilist.co/manga/106929) (19:43, 02 October 2024)
--   📺 Watched episode 1 - 12 of [Frieren: Beyond Journey’s End](https://anilist.co/anime/154587) (19:10, 02 October 2024)
--   📖 Plans to read [Amai Seikatsu](https://anilist.co/manga/90835) (19:38, 01 October 2024)
--   📖 Plans to read [Sundome!! Milky Way](https://anilist.co/manga/100106) (19:32, 01 October 2024)
--   📖 Read chapter 3 - 117 of [Trapped in a Hentai Game Academy](https://anilist.co/manga/151601) (19:02, 01 October 2024)
+-   📖 Read chapter 1 - 5 of [Sundome!! Milky Way](https://anilist.co/manga/100106) (20:00, 03 October 2024)
+-   📖 Read chapter 1 - 22 of [Na Honjaman Level Up: Ragnarok](https://anilist.co/manga/179445) (19:26, 03 October 2024)
+-   📖 Read chapter 1 - 9 of [Guilty Circle](https://anilist.co/manga/133592) (19:18, 03 October 2024)
+-   📖 Read chapter 193 - 230 of [Omniscient Reader](https://anilist.co/manga/119257) (19:11, 03 October 2024)
+-   📖 Read chapter 148 - 178 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (04:08, 03 October 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
