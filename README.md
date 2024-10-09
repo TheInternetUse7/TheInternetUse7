@@ -25,8 +25,8 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 16 of [Frieren: Beyond Journey’s End](https://anilist.co/anime/154587) (03:01, 08 October 2024)
 -   📖 Read chapter 1 - 111 of [Sextopwatch](https://anilist.co/manga/152411) (19:21, 07 October 2024)
--   📺 Watched episode 1 - 15 of [Frieren: Beyond Journey’s End](https://anilist.co/anime/154587) (18:34, 07 October 2024)
 -   📖 Read chapter 1 - 30 of [The Shiunji Family Children](https://anilist.co/manga/144374) (22:09, 06 October 2024)
 -   📖 Read chapter 1 - 60 of [Your GF Was Delicious](https://anilist.co/manga/169210) (01:41, 06 October 2024)
 -   📖 Read chapter 166 - 208 of [Teenage Mercenary](https://anilist.co/manga/126297) (01:36, 06 October 2024)
