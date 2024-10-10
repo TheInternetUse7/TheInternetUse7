@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 16 of [Frieren: Beyond Journey’s End](https://anilist.co/anime/154587) (03:01, 08 October 2024)
--   📖 Read chapter 1 - 111 of [Sextopwatch](https://anilist.co/manga/152411) (19:21, 07 October 2024)
--   📖 Read chapter 1 - 30 of [The Shiunji Family Children](https://anilist.co/manga/144374) (22:09, 06 October 2024)
--   📖 Read chapter 1 - 60 of [Your GF Was Delicious](https://anilist.co/manga/169210) (01:41, 06 October 2024)
--   📖 Read chapter 166 - 208 of [Teenage Mercenary](https://anilist.co/manga/126297) (01:36, 06 October 2024)
+-   📖 Read chapter 185 - 227 of [Nano Machine](https://anilist.co/manga/120980) (18:28, 09 October 2024)
+-   📖 Read chapter 148 - 179 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (18:16, 09 October 2024)
+-   📖 Read chapter 3325 - 3762 of [Martial Peak](https://anilist.co/manga/104494) (18:08, 09 October 2024)
+-   📖 Read chapter 60 - 67 of [The Eminence in Shadow](https://anilist.co/manga/106758) (06:59, 09 October 2024)
+-   📖 Read chapter 34 - 42 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (06:47, 09 October 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
