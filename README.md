@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 45 of [Sundome!! Milky Way](https://anilist.co/manga/100106) (21:50, 14 October 2024)
+-   📖 Read chapter 3325 - 3763 of [Martial Peak](https://anilist.co/manga/104494) (20:55, 14 October 2024)
+-   📖 Read chapter 166 - 209 of [Teenage Mercenary](https://anilist.co/manga/126297) (04:46, 14 October 2024)
+-   📖 Read chapter 193 - 231 of [Omniscient Reader](https://anilist.co/manga/119257) (04:40, 14 October 2024)
 -   📖 Read chapter 1 - 82 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (19:50, 13 October 2024)
--   📖 Read chapter 42 - 56 of [Isekai NTR: Shinyuu no Onna wo Saikyou Skill de Otosu Houhou](https://anilist.co/manga/115042) (19:29, 13 October 2024)
--   📖 Read chapter 1 - 13 of [Namaiki na Gal Ane wo Wakaraseru Hanashi](https://anilist.co/manga/179506) (23:25, 12 October 2024)
--   📖 Read chapter 1 - 24 of [Gokusotsu Kraken](https://anilist.co/manga/152815) (13:59, 12 October 2024)
--   📖 Read chapter 3 - 5 of [Futago Matomete "Kanojo" ni Shinai?](https://anilist.co/manga/177186) (13:45, 12 October 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
