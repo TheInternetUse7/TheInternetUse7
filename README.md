@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 320 of [Eleceed](https://anilist.co/manga/106929) (19:51, 18 October 2024)
+-   📺 Watched episode 1 - 19 of [Frieren: Beyond Journey’s End](https://anilist.co/anime/154587) (15:22, 18 October 2024)
+-   📖 Read chapter 2 of [Mister Angel: Adventures of a Sugar Daddy](https://anilist.co/manga/109029) (10:06, 18 October 2024)
 -   📖 Read chapter 1 - 12 of [Guilty Circle](https://anilist.co/manga/133592) (21:36, 17 October 2024)
 -   📖 Read chapter 1 - 62 of [Your GF Was Delicious](https://anilist.co/manga/169210) (21:32, 17 October 2024)
--   📖 Read chapter 1 - 112 of [Sextopwatch](https://anilist.co/manga/152411) (04:01, 17 October 2024)
--   📖 Read chapter 148 - 180 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (04:01, 17 October 2024)
--   📖 Read chapter 1 - 24 of [Na Honjaman Level Up: Ragnarok](https://anilist.co/manga/179445) (04:01, 17 October 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
