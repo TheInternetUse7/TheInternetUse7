@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 320 of [Eleceed](https://anilist.co/manga/106929) (19:51, 18 October 2024)
--   📺 Watched episode 1 - 19 of [Frieren: Beyond Journey’s End](https://anilist.co/anime/154587) (15:22, 18 October 2024)
--   📖 Read chapter 2 of [Mister Angel: Adventures of a Sugar Daddy](https://anilist.co/manga/109029) (10:06, 18 October 2024)
--   📖 Read chapter 1 - 12 of [Guilty Circle](https://anilist.co/manga/133592) (21:36, 17 October 2024)
--   📖 Read chapter 1 - 62 of [Your GF Was Delicious](https://anilist.co/manga/169210) (21:32, 17 October 2024)
+-   📖 Read chapter 1 - 22 of [Cheat Mode Farming in Another World](https://anilist.co/manga/137901) (21:13, 19 October 2024)
+-   📺 Watched episode 1 - 3 of [Cowboy Bebop](https://anilist.co/anime/1) (06:56, 19 October 2024)
+-   📖 Read chapter 13 - 30 of [Issho ni Kurashite Ii desu ka?](https://anilist.co/manga/159549) (04:56, 19 October 2024)
+-   📖 Read chapter 203 - 252 of [Overgeared](https://anilist.co/manga/117460) (04:38, 19 October 2024)
+-   📖 Read chapter 1 - 14 of [Namaiki na Gal Ane wo Wakaraseru Hanashi](https://anilist.co/manga/179506) (04:16, 19 October 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
