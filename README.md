@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 22 of [Cheat Mode Farming in Another World](https://anilist.co/manga/137901) (21:13, 19 October 2024)
--   📺 Watched episode 1 - 3 of [Cowboy Bebop](https://anilist.co/anime/1) (06:56, 19 October 2024)
--   📖 Read chapter 13 - 30 of [Issho ni Kurashite Ii desu ka?](https://anilist.co/manga/159549) (04:56, 19 October 2024)
--   📖 Read chapter 203 - 252 of [Overgeared](https://anilist.co/manga/117460) (04:38, 19 October 2024)
--   📖 Read chapter 1 - 14 of [Namaiki na Gal Ane wo Wakaraseru Hanashi](https://anilist.co/manga/179506) (04:16, 19 October 2024)
+-   📖 Read chapter 9 - 41 of [Moby Dick](https://anilist.co/manga/172094) (21:02, 20 October 2024)
+-   📖 Completed [Jusul, Yogoe Harem](https://anilist.co/manga/175759) (20:56, 20 October 2024)
+-   📖 Read chapter 1 - 83 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (20:54, 20 October 2024)
+-   📺 Watched episode 1 - 22 of [Frieren: Beyond Journey’s End](https://anilist.co/anime/154587) (11:23, 20 October 2024)
+-   📖 Read chapter 1 - 25 of [Cheat Mode Farming in Another World](https://anilist.co/manga/137901) (05:24, 20 October 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
