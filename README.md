@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 9 - 41 of [Moby Dick](https://anilist.co/manga/172094) (21:02, 20 October 2024)
--   📖 Completed [Jusul, Yogoe Harem](https://anilist.co/manga/175759) (20:56, 20 October 2024)
--   📖 Read chapter 1 - 83 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (20:54, 20 October 2024)
--   📺 Watched episode 1 - 22 of [Frieren: Beyond Journey’s End](https://anilist.co/anime/154587) (11:23, 20 October 2024)
--   📖 Read chapter 1 - 25 of [Cheat Mode Farming in Another World](https://anilist.co/manga/137901) (05:24, 20 October 2024)
+-   📖 Read chapter 1 - 31 of [The Shiunji Family Children](https://anilist.co/manga/144374) (20:46, 21 October 2024)
+-   📖 Read chapter 1 - 34 of [Brave New World](https://anilist.co/manga/122161) (19:27, 21 October 2024)
+-   📖 Read chapter 1 - 13 of [Guilty Circle](https://anilist.co/manga/133592) (19:17, 21 October 2024)
+-   📖 Read chapter 3 - 118 of [Trapped in a Hentai Game Academy](https://anilist.co/manga/151601) (19:14, 21 October 2024)
+-   📖 Read chapter 185 - 229 of [Nano Machine](https://anilist.co/manga/120980) (19:04, 21 October 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
