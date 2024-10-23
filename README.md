@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 166 - 210 of [Teenage Mercenary](https://anilist.co/manga/126297) (17:20, 22 October 2024)
 -   📖 Read chapter 1 - 31 of [The Shiunji Family Children](https://anilist.co/manga/144374) (20:46, 21 October 2024)
 -   📖 Read chapter 1 - 34 of [Brave New World](https://anilist.co/manga/122161) (19:27, 21 October 2024)
 -   📖 Read chapter 1 - 13 of [Guilty Circle](https://anilist.co/manga/133592) (19:17, 21 October 2024)
 -   📖 Read chapter 3 - 118 of [Trapped in a Hentai Game Academy](https://anilist.co/manga/151601) (19:14, 21 October 2024)
--   📖 Read chapter 185 - 229 of [Nano Machine](https://anilist.co/manga/120980) (19:04, 21 October 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
