@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 148 - 181 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (03:20, 24 October 2024)
--   📖 Read chapter 1 - 113 of [Sextopwatch](https://anilist.co/manga/152411) (03:19, 24 October 2024)
--   📖 Read chapter 1 - 25 of [Na Honjaman Level Up: Ragnarok](https://anilist.co/manga/179445) (03:15, 24 October 2024)
--   📖 Read chapter 193 - 233 of [Omniscient Reader](https://anilist.co/manga/119257) (19:57, 23 October 2024)
--   📖 Read chapter 1 - 23 of [Tensei Colosseum: Saijaku Skill de Saikyou no Onna-tachi wo Kouryaku Shite Dorei Harem Tsukurimasu](https://anilist.co/manga/152284) (15:50, 23 October 2024)
+-   📺 Watched episode 1 - 26 of [Frieren: Beyond Journey’s End](https://anilist.co/anime/154587) (20:25, 25 October 2024)
+-   📖 Plans to read [kxs.](https://anilist.co/manga/172730) (12:25, 25 October 2024)
+-   📖 Plans to read [Tenga Tensei: Oneshota Elf to Sugosu Rinri Fuyou no Isekai Life](https://anilist.co/manga/167205) (12:10, 25 October 2024)
+-   📖 Plans to read [Gamer ga Isekai Tamashi Korogashite Harem Jinsei e Continue Suru Sou desu THE COMIC](https://anilist.co/manga/160160) (12:05, 25 October 2024)
+-   📖 Read chapter 1 of [Joshi Kouhei](https://anilist.co/manga/64793) (11:42, 25 October 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
