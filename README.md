@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 26 of [Frieren: Beyond Journey’s End](https://anilist.co/anime/154587) (20:25, 25 October 2024)
--   📖 Plans to read [kxs.](https://anilist.co/manga/172730) (12:25, 25 October 2024)
--   📖 Plans to read [Tenga Tensei: Oneshota Elf to Sugosu Rinri Fuyou no Isekai Life](https://anilist.co/manga/167205) (12:10, 25 October 2024)
--   📖 Plans to read [Gamer ga Isekai Tamashi Korogashite Harem Jinsei e Continue Suru Sou desu THE COMIC](https://anilist.co/manga/160160) (12:05, 25 October 2024)
--   📖 Read chapter 1 of [Joshi Kouhei](https://anilist.co/manga/64793) (11:42, 25 October 2024)
+-   📺 Completed [Frieren: Beyond Journey’s End](https://anilist.co/anime/154587) (18:50, 26 October 2024)
+-   📺 Watched episode 1 - 27 of [Frieren: Beyond Journey’s End](https://anilist.co/anime/154587) (17:58, 26 October 2024)
+-   📖 Read chapter 203 - 253 of [Overgeared](https://anilist.co/manga/117460) (04:03, 26 October 2024)
+-   📖 Read chapter 61 - 72 of [Hajirau Kimi ga Mitainda](https://anilist.co/manga/129225) (03:51, 26 October 2024)
+-   📖 Read chapter 1 - 8 of [Moteharune, Ashiya-kun](https://anilist.co/manga/174993) (03:47, 26 October 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
