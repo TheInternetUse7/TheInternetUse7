@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 84 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (19:48, 27 October 2024)
--   📖 Read chapter 1 - 321 of [Eleceed](https://anilist.co/manga/106929) (19:36, 27 October 2024)
--   📺 Completed [Frieren: Beyond Journey’s End](https://anilist.co/anime/154587) (18:50, 26 October 2024)
--   📺 Watched episode 1 - 27 of [Frieren: Beyond Journey’s End](https://anilist.co/anime/154587) (17:58, 26 October 2024)
--   📖 Read chapter 203 - 253 of [Overgeared](https://anilist.co/manga/117460) (04:03, 26 October 2024)
+-   📖 Read chapter 153 of [kxs.](https://anilist.co/manga/172730) (04:30, 28 October 2024)
+-   📖 Read chapter 166 - 211 of [Teenage Mercenary](https://anilist.co/manga/126297) (03:58, 28 October 2024)
+-   📖 Read chapter 1 - 63 of [Your GF Was Delicious](https://anilist.co/manga/169210) (03:54, 28 October 2024)
+-   📖 Read chapter 3 - 119 of [Trapped in a Hentai Game Academy](https://anilist.co/manga/151601) (03:38, 28 October 2024)
+-   📖 Read chapter 1 - 25 of [Gokusotsu Kraken](https://anilist.co/manga/152815) (03:34, 28 October 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
