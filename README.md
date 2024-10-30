@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 153 of [kxs.](https://anilist.co/manga/172730) (04:30, 28 October 2024)
--   📖 Read chapter 166 - 211 of [Teenage Mercenary](https://anilist.co/manga/126297) (03:58, 28 October 2024)
--   📖 Read chapter 1 - 63 of [Your GF Was Delicious](https://anilist.co/manga/169210) (03:54, 28 October 2024)
--   📖 Read chapter 3 - 119 of [Trapped in a Hentai Game Academy](https://anilist.co/manga/151601) (03:38, 28 October 2024)
--   📖 Read chapter 1 - 25 of [Gokusotsu Kraken](https://anilist.co/manga/152815) (03:34, 28 October 2024)
+-   📖 Read chapter 9 - 47 of [Moby Dick](https://anilist.co/manga/172094) (21:54, 29 October 2024)
+-   📖 Completed [Trapped in a Hentai Game Academy](https://anilist.co/manga/151601) (21:24, 29 October 2024)
+-   📖 Read chapter 1 - 114 of [Sextopwatch](https://anilist.co/manga/152411) (16:04, 29 October 2024)
+-   📖 Read chapter 34 - 45 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (15:47, 29 October 2024)
+-   📖 Read chapter 1 - 64 of [Dorei wo Choukyoushite Harem Tsukuru](https://anilist.co/manga/149329) (15:42, 29 October 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
