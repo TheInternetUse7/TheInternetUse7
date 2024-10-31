@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 37 of [Brave New World](https://anilist.co/manga/122161) (22:39, 30 October 2024)
+-   📖 Read chapter 1 of [Gamer ga Isekai Tamashi Korogashite Harem Jinsei e Continue Suru Sou desu THE COMIC](https://anilist.co/manga/160160) (10:32, 30 October 2024)
 -   📖 Read chapter 9 - 47 of [Moby Dick](https://anilist.co/manga/172094) (21:54, 29 October 2024)
 -   📖 Completed [Trapped in a Hentai Game Academy](https://anilist.co/manga/151601) (21:24, 29 October 2024)
 -   📖 Read chapter 1 - 114 of [Sextopwatch](https://anilist.co/manga/152411) (16:04, 29 October 2024)
--   📖 Read chapter 34 - 45 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (15:47, 29 October 2024)
--   📖 Read chapter 1 - 64 of [Dorei wo Choukyoushite Harem Tsukuru](https://anilist.co/manga/149329) (15:42, 29 October 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
