@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 37 of [Brave New World](https://anilist.co/manga/122161) (22:39, 30 October 2024)
--   📖 Read chapter 1 of [Gamer ga Isekai Tamashi Korogashite Harem Jinsei e Continue Suru Sou desu THE COMIC](https://anilist.co/manga/160160) (10:32, 30 October 2024)
--   📖 Read chapter 9 - 47 of [Moby Dick](https://anilist.co/manga/172094) (21:54, 29 October 2024)
--   📖 Completed [Trapped in a Hentai Game Academy](https://anilist.co/manga/151601) (21:24, 29 October 2024)
--   📖 Read chapter 1 - 114 of [Sextopwatch](https://anilist.co/manga/152411) (16:04, 29 October 2024)
+-   📖 Read chapter 1 - 6 of [Gamer ga Isekai Tamashi Korogashite Harem Jinsei e Continue Suru Sou desu THE COMIC](https://anilist.co/manga/160160) (09:38, 31 October 2024)
+-   📖 Read chapter 1 - 16 of [Guilty Circle](https://anilist.co/manga/133592) (05:10, 31 October 2024)
+-   📖 Read chapter 1 - 26 of [Solo Leveling: Ragnarok](https://anilist.co/manga/179445) (04:48, 31 October 2024)
+-   📖 Read chapter 148 - 182 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (04:48, 31 October 2024)
+-   📖 Read chapter 193 - 234 of [Omniscient Reader](https://anilist.co/manga/119257) (04:48, 31 October 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
