@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 65 of [Dorei wo Choukyoushite Harem Tsukuru](https://anilist.co/manga/149329) (00:37, 03 November 2024)
--   📖 Read chapter 1 - 322 of [Eleceed](https://anilist.co/manga/106929) (00:31, 03 November 2024)
--   📖 Plans to read [Bunkamatsuri wa Cosplay Onee-chan to Issho ni ▼: Majo Cos Mako, Maid Cos Chitose no Otouto Koukankai no Baai](https://anilist.co/manga/179113) (00:16, 03 November 2024)
--   📖 Completed [Tonari no Ayane-san: Itazura Jidori to Oshioki Ecchi-hen](https://anilist.co/manga/138782) (23:44, 02 November 2024)
--   📖 Completed [Kakkou no Su](https://anilist.co/manga/114332) (23:16, 02 November 2024)
+-   📖 Read chapter 1 - 7 of [Hell's Harem](https://anilist.co/manga/126635) (10:21, 03 November 2024)
+-   📖 Read chapter 1 - 2 of [Only With Consent](https://anilist.co/manga/128789) (08:38, 03 November 2024)
+-   📖 Read chapter 1 of [So-Eun](https://anilist.co/manga/179218) (08:33, 03 November 2024)
+-   📖 Read chapter 1 - 15 of [Namaiki na Gal Ane wo Wakaraseru Hanashi](https://anilist.co/manga/179506) (08:19, 03 November 2024)
+-   📖 Read chapter 1 - 26 of [Gokusotsu Kraken](https://anilist.co/manga/152815) (08:16, 03 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
