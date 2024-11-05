@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [To Be Hero X](https://anilist.co/anime/156092) (20:10, 04 November 2024)
+-   📖 Read chapter 8 of [Shishunki no Obenkyou](https://anilist.co/manga/121161) (17:07, 04 November 2024)
+-   📖 Read chapter 1 - 85 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (04:40, 04 November 2024)
+-   📖 Read chapter 185 - 231 of [Nano Machine](https://anilist.co/manga/120980) (04:34, 04 November 2024)
 -   📖 Read chapter 1 - 7 of [Hell's Harem](https://anilist.co/manga/126635) (10:21, 03 November 2024)
--   📖 Read chapter 1 - 2 of [Only With Consent](https://anilist.co/manga/128789) (08:38, 03 November 2024)
--   📖 Read chapter 1 of [So-Eun](https://anilist.co/manga/179218) (08:33, 03 November 2024)
--   📖 Read chapter 1 - 15 of [Namaiki na Gal Ane wo Wakaraseru Hanashi](https://anilist.co/manga/179506) (08:19, 03 November 2024)
--   📖 Read chapter 1 - 26 of [Gokusotsu Kraken](https://anilist.co/manga/152815) (08:16, 03 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
