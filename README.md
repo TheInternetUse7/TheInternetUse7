@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 166 - 212 of [Teenage Mercenary](https://anilist.co/manga/126297) (09:16, 05 November 2024)
--   📖 Read chapter 1 - 4 of [So-Eun](https://anilist.co/manga/179218) (09:12, 05 November 2024)
--   📖 Read chapter 1 - 9 of [Only With Consent](https://anilist.co/manga/128789) (08:58, 05 November 2024)
--   📖 Read chapter 1 - 17 of [Guilty Circle](https://anilist.co/manga/133592) (04:23, 05 November 2024)
--   📖 Read chapter 203 - 254 of [Overgeared](https://anilist.co/manga/117460) (04:17, 05 November 2024)
+-   📖 Read chapter 1 - 10 of [Only With Consent](https://anilist.co/manga/128789) (22:10, 06 November 2024)
+-   📖 Read chapter 1 - 9 of [So-Eun](https://anilist.co/manga/179218) (22:08, 06 November 2024)
+-   📖 Read chapter 1 - 15 of [Tensei ni Hakobi-jin no Isekai Kouryakuhou](https://anilist.co/manga/167472) (21:56, 06 November 2024)
+-   📖 Read chapter 1 - 4 of [Jashin Kankin Harem de Isekai Seifuku!](https://anilist.co/manga/176112) (21:50, 06 November 2024)
+-   📖 Read chapter 27 - 30 of [The Cursed Sword Master’s Harem Life: By the Sword, For the Sword](https://anilist.co/manga/109170) (21:46, 06 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
