@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 10 of [Hell's Harem](https://anilist.co/manga/126635) (10:31, 08 November 2024)
--   📖 Read chapter 1 - 16 of [Namaiki na Gal Ane wo Wakaraseru Hanashi](https://anilist.co/manga/179506) (09:59, 08 November 2024)
--   📖 Read chapter 1 - 28 of [Only With Consent](https://anilist.co/manga/128789) (04:00, 08 November 2024)
--   📖 Read chapter 1 - 65 of [Your GF Was Delicious](https://anilist.co/manga/169210) (03:27, 08 November 2024)
--   📖 Read chapter 1 - 66 of [Dorei wo Choukyoushite Harem Tsukuru](https://anilist.co/manga/149329) (20:39, 07 November 2024)
+-   📖 Read chapter 1 - 86 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (10:00, 11 November 2024)
+-   📖 Read chapter 17 - 31 of [Ore no Ie no Koakuma Imouto](https://anilist.co/manga/169152) (20:33, 10 November 2024)
+-   📖 Read chapter 166 - 213 of [Teenage Mercenary](https://anilist.co/manga/126297) (20:30, 09 November 2024)
+-   📖 Read chapter 1 - 6 of [Jashin Kankin Harem de Isekai Seifuku!](https://anilist.co/manga/176112) (20:24, 09 November 2024)
+-   📖 Read chapter 1 - 16 of [So-Eun](https://anilist.co/manga/179218) (08:43, 09 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
