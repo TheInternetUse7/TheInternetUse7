@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 86 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (10:00, 11 November 2024)
--   📖 Read chapter 17 - 31 of [Ore no Ie no Koakuma Imouto](https://anilist.co/manga/169152) (20:33, 10 November 2024)
--   📖 Read chapter 166 - 213 of [Teenage Mercenary](https://anilist.co/manga/126297) (20:30, 09 November 2024)
--   📖 Read chapter 1 - 6 of [Jashin Kankin Harem de Isekai Seifuku!](https://anilist.co/manga/176112) (20:24, 09 November 2024)
--   📖 Read chapter 1 - 16 of [So-Eun](https://anilist.co/manga/179218) (08:43, 09 November 2024)
+-   📖 Read chapter 1 - 8 of [Akuyaku Reijou desu ga, Watashi wo Anata no Seidorei ni Shite Kudasai!](https://anilist.co/manga/171022) (22:29, 12 November 2024)
+-   📖 Read chapter 1 - 32 of [NTREVENGE](https://anilist.co/manga/167427) (22:22, 12 November 2024)
+-   📖 Read chapter 17 - 34 of [Ore no Ie no Koakuma Imouto](https://anilist.co/manga/169152) (22:17, 12 November 2024)
+-   📖 Read chapter 34 - 47 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (14:49, 12 November 2024)
+-   📖 Read chapter 185 - 232 of [Nano Machine](https://anilist.co/manga/120980) (14:44, 12 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
