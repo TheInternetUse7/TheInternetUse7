@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 193 - 236 of [Omniscient Reader](https://anilist.co/manga/119257) (08:39, 13 November 2024)
 -   📖 Read chapter 1 - 8 of [Akuyaku Reijou desu ga, Watashi wo Anata no Seidorei ni Shite Kudasai!](https://anilist.co/manga/171022) (22:29, 12 November 2024)
 -   📖 Read chapter 1 - 32 of [NTREVENGE](https://anilist.co/manga/167427) (22:22, 12 November 2024)
 -   📖 Read chapter 17 - 34 of [Ore no Ie no Koakuma Imouto](https://anilist.co/manga/169152) (22:17, 12 November 2024)
 -   📖 Read chapter 34 - 47 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (14:49, 12 November 2024)
--   📖 Read chapter 185 - 232 of [Nano Machine](https://anilist.co/manga/120980) (14:44, 12 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
