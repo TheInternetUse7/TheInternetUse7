@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 27 of [Gokusotsu Kraken](https://anilist.co/manga/152815) (20:00, 17 November 2024)
 -   📖 Plans to read [Ore Dake Erabi Houdai, S-kyuu Rare Item mo Koware Skill mo Kakusei Shita [Schrödinger no Neko] de Omou ga Mama!: Boukensha no Ore wa Level mo Kin mo Kasei de Shiawase Nanode, Tsuihou Shitekita Renchuu mo Jiriki de Ganbatte Kure](https://anilist.co/manga/160051) (15:46, 16 November 2024)
 -   📖 Read chapter 1 - 24 of [Reincarnation Coliseum: The Weakest Skill Conquers the Strongest Women and Creates a Harem](https://anilist.co/manga/152284) (15:39, 16 November 2024)
 -   📖 Read chapter 17 - 36 of [Ore no Ie no Koakuma Imouto](https://anilist.co/manga/169152) (15:21, 16 November 2024)
 -   📖 Completed [Sundome!! Milky Way: Another End](https://anilist.co/manga/114359) (04:19, 16 November 2024)
--   📖 Completed [Sundome!! Milky Way](https://anilist.co/manga/100106) (04:18, 16 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
