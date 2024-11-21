@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 20 of [Destiny Lovers](https://anilist.co/manga/119932) (09:50, 19 November 2024)
--   📖 Read chapter 1 - 87 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (04:51, 19 November 2024)
--   📖 Read chapter 3 - 6 of [Futago Matomete "Kanojo" ni Shinai?](https://anilist.co/manga/177186) (04:44, 19 November 2024)
--   📖 Read chapter 17 - 39 of [Ore no Ie no Koakuma Imouto](https://anilist.co/manga/169152) (04:34, 19 November 2024)
--   📖 Read chapter 1 - 27 of [Gokusotsu Kraken](https://anilist.co/manga/152815) (20:00, 17 November 2024)
+-   📖 Read chapter 101 - 121 of [Level Up with the Gods](https://anilist.co/manga/138222) (13:41, 20 November 2024)
+-   📖 Read chapter 17 - 41 of [Ore no Ie no Koakuma Imouto](https://anilist.co/manga/169152) (13:29, 20 November 2024)
+-   📖 Read chapter 1 - 27 of [/Blush-DC: Himitsu](https://anilist.co/manga/51035) (12:45, 20 November 2024)
+-   📖 Read chapter 166 - 214 of [Teenage Mercenary](https://anilist.co/manga/126297) (04:19, 20 November 2024)
+-   📖 Read chapter 193 - 237 of [Omniscient Reader](https://anilist.co/manga/119257) (04:14, 20 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
