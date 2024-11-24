@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 9 of [Jashin Kankin Harem de Isekai Seifuku!](https://anilist.co/manga/176112) (20:01, 23 November 2024)
 -   📖 Read chapter 1 - 19 of [Guilty Circle](https://anilist.co/manga/133592) (04:50, 22 November 2024)
 -   📖 Read chapter 148 - 184 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (04:31, 22 November 2024)
 -   📖 Completed [Ore no Ie no Koakuma Imouto](https://anilist.co/manga/169152) (04:26, 22 November 2024)
 -   📖 Read chapter 101 - 121 of [Level Up with the Gods](https://anilist.co/manga/138222) (13:41, 20 November 2024)
--   📖 Read chapter 17 - 41 of [Ore no Ie no Koakuma Imouto](https://anilist.co/manga/169152) (13:29, 20 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
