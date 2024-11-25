@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 9 of [Jashin Kankin Harem de Isekai Seifuku!](https://anilist.co/manga/176112) (20:01, 23 November 2024)
--   📖 Read chapter 1 - 19 of [Guilty Circle](https://anilist.co/manga/133592) (04:50, 22 November 2024)
--   📖 Read chapter 148 - 184 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (04:31, 22 November 2024)
--   📖 Completed [Ore no Ie no Koakuma Imouto](https://anilist.co/manga/169152) (04:26, 22 November 2024)
--   📖 Read chapter 101 - 121 of [Level Up with the Gods](https://anilist.co/manga/138222) (13:41, 20 November 2024)
+-   📖 Read chapter 1 - 47 of [Ore dake Fuguu Skill no Isekai Shoukan Hangyakuki: Saijaku Skill "Kyuushuu" ga Subete wo Nomikomu made](https://anilist.co/manga/158654) (07:15, 24 November 2024)
+-   📖 Read chapter 1 - 4 of [Ataerareta Skill wo Tsukatte Kasei de Isekai Bijotachi to Ichaicha shitai ](https://anilist.co/manga/147685) (04:51, 24 November 2024)
+-   📖 Read chapter 1 - 33 of [NTREVENGE](https://anilist.co/manga/167427) (04:26, 24 November 2024)
+-   📖 Read chapter 166 - 215 of [Teenage Mercenary](https://anilist.co/manga/126297) (04:26, 24 November 2024)
+-   📖 Read chapter 1 - 17 of [Namaiki na Gal Ane wo Wakaraseru Hanashi](https://anilist.co/manga/179506) (04:19, 24 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
