@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 105 - 140 of [Landlord Sisters](https://anilist.co/manga/138564) (01:41, 30 November 2024)
 -   📖 Read chapter 101 - 122 of [Level Up with the Gods](https://anilist.co/manga/138222) (00:41, 28 November 2024)
 -   📖 Read chapter 1 - 22 of [Guilty Circle](https://anilist.co/manga/133592) (00:35, 28 November 2024)
 -   📖 Read chapter 81 - 91 of [Isekai Meikyuu de Harem wo](https://anilist.co/manga/99462) (00:32, 28 November 2024)
 -   📖 Read chapter 1 - 26 of [Boku wa Kimitachi wo Shihai suru](https://anilist.co/manga/146731) (10:15, 25 November 2024)
--   📖 Read chapter 1 - 35 of [/Blush-DC: Himitsu](https://anilist.co/manga/51035) (04:29, 25 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
