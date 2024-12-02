@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 105 - 140 of [Landlord Sisters](https://anilist.co/manga/138564) (01:41, 30 November 2024)
--   📖 Read chapter 101 - 122 of [Level Up with the Gods](https://anilist.co/manga/138222) (00:41, 28 November 2024)
--   📖 Read chapter 1 - 22 of [Guilty Circle](https://anilist.co/manga/133592) (00:35, 28 November 2024)
--   📖 Read chapter 81 - 91 of [Isekai Meikyuu de Harem wo](https://anilist.co/manga/99462) (00:32, 28 November 2024)
--   📖 Read chapter 1 - 26 of [Boku wa Kimitachi wo Shihai suru](https://anilist.co/manga/146731) (10:15, 25 November 2024)
+-   📖 Read chapter 148 - 185 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (18:08, 01 December 2024)
+-   📖 Read chapter 193 - 238 of [Omniscient Reader](https://anilist.co/manga/119257) (18:02, 01 December 2024)
+-   📖 Read chapter 1 - 18 of [Namaiki na Gal Ane wo Wakaraseru Hanashi](https://anilist.co/manga/179506) (17:52, 01 December 2024)
+-   📖 Read chapter 9 - 50 of [Moby Dick](https://anilist.co/manga/172094) (13:51, 01 December 2024)
+-   📖 Read chapter 3 - 121 of [Trapped in a Hentai Game Academy](https://anilist.co/manga/151601) (13:39, 01 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
