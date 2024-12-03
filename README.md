@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 27 - 31 of [The Cursed Sword Master’s Harem Life: By the Sword, For the Sword](https://anilist.co/manga/109170) (00:16, 03 December 2024)
+-   📖 Read chapter 5 of [Yandere Imouto ni Aisaresugite Kozukuri Kankin Seikatsu THE COMIC](https://anilist.co/manga/145054) (09:58, 02 December 2024)
+-   📖 Read chapter 1 - 89 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (04:25, 02 December 2024)
+-   📖 Read chapter 1 - 24 of [Guilty Circle](https://anilist.co/manga/133592) (04:17, 02 December 2024)
 -   📖 Read chapter 148 - 185 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (18:08, 01 December 2024)
--   📖 Read chapter 193 - 238 of [Omniscient Reader](https://anilist.co/manga/119257) (18:02, 01 December 2024)
--   📖 Read chapter 1 - 18 of [Namaiki na Gal Ane wo Wakaraseru Hanashi](https://anilist.co/manga/179506) (17:52, 01 December 2024)
--   📖 Read chapter 9 - 50 of [Moby Dick](https://anilist.co/manga/172094) (13:51, 01 December 2024)
--   📖 Read chapter 3 - 121 of [Trapped in a Hentai Game Academy](https://anilist.co/manga/151601) (13:39, 01 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
