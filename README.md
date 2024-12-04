@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 27 - 31 of [The Cursed Sword Master’s Harem Life: By the Sword, For the Sword](https://anilist.co/manga/109170) (00:16, 03 December 2024)
--   📖 Read chapter 5 of [Yandere Imouto ni Aisaresugite Kozukuri Kankin Seikatsu THE COMIC](https://anilist.co/manga/145054) (09:58, 02 December 2024)
--   📖 Read chapter 1 - 89 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (04:25, 02 December 2024)
--   📖 Read chapter 1 - 24 of [Guilty Circle](https://anilist.co/manga/133592) (04:17, 02 December 2024)
--   📖 Read chapter 148 - 185 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (18:08, 01 December 2024)
+-   📖 Read chapter 2 - 3 of [Astro King: Shoukan Yuusha dakedo Kakyuu Ninteisareta node Maid Harem wo Tsukurimasu!](https://anilist.co/manga/151865) (17:02, 03 December 2024)
+-   📖 Plans to read [Reborn as a Barrier Master](https://anilist.co/manga/110974) (16:13, 03 December 2024)
+-   📖 Plans to read [The God-Tier Guardian and the Love of Six Princesses](https://anilist.co/manga/137288) (16:07, 03 December 2024)
+-   📖 Read chapter 1 - 31 of [Boku wa Kimitachi wo Shihai suru](https://anilist.co/manga/146731) (15:40, 03 December 2024)
+-   📖 Read chapter 1 - 49 of [Ore dake Fuguu Skill no Isekai Shoukan Hangyakuki: Saijaku Skill "Kyuushuu" ga Subete wo Nomikomu made](https://anilist.co/manga/158654) (09:46, 03 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
