@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 2 - 3 of [Astro King: Shoukan Yuusha dakedo Kakyuu Ninteisareta node Maid Harem wo Tsukurimasu!](https://anilist.co/manga/151865) (17:02, 03 December 2024)
--   📖 Plans to read [Reborn as a Barrier Master](https://anilist.co/manga/110974) (16:13, 03 December 2024)
--   📖 Plans to read [The God-Tier Guardian and the Love of Six Princesses](https://anilist.co/manga/137288) (16:07, 03 December 2024)
--   📖 Read chapter 1 - 31 of [Boku wa Kimitachi wo Shihai suru](https://anilist.co/manga/146731) (15:40, 03 December 2024)
--   📖 Read chapter 1 - 49 of [Ore dake Fuguu Skill no Isekai Shoukan Hangyakuki: Saijaku Skill "Kyuushuu" ga Subete wo Nomikomu made](https://anilist.co/manga/158654) (09:46, 03 December 2024)
+-   📖 Read chapter 2 - 8 of [Astro King: Shoukan Yuusha dakedo Kakyuu Ninteisareta node Maid Harem wo Tsukurimasu!](https://anilist.co/manga/151865) (22:12, 04 December 2024)
+-   📖 Read chapter 1 - 25 of [Guilty Circle](https://anilist.co/manga/133592) (16:11, 04 December 2024)
+-   📖 Read chapter 185 - 235 of [Nano Machine](https://anilist.co/manga/120980) (16:09, 04 December 2024)
+-   📖 Read chapter 193 - 239 of [Omniscient Reader](https://anilist.co/manga/119257) (15:56, 04 December 2024)
+-   📖 Read chapter 60 - 69 of [The Eminence in Shadow](https://anilist.co/manga/106758) (15:48, 04 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
