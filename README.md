@@ -25,7 +25,7 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 2 - 8 of [Astro King: Shoukan Yuusha dakedo Kakyuu Ninteisareta node Maid Harem wo Tsukurimasu!](https://anilist.co/manga/151865) (22:12, 04 December 2024)
+-   📖 Read chapter 2 - 11 of [Astro King: Shoukan Yuusha dakedo Kakyuu Ninteisareta node Maid Harem wo Tsukurimasu!](https://anilist.co/manga/151865) (16:24, 05 December 2024)
 -   📖 Read chapter 1 - 25 of [Guilty Circle](https://anilist.co/manga/133592) (16:11, 04 December 2024)
 -   📖 Read chapter 185 - 235 of [Nano Machine](https://anilist.co/manga/120980) (16:09, 04 December 2024)
 -   📖 Read chapter 193 - 239 of [Omniscient Reader](https://anilist.co/manga/119257) (15:56, 04 December 2024)
