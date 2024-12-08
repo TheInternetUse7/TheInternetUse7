@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 2 - 11 of [Astro King: Shoukan Yuusha dakedo Kakyuu Ninteisareta node Maid Harem wo Tsukurimasu!](https://anilist.co/manga/151865) (16:24, 05 December 2024)
--   📖 Read chapter 1 - 25 of [Guilty Circle](https://anilist.co/manga/133592) (16:11, 04 December 2024)
--   📖 Read chapter 185 - 235 of [Nano Machine](https://anilist.co/manga/120980) (16:09, 04 December 2024)
--   📖 Read chapter 193 - 239 of [Omniscient Reader](https://anilist.co/manga/119257) (15:56, 04 December 2024)
--   📖 Read chapter 60 - 69 of [The Eminence in Shadow](https://anilist.co/manga/106758) (15:48, 04 December 2024)
+-   📖 Read chapter 1 - 26 of [Guilty Circle](https://anilist.co/manga/133592) (15:30, 07 December 2024)
+-   📖 Read chapter 1 - 26 of [Guilty Circle](https://anilist.co/manga/133592) (15:30, 07 December 2024)
+-   📖 Read chapter 2 - 20 of [Astro King: Shoukan Yuusha dakedo Kakyuu Ninteisareta node Maid Harem wo Tsukurimasu!](https://anilist.co/manga/151865) (07:29, 07 December 2024)
+-   📖 Read chapter 1 - 19 of [Namaiki na Gal Ane wo Wakaraseru Hanashi](https://anilist.co/manga/179506) (06:05, 07 December 2024)
+-   📖 Read chapter 61 - 74 of [Hajirau Kimi ga Mitainda](https://anilist.co/manga/129225) (06:00, 07 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
