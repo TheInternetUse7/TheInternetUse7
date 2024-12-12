@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 105 - 142 of [Landlord Sisters](https://anilist.co/manga/138564) (10:49, 11 December 2024)
+-   📖 Read chapter 42 - 57 of [Isekai NTR: Shinyuu no Onna wo Saikyou Skill de Otosu Houhou](https://anilist.co/manga/115042) (10:11, 11 December 2024)
+-   📖 Read chapter 1 - 75 of [Kichiku Eiyuu](https://anilist.co/manga/139415) (08:59, 11 December 2024)
 -   📖 Read chapter 1 - 325 of [Eleceed](https://anilist.co/manga/106929) (19:36, 10 December 2024)
--   📖 Read chapter 1 - 71 of [Kichiku Eiyuu](https://anilist.co/manga/139415) (17:07, 09 December 2024)
 -   📖 Read chapter 1 - 26 of [Guilty Circle](https://anilist.co/manga/133592) (15:30, 07 December 2024)
--   📖 Read chapter 1 - 26 of [Guilty Circle](https://anilist.co/manga/133592) (15:30, 07 December 2024)
--   📖 Read chapter 2 - 20 of [Astro King: Shoukan Yuusha dakedo Kakyuu Ninteisareta node Maid Harem wo Tsukurimasu!](https://anilist.co/manga/151865) (07:29, 07 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
