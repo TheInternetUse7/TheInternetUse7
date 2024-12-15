@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 8 of [Days with My Stepsister](https://anilist.co/anime/152681) (19:33, 13 December 2024)
--   📺 Watched episode 1 of [DAN DA DAN](https://anilist.co/anime/171018) (19:32, 13 December 2024)
--   📖 Read chapter 3325 - 3763 of [Martial Peak](https://anilist.co/manga/104494) (13:24, 12 December 2024)
--   📖 Read chapter 193 - 240 of [Omniscient Reader](https://anilist.co/manga/119257) (01:36, 12 December 2024)
--   📖 Read chapter 101 - 124 of [Level Up with the Gods](https://anilist.co/manga/138222) (01:31, 12 December 2024)
+-   📖 Read chapter 1 - 326 of [Eleceed](https://anilist.co/manga/106929) (23:11, 14 December 2024)
+-   📖 Read chapter 1 - 20 of [Namaiki na Gal Ane wo Wakaraseru Hanashi](https://anilist.co/manga/179506) (23:08, 14 December 2024)
+-   📖 Read chapter 1 - 68 of [Dorei wo Choukyoushite Harem Tsukuru](https://anilist.co/manga/149329) (12:00, 14 December 2024)
+-   📖 Read chapter 1 - 18 of [VR Eroge yattetara Isekai ni Tensei shita no de, Bishoujo Maou wo Doreika suru: Cross Out Saber](https://anilist.co/manga/107278) (11:59, 14 December 2024)
+-   📖 Read chapter 5 - 6 of [Yandere Imouto ni Aisaresugite Kozukuri Kankin Seikatsu THE COMIC](https://anilist.co/manga/145054) (11:55, 14 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
