@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Paused watching [Land of the Lustrous](https://anilist.co/anime/98707) (18:40, 16 December 2024)
+-   📺 Paused watching [Blue Archive The Animation](https://anilist.co/anime/160589) (18:40, 16 December 2024)
+-   📺 Watched episode 1 - 5 of [Mother of the Goddess’ Dormitory](https://anilist.co/anime/117989) (18:36, 16 December 2024)
+-   📺 Plans to watch [Girls und Panzer](https://anilist.co/anime/14131) (18:13, 16 December 2024)
 -   📖 Read chapter 1 - 91 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (20:22, 15 December 2024)
--   📖 Read chapter 1 - 10 of [Jashin Kankin Harem de Isekai Seifuku!](https://anilist.co/manga/176112) (19:54, 15 December 2024)
--   📖 Read chapter 1 - 68 of [Your GF Was Delicious](https://anilist.co/manga/169210) (11:11, 15 December 2024)
--   📖 Read chapter 9 - 51 of [Moby Dick](https://anilist.co/manga/172094) (11:10, 15 December 2024)
--   📖 Read chapter 1 - 27 of [Guilty Circle](https://anilist.co/manga/133592) (08:13, 15 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
