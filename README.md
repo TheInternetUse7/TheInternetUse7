@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [My New Family Is Too Nice to Me](https://anilist.co/manga/175756) (04:40, 18 December 2024)
+-   📖 Read chapter 1 - 329 of [Eleceed](https://anilist.co/manga/106929) (04:11, 18 December 2024)
 -   📖 Read chapter 185 - 237 of [Nano Machine](https://anilist.co/manga/120980) (18:54, 17 December 2024)
 -   📖 Read chapter 1 - 8 of [Hazure Skill "Soine" ga Kakuseishi, Boku ga Saikyou Harem wo Kizuku made: Micchaku Soine de Ganbou Kaihou!? Yuuwakusare Makutte Komattemasu!!](https://anilist.co/manga/175861) (18:48, 17 December 2024)
 -   📺 Watched episode 1 - 6 of [Mother of the Goddess’ Dormitory](https://anilist.co/anime/117989) (18:04, 17 December 2024)
--   📖 Read chapter 1 - 29 of [Guilty Circle](https://anilist.co/manga/133592) (05:23, 17 December 2024)
--   📺 Paused watching [Land of the Lustrous](https://anilist.co/anime/98707) (18:40, 16 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
