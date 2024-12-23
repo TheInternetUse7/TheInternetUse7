@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 13 - 33 of [Issho ni Kurashite Ii desu ka?](https://anilist.co/manga/159549) (19:12, 22 December 2024)
 -   📖 Read chapter 1 - 5 of [The God-Tier Guardian and the Love of Six Princesses](https://anilist.co/manga/137288) (08:03, 21 December 2024)
 -   📖 Read chapter 1 - 30 of [Only With Consent](https://anilist.co/manga/128789) (20:04, 20 December 2024)
 -   📖 Read chapter 4 - 15 of [Otoko Girai na Bijin Shimai wo Namae mo Tsugezu ni Tasuketara Ittai Dounaru?](https://anilist.co/manga/163004) (19:51, 20 December 2024)
 -   📖 Read chapter 5 - 7 of [Yandere Imouto ni Aisaresugite Kozukuri Kankin Seikatsu THE COMIC](https://anilist.co/manga/145054) (09:06, 20 December 2024)
--   📖 Completed [Kamoku na Imouto-chan](https://anilist.co/manga/122810) (09:01, 20 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
