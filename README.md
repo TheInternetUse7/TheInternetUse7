@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 54 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (09:25, 24 December 2024)
--   📖 Read chapter 4 - 7 of [Kage no Jitsuryokusha ni Naritakute!: Master of Garden - Shichikage Retsuden](https://anilist.co/manga/179256) (09:24, 24 December 2024)
--   📖 Read chapter 13 - 33 of [Issho ni Kurashite Ii desu ka?](https://anilist.co/manga/159549) (19:12, 22 December 2024)
--   📖 Read chapter 1 - 5 of [The God-Tier Guardian and the Love of Six Princesses](https://anilist.co/manga/137288) (08:03, 21 December 2024)
--   📖 Read chapter 1 - 30 of [Only With Consent](https://anilist.co/manga/128789) (20:04, 20 December 2024)
+-   📖 Read chapter 81 - 92 of [Isekai Meikyuu de Harem wo](https://anilist.co/manga/99462) (21:08, 25 December 2024)
+-   📖 Read chapter 10 - 16 of [Netorare Manga no Kuzu Otoko ni Tensei Shita Hazu ga Heroine ga Yotte Kuru Ken](https://anilist.co/manga/163733) (08:27, 25 December 2024)
+-   📖 Read chapter 1 - 57 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (07:37, 25 December 2024)
+-   📖 Read chapter 1 - 92 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (07:19, 25 December 2024)
+-   📖 Read chapter 11 - 22 of [Betrayed by the Hero, I Formed a MILF Party with His Mom](https://anilist.co/manga/159187) (07:13, 25 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
