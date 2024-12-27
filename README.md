@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Bought by the Demon King Before the Ending](https://anilist.co/manga/160192) (22:41, 26 December 2024)
+-   📖 Read chapter 1 - 60 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (17:38, 26 December 2024)
+-   📖 Read chapter 5 - 8 of [Yandere Imouto ni Aisaresugite Kozukuri Kankin Seikatsu THE COMIC](https://anilist.co/manga/145054) (16:42, 26 December 2024)
+-   📖 Read chapter 148 - 186 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (16:33, 26 December 2024)
 -   📖 Read chapter 81 - 92 of [Isekai Meikyuu de Harem wo](https://anilist.co/manga/99462) (21:08, 25 December 2024)
--   📖 Read chapter 10 - 16 of [Netorare Manga no Kuzu Otoko ni Tensei Shita Hazu ga Heroine ga Yotte Kuru Ken](https://anilist.co/manga/163733) (08:27, 25 December 2024)
--   📖 Read chapter 1 - 57 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (07:37, 25 December 2024)
--   📖 Read chapter 1 - 92 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (07:19, 25 December 2024)
--   📖 Read chapter 11 - 22 of [Betrayed by the Hero, I Formed a MILF Party with His Mom](https://anilist.co/manga/159187) (07:13, 25 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
