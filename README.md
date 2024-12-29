@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 7 of [Isekai Cheat Kaitakuki](https://anilist.co/manga/117767) (23:33, 28 December 2024)
+-   📖 Read chapter 3 - 7 of [Futago Matomete "Kanojo" ni Shinai?](https://anilist.co/manga/177186) (11:34, 28 December 2024)
+-   📖 Plans to read [Kokan Musou: Kiraware Yuusha wa Mazoku ni Aisareru](https://anilist.co/manga/142463) (06:09, 28 December 2024)
+-   📖 Plans to read [Cooking with Wild Game](https://anilist.co/manga/100309) (04:51, 28 December 2024)
 -   📖 Plans to read [Bought by the Demon King Before the Ending](https://anilist.co/manga/160192) (22:41, 26 December 2024)
--   📖 Read chapter 1 - 60 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (17:38, 26 December 2024)
--   📖 Read chapter 5 - 8 of [Yandere Imouto ni Aisaresugite Kozukuri Kankin Seikatsu THE COMIC](https://anilist.co/manga/145054) (16:42, 26 December 2024)
--   📖 Read chapter 148 - 186 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (16:33, 26 December 2024)
--   📖 Read chapter 81 - 92 of [Isekai Meikyuu de Harem wo](https://anilist.co/manga/99462) (21:08, 25 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
