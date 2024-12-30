@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 61 - 75 of [Hajirau Kimi ga Mitainda](https://anilist.co/manga/129225) (20:38, 29 December 2024)
+-   📖 Read chapter 1 - 33 of [The Shiunji Family Children](https://anilist.co/manga/144374) (20:33, 29 December 2024)
+-   📖 Plans to read [Futari Asobi](https://anilist.co/manga/140264) (09:00, 29 December 2024)
 -   📖 Read chapter 1 - 7 of [Isekai Cheat Kaitakuki](https://anilist.co/manga/117767) (23:33, 28 December 2024)
 -   📖 Read chapter 3 - 7 of [Futago Matomete "Kanojo" ni Shinai?](https://anilist.co/manga/177186) (11:34, 28 December 2024)
--   📖 Plans to read [Kokan Musou: Kiraware Yuusha wa Mazoku ni Aisareru](https://anilist.co/manga/142463) (06:09, 28 December 2024)
--   📖 Plans to read [Cooking with Wild Game](https://anilist.co/manga/100309) (04:51, 28 December 2024)
--   📖 Plans to read [Bought by the Demon King Before the Ending](https://anilist.co/manga/160192) (22:41, 26 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
