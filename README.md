@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Plans to read [Loli Check!	](https://anilist.co/manga/139559) (08:47, 31 December 2024)
--   📖 Read chapter 1 - 2 of [Harem Share House](https://anilist.co/manga/157727) (08:44, 31 December 2024)
--   📖 Completed [My Big Sister](https://anilist.co/manga/173535) (08:43, 31 December 2024)
--   📖 Read chapter 1 - 4 of [Tropical Island Maniacs: My Host Family is so Lewd!](https://anilist.co/manga/134048) (08:41, 31 December 2024)
--   📖 Read chapter 2 of [Family Obligations: How I Came to Breed My Brother's Wife](https://anilist.co/manga/185256) (08:39, 31 December 2024)
+-   📖 Completed [Dolls](https://anilist.co/manga/118361) (22:41, 03 January 2025)
+-   📖 Plans to read [Dolls](https://anilist.co/manga/118361) (22:34, 03 January 2025)
+-   📖 Read chapter 1 of [Cooking with Wild Game](https://anilist.co/manga/100309) (22:30, 03 January 2025)
+-   📖 Read chapter 1 - 20 of [Isekai Cheat Kaitakuki](https://anilist.co/manga/117767) (22:15, 03 January 2025)
+-   📖 Read chapter 1 - 14 of [Kokan Musou: Kiraware Yuusha wa Mazoku ni Aisareru](https://anilist.co/manga/142463) (21:29, 03 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
