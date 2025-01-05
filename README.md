@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 3 of [The Hungry Succubus Wants to Consume Him](https://anilist.co/manga/151906) (10:42, 04 January 2025)
 -   📖 Completed [Dolls](https://anilist.co/manga/118361) (22:41, 03 January 2025)
 -   📖 Plans to read [Dolls](https://anilist.co/manga/118361) (22:34, 03 January 2025)
 -   📖 Read chapter 1 of [Cooking with Wild Game](https://anilist.co/manga/100309) (22:30, 03 January 2025)
 -   📖 Read chapter 1 - 20 of [Isekai Cheat Kaitakuki](https://anilist.co/manga/117767) (22:15, 03 January 2025)
--   📖 Read chapter 1 - 14 of [Kokan Musou: Kiraware Yuusha wa Mazoku ni Aisareru](https://anilist.co/manga/142463) (21:29, 03 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
