@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 3 of [The Hungry Succubus Wants to Consume Him](https://anilist.co/manga/151906) (10:42, 04 January 2025)
--   📖 Completed [Dolls](https://anilist.co/manga/118361) (22:41, 03 January 2025)
--   📖 Plans to read [Dolls](https://anilist.co/manga/118361) (22:34, 03 January 2025)
--   📖 Read chapter 1 of [Cooking with Wild Game](https://anilist.co/manga/100309) (22:30, 03 January 2025)
--   📖 Read chapter 1 - 20 of [Isekai Cheat Kaitakuki](https://anilist.co/manga/117767) (22:15, 03 January 2025)
+-   📺 Watched episode 1 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (19:16, 05 January 2025)
+-   📖 Completed [Kawaii Imouto to Ikenai Koto Shiteimasu!](https://anilist.co/manga/123540) (17:32, 05 January 2025)
+-   📖 Completed [Boku no Netorase Seiheki ni Tsukiatte Kureru Kanojo](https://anilist.co/manga/164199) (17:27, 05 January 2025)
+-   📖 Read chapter 1 - 41 of [Boku wa Kimitachi wo Shihai suru](https://anilist.co/manga/146731) (04:56, 05 January 2025)
+-   📖 Read chapter 166 - 216 of [Teenage Mercenary](https://anilist.co/manga/126297) (04:24, 05 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
