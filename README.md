@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (19:16, 05 January 2025)
--   📖 Completed [Kawaii Imouto to Ikenai Koto Shiteimasu!](https://anilist.co/manga/123540) (17:32, 05 January 2025)
--   📖 Completed [Boku no Netorase Seiheki ni Tsukiatte Kureru Kanojo](https://anilist.co/manga/164199) (17:27, 05 January 2025)
--   📖 Read chapter 1 - 41 of [Boku wa Kimitachi wo Shihai suru](https://anilist.co/manga/146731) (04:56, 05 January 2025)
--   📖 Read chapter 166 - 216 of [Teenage Mercenary](https://anilist.co/manga/126297) (04:24, 05 January 2025)
+-   📖 Completed [Oyasumi Sex](https://anilist.co/manga/100736) (21:11, 06 January 2025)
+-   📖 Read chapter 2 of [Oyasumi Sex](https://anilist.co/manga/100736) (21:11, 06 January 2025)
+-   📖 Read chapter 1 - 94 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (20:26, 06 January 2025)
+-   📖 Read chapter 1 - 34 of [The Shiunji Family Children](https://anilist.co/manga/144374) (20:15, 06 January 2025)
+-   📖 Read chapter 1 - 30 of [Solo Leveling: Ragnarok](https://anilist.co/manga/179445) (08:52, 06 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
