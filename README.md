@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Magic Maker: How to Make Magic in Another World](https://anilist.co/anime/179297) (20:37, 08 January 2025)
+-   📖 Read chapter 1 - 35 of [The Shiunji Family Children](https://anilist.co/manga/144374) (06:53, 08 January 2025)
 -   📖 Completed [Oyasumi Sex](https://anilist.co/manga/100736) (21:11, 06 January 2025)
 -   📖 Read chapter 2 of [Oyasumi Sex](https://anilist.co/manga/100736) (21:11, 06 January 2025)
 -   📖 Read chapter 1 - 94 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (20:26, 06 January 2025)
--   📖 Read chapter 1 - 34 of [The Shiunji Family Children](https://anilist.co/manga/144374) (20:15, 06 January 2025)
--   📖 Read chapter 1 - 30 of [Solo Leveling: Ragnarok](https://anilist.co/manga/179445) (08:52, 06 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
