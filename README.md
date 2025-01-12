@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 34 - 53 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (04:39, 10 January 2025)
--   📖 Read chapter 148 - 188 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (18:17, 09 January 2025)
--   📖 Read chapter 101 - 126 of [Level Up with the Gods](https://anilist.co/manga/138222) (18:11, 09 January 2025)
--   📺 Watched episode 1 of [Magic Maker: How to Make Magic in Another World](https://anilist.co/anime/179297) (20:37, 08 January 2025)
--   📖 Read chapter 1 - 35 of [The Shiunji Family Children](https://anilist.co/manga/144374) (06:53, 08 January 2025)
+-   📖 Read chapter 1 - 13 of [My Ideal Life in Another World](https://anilist.co/manga/116963) (00:36, 12 January 2025)
+-   📖 Read chapter 13 - 34 of [Issho ni Kurashite Ii desu ka?](https://anilist.co/manga/159549) (00:26, 12 January 2025)
+-   📺 Watched episode 1 - 2 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (00:06, 12 January 2025)
+-   📖 Plans to read [Elf ni Inmon wo Tsukeru Hon](https://anilist.co/manga/147421) (04:50, 11 January 2025)
+-   📖 Read chapter 34 - 55 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (04:46, 11 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
