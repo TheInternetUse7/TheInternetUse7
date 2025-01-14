@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 34 - 56 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (21:50, 13 January 2025)
+-   📖 Read chapter 1 - 31 of [Guilty Circle](https://anilist.co/manga/133592) (09:49, 13 January 2025)
+-   📖 Read chapter 1 - 95 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (04:23, 13 January 2025)
 -   📖 Read chapter 1 - 36 of [Solo Leveling: Ragnarok](https://anilist.co/manga/179445) (05:18, 12 January 2025)
 -   📖 Read chapter 1 - 13 of [My Ideal Life in Another World](https://anilist.co/manga/116963) (00:36, 12 January 2025)
--   📖 Read chapter 13 - 34 of [Issho ni Kurashite Ii desu ka?](https://anilist.co/manga/159549) (00:26, 12 January 2025)
--   📺 Watched episode 1 - 2 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (00:06, 12 January 2025)
--   📖 Plans to read [Elf ni Inmon wo Tsukeru Hon](https://anilist.co/manga/147421) (04:50, 11 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
