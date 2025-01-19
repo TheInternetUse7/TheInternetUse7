@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [Magic Maker: How to Make Magic in Another World](https://anilist.co/anime/179297) (19:45, 18 January 2025)
+-   📺 Watched episode 1 - 3 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (18:45, 18 January 2025)
+-   📖 Read chapter 3 - 8 of [Futago Matomete "Kanojo" ni Shinai?](https://anilist.co/manga/177186) (04:51, 18 January 2025)
+-   📖 Read chapter 1 - 28 of [Gokusotsu Kraken](https://anilist.co/manga/152815) (04:44, 18 January 2025)
 -   📖 Completed [Futari Asobi](https://anilist.co/manga/140264) (04:31, 15 January 2025)
--   📖 Read chapter 34 - 56 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (21:50, 13 January 2025)
--   📖 Read chapter 1 - 31 of [Guilty Circle](https://anilist.co/manga/133592) (09:49, 13 January 2025)
--   📖 Read chapter 1 - 95 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (04:23, 13 January 2025)
--   📖 Read chapter 1 - 36 of [Solo Leveling: Ragnarok](https://anilist.co/manga/179445) (05:18, 12 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
