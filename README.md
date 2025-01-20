@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 185 - 241 of [Nano Machine](https://anilist.co/manga/120980) (18:18, 19 January 2025)
+-   📖 Read chapter 1 - 23 of [Namaiki na Gal Ane wo Wakaraseru Hanashi](https://anilist.co/manga/179506) (17:11, 19 January 2025)
+-   📖 Read chapter 193 - 244 of [Omniscient Reader](https://anilist.co/manga/119257) (17:10, 19 January 2025)
+-   📖 Read chapter 1 - 25 of [Reincarnation Coliseum: The Weakest Skill Conquers the Strongest Women and Creates a Harem](https://anilist.co/manga/152284) (16:28, 19 January 2025)
 -   📺 Watched episode 1 - 2 of [Magic Maker: How to Make Magic in Another World](https://anilist.co/anime/179297) (19:45, 18 January 2025)
--   📺 Watched episode 1 - 3 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (18:45, 18 January 2025)
--   📖 Read chapter 3 - 8 of [Futago Matomete "Kanojo" ni Shinai?](https://anilist.co/manga/177186) (04:51, 18 January 2025)
--   📖 Read chapter 1 - 28 of [Gokusotsu Kraken](https://anilist.co/manga/152815) (04:44, 18 January 2025)
--   📖 Completed [Futari Asobi](https://anilist.co/manga/140264) (04:31, 15 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
