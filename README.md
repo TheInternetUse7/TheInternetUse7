@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 37 of [Solo Leveling: Ragnarok](https://anilist.co/manga/179445) (10:26, 20 January 2025)
--   📖 Read chapter 185 - 241 of [Nano Machine](https://anilist.co/manga/120980) (18:18, 19 January 2025)
--   📖 Read chapter 1 - 23 of [Namaiki na Gal Ane wo Wakaraseru Hanashi](https://anilist.co/manga/179506) (17:11, 19 January 2025)
--   📖 Read chapter 193 - 244 of [Omniscient Reader](https://anilist.co/manga/119257) (17:10, 19 January 2025)
--   📖 Read chapter 1 - 25 of [Reincarnation Coliseum: The Weakest Skill Conquers the Strongest Women and Creates a Harem](https://anilist.co/manga/152284) (16:28, 19 January 2025)
+-   📖 Read chapter 34 - 57 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (20:26, 21 January 2025)
+-   📖 Read chapter 1 - 38 of [NTREVENGE](https://anilist.co/manga/167427) (07:25, 21 January 2025)
+-   📖 Read chapter 2 - 21 of [Astro King: Shoukan Yuusha dakedo Kakyuu Ninteisareta node Maid Harem wo Tsukurimasu!](https://anilist.co/manga/151865) (07:22, 21 January 2025)
+-   📖 Read chapter 185 - 242 of [Nano Machine](https://anilist.co/manga/120980) (07:17, 21 January 2025)
+-   📖 Read chapter 1 - 96 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (06:38, 21 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
