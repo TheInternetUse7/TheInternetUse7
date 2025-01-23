@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 193 - 245 of [Omniscient Reader](https://anilist.co/manga/119257) (21:57, 22 January 2025)
+-   📖 Read chapter 1 - 71 of [Your GF Was Delicious](https://anilist.co/manga/169210) (04:24, 22 January 2025)
+-   📖 Read chapter 1 - 37 of [Isekai Majutsushi wa Mahou wo Tonaenai](https://anilist.co/manga/119973) (04:06, 22 January 2025)
 -   📖 Read chapter 34 - 57 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (20:26, 21 January 2025)
 -   📖 Read chapter 1 - 38 of [NTREVENGE](https://anilist.co/manga/167427) (07:25, 21 January 2025)
--   📖 Read chapter 2 - 21 of [Astro King: Shoukan Yuusha dakedo Kakyuu Ninteisareta node Maid Harem wo Tsukurimasu!](https://anilist.co/manga/151865) (07:22, 21 January 2025)
--   📖 Read chapter 185 - 242 of [Nano Machine](https://anilist.co/manga/120980) (07:17, 21 January 2025)
--   📖 Read chapter 1 - 96 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (06:38, 21 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
