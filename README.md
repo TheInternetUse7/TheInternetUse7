@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 42 - 59 of [Isekai NTR: Shinyuu no Onna wo Saikyou Skill de Otosu Houhou](https://anilist.co/manga/115042) (19:34, 23 January 2025)
 -   📖 Read chapter 193 - 245 of [Omniscient Reader](https://anilist.co/manga/119257) (21:57, 22 January 2025)
 -   📖 Read chapter 1 - 71 of [Your GF Was Delicious](https://anilist.co/manga/169210) (04:24, 22 January 2025)
 -   📖 Read chapter 1 - 37 of [Isekai Majutsushi wa Mahou wo Tonaenai](https://anilist.co/manga/119973) (04:06, 22 January 2025)
 -   📖 Read chapter 34 - 57 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (20:26, 21 January 2025)
--   📖 Read chapter 1 - 38 of [NTREVENGE](https://anilist.co/manga/167427) (07:25, 21 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
