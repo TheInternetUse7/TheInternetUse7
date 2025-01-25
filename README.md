@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 42 - 59 of [Isekai NTR: Shinyuu no Onna wo Saikyou Skill de Otosu Houhou](https://anilist.co/manga/115042) (19:34, 23 January 2025)
--   📖 Read chapter 193 - 245 of [Omniscient Reader](https://anilist.co/manga/119257) (21:57, 22 January 2025)
--   📖 Read chapter 1 - 71 of [Your GF Was Delicious](https://anilist.co/manga/169210) (04:24, 22 January 2025)
--   📖 Read chapter 1 - 37 of [Isekai Majutsushi wa Mahou wo Tonaenai](https://anilist.co/manga/119973) (04:06, 22 January 2025)
--   📖 Read chapter 34 - 57 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (20:26, 21 January 2025)
+-   📖 Plans to read [Ore ga Suki nano wa Imouto dakedo Imouto ja Nai](https://anilist.co/manga/104473) (19:21, 24 January 2025)
+-   📖 Read chapter 2 - 24 of [Astro King: Shoukan Yuusha dakedo Kakyuu Ninteisareta node Maid Harem wo Tsukurimasu!](https://anilist.co/manga/151865) (04:56, 24 January 2025)
+-   📖 Read chapter 1 - 38 of [Isekai Majutsushi wa Mahou wo Tonaenai](https://anilist.co/manga/119973) (04:40, 24 January 2025)
+-   📖 Read chapter 185 - 243 of [Nano Machine](https://anilist.co/manga/120980) (04:33, 24 January 2025)
+-   📖 Read chapter 1 - 16 of [Kokan Musou: Kiraware Yuusha wa Mazoku ni Aisareru](https://anilist.co/manga/142463) (04:23, 24 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
