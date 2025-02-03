@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 98 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (22:43, 02 February 2025)
+-   📖 Read chapter 1 - 17 of [Tensei ni Hakobi-jin no Isekai Kouryakuhou](https://anilist.co/manga/167472) (13:15, 02 February 2025)
+-   📺 Watched episode 1 - 5 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (05:55, 02 February 2025)
+-   📖 Read chapter 1 - 18 of [Kokan Musou: Kiraware Yuusha wa Mazoku ni Aisareru](https://anilist.co/manga/142463) (04:33, 02 February 2025)
 -   📺 Watched episode 1 - 3 of [Magic Maker: How to Make Magic in Another World](https://anilist.co/anime/179297) (20:06, 01 February 2025)
--   📖 Completed [Otona no Anemone](https://anilist.co/manga/83067) (10:58, 01 February 2025)
--   📖 Read chapter 34 - 58 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (23:01, 31 January 2025)
--   📺 Watched episode 1 - 3 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2](https://anilist.co/anime/172258) (18:55, 30 January 2025)
--   📖 Plans to read [Imouto Haramasenai to Derarenai Shima](https://anilist.co/manga/176434) (05:45, 29 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
