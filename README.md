@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 4 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2](https://anilist.co/anime/172258) (18:20, 05 February 2025)
--   📺 Completed [Redline](https://anilist.co/anime/6675) (19:09, 04 February 2025)
--   📖 Read chapter 1 - 98 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (22:43, 02 February 2025)
--   📖 Read chapter 1 - 17 of [Tensei ni Hakobi-jin no Isekai Kouryakuhou](https://anilist.co/manga/167472) (13:15, 02 February 2025)
--   📺 Watched episode 1 - 5 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (05:55, 02 February 2025)
+-   📺 Watched episode 1 - 6 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (21:24, 08 February 2025)
+-   📖 Read chapter 31 of [Only With Consent](https://anilist.co/manga/128789) (20:45, 08 February 2025)
+-   📖 Read chapter 71 of [The Eminence in Shadow](https://anilist.co/manga/106758) (08:26, 08 February 2025)
+-   📖 Read chapter 21 - 22 of [Isekai Cheat Kaitakuki](https://anilist.co/manga/117767) (08:16, 08 February 2025)
+-   📖 Read chapter 1 - 19 of [Kokan Musou: Kiraware Yuusha wa Mazoku ni Aisareru](https://anilist.co/manga/142463) (07:47, 08 February 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
