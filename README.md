@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 72 - 77 of [Your GF Was Delicious](https://anilist.co/manga/169210) (05:24, 11 February 2025)
+-   📖 Read chapter 53 - 57 of [Moby Dick](https://anilist.co/manga/172094) (04:41, 11 February 2025)
 -   📺 Watched episode 1 - 5 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2](https://anilist.co/anime/172258) (21:33, 10 February 2025)
 -   📺 Watched episode 1 - 6 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (21:24, 08 February 2025)
 -   📖 Read chapter 31 of [Only With Consent](https://anilist.co/manga/128789) (20:45, 08 February 2025)
--   📖 Read chapter 71 of [The Eminence in Shadow](https://anilist.co/manga/106758) (08:26, 08 February 2025)
--   📖 Read chapter 21 - 22 of [Isekai Cheat Kaitakuki](https://anilist.co/manga/117767) (08:16, 08 February 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
