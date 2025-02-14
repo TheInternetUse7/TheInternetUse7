@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 244 of [Nano Machine](https://anilist.co/manga/120980) (22:21, 12 February 2025)
--   📖 Read chapter 99 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (22:12, 12 February 2025)
--   📖 Read chapter 36 of [Issho ni Kurashite Ii desu ka?](https://anilist.co/manga/159549) (22:06, 12 February 2025)
--   📖 Read chapter 36 - 37 of [The Shiunji Family Children](https://anilist.co/manga/144374) (21:59, 12 February 2025)
--   📖 Read chapter 8 of [Kage no Jitsuryokusha ni Naritakute!: Master of Garden - Shichikage Retsuden](https://anilist.co/manga/179256) (10:21, 12 February 2025)
+-   📖 Read chapter 21 - 25 of [Isekai Cheat Kaitakuki](https://anilist.co/manga/117767) (15:36, 13 February 2025)
+-   📖 Read chapter 333 - 336 of [Eleceed](https://anilist.co/manga/106929) (15:11, 13 February 2025)
+-   📖 Read chapter 59 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (14:56, 13 February 2025)
+-   📖 Read chapter 49 of [Boku wa Kimitachi wo Shihai suru](https://anilist.co/manga/146731) (08:44, 13 February 2025)
+-   📖 Read chapter 244 - 245 of [Nano Machine](https://anilist.co/manga/120980) (05:02, 13 February 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
