@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 21 - 25 of [Isekai Cheat Kaitakuki](https://anilist.co/manga/117767) (15:36, 13 February 2025)
--   📖 Read chapter 333 - 336 of [Eleceed](https://anilist.co/manga/106929) (15:11, 13 February 2025)
--   📖 Read chapter 59 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (14:56, 13 February 2025)
--   📖 Read chapter 49 of [Boku wa Kimitachi wo Shihai suru](https://anilist.co/manga/146731) (08:44, 13 February 2025)
--   📖 Read chapter 244 - 245 of [Nano Machine](https://anilist.co/manga/120980) (05:02, 13 February 2025)
+-   📖 Read chapter 204 of [One-Punch Man](https://anilist.co/manga/74347) (17:30, 14 February 2025)
+-   📖 Read chapter 76 - 77 of [Hajirau Kimi ga Mitainda](https://anilist.co/manga/129225) (17:06, 14 February 2025)
+-   📖 Read chapter 60 of [Isekai NTR: Shinyuu no Onna wo Saikyou Skill de Otosu Houhou](https://anilist.co/manga/115042) (16:57, 14 February 2025)
+-   📖 Read chapter 510 of [Wind Breaker](https://anilist.co/manga/86099) (08:17, 14 February 2025)
+-   📖 Read chapter 24 of [Namaiki na Gal Ane wo Wakaraseru Hanashi](https://anilist.co/manga/179506) (08:11, 14 February 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
