@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 204 of [One-Punch Man](https://anilist.co/manga/74347) (17:30, 14 February 2025)
--   📖 Read chapter 76 - 77 of [Hajirau Kimi ga Mitainda](https://anilist.co/manga/129225) (17:06, 14 February 2025)
--   📖 Read chapter 60 of [Isekai NTR: Shinyuu no Onna wo Saikyou Skill de Otosu Houhou](https://anilist.co/manga/115042) (16:57, 14 February 2025)
--   📖 Read chapter 510 of [Wind Breaker](https://anilist.co/manga/86099) (08:17, 14 February 2025)
--   📖 Read chapter 24 of [Namaiki na Gal Ane wo Wakaraseru Hanashi](https://anilist.co/manga/179506) (08:11, 14 February 2025)
+-   📖 Read chapter 189 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (00:38, 16 February 2025)
+-   📺 Watched episode 7 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (21:37, 15 February 2025)
+-   📺 Plans to watch [Bocchi the Rock! 2nd Season](https://anilist.co/anime/186712) (20:36, 15 February 2025)
+-   📖 Read chapter 255 of [Overgeared](https://anilist.co/manga/117460) (11:14, 15 February 2025)
+-   📖 Read chapter 93 of [Isekai Meikyuu de Harem wo](https://anilist.co/manga/99462) (10:32, 15 February 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
