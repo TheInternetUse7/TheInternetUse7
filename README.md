@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 6 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2](https://anilist.co/anime/172258) (19:59, 16 February 2025)
+-   📖 Read chapter 59 - 60 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (13:04, 16 February 2025)
+-   📖 Read chapter 333 - 337 of [Eleceed](https://anilist.co/manga/106929) (12:56, 16 February 2025)
 -   📖 Read chapter 189 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (00:38, 16 February 2025)
 -   📺 Watched episode 7 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (21:37, 15 February 2025)
--   📺 Plans to watch [Bocchi the Rock! 2nd Season](https://anilist.co/anime/186712) (20:36, 15 February 2025)
--   📖 Read chapter 255 of [Overgeared](https://anilist.co/manga/117460) (11:14, 15 February 2025)
--   📖 Read chapter 93 of [Isekai Meikyuu de Harem wo](https://anilist.co/manga/99462) (10:32, 15 February 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
