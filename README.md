@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 11 of [Jashin Kankin Harem de Isekai Seifuku!](https://anilist.co/manga/176112) (20:27, 18 February 2025)
+-   📺 Watched episode 1 of [Parasyte -the maxim-](https://anilist.co/anime/20623) (18:55, 18 February 2025)
 -   📺 Watched episode 4 - 6 of [Magic Maker: How to Make Magic in Another World](https://anilist.co/anime/179297) (19:14, 17 February 2025)
 -   📖 Read chapter 14 of [My Ideal Life in Another World](https://anilist.co/manga/116963) (05:52, 17 February 2025)
 -   📺 Watched episode 1 - 6 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2](https://anilist.co/anime/172258) (19:59, 16 February 2025)
--   📖 Read chapter 59 - 60 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (13:04, 16 February 2025)
--   📖 Read chapter 333 - 337 of [Eleceed](https://anilist.co/manga/106929) (12:56, 16 February 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
