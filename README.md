@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 22 - 23 of [Seinaru Otome to Himegoto wo](https://anilist.co/manga/181248) (20:32, 21 February 2025)
--   📖 Plans to read [Kitanai Kimi ga Ichiban Kawaii](https://anilist.co/manga/110396) (18:02, 21 February 2025)
--   📖 Read chapter 20 - 21 of [Kokan Musou: Kiraware Yuusha wa Mazoku ni Aisareru](https://anilist.co/manga/142463) (14:23, 21 February 2025)
--   📖 Read chapter 20 - 21 of [Kokan Musou: Kiraware Yuusha wa Mazoku ni Aisareru](https://anilist.co/manga/142463) (14:23, 21 February 2025)
--   📖 Read chapter 244 - 247 of [Nano Machine](https://anilist.co/manga/120980) (21:30, 20 February 2025)
+-   📺 Watched episode 4 - 7 of [Magic Maker: How to Make Magic in Another World](https://anilist.co/anime/179297) (20:42, 22 February 2025)
+-   📺 Watched episode 7 - 8 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (18:40, 22 February 2025)
+-   📖 Plans to read [Rankou de Wakarou!](https://anilist.co/manga/150591) (06:25, 22 February 2025)
+-   📖 Plans to read [Nokosareta Rakuen](https://anilist.co/manga/137790) (06:25, 22 February 2025)
+-   📖 Plans to read [Aizome](https://anilist.co/manga/118360) (06:22, 22 February 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
