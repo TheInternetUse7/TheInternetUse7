@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 4 - 7 of [Magic Maker: How to Make Magic in Another World](https://anilist.co/anime/179297) (20:42, 22 February 2025)
--   📺 Watched episode 7 - 8 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (18:40, 22 February 2025)
--   📖 Plans to read [Rankou de Wakarou!](https://anilist.co/manga/150591) (06:25, 22 February 2025)
--   📖 Plans to read [Nokosareta Rakuen](https://anilist.co/manga/137790) (06:25, 22 February 2025)
--   📖 Plans to read [Aizome](https://anilist.co/manga/118360) (06:22, 22 February 2025)
+-   📖 Read chapter 3764 of [Martial Peak](https://anilist.co/manga/104494) (20:35, 23 February 2025)
+-   📖 Read chapter 338 of [Eleceed](https://anilist.co/manga/106929) (20:32, 23 February 2025)
+-   📖 Completed [Tanaka-kun ga Bokutachi no Mae de Kyoudai Sex Shita Hi no Koto](https://anilist.co/manga/181137) (20:01, 23 February 2025)
+-   📖 Completed [Tanaka-kun ga Bokutachi no Mae de Kyoudai Sex Shita Hi no Koto](https://anilist.co/manga/181137) (20:01, 23 February 2025)
+-   📺 Watched episode 1 - 7 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2](https://anilist.co/anime/172258) (19:06, 23 February 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
