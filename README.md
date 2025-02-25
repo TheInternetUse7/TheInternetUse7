@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 99 - 101 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (19:32, 24 February 2025)
+-   📖 Read chapter 1 - 7 of [Ore wa Lolicon ja Nai!](https://anilist.co/manga/115209) (13:24, 24 February 2025)
+-   📖 Read chapter 20 - 22 of [Kokan Musou: Kiraware Yuusha wa Mazoku ni Aisareru](https://anilist.co/manga/142463) (12:12, 24 February 2025)
+-   📖 Read chapter 37 of [Issho ni Kurashite Ii desu ka?](https://anilist.co/manga/159549) (04:45, 24 February 2025)
 -   📖 Read chapter 3764 of [Martial Peak](https://anilist.co/manga/104494) (20:35, 23 February 2025)
--   📖 Read chapter 338 of [Eleceed](https://anilist.co/manga/106929) (20:32, 23 February 2025)
--   📖 Completed [Tanaka-kun ga Bokutachi no Mae de Kyoudai Sex Shita Hi no Koto](https://anilist.co/manga/181137) (20:01, 23 February 2025)
--   📖 Completed [Tanaka-kun ga Bokutachi no Mae de Kyoudai Sex Shita Hi no Koto](https://anilist.co/manga/181137) (20:01, 23 February 2025)
--   📺 Watched episode 1 - 7 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2](https://anilist.co/anime/172258) (19:06, 23 February 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
