@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 20 - 23 of [Kokan Musou: Kiraware Yuusha wa Mazoku ni Aisareru](https://anilist.co/manga/142463) (03:39, 28 February 2025)
+-   📖 Read chapter 9 of [Imouto wa Kanojo ni Dekinai no ni](https://anilist.co/manga/157136) (03:23, 28 February 2025)
 -   📖 Read chapter 40 - 45 of [The Shiunji Family Children](https://anilist.co/manga/144374) (13:12, 27 February 2025)
 -   📺 Watched episode 4 - 8 of [Magic Maker: How to Make Magic in Another World](https://anilist.co/anime/179297) (20:19, 26 February 2025)
 -   📖 Read chapter 59 - 62 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (21:10, 25 February 2025)
--   📖 Completed [Namaiki Ojou-sama e no Choukyou no Susume](https://anilist.co/manga/164110) (08:35, 25 February 2025)
--   📖 Read chapter 99 - 101 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (19:32, 24 February 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
