@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 9 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (19:31, 01 March 2025)
+-   📖 Read chapter 115 - 125 of [Sextopwatch](https://anilist.co/manga/152411) (07:21, 01 March 2025)
 -   📖 Read chapter 20 - 23 of [Kokan Musou: Kiraware Yuusha wa Mazoku ni Aisareru](https://anilist.co/manga/142463) (03:39, 28 February 2025)
 -   📖 Read chapter 9 of [Imouto wa Kanojo ni Dekinai no ni](https://anilist.co/manga/157136) (03:23, 28 February 2025)
 -   📖 Read chapter 40 - 45 of [The Shiunji Family Children](https://anilist.co/manga/144374) (13:12, 27 February 2025)
--   📺 Watched episode 4 - 8 of [Magic Maker: How to Make Magic in Another World](https://anilist.co/anime/179297) (20:19, 26 February 2025)
--   📖 Read chapter 59 - 62 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (21:10, 25 February 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
