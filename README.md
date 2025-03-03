@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 248 of [Nano Machine](https://anilist.co/manga/120980) (18:41, 02 March 2025)
+-   📖 Read chapter 18 of [A Reincarnated Carrier’s Strategy for Another World](https://anilist.co/manga/167472) (18:28, 02 March 2025)
+-   📖 Read chapter 99 - 102 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (18:20, 02 March 2025)
+-   📖 Read chapter 3764 - 3777 of [Martial Peak](https://anilist.co/manga/104494) (05:03, 02 March 2025)
 -   📺 Watched episode 9 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (19:31, 01 March 2025)
--   📖 Read chapter 115 - 125 of [Sextopwatch](https://anilist.co/manga/152411) (07:21, 01 March 2025)
--   📖 Read chapter 20 - 23 of [Kokan Musou: Kiraware Yuusha wa Mazoku ni Aisareru](https://anilist.co/manga/142463) (03:39, 28 February 2025)
--   📖 Read chapter 9 of [Imouto wa Kanojo ni Dekinai no ni](https://anilist.co/manga/157136) (03:23, 28 February 2025)
--   📖 Read chapter 40 - 45 of [The Shiunji Family Children](https://anilist.co/manga/144374) (13:12, 27 February 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
