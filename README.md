@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 140 - 143 of [Jungle Juice](https://anilist.co/manga/128882) (22:11, 03 March 2025)
--   📺 Watched episode 8 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2](https://anilist.co/anime/172258) (19:03, 03 March 2025)
--   📖 Read chapter 248 of [Nano Machine](https://anilist.co/manga/120980) (18:41, 02 March 2025)
--   📖 Read chapter 18 of [A Reincarnated Carrier’s Strategy for Another World](https://anilist.co/manga/167472) (18:28, 02 March 2025)
--   📖 Read chapter 99 - 102 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (18:20, 02 March 2025)
+-   📖 Read chapter 17 - 18 of [SO-EUN for All](https://anilist.co/manga/179218) (20:52, 04 March 2025)
+-   📖 Read chapter 26 - 27 of [Reincarnation Coliseum: The Weakest Skill Conquers the Strongest Women and Creates a Harem](https://anilist.co/manga/152284) (20:50, 04 March 2025)
+-   📖 Read chapter 15 of [My Ideal Life in Another World](https://anilist.co/manga/116963) (08:30, 04 March 2025)
+-   📖 Read chapter 29 of [Gokusotsu Kraken](https://anilist.co/manga/152815) (08:10, 04 March 2025)
+-   📖 Read chapter 21 of [Isekai Cheat Kaitakuki](https://anilist.co/manga/117767) (08:02, 04 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
