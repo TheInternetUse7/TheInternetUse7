@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 of [Parasyte -the maxim-](https://anilist.co/anime/20623) (19:20, 07 March 2025)
 -   📖 Read chapter 8 of [Akuyaku Reijou desu ga, Watashi wo Anata no Seidorei ni Shite Kudasai!](https://anilist.co/manga/171022) (18:44, 06 March 2025)
 -   📺 Plans to watch [Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita](https://anilist.co/anime/180829) (18:37, 06 March 2025)
 -   📖 Read chapter 246 - 247 of [Omniscient Reader](https://anilist.co/manga/119257) (10:30, 06 March 2025)
 -   📖 Read chapter 32 - 34 of [Only With Consent](https://anilist.co/manga/128789) (18:08, 05 March 2025)
--   📖 Read chapter 17 - 20 of [SO-EUN for All](https://anilist.co/manga/179218) (09:20, 05 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
