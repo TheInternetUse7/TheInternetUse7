@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 10 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (20:02, 08 March 2025)
--   📺 Watched episode 2 - 4 of [Parasyte -the maxim-](https://anilist.co/anime/20623) (18:54, 08 March 2025)
--   📺 Watched episode 1 of [Terror in Resonance](https://anilist.co/anime/20661) (08:11, 08 March 2025)
--   📖 Plans to read [JC Saimin de Seikyouiku](https://anilist.co/manga/127590) (06:50, 08 March 2025)
--   📖 Plans to read [Hen Koi!: Yuuhi no Ochiru Jikan](https://anilist.co/manga/44491) (04:20, 08 March 2025)
+-   📖 Read chapter 17 - 21 of [SO-EUN for All](https://anilist.co/manga/179218) (16:08, 09 March 2025)
+-   📖 Read chapter 8 - 21 of [Ore wa Lolicon ja Nai!](https://anilist.co/manga/115209) (06:45, 09 March 2025)
+-   📖 Read chapter 339 - 340 of [Eleceed](https://anilist.co/manga/106929) (06:07, 09 March 2025)
+-   📖 Read chapter 78 of [Hajirau Kimi ga Mitainda](https://anilist.co/manga/129225) (04:50, 09 March 2025)
+-   📖 Read chapter 8 - 10 of [Akuyaku Reijou desu ga, Watashi wo Anata no Seidorei ni Shite Kudasai!](https://anilist.co/manga/171022) (04:44, 09 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
