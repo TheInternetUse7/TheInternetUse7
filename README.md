@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Moonrise](https://anilist.co/anime/150654) (07:52, 10 March 2025)
 -   📖 Read chapter 17 - 21 of [SO-EUN for All](https://anilist.co/manga/179218) (16:08, 09 March 2025)
 -   📖 Read chapter 8 - 21 of [Ore wa Lolicon ja Nai!](https://anilist.co/manga/115209) (06:45, 09 March 2025)
 -   📖 Read chapter 339 - 340 of [Eleceed](https://anilist.co/manga/106929) (06:07, 09 March 2025)
 -   📖 Read chapter 78 of [Hajirau Kimi ga Mitainda](https://anilist.co/manga/129225) (04:50, 09 March 2025)
--   📖 Read chapter 8 - 10 of [Akuyaku Reijou desu ga, Watashi wo Anata no Seidorei ni Shite Kudasai!](https://anilist.co/manga/171022) (04:44, 09 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
