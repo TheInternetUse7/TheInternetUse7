@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 249 of [Nano Machine](https://anilist.co/manga/120980) (20:52, 11 March 2025)
+-   📖 Read chapter 9 of [Kage no Jitsuryokusha ni Naritakute!: Master of Garden - Shichikage Retsuden](https://anilist.co/manga/179256) (04:54, 11 March 2025)
+-   📖 Read chapter 38 of [Issho ni Kurashite Ii desu ka?](https://anilist.co/manga/159549) (04:46, 11 March 2025)
+-   📖 Read chapter 103 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (04:42, 11 March 2025)
 -   📺 Plans to watch [Moonrise](https://anilist.co/anime/150654) (07:52, 10 March 2025)
--   📖 Read chapter 17 - 21 of [SO-EUN for All](https://anilist.co/manga/179218) (16:08, 09 March 2025)
--   📖 Read chapter 8 - 21 of [Ore wa Lolicon ja Nai!](https://anilist.co/manga/115209) (06:45, 09 March 2025)
--   📖 Read chapter 339 - 340 of [Eleceed](https://anilist.co/manga/106929) (06:07, 09 March 2025)
--   📖 Read chapter 78 of [Hajirau Kimi ga Mitainda](https://anilist.co/manga/129225) (04:50, 09 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
