@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 50 of [Boku wa Kimitachi wo Shihai suru](https://anilist.co/manga/146731) (17:02, 17 March 2025)
+-   📖 Read chapter 149 - 150 of [Jungle Juice](https://anilist.co/manga/128882) (14:15, 17 March 2025)
+-   📖 Read chapter 12 of [Jashin Kankin Harem de Isekai Seifuku!](https://anilist.co/manga/176112) (09:15, 17 March 2025)
+-   📖 Read chapter 103 - 104 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (09:12, 17 March 2025)
 -   📖 Read chapter 249 - 250 of [Nano Machine](https://anilist.co/manga/120980) (06:43, 16 March 2025)
--   📺 Watched episode 10 - 11 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (19:44, 15 March 2025)
--   📖 Read chapter 3778 - 3791 of [Martial Peak](https://anilist.co/manga/104494) (05:19, 15 March 2025)
--   📖 Read chapter 46 of [The Shiunji Family Children](https://anilist.co/manga/144374) (03:57, 14 March 2025)
--   📺 Watched episode 9 of [Magic Maker: How to Make Magic in Another World](https://anilist.co/anime/179297) (20:53, 13 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
