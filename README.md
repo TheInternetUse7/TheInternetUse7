@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 of [Joban de Shinu Saikyou no Sub Chara ni Tensei Shita no de, Game Chishiki de Musou Suru](https://anilist.co/manga/186897) (19:48, 18 March 2025)
+-   📖 Plans to read [Joban de Shinu Saikyou no Sub Chara ni Tensei Shita no de, Game Chishiki de Musou Suru](https://anilist.co/manga/186897) (17:28, 18 March 2025)
+-   📺 Watched episode 9 - 10 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2](https://anilist.co/anime/172258) (16:46, 18 March 2025)
 -   📖 Read chapter 50 of [Boku wa Kimitachi wo Shihai suru](https://anilist.co/manga/146731) (17:02, 17 March 2025)
 -   📖 Read chapter 149 - 150 of [Jungle Juice](https://anilist.co/manga/128882) (14:15, 17 March 2025)
--   📖 Read chapter 12 of [Jashin Kankin Harem de Isekai Seifuku!](https://anilist.co/manga/176112) (09:15, 17 March 2025)
--   📖 Read chapter 103 - 104 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (09:12, 17 March 2025)
--   📖 Read chapter 249 - 250 of [Nano Machine](https://anilist.co/manga/120980) (06:43, 16 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
