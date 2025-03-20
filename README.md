@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 of [Joban de Shinu Saikyou no Sub Chara ni Tensei Shita no de, Game Chishiki de Musou Suru](https://anilist.co/manga/186897) (19:48, 18 March 2025)
+-   📺 Watched episode 9 of [My Deer Friend Nokotan](https://anilist.co/anime/175977) (15:05, 19 March 2025)
+-   📖 Read chapter 1 - 2 of [Joban de Shinu Saikyou no Sub Chara ni Tensei Shita no de, Game Chishiki de Musou Suru](https://anilist.co/manga/186897) (09:53, 19 March 2025)
+-   📖 Read chapter 7 of [Boukensha ni Narenakatta Ore, Skill "Oppai Kyousei" de Nayameru Ano Ko wo Hitodasuke!? ](https://anilist.co/manga/172559) (09:47, 19 March 2025)
 -   📖 Plans to read [Joban de Shinu Saikyou no Sub Chara ni Tensei Shita no de, Game Chishiki de Musou Suru](https://anilist.co/manga/186897) (17:28, 18 March 2025)
 -   📺 Watched episode 9 - 10 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2](https://anilist.co/anime/172258) (16:46, 18 March 2025)
--   📖 Read chapter 50 of [Boku wa Kimitachi wo Shihai suru](https://anilist.co/manga/146731) (17:02, 17 March 2025)
--   📖 Read chapter 149 - 150 of [Jungle Juice](https://anilist.co/manga/128882) (14:15, 17 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
