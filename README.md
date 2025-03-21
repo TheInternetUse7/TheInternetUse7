@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 9 of [My Deer Friend Nokotan](https://anilist.co/anime/175977) (15:05, 19 March 2025)
--   📖 Read chapter 1 - 2 of [Joban de Shinu Saikyou no Sub Chara ni Tensei Shita no de, Game Chishiki de Musou Suru](https://anilist.co/manga/186897) (09:53, 19 March 2025)
--   📖 Read chapter 7 of [Boukensha ni Narenakatta Ore, Skill "Oppai Kyousei" de Nayameru Ano Ko wo Hitodasuke!? ](https://anilist.co/manga/172559) (09:47, 19 March 2025)
--   📖 Plans to read [Joban de Shinu Saikyou no Sub Chara ni Tensei Shita no de, Game Chishiki de Musou Suru](https://anilist.co/manga/186897) (17:28, 18 March 2025)
--   📺 Watched episode 9 - 10 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2](https://anilist.co/anime/172258) (16:46, 18 March 2025)
+-   📖 Completed [Onozuka-senpai wa Warui Hito](https://anilist.co/manga/183883) (17:49, 20 March 2025)
+-   📖 Plans to read [Himitsu no GalShota](https://anilist.co/manga/127471) (10:30, 20 March 2025)
+-   📖 Read chapter 3778 - 3820 of [Martial Peak](https://anilist.co/manga/104494) (08:52, 20 March 2025)
+-   📖 Read chapter 24 of [Kokan Musou: Kiraware Yuusha wa Mazoku ni Aisareru](https://anilist.co/manga/142463) (05:10, 20 March 2025)
+-   📖 Read chapter 249 - 251 of [Nano Machine](https://anilist.co/manga/120980) (05:01, 20 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
