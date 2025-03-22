@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 3778 - 3824 of [Martial Peak](https://anilist.co/manga/104494) (22:11, 21 March 2025)
+-   📖 Read chapter 342 of [Eleceed](https://anilist.co/manga/106929) (22:01, 21 March 2025)
+-   📺 Watched episode 9 - 10 of [My Deer Friend Nokotan](https://anilist.co/anime/175977) (20:53, 21 March 2025)
+-   📖 Read chapter 10 of [Imouto wa Kanojo ni Dekinai no ni](https://anilist.co/manga/157136) (09:59, 21 March 2025)
 -   📖 Completed [Onozuka-senpai wa Warui Hito](https://anilist.co/manga/183883) (17:49, 20 March 2025)
--   📖 Plans to read [Himitsu no GalShota](https://anilist.co/manga/127471) (10:30, 20 March 2025)
--   📖 Read chapter 3778 - 3820 of [Martial Peak](https://anilist.co/manga/104494) (08:52, 20 March 2025)
--   📖 Read chapter 24 of [Kokan Musou: Kiraware Yuusha wa Mazoku ni Aisareru](https://anilist.co/manga/142463) (05:10, 20 March 2025)
--   📖 Read chapter 249 - 251 of [Nano Machine](https://anilist.co/manga/120980) (05:01, 20 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
