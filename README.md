@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 3778 - 3824 of [Martial Peak](https://anilist.co/manga/104494) (22:11, 21 March 2025)
--   📖 Read chapter 342 of [Eleceed](https://anilist.co/manga/106929) (22:01, 21 March 2025)
--   📺 Watched episode 9 - 10 of [My Deer Friend Nokotan](https://anilist.co/anime/175977) (20:53, 21 March 2025)
--   📖 Read chapter 10 of [Imouto wa Kanojo ni Dekinai no ni](https://anilist.co/manga/157136) (09:59, 21 March 2025)
--   📖 Completed [Onozuka-senpai wa Warui Hito](https://anilist.co/manga/183883) (17:49, 20 March 2025)
+-   📖 Read chapter 22 - 28 of [Ore wa Lolicon ja Nai!](https://anilist.co/manga/115209) (21:06, 22 March 2025)
+-   📖 Read chapter 149 - 151 of [Jungle Juice](https://anilist.co/manga/128882) (21:04, 22 March 2025)
+-   📺 Watched episode 10 - 12 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (17:07, 22 March 2025)
+-   📖 Read chapter 1 - 5 of [Joban de Shinu Saikyou no Sub Chara ni Tensei Shita no de, Game Chishiki de Musou Suru](https://anilist.co/manga/186897) (05:14, 22 March 2025)
+-   📖 Completed [Himitsu no GalShota Summer ](https://anilist.co/manga/150558) (04:53, 22 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
