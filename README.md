@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 248 - 250 of [Omniscient Reader](https://anilist.co/manga/119257) (20:24, 23 March 2025)
--   📖 Read chapter 25 of [Isekai Cheat Kaitakuki](https://anilist.co/manga/117767) (10:51, 23 March 2025)
--   📖 Completed [Nokosareta Rakuen](https://anilist.co/manga/137790) (08:38, 23 March 2025)
--   📖 Read chapter 22 - 28 of [Ore wa Lolicon ja Nai!](https://anilist.co/manga/115209) (21:06, 22 March 2025)
--   📖 Read chapter 149 - 151 of [Jungle Juice](https://anilist.co/manga/128882) (21:04, 22 March 2025)
+-   📖 Read chapter 248 - 252 of [Omniscient Reader](https://anilist.co/manga/119257) (18:59, 24 March 2025)
+-   📖 Read chapter 105 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (18:54, 24 March 2025)
+-   📖 Plans to read [Kaede & Suzu](https://anilist.co/manga/110325) (18:41, 24 March 2025)
+-   📖 Plans to read [Lovely](https://anilist.co/manga/110334) (18:32, 24 March 2025)
+-   📺 Plans to watch [Swing Out Sisters](https://anilist.co/anime/12143) (18:31, 24 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
