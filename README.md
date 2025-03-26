@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 248 - 252 of [Omniscient Reader](https://anilist.co/manga/119257) (18:59, 24 March 2025)
--   📖 Read chapter 105 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (18:54, 24 March 2025)
--   📖 Plans to read [Kaede & Suzu](https://anilist.co/manga/110325) (18:41, 24 March 2025)
--   📖 Plans to read [Lovely](https://anilist.co/manga/110334) (18:32, 24 March 2025)
--   📺 Plans to watch [Swing Out Sisters](https://anilist.co/anime/12143) (18:31, 24 March 2025)
+-   📖 Read chapter 65 - 66 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (10:20, 25 March 2025)
+-   📖 Completed [Kurokami Onna no Fudeoroshi: Himitsu no Heya de Nakadashi Sasete Ageru wa](https://anilist.co/manga/178270) (04:56, 25 March 2025)
+-   📖 Completed [Better than fiction](https://anilist.co/manga/170266) (04:52, 25 March 2025)
+-   📖 Read chapter 248 - 254 of [Omniscient Reader](https://anilist.co/manga/119257) (04:46, 25 March 2025)
+-   📖 Read chapter 17 of [Otoko Girai na Bijin Shimai wo Namae mo Tsugezu ni Tasuketara Ittai Dounaru?](https://anilist.co/manga/163004) (04:39, 25 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
