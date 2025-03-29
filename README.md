@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 38 of [Solo Leveling: Ragnarok](https://anilist.co/manga/179445) (19:51, 27 March 2025)
+-   📖 Read chapter 17 - 18 of [Otoko Girai na Bijin Shimai wo Namae mo Tsugezu ni Tasuketara Ittai Dounaru?](https://anilist.co/manga/163004) (21:18, 28 March 2025)
+-   📖 Read chapter 79 of [Hajirau Kimi ga Mitainda](https://anilist.co/manga/129225) (20:39, 28 March 2025)
+-   📖 Read chapter 38 - 39 of [Solo Leveling: Ragnarok](https://anilist.co/manga/179445) (20:36, 28 March 2025)
 -   📖 Read chapter 22 - 33 of [Ore wa Lolicon ja Nai!](https://anilist.co/manga/115209) (04:53, 27 March 2025)
 -   📖 Read chapter 39 of [Issho ni Kurashite Ii desu ka?](https://anilist.co/manga/159549) (04:35, 27 March 2025)
--   📖 Read chapter 25 of [Betrayed by the Hero, I Formed a MILF Party with His Mom](https://anilist.co/manga/159187) (04:28, 27 March 2025)
--   📖 Read chapter 25 of [Betrayed by the Hero, I Formed a MILF Party with His Mom](https://anilist.co/manga/159187) (04:28, 27 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
