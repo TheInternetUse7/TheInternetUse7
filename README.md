@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Completed [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (18:05, 29 March 2025)
--   📖 Read chapter 17 - 18 of [Otoko Girai na Bijin Shimai wo Namae mo Tsugezu ni Tasuketara Ittai Dounaru?](https://anilist.co/manga/163004) (21:18, 28 March 2025)
--   📖 Read chapter 79 of [Hajirau Kimi ga Mitainda](https://anilist.co/manga/129225) (20:39, 28 March 2025)
--   📖 Read chapter 38 - 39 of [Solo Leveling: Ragnarok](https://anilist.co/manga/179445) (20:36, 28 March 2025)
--   📖 Read chapter 22 - 33 of [Ore wa Lolicon ja Nai!](https://anilist.co/manga/115209) (04:53, 27 March 2025)
+-   📺 Completed [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2](https://anilist.co/anime/172258) (20:10, 30 March 2025)
+-   📖 Read chapter 1 of [Shinchou-sa Max Fuufu](https://anilist.co/manga/167915) (13:30, 30 March 2025)
+-   📖 Completed [Momoka no Koi](https://anilist.co/manga/142491) (13:27, 30 March 2025)
+-   📖 Completed [Rankou de Wakarou!](https://anilist.co/manga/150591) (13:21, 30 March 2025)
+-   📖 Read chapter 3 of [Rankou de Wakarou!](https://anilist.co/manga/150591) (13:05, 30 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
