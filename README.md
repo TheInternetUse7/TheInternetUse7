@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [The Hero Violating the Girls](https://anilist.co/manga/172285) (20:17, 01 April 2025)
+-   📺 Watched episode 11 of [My Deer Friend Nokotan](https://anilist.co/anime/175977) (13:58, 01 April 2025)
+-   📖 Read chapter 106 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (05:01, 01 April 2025)
+-   📖 Read chapter 47 of [The Shiunji Family Children](https://anilist.co/manga/144374) (04:48, 01 April 2025)
 -   📺 Completed [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2](https://anilist.co/anime/172258) (20:10, 30 March 2025)
--   📖 Read chapter 1 of [Shinchou-sa Max Fuufu](https://anilist.co/manga/167915) (13:30, 30 March 2025)
--   📖 Completed [Momoka no Koi](https://anilist.co/manga/142491) (13:27, 30 March 2025)
--   📖 Completed [Rankou de Wakarou!](https://anilist.co/manga/150591) (13:21, 30 March 2025)
--   📖 Read chapter 3 of [Rankou de Wakarou!](https://anilist.co/manga/150591) (13:05, 30 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
