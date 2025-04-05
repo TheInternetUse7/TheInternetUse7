@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 72 of [The Eminence in Shadow](https://anilist.co/manga/106758) (04:41, 04 April 2025)
+-   📖 Read chapter 24 - 26 of [Seinaru Otome to Himegoto wo](https://anilist.co/manga/181248) (04:31, 04 April 2025)
+-   📖 Read chapter 253 of [Nano Machine](https://anilist.co/manga/120980) (04:22, 04 April 2025)
 -   📺 Watched episode 5 - 6 of [Parasyte -the maxim-](https://anilist.co/anime/20623) (17:49, 02 April 2025)
--   📖 Read chapter 24 of [Seinaru Otome to Himegoto wo](https://anilist.co/manga/181248) (08:52, 02 April 2025)
 -   📖 Read chapter 152 of [Jungle Juice](https://anilist.co/manga/128882) (08:47, 02 April 2025)
--   📺 Completed [My Deer Friend Nokotan](https://anilist.co/anime/175977) (07:23, 02 April 2025)
--   📖 Read chapter 255 of [Omniscient Reader](https://anilist.co/manga/119257) (04:08, 02 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
