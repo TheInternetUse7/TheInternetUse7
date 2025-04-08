@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 106 - 107 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (19:38, 06 April 2025)
--   📺 Watched episode 1 of [Yandere Dark Elf: She Chased Me All the Way From Another World!](https://anilist.co/anime/180829) (19:10, 06 April 2025)
--   📺 Watched episode 5 - 11 of [Parasyte -the maxim-](https://anilist.co/anime/20623) (18:13, 06 April 2025)
--   📖 Read chapter 72 of [The Eminence in Shadow](https://anilist.co/manga/106758) (04:41, 04 April 2025)
--   📖 Read chapter 24 - 26 of [Seinaru Otome to Himegoto wo](https://anilist.co/manga/181248) (04:31, 04 April 2025)
+-   📺 Watched episode 5 - 12 of [Parasyte -the maxim-](https://anilist.co/anime/20623) (13:41, 07 April 2025)
+-   📖 Read chapter 42 - 43 of [Solo Leveling: Ragnarok](https://anilist.co/manga/179445) (11:31, 07 April 2025)
+-   📖 Read chapter 25 of [Kokan Musou: Kiraware Yuusha wa Mazoku ni Aisareru](https://anilist.co/manga/142463) (05:05, 07 April 2025)
+-   📖 Read chapter 67 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (05:05, 07 April 2025)
+-   📖 Read chapter 40 of [Issho ni Kurashite Ii desu ka?](https://anilist.co/manga/159549) (05:04, 07 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
