@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 5 - 12 of [Parasyte -the maxim-](https://anilist.co/anime/20623) (13:41, 07 April 2025)
--   📖 Read chapter 42 - 43 of [Solo Leveling: Ragnarok](https://anilist.co/manga/179445) (11:31, 07 April 2025)
--   📖 Read chapter 25 of [Kokan Musou: Kiraware Yuusha wa Mazoku ni Aisareru](https://anilist.co/manga/142463) (05:05, 07 April 2025)
--   📖 Read chapter 67 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (05:05, 07 April 2025)
--   📖 Read chapter 40 of [Issho ni Kurashite Ii desu ka?](https://anilist.co/manga/159549) (05:04, 07 April 2025)
+-   📖 Read chapter 42 - 47 of [Solo Leveling: Ragnarok](https://anilist.co/manga/179445) (21:44, 08 April 2025)
+-   📖 Read chapter 10 of [Kage no Jitsuryokusha ni Naritakute!: Master of Garden - Shichikage Retsuden](https://anilist.co/manga/179256) (21:33, 08 April 2025)
+-   📖 Read chapter 67 - 68 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (21:29, 08 April 2025)
+-   📖 Read chapter 343 - 344 of [Eleceed](https://anilist.co/manga/106929) (21:20, 08 April 2025)
+-   📖 Read chapter 152 - 153 of [Jungle Juice](https://anilist.co/manga/128882) (04:43, 08 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
