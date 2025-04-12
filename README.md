@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Date A Live (Shin Project)](https://anilist.co/anime/190244) (17:18, 11 April 2025)
 -   📖 Read chapter 343 - 345 of [Eleceed](https://anilist.co/manga/106929) (22:35, 10 April 2025)
 -   📖 Read chapter 26 - 27 of [SO-EUN for All](https://anilist.co/manga/179218) (08:29, 10 April 2025)
 -   📺 Watched episode 5 - 17 of [Parasyte -the maxim-](https://anilist.co/anime/20623) (21:11, 09 April 2025)
 -   📖 Read chapter 34 - 35 of [Ore wa Lolicon ja Nai!](https://anilist.co/manga/115209) (04:20, 09 April 2025)
--   📖 Read chapter 42 - 47 of [Solo Leveling: Ragnarok](https://anilist.co/manga/179445) (21:44, 08 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
