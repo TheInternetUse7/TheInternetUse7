@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 5 - 22 of [Parasyte -the maxim-](https://anilist.co/anime/20623) (20:37, 12 April 2025)
--   📺 Plans to watch [Date A Live (Shin Project)](https://anilist.co/anime/190244) (17:18, 11 April 2025)
--   📖 Read chapter 343 - 345 of [Eleceed](https://anilist.co/manga/106929) (22:35, 10 April 2025)
--   📖 Read chapter 26 - 27 of [SO-EUN for All](https://anilist.co/manga/179218) (08:29, 10 April 2025)
--   📖 Read chapter 34 - 35 of [Ore wa Lolicon ja Nai!](https://anilist.co/manga/115209) (04:20, 09 April 2025)
+-   📖 Read chapter 61 of [Isekai NTR: Shinyuu no Onna wo Saikyou Skill de Otosu Houhou](https://anilist.co/manga/115042) (19:52, 13 April 2025)
+-   📖 Read chapter 20 of [A Reincarnated Carrier’s Strategy for Another World](https://anilist.co/manga/167472) (19:46, 13 April 2025)
+-   📺 Completed [Parasyte -the maxim-](https://anilist.co/anime/20623) (14:34, 13 April 2025)
+-   📺 Watched episode 5 - 23 of [Parasyte -the maxim-](https://anilist.co/anime/20623) (13:01, 13 April 2025)
+-   📖 Read chapter 8 - 10 of [Boukensha ni Narenakatta Ore, Skill "Oppai Kyousei" de Nayameru Ano Ko wo Hitodasuke!? ](https://anilist.co/manga/172559) (05:19, 13 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
