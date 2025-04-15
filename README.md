@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 61 of [Isekai NTR: Shinyuu no Onna wo Saikyou Skill de Otosu Houhou](https://anilist.co/manga/115042) (19:52, 13 April 2025)
--   📖 Read chapter 20 of [A Reincarnated Carrier’s Strategy for Another World](https://anilist.co/manga/167472) (19:46, 13 April 2025)
--   📺 Completed [Parasyte -the maxim-](https://anilist.co/anime/20623) (14:34, 13 April 2025)
--   📺 Watched episode 5 - 23 of [Parasyte -the maxim-](https://anilist.co/anime/20623) (13:01, 13 April 2025)
--   📖 Read chapter 8 - 10 of [Boukensha ni Narenakatta Ore, Skill "Oppai Kyousei" de Nayameru Ano Ko wo Hitodasuke!? ](https://anilist.co/manga/172559) (05:19, 13 April 2025)
+-   📖 Read chapter 48 of [The Shiunji Family Children](https://anilist.co/manga/144374) (12:03, 14 April 2025)
+-   📖 Read chapter 9 of [Futago Matomete "Kanojo" ni Shinai?](https://anilist.co/manga/177186) (11:51, 14 April 2025)
+-   📖 Read chapter 108 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (11:35, 14 April 2025)
+-   📺 Watched episode 2 of [Yandere Dark Elf: She Chased Me All the Way From Another World!](https://anilist.co/anime/180829) (10:55, 14 April 2025)
+-   📖 Read chapter 255 - 257 of [Omniscient Reader](https://anilist.co/manga/119257) (05:06, 14 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
