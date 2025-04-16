@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 69 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (21:43, 15 April 2025)
+-   📖 Read chapter 26 - 30 of [SO-EUN for All](https://anilist.co/manga/179218) (17:50, 15 April 2025)
 -   📖 Read chapter 48 of [The Shiunji Family Children](https://anilist.co/manga/144374) (12:03, 14 April 2025)
 -   📖 Read chapter 9 of [Futago Matomete "Kanojo" ni Shinai?](https://anilist.co/manga/177186) (11:51, 14 April 2025)
 -   📖 Read chapter 108 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (11:35, 14 April 2025)
--   📺 Watched episode 2 of [Yandere Dark Elf: She Chased Me All the Way From Another World!](https://anilist.co/anime/180829) (10:55, 14 April 2025)
--   📖 Read chapter 255 - 257 of [Omniscient Reader](https://anilist.co/manga/119257) (05:06, 14 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
