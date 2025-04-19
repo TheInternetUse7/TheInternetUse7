@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 26 - 32 of [SO-EUN for All](https://anilist.co/manga/179218) (20:24, 17 April 2025)
--   📺 Watched episode 4 of [Cowboy Bebop](https://anilist.co/anime/1) (19:40, 17 April 2025)
--   📖 Read chapter 343 - 346 of [Eleceed](https://anilist.co/manga/106929) (18:50, 16 April 2025)
--   📺 Watched episode 11 of [Magic Maker: How to Make Magic in Another World](https://anilist.co/anime/179297) (18:42, 16 April 2025)
--   📖 Read chapter 69 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (21:43, 15 April 2025)
+-   📺 Completed [Magic Maker: How to Make Magic in Another World](https://anilist.co/anime/179297) (09:09, 18 April 2025)
+-   📖 Read chapter 8 - 13 of [Boukensha ni Narenakatta Ore, Skill "Oppai Kyousei" de Nayameru Ano Ko wo Hitodasuke!? ](https://anilist.co/manga/172559) (07:07, 18 April 2025)
+-   📖 Read chapter 1 - 10 of ["Shop" Skill Sae Areba, Dungeon-ka Shita Sekai demo Rakushou da: Hakugai Sareta Shounen no Saikyou Zamaa Life](https://anilist.co/manga/155974) (06:51, 18 April 2025)
+-   📖 Plans to read ["Shop" Skill Sae Areba, Dungeon-ka Shita Sekai demo Rakushou da: Hakugai Sareta Shounen no Saikyou Zamaa Life](https://anilist.co/manga/155974) (05:01, 18 April 2025)
+-   📖 Read chapter 254 - 255 of [Nano Machine](https://anilist.co/manga/120980) (04:55, 18 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
