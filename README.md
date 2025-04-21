@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 15 of ["Shop" Skill Sae Areba, Dungeon-ka Shita Sekai demo Rakushou da: Hakugai Sareta Shounen no Saikyou Zamaa Life](https://anilist.co/manga/155974) (20:39, 19 April 2025)
+-   📖 Plans to read [Haikei, Tengoku no Nee-san, Yuusha ni Natta Mei ga Ero Sugite ── Ojisan, Hogosha Toka Sorosoro Muri desu Plus](https://anilist.co/manga/187654) (18:14, 20 April 2025)
+-   📖 Read chapter 1 - 26 of ["Shop" Skill Sae Areba, Dungeon-ka Shita Sekai demo Rakushou da: Hakugai Sareta Shounen no Saikyou Zamaa Life](https://anilist.co/manga/155974) (12:22, 20 April 2025)
 -   📖 Plans to read [Cong Goblin Dao Goblin Shen](https://anilist.co/manga/181545) (18:10, 19 April 2025)
 -   📺 Completed [Magic Maker: How to Make Magic in Another World](https://anilist.co/anime/179297) (09:09, 18 April 2025)
 -   📖 Read chapter 8 - 13 of [Boukensha ni Narenakatta Ore, Skill "Oppai Kyousei" de Nayameru Ano Ko wo Hitodasuke!? ](https://anilist.co/manga/172559) (07:07, 18 April 2025)
--   📖 Plans to read ["Shop" Skill Sae Areba, Dungeon-ka Shita Sekai demo Rakushou da: Hakugai Sareta Shounen no Saikyou Zamaa Life](https://anilist.co/manga/155974) (05:01, 18 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
