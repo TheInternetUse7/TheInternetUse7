@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 3826 - 3827 of [Martial Peak](https://anilist.co/manga/104494) (09:31, 21 April 2025)
+-   📖 Read chapter 108 - 109 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (05:44, 21 April 2025)
+-   📺 Watched episode 2 - 3 of [Yandere Dark Elf: She Chased Me All the Way From Another World!](https://anilist.co/anime/180829) (04:13, 21 April 2025)
 -   📖 Plans to read [Haikei, Tengoku no Nee-san, Yuusha ni Natta Mei ga Ero Sugite ── Ojisan, Hogosha Toka Sorosoro Muri desu Plus](https://anilist.co/manga/187654) (18:14, 20 April 2025)
 -   📖 Read chapter 1 - 26 of ["Shop" Skill Sae Areba, Dungeon-ka Shita Sekai demo Rakushou da: Hakugai Sareta Shounen no Saikyou Zamaa Life](https://anilist.co/manga/155974) (12:22, 20 April 2025)
--   📖 Plans to read [Cong Goblin Dao Goblin Shen](https://anilist.co/manga/181545) (18:10, 19 April 2025)
--   📺 Completed [Magic Maker: How to Make Magic in Another World](https://anilist.co/anime/179297) (09:09, 18 April 2025)
--   📖 Read chapter 8 - 13 of [Boukensha ni Narenakatta Ore, Skill "Oppai Kyousei" de Nayameru Ano Ko wo Hitodasuke!? ](https://anilist.co/manga/172559) (07:07, 18 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
