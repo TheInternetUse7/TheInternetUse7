@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 3826 - 3827 of [Martial Peak](https://anilist.co/manga/104494) (09:31, 21 April 2025)
--   📖 Read chapter 108 - 109 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (05:44, 21 April 2025)
--   📺 Watched episode 2 - 3 of [Yandere Dark Elf: She Chased Me All the Way From Another World!](https://anilist.co/anime/180829) (04:13, 21 April 2025)
--   📖 Plans to read [Haikei, Tengoku no Nee-san, Yuusha ni Natta Mei ga Ero Sugite ── Ojisan, Hogosha Toka Sorosoro Muri desu Plus](https://anilist.co/manga/187654) (18:14, 20 April 2025)
--   📖 Read chapter 1 - 26 of ["Shop" Skill Sae Areba, Dungeon-ka Shita Sekai demo Rakushou da: Hakugai Sareta Shounen no Saikyou Zamaa Life](https://anilist.co/manga/155974) (12:22, 20 April 2025)
+-   📖 Read chapter 3826 - 3830 of [Martial Peak](https://anilist.co/manga/104494) (06:35, 22 April 2025)
+-   📖 Read chapter 8 - 14 of [Boukensha ni Narenakatta Ore, Skill "Oppai Kyousei" de Nayameru Ano Ko wo Hitodasuke!? ](https://anilist.co/manga/172559) (06:30, 22 April 2025)
+-   📖 Read chapter 69 - 70 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (06:23, 22 April 2025)
+-   📖 Read chapter 62 of [Isekai NTR: Shinyuu no Onna wo Saikyou Skill de Otosu Houhou](https://anilist.co/manga/115042) (06:17, 22 April 2025)
+-   📖 Read chapter 2 of [Hiten no Asuka: Isekai no Shoujo ni Saikyou Hougu Ataeta Kekka](https://anilist.co/manga/150518) (06:02, 22 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
