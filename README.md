@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 3 of [Rebel Hero: I Will Use My Skills to Control the Scheming Princess’s Heart and Body](https://anilist.co/manga/167759) (09:27, 24 April 2025)
+-   📖 Read chapter 258 - 259 of [Omniscient Reader](https://anilist.co/manga/119257) (08:53, 24 April 2025)
+-   📖 Read chapter 26 of [Isekai Cheat Kaitakuki](https://anilist.co/manga/117767) (08:47, 24 April 2025)
+-   📖 Read chapter 347 of [Eleceed](https://anilist.co/manga/106929) (04:48, 24 April 2025)
 -   📖 Read chapter 1 - 8 of [Haikei, Tengoku no Nee-san, Yuusha ni Natta Mei ga Ero Sugite ── Ojisan, Hogosha Toka Sorosoro Muri desu Plus](https://anilist.co/manga/187654) (07:36, 23 April 2025)
--   📖 Read chapter 3826 - 3830 of [Martial Peak](https://anilist.co/manga/104494) (06:35, 22 April 2025)
--   📖 Read chapter 8 - 14 of [Boukensha ni Narenakatta Ore, Skill "Oppai Kyousei" de Nayameru Ano Ko wo Hitodasuke!? ](https://anilist.co/manga/172559) (06:30, 22 April 2025)
--   📖 Read chapter 69 - 70 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (06:23, 22 April 2025)
--   📖 Read chapter 62 of [Isekai NTR: Shinyuu no Onna wo Saikyou Skill de Otosu Houhou](https://anilist.co/manga/115042) (06:17, 22 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
