@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [TS☆Revolution](https://anilist.co/manga/131162) (06:33, 26 April 2025)
 -   📖 Read chapter 1 - 3 of [Rebel Hero: I Will Use My Skills to Control the Scheming Princess’s Heart and Body](https://anilist.co/manga/167759) (09:27, 24 April 2025)
 -   📖 Read chapter 258 - 259 of [Omniscient Reader](https://anilist.co/manga/119257) (08:53, 24 April 2025)
 -   📖 Read chapter 26 of [Isekai Cheat Kaitakuki](https://anilist.co/manga/117767) (08:47, 24 April 2025)
 -   📖 Read chapter 347 of [Eleceed](https://anilist.co/manga/106929) (04:48, 24 April 2025)
--   📖 Read chapter 1 - 8 of [Haikei, Tengoku no Nee-san, Yuusha ni Natta Mei ga Ero Sugite ── Ojisan, Hogosha Toka Sorosoro Muri desu Plus](https://anilist.co/manga/187654) (07:36, 23 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
