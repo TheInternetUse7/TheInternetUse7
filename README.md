@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Find My Secret Spot](https://anilist.co/manga/162043) (17:23, 02 May 2025)
 -   📖 Plans to read [Isekai Harem Loop: Kurikaesareru 1-nichi kara Dasshutsu Suru Tame ni Dakimakurimasu](https://anilist.co/manga/191419) (04:44, 28 April 2025)
 -   📺 Plans to watch [Foxy Nudes](https://anilist.co/anime/2955) (13:22, 27 April 2025)
 -   📖 Plans to read [TS☆Revolution](https://anilist.co/manga/131162) (06:33, 26 April 2025)
 -   📖 Read chapter 1 - 3 of [Rebel Hero: I Will Use My Skills to Control the Scheming Princess’s Heart and Body](https://anilist.co/manga/167759) (09:27, 24 April 2025)
--   📖 Read chapter 258 - 259 of [Omniscient Reader](https://anilist.co/manga/119257) (08:53, 24 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
