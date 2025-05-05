@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 4 - 12 of [Rebel Hero: I Will Use My Skills to Control the Scheming Princess’s Heart and Body](https://anilist.co/manga/167759) (18:51, 03 May 2025)
--   📖 Read chapter 347 - 348 of [Eleceed](https://anilist.co/manga/106929) (12:00, 03 May 2025)
--   📖 Read chapter 260 of [Omniscient Reader](https://anilist.co/manga/119257) (11:53, 03 May 2025)
--   📖 Read chapter 27 - 28 of [Isekai Cheat Kaitakuki](https://anilist.co/manga/117767) (04:22, 03 May 2025)
--   📖 Plans to read [Eleceed](https://anilist.co/manga/106929) (03:28, 03 May 2025)
+-   📖 Read chapter 21 of [A Reincarnated Carrier’s Strategy for Another World](https://anilist.co/manga/167472) (22:26, 04 May 2025)
+-   📖 Read chapter 110 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (22:15, 04 May 2025)
+-   📖 Plans to read [Sajangui Anae](https://anilist.co/manga/178171) (16:53, 04 May 2025)
+-   📖 Read chapter 1 - 41 of [Isekai Koushoku Musouroku: Isekai Tensei no Chie to Chikara wo, Tada Hitasura xxxx Suru Tame ni Tsukau](https://anilist.co/manga/162321) (13:34, 04 May 2025)
+-   📖 Plans to read [Isekai Koushoku Musouroku: Isekai Tensei no Chie to Chikara wo, Tada Hitasura xxxx Suru Tame ni Tsukau](https://anilist.co/manga/162321) (13:32, 04 May 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
