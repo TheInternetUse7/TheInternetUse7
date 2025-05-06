@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 21 of [A Reincarnated Carrier’s Strategy for Another World](https://anilist.co/manga/167472) (22:26, 04 May 2025)
--   📖 Read chapter 110 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (22:15, 04 May 2025)
--   📖 Plans to read [Sajangui Anae](https://anilist.co/manga/178171) (16:53, 04 May 2025)
--   📖 Read chapter 1 - 41 of [Isekai Koushoku Musouroku: Isekai Tensei no Chie to Chikara wo, Tada Hitasura xxxx Suru Tame ni Tsukau](https://anilist.co/manga/162321) (13:34, 04 May 2025)
--   📖 Plans to read [Isekai Koushoku Musouroku: Isekai Tensei no Chie to Chikara wo, Tada Hitasura xxxx Suru Tame ni Tsukau](https://anilist.co/manga/162321) (13:32, 04 May 2025)
+-   📖 Read chapter 4 - 13 of [Rebel Hero: I Will Use My Skills to Control the Scheming Princess’s Heart and Body](https://anilist.co/manga/167759) (07:37, 05 May 2025)
+-   📖 Read chapter 26 - 27 of [Cheat Mode Farming in Another World](https://anilist.co/manga/137901) (07:33, 05 May 2025)
+-   📖 Read chapter 71 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (07:09, 05 May 2025)
+-   📖 Read chapter 256 - 258 of [Nano Machine](https://anilist.co/manga/120980) (06:55, 05 May 2025)
+-   📖 Read chapter 49 of [The Shiunji Family Children](https://anilist.co/manga/144374) (03:39, 05 May 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
