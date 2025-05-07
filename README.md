@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 110 - 111 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (20:44, 06 May 2025)
+-   📖 Read chapter 41 of [Issho ni Kurashite Ii desu ka?](https://anilist.co/manga/159549) (09:03, 06 May 2025)
 -   📖 Read chapter 4 - 13 of [Rebel Hero: I Will Use My Skills to Control the Scheming Princess’s Heart and Body](https://anilist.co/manga/167759) (07:37, 05 May 2025)
 -   📖 Read chapter 26 - 27 of [Cheat Mode Farming in Another World](https://anilist.co/manga/137901) (07:33, 05 May 2025)
 -   📖 Read chapter 71 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (07:09, 05 May 2025)
--   📖 Read chapter 256 - 258 of [Nano Machine](https://anilist.co/manga/120980) (06:55, 05 May 2025)
--   📖 Read chapter 49 of [The Shiunji Family Children](https://anilist.co/manga/144374) (03:39, 05 May 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
