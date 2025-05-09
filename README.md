@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 260 - 261 of [Omniscient Reader](https://anilist.co/manga/119257) (09:31, 07 May 2025)
--   📖 Read chapter 110 - 111 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (20:44, 06 May 2025)
--   📖 Read chapter 41 of [Issho ni Kurashite Ii desu ka?](https://anilist.co/manga/159549) (09:03, 06 May 2025)
--   📖 Read chapter 4 - 13 of [Rebel Hero: I Will Use My Skills to Control the Scheming Princess’s Heart and Body](https://anilist.co/manga/167759) (07:37, 05 May 2025)
--   📖 Read chapter 26 - 27 of [Cheat Mode Farming in Another World](https://anilist.co/manga/137901) (07:33, 05 May 2025)
+-   📖 Read chapter 26 of [Kokan Musou: Kiraware Yuusha wa Mazoku ni Aisareru](https://anilist.co/manga/142463) (09:12, 08 May 2025)
+-   📖 Read chapter 154 - 157 of [Jungle Juice](https://anilist.co/manga/128882) (08:48, 08 May 2025)
+-   📖 Read chapter 3831 - 3832 of [Martial Peak](https://anilist.co/manga/104494) (08:27, 08 May 2025)
+-   📖 Read chapter 347 - 349 of [Eleceed](https://anilist.co/manga/106929) (08:23, 08 May 2025)
+-   📖 Read chapter 71 - 72 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (01:47, 08 May 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
