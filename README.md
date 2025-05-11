@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 256 of [Overgeared](https://anilist.co/manga/117460) (19:55, 10 May 2025)
+-   📖 Read chapter 3831 - 3833 of [Martial Peak](https://anilist.co/manga/104494) (19:52, 10 May 2025)
 -   📖 Read chapter 30 of [Gokusotsu Kraken](https://anilist.co/manga/152815) (00:35, 10 May 2025)
 -   📖 Read chapter 192 - 201 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (12:46, 09 May 2025)
 -   📖 Read chapter 77 - 80 of [Kichiku Eiyuu](https://anilist.co/manga/139415) (08:51, 09 May 2025)
--   📖 Read chapter 52 of [Boku wa Kimitachi wo Shihai suru](https://anilist.co/manga/146731) (04:24, 09 May 2025)
--   📖 Read chapter 26 - 27 of [Kokan Musou: Kiraware Yuusha wa Mazoku ni Aisareru](https://anilist.co/manga/142463) (04:24, 09 May 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
