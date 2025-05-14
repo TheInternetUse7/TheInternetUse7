@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 2 of [Himekishi ga Classmate! THE COMIC](https://anilist.co/manga/86276) (20:58, 12 May 2025)
--   📖 Read chapter 1 - 7 of [Eroge Sekai ni Tensei Shita Ore ga, Oshi e no Ai de Netorare Heroine wo Shiawase ni Suru.](https://anilist.co/manga/184306) (20:44, 12 May 2025)
--   📖 Plans to read [Seichou Cheat de Nandemo Dekiru you ni Natta ga, Mushoku dake wa Yamerarenai you desu](https://anilist.co/manga/100732) (20:29, 12 May 2025)
--   📖 Plans to read [Eroge Sekai ni Tensei Shita Ore ga, Oshi e no Ai de Netorare Heroine wo Shiawase ni Suru.](https://anilist.co/manga/184306) (20:06, 12 May 2025)
--   📖 Read chapter 33 of [SO-EUN for All](https://anilist.co/manga/179218) (17:40, 12 May 2025)
+-   📖 Read chapter 10 of [Hazure Skill "Soine" ga Kakuseishi, Boku ga Saikyou Harem wo Kizuku made: Micchaku Soine de Ganbou Kaihou!? Yuuwakusare Makutte Komattemasu!!](https://anilist.co/manga/175861) (19:49, 13 May 2025)
+-   📖 Read chapter 77 - 83 of [Kichiku Eiyuu](https://anilist.co/manga/139415) (19:33, 13 May 2025)
+-   📖 Read chapter 1 - 11 of [Himekishi ga Classmate! THE COMIC](https://anilist.co/manga/86276) (19:00, 13 May 2025)
+-   📖 Read chapter 35 of [Only With Consent](https://anilist.co/manga/128789) (18:43, 13 May 2025)
+-   📖 Read chapter 1 of [Seichou Cheat de Nandemo Dekiru you ni Natta ga, Mushoku dake wa Yamerarenai you desu](https://anilist.co/manga/100732) (09:18, 13 May 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
