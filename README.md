@@ -25,7 +25,7 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 31 of [Himekishi ga Classmate! THE COMIC](https://anilist.co/manga/86276) (19:25, 15 May 2025)
+-   📖 Read chapter 1 - 35 of [Himekishi ga Classmate! THE COMIC](https://anilist.co/manga/86276) (04:41, 16 May 2025)
 -   📖 Read chapter 27 of ["Shop" Skill Sae Areba, Dungeon-ka Shita Sekai demo Rakushou da: Hakugai Sareta Shounen no Saikyou Zamaa Life](https://anilist.co/manga/155974) (17:52, 15 May 2025)
 -   📖 Read chapter 25 - 29 of [Namaiki na Gal Ane wo Wakaraseru Hanashi](https://anilist.co/manga/179506) (11:35, 15 May 2025)
 -   📖 Read chapter 262 of [Omniscient Reader](https://anilist.co/manga/119257) (04:19, 15 May 2025)
