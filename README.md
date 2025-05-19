@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 of [How to Build a Dungeon: Book of the Demon King](https://anilist.co/manga/86242) (18:14, 17 May 2025)
+-   📖 Read chapter 27 - 31 of [Seinaru Otome to Himegoto wo](https://anilist.co/manga/181248) (20:53, 18 May 2025)
+-   📖 Read chapter 110 - 113 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (19:41, 18 May 2025)
+-   📖 Read chapter 3834 of [Martial Peak](https://anilist.co/manga/104494) (19:33, 18 May 2025)
+-   📖 Read chapter 1 - 10 of [How to Build a Dungeon: Book of the Demon King](https://anilist.co/manga/86242) (09:27, 18 May 2025)
 -   📖 Read chapter 1 - 44 of [Himekishi ga Classmate! THE COMIC](https://anilist.co/manga/86276) (17:53, 17 May 2025)
--   📖 Plans to read [How to Build a Dungeon: Book of the Demon King](https://anilist.co/manga/86242) (17:44, 17 May 2025)
--   📖 Read chapter 27 of ["Shop" Skill Sae Areba, Dungeon-ka Shita Sekai demo Rakushou da: Hakugai Sareta Shounen no Saikyou Zamaa Life](https://anilist.co/manga/155974) (17:52, 15 May 2025)
--   📖 Read chapter 25 - 29 of [Namaiki na Gal Ane wo Wakaraseru Hanashi](https://anilist.co/manga/179506) (11:35, 15 May 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
