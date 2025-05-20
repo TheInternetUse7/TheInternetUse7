@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Osananajimi to Kanojo to](https://anilist.co/manga/191441) (10:54, 19 May 2025)
+-   📖 Read chapter 1 - 12 of [How to Build a Dungeon: Book of the Demon King](https://anilist.co/manga/86242) (05:32, 19 May 2025)
 -   📖 Read chapter 27 - 31 of [Seinaru Otome to Himegoto wo](https://anilist.co/manga/181248) (20:53, 18 May 2025)
 -   📖 Read chapter 110 - 113 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (19:41, 18 May 2025)
 -   📖 Read chapter 3834 of [Martial Peak](https://anilist.co/manga/104494) (19:33, 18 May 2025)
--   📖 Read chapter 1 - 10 of [How to Build a Dungeon: Book of the Demon King](https://anilist.co/manga/86242) (09:27, 18 May 2025)
--   📖 Read chapter 1 - 44 of [Himekishi ga Classmate! THE COMIC](https://anilist.co/manga/86276) (17:53, 17 May 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
