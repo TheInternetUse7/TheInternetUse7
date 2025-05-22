@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 27 of [How to Build a Dungeon: Book of the Demon King](https://anilist.co/manga/86242) (07:31, 21 May 2025)
+-   📖 Read chapter 158 of [Jungle Juice](https://anilist.co/manga/128882) (06:52, 21 May 2025)
+-   📖 Read chapter 1 - 48 of [Himekishi ga Classmate! THE COMIC](https://anilist.co/manga/86276) (06:47, 21 May 2025)
+-   📖 Read chapter 27 - 33 of [Seinaru Otome to Himegoto wo](https://anilist.co/manga/181248) (04:53, 21 May 2025)
 -   📖 Read chapter 33 - 40 of [SO-EUN for All](https://anilist.co/manga/179218) (18:20, 20 May 2025)
--   📖 Read chapter 1 - 16 of [How to Build a Dungeon: Book of the Demon King](https://anilist.co/manga/86242) (16:25, 20 May 2025)
--   📖 Read chapter 11 of [Imouto wa Kanojo ni Dekinai no ni](https://anilist.co/manga/157136) (09:20, 20 May 2025)
--   📖 Plans to read [Osananajimi to Kanojo to](https://anilist.co/manga/191441) (10:54, 19 May 2025)
--   📖 Read chapter 27 - 31 of [Seinaru Otome to Himegoto wo](https://anilist.co/manga/181248) (20:53, 18 May 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
