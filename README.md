@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Simya Yeneungeseo Jeoljeonghaebeoryeosseo](https://anilist.co/manga/192986) (20:00, 23 May 2025)
 -   📖 Read chapter 15 of [Boukensha ni Narenakatta Ore, Skill "Oppai Kyousei" de Nayameru Ano Ko wo Hitodasuke!? ](https://anilist.co/manga/172559) (22:59, 22 May 2025)
 -   📖 Read chapter 1 - 30 of [How to Build a Dungeon: Book of the Demon King](https://anilist.co/manga/86242) (02:07, 22 May 2025)
 -   📖 Read chapter 158 of [Jungle Juice](https://anilist.co/manga/128882) (06:52, 21 May 2025)
 -   📖 Read chapter 1 - 48 of [Himekishi ga Classmate! THE COMIC](https://anilist.co/manga/86276) (06:47, 21 May 2025)
--   📖 Read chapter 27 - 33 of [Seinaru Otome to Himegoto wo](https://anilist.co/manga/181248) (04:53, 21 May 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
