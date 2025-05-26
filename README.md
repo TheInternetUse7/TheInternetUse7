@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 33 of [How to Build a Dungeon: Book of the Demon King](https://anilist.co/manga/86242) (00:53, 25 May 2025)
--   📖 Read chapter 27 - 34 of [Seinaru Otome to Himegoto wo](https://anilist.co/manga/181248) (00:39, 25 May 2025)
+-   📖 Read chapter 1 - 59 of [How to Build a Dungeon: Book of the Demon King](https://anilist.co/manga/86242) (19:17, 25 May 2025)
+-   📖 Plans to read [Blade Play](https://anilist.co/manga/72275) (07:47, 25 May 2025)
+-   📖 Read chapter 27 - 35 of [Seinaru Otome to Himegoto wo](https://anilist.co/manga/181248) (07:25, 25 May 2025)
 -   📖 Read chapter 11 - 12 of [Imouto wa Kanojo ni Dekinai no ni](https://anilist.co/manga/157136) (00:34, 25 May 2025)
 -   📖 Read chapter 28 of [Reincarnation Coliseum: The Weakest Skill Conquers the Strongest Women and Creates a Harem](https://anilist.co/manga/152284) (00:27, 25 May 2025)
--   📖 Read chapter 261 of [Nano Machine](https://anilist.co/manga/120980) (18:50, 24 May 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
