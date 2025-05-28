@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 350 of [Eleceed](https://anilist.co/manga/106929) (22:15, 26 May 2025)
--   📖 Read chapter 50 of [The Shiunji Family Children](https://anilist.co/manga/144374) (15:15, 26 May 2025)
--   📖 Read chapter 114 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (13:32, 26 May 2025)
--   📖 Completed [How to Build a Dungeon: Book of the Demon King](https://anilist.co/manga/86242) (13:18, 26 May 2025)
--   📖 Read chapter 1 - 74 of [How to Build a Dungeon: Book of the Demon King](https://anilist.co/manga/86242) (13:17, 26 May 2025)
+-   📖 Read chapter 38 - 39 of [Brave New World](https://anilist.co/manga/122161) (21:10, 27 May 2025)
+-   📖 Read chapter 1 of [Gwangyeyeokjeon](https://anilist.co/manga/176592) (20:49, 27 May 2025)
+-   📖 Plans to read [Gwangyeyeokjeon](https://anilist.co/manga/176592) (19:41, 27 May 2025)
+-   📖 Read chapter 1 - 55 of [Himekishi ga Classmate! THE COMIC](https://anilist.co/manga/86276) (13:46, 27 May 2025)
+-   📖 Read chapter 3 of [Seichou Cheat de Nandemo Dekiru you ni Natta ga, Mushoku dake wa Yamerarenai you desu](https://anilist.co/manga/100732) (08:09, 27 May 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
