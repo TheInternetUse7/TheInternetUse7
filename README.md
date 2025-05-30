@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 65 of [Himekishi ga Classmate! THE COMIC](https://anilist.co/manga/86276) (20:04, 28 May 2025)
--   📖 Read chapter 3835 of [Martial Peak](https://anilist.co/manga/104494) (08:57, 28 May 2025)
--   📖 Read chapter 1 - 5 of [Gwangyeyeokjeon](https://anilist.co/manga/176592) (05:00, 28 May 2025)
--   📖 Read chapter 38 - 39 of [Brave New World](https://anilist.co/manga/122161) (21:10, 27 May 2025)
--   📖 Plans to read [Gwangyeyeokjeon](https://anilist.co/manga/176592) (19:41, 27 May 2025)
+-   📖 Read chapter 1 - 72 of [Himekishi ga Classmate! THE COMIC](https://anilist.co/manga/86276) (22:29, 29 May 2025)
+-   📖 Read chapter 27 - 38 of [Seinaru Otome to Himegoto wo](https://anilist.co/manga/181248) (22:29, 29 May 2025)
+-   📖 Read chapter 11 - 13 of [Imouto wa Kanojo ni Dekinai no ni](https://anilist.co/manga/157136) (22:29, 29 May 2025)
+-   📖 Read chapter 1 of [Keep It Secret From My Husband](https://anilist.co/manga/150001) (07:32, 29 May 2025)
+-   📖 Plans to read [Keep It Secret From My Husband](https://anilist.co/manga/150001) (07:32, 29 May 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
