@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 72 of [Himekishi ga Classmate! THE COMIC](https://anilist.co/manga/86276) (22:29, 29 May 2025)
--   📖 Read chapter 27 - 38 of [Seinaru Otome to Himegoto wo](https://anilist.co/manga/181248) (22:29, 29 May 2025)
--   📖 Read chapter 11 - 13 of [Imouto wa Kanojo ni Dekinai no ni](https://anilist.co/manga/157136) (22:29, 29 May 2025)
--   📖 Read chapter 1 of [Keep It Secret From My Husband](https://anilist.co/manga/150001) (07:32, 29 May 2025)
--   📖 Plans to read [Keep It Secret From My Husband](https://anilist.co/manga/150001) (07:32, 29 May 2025)
+-   📖 Read chapter 203 - 204 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (10:44, 31 May 2025)
+-   📖 Read chapter 10 of [Futago Matomete "Kanojo" ni Shinai?](https://anilist.co/manga/177186) (10:40, 31 May 2025)
+-   📖 Read chapter 80 - 81 of [Hajirau Kimi ga Mitainda](https://anilist.co/manga/129225) (10:33, 31 May 2025)
+-   📖 Read chapter 84 of [Kichiku Eiyuu](https://anilist.co/manga/139415) (10:31, 31 May 2025)
+-   📖 Read chapter 3835 - 3836 of [Martial Peak](https://anilist.co/manga/104494) (05:05, 31 May 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
