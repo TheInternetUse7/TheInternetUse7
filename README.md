@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 6 of [The Kingdoms of Ruin](https://anilist.co/anime/160900) (21:10, 12 June 2025)
 -   📖 Read chapter 11 of [Kage no Jitsuryokusha ni Naritakute!: Master of Garden - Shichikage Retsuden](https://anilist.co/manga/179256) (02:17, 11 June 2025)
 -   📖 Read chapter 350 - 354 of [Eleceed](https://anilist.co/manga/106929) (02:12, 11 June 2025)
 -   📖 Read chapter 1 of [Maoji](https://anilist.co/manga/150796) (07:35, 10 June 2025)
 -   📖 Plans to read [Maoji](https://anilist.co/manga/150796) (07:35, 10 June 2025)
--   📖 Read chapter 257 - 259 of [Overgeared](https://anilist.co/manga/117460) (06:41, 10 June 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
