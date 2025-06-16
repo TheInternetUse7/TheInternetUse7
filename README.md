@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 8 of [The Kingdoms of Ruin](https://anilist.co/anime/160900) (22:03, 14 June 2025)
--   📖 Read chapter 53 of [Boku wa Kimitachi wo Shihai suru](https://anilist.co/manga/146731) (04:52, 13 June 2025)
--   📖 Read chapter 264 of [Nano Machine](https://anilist.co/manga/120980) (04:47, 13 June 2025)
--   📖 Read chapter 11 of [Kage no Jitsuryokusha ni Naritakute!: Master of Garden - Shichikage Retsuden](https://anilist.co/manga/179256) (02:17, 11 June 2025)
--   📖 Read chapter 350 - 354 of [Eleceed](https://anilist.co/manga/106929) (02:12, 11 June 2025)
+-   📺 Completed [The Kingdoms of Ruin](https://anilist.co/anime/160900) (22:03, 15 June 2025)
+-   📺 Watched episode 1 - 11 of [The Kingdoms of Ruin](https://anilist.co/anime/160900) (21:38, 15 June 2025)
+-   📖 Read chapter 1 - 2 of [A-Size](https://anilist.co/manga/94047) (19:54, 15 June 2025)
+-   📖 Plans to read [A-Size](https://anilist.co/manga/94047) (19:54, 15 June 2025)
+-   📖 Read chapter 1 of [Imouto wa Mesu Orc](https://anilist.co/manga/132726) (07:47, 15 June 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
