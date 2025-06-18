@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 4 of [Uragirareta S-Rank Boukensha no Ore wa, Aisuru Dorei no Kanojora to Tomo ni Dorei dake no Harem Guild wo Tsukuru](https://anilist.co/manga/119327) (00:30, 18 June 2025)
+-   📖 Read chapter 1 - 10 of [Neta Chara Kari Play no Tsumori ga Isekai Shoukan](https://anilist.co/manga/125803) (20:25, 17 June 2025)
+-   📖 Read chapter 1 - 8 of [Neta Chara Kari Play no Tsumori ga Isekai Shoukan](https://anilist.co/manga/125803) (11:39, 17 June 2025)
 -   📺 Watched episode 4 of [Yandere Dark Elf: She Chased Me All the Way From Another World!](https://anilist.co/anime/180829) (18:34, 16 June 2025)
--   📖 Read chapter 1 - 7 of [Neta Chara Kari Play no Tsumori ga Isekai Shoukan](https://anilist.co/manga/125803) (11:43, 16 June 2025)
 -   📺 Completed [The Kingdoms of Ruin](https://anilist.co/anime/160900) (22:03, 15 June 2025)
--   📺 Watched episode 1 - 11 of [The Kingdoms of Ruin](https://anilist.co/anime/160900) (21:38, 15 June 2025)
--   📖 Read chapter 1 - 2 of [A-Size](https://anilist.co/manga/94047) (19:54, 15 June 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
