@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 4 of [Uragirareta S-Rank Boukensha no Ore wa, Aisuru Dorei no Kanojora to Tomo ni Dorei dake no Harem Guild wo Tsukuru](https://anilist.co/manga/119327) (00:30, 18 June 2025)
--   📖 Read chapter 1 - 10 of [Neta Chara Kari Play no Tsumori ga Isekai Shoukan](https://anilist.co/manga/125803) (20:25, 17 June 2025)
--   📖 Read chapter 1 - 8 of [Neta Chara Kari Play no Tsumori ga Isekai Shoukan](https://anilist.co/manga/125803) (11:39, 17 June 2025)
--   📺 Watched episode 4 of [Yandere Dark Elf: She Chased Me All the Way From Another World!](https://anilist.co/anime/180829) (18:34, 16 June 2025)
--   📺 Completed [The Kingdoms of Ruin](https://anilist.co/anime/160900) (22:03, 15 June 2025)
+-   📖 Read chapter 1 - 14 of [Uragirareta S-Rank Boukensha no Ore wa, Aisuru Dorei no Kanojora to Tomo ni Dorei dake no Harem Guild wo Tsukuru](https://anilist.co/manga/119327) (15:57, 19 June 2025)
+-   📖 Read chapter 1 - 11 of [Neta Chara Kari Play no Tsumori ga Isekai Shoukan](https://anilist.co/manga/125803) (15:50, 19 June 2025)
+-   📖 Read chapter 30 of [Reincarnation Coliseum: The Weakest Skill Conquers the Strongest Women and Creates a Harem](https://anilist.co/manga/152284) (06:54, 19 June 2025)
+-   📖 Read chapter 51 of [The Shiunji Family Children](https://anilist.co/manga/144374) (06:47, 19 June 2025)
+-   📖 Read chapter 117 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (06:43, 19 June 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
