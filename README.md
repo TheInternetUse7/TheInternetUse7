@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [About the Beloved Student President's Huge Tits](https://anilist.co/manga/181302) (11:39, 20 June 2025)
+-   📖 Read chapter 11 - 12 of [Hazure Skill "Soine" ga Kakuseishi, Boku ga Saikyou Harem wo Kizuku made: Micchaku Soine de Ganbou Kaihou!? Yuuwakusare Makutte Komattemasu!!](https://anilist.co/manga/175861) (10:42, 20 June 2025)
+-   📖 Read chapter 265 of [Nano Machine](https://anilist.co/manga/120980) (10:29, 20 June 2025)
 -   📖 Read chapter 1 - 14 of [Uragirareta S-Rank Boukensha no Ore wa, Aisuru Dorei no Kanojora to Tomo ni Dorei dake no Harem Guild wo Tsukuru](https://anilist.co/manga/119327) (15:57, 19 June 2025)
 -   📖 Read chapter 1 - 11 of [Neta Chara Kari Play no Tsumori ga Isekai Shoukan](https://anilist.co/manga/125803) (15:50, 19 June 2025)
--   📖 Read chapter 30 of [Reincarnation Coliseum: The Weakest Skill Conquers the Strongest Women and Creates a Harem](https://anilist.co/manga/152284) (06:54, 19 June 2025)
--   📖 Read chapter 51 of [The Shiunji Family Children](https://anilist.co/manga/144374) (06:47, 19 June 2025)
--   📖 Read chapter 117 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (06:43, 19 June 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
