@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Plans to read [About the Beloved Student President's Huge Tits](https://anilist.co/manga/181302) (11:39, 20 June 2025)
--   📖 Read chapter 11 - 12 of [Hazure Skill "Soine" ga Kakuseishi, Boku ga Saikyou Harem wo Kizuku made: Micchaku Soine de Ganbou Kaihou!? Yuuwakusare Makutte Komattemasu!!](https://anilist.co/manga/175861) (10:42, 20 June 2025)
--   📖 Read chapter 265 of [Nano Machine](https://anilist.co/manga/120980) (10:29, 20 June 2025)
--   📖 Read chapter 1 - 14 of [Uragirareta S-Rank Boukensha no Ore wa, Aisuru Dorei no Kanojora to Tomo ni Dorei dake no Harem Guild wo Tsukuru](https://anilist.co/manga/119327) (15:57, 19 June 2025)
--   📖 Read chapter 1 - 11 of [Neta Chara Kari Play no Tsumori ga Isekai Shoukan](https://anilist.co/manga/125803) (15:50, 19 June 2025)
+-   📖 Read chapter 205 - 206 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (10:02, 21 June 2025)
+-   📖 Completed [Tsugou no Yoi Tanoshii Isekai de Kuzu Otoko no Benri na Mesu ni Naru](https://anilist.co/manga/138312) (07:59, 21 June 2025)
+-   📖 Plans to read [Zutto Suki Datta](https://anilist.co/manga/95038) (07:47, 21 June 2025)
+-   📖 Read chapter 1 - 12 of [Neta Chara Kari Play no Tsumori ga Isekai Shoukan](https://anilist.co/manga/125803) (06:17, 21 June 2025)
+-   📖 Read chapter 1 - 17 of [Uragirareta S-Rank Boukensha no Ore wa, Aisuru Dorei no Kanojora to Tomo ni Dorei dake no Harem Guild wo Tsukuru](https://anilist.co/manga/119327) (06:03, 21 June 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
