@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Plans to watch [Kaguya-sama wa Kokurasetai: Otona e no Kaidan](https://anilist.co/anime/194884) (15:50, 22 June 2025)
--   📖 Read chapter 205 - 206 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (10:02, 21 June 2025)
--   📖 Completed [Tsugou no Yoi Tanoshii Isekai de Kuzu Otoko no Benri na Mesu ni Naru](https://anilist.co/manga/138312) (07:59, 21 June 2025)
--   📖 Plans to read [Zutto Suki Datta](https://anilist.co/manga/95038) (07:47, 21 June 2025)
--   📖 Read chapter 1 - 12 of [Neta Chara Kari Play no Tsumori ga Isekai Shoukan](https://anilist.co/manga/125803) (06:17, 21 June 2025)
+-   📖 Read chapter 117 - 118 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (16:45, 23 June 2025)
+-   📖 Read chapter 44 of [Issho ni Kurashite Ii desu ka?](https://anilist.co/manga/159549) (16:36, 23 June 2025)
+-   📖 Plans to read [Stalker x Stalker](https://anilist.co/manga/185811) (09:55, 23 June 2025)
+-   📺 Watched episode 4 - 5 of [Yandere Dark Elf: She Chased Me All the Way From Another World!](https://anilist.co/anime/180829) (09:53, 23 June 2025)
+-   📺 Watched episode 1 - 2 of [Orb: On the Movements of the Earth](https://anilist.co/anime/151514) (09:53, 23 June 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
