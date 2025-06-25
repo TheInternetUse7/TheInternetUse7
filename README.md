@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 of [Terror in Resonance](https://anilist.co/anime/20661) (19:48, 24 June 2025)
+-   📖 Completed [RENTAL HOLE](https://anilist.co/manga/167557) (07:13, 24 June 2025)
 -   📖 Read chapter 117 - 118 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (16:45, 23 June 2025)
 -   📖 Read chapter 44 of [Issho ni Kurashite Ii desu ka?](https://anilist.co/manga/159549) (16:36, 23 June 2025)
 -   📖 Plans to read [Stalker x Stalker](https://anilist.co/manga/185811) (09:55, 23 June 2025)
--   📺 Watched episode 4 - 5 of [Yandere Dark Elf: She Chased Me All the Way From Another World!](https://anilist.co/anime/180829) (09:53, 23 June 2025)
--   📺 Watched episode 1 - 2 of [Orb: On the Movements of the Earth](https://anilist.co/anime/151514) (09:53, 23 June 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
