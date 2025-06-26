@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 3838 - 3840 of [Martial Peak](https://anilist.co/manga/104494) (21:14, 25 June 2025)
+-   📖 Read chapter 39 - 40 of [Seinaru Otome to Himegoto wo](https://anilist.co/manga/181248) (09:03, 25 June 2025)
 -   📺 Watched episode 2 of [Terror in Resonance](https://anilist.co/anime/20661) (19:48, 24 June 2025)
 -   📖 Completed [RENTAL HOLE](https://anilist.co/manga/167557) (07:13, 24 June 2025)
 -   📖 Read chapter 117 - 118 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (16:45, 23 June 2025)
--   📖 Read chapter 44 of [Issho ni Kurashite Ii desu ka?](https://anilist.co/manga/159549) (16:36, 23 June 2025)
--   📖 Plans to read [Stalker x Stalker](https://anilist.co/manga/185811) (09:55, 23 June 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
