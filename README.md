@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 3838 - 3840 of [Martial Peak](https://anilist.co/manga/104494) (21:14, 25 June 2025)
--   📖 Read chapter 39 - 40 of [Seinaru Otome to Himegoto wo](https://anilist.co/manga/181248) (09:03, 25 June 2025)
--   📺 Watched episode 2 of [Terror in Resonance](https://anilist.co/anime/20661) (19:48, 24 June 2025)
--   📖 Completed [RENTAL HOLE](https://anilist.co/manga/167557) (07:13, 24 June 2025)
--   📖 Read chapter 117 - 118 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (16:45, 23 June 2025)
+-   📖 Read chapter 1 - 6 of [Kujibiki Tokushou: Musou Harem-ken](https://anilist.co/manga/108349) (16:19, 26 June 2025)
+-   📖 Read chapter 205 - 207 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (04:25, 26 June 2025)
+-   📖 Read chapter 355 - 356 of [Eleceed](https://anilist.co/manga/106929) (04:20, 26 June 2025)
+-   📖 Read chapter 265 - 266 of [Nano Machine](https://anilist.co/manga/120980) (04:12, 26 June 2025)
+-   📖 Read chapter 3 - 4 of [Isekai Harem Loop: Kurikaesareru 1-nichi kara Dasshutsu Suru Tame ni Dakimakurimasu](https://anilist.co/manga/191419) (03:57, 26 June 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
