@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 4 of [Orb: On the Movements of the Earth](https://anilist.co/anime/151514) (18:44, 27 June 2025)
 -   📖 Read chapter 1 - 6 of [Kujibiki Tokushou: Musou Harem-ken](https://anilist.co/manga/108349) (16:19, 26 June 2025)
 -   📖 Read chapter 205 - 207 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (04:25, 26 June 2025)
 -   📖 Read chapter 355 - 356 of [Eleceed](https://anilist.co/manga/106929) (04:20, 26 June 2025)
 -   📖 Read chapter 265 - 266 of [Nano Machine](https://anilist.co/manga/120980) (04:12, 26 June 2025)
--   📖 Read chapter 3 - 4 of [Isekai Harem Loop: Kurikaesareru 1-nichi kara Dasshutsu Suru Tame ni Dakimakurimasu](https://anilist.co/manga/191419) (03:57, 26 June 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
