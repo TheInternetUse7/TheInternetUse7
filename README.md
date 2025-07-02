@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 39 of [Kujibiki Tokushou: Musou Harem-ken](https://anilist.co/manga/108349) (21:14, 01 July 2025)
+-   📺 Plans to watch [Eleceed](https://anilist.co/anime/195350) (15:56, 01 July 2025)
 -   📺 Watched episode 1 - 6 of [Orb: On the Movements of the Earth](https://anilist.co/anime/151514) (20:21, 30 June 2025)
 -   📖 Completed [Daily Sisters](https://anilist.co/manga/123542) (12:41, 30 June 2025)
--   📖 Read chapter 1 - 32 of [Kujibiki Tokushou: Musou Harem-ken](https://anilist.co/manga/108349) (11:49, 30 June 2025)
 -   📖 Read chapter 20 - 21 of [Otoko Girai na Bijin Shimai wo Namae mo Tsugezu ni Tasuketara Ittai Dounaru?](https://anilist.co/manga/163004) (07:18, 30 June 2025)
--   📖 Read chapter 117 - 119 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (20:43, 29 June 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
