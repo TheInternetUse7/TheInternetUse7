@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 39 of [Kujibiki Tokushou: Musou Harem-ken](https://anilist.co/manga/108349) (21:14, 01 July 2025)
--   📺 Plans to watch [Eleceed](https://anilist.co/anime/195350) (15:56, 01 July 2025)
--   📺 Watched episode 1 - 6 of [Orb: On the Movements of the Earth](https://anilist.co/anime/151514) (20:21, 30 June 2025)
--   📖 Completed [Daily Sisters](https://anilist.co/manga/123542) (12:41, 30 June 2025)
--   📖 Read chapter 20 - 21 of [Otoko Girai na Bijin Shimai wo Namae mo Tsugezu ni Tasuketara Ittai Dounaru?](https://anilist.co/manga/163004) (07:18, 30 June 2025)
+-   📖 Read chapter 1 - 43 of [Kujibiki Tokushou: Musou Harem-ken](https://anilist.co/manga/108349) (18:41, 02 July 2025)
+-   📖 Read chapter 5 - 6 of [Flirting With Her](https://anilist.co/manga/145990) (13:14, 02 July 2025)
+-   📖 Read chapter 41 - 45 of [Seinaru Otome to Himegoto wo](https://anilist.co/manga/181248) (12:14, 02 July 2025)
+-   📖 Read chapter 9 - 10 of [Eroge Sekai ni Tensei Shita Ore ga, Oshi e no Ai de Netorare Heroine wo Shiawase ni Suru.](https://anilist.co/manga/184306) (11:42, 02 July 2025)
+-   📖 Read chapter 355 - 357 of [Eleceed](https://anilist.co/manga/106929) (11:39, 02 July 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
