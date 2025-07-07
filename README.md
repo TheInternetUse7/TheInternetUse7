@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 30 - 31 of [Namaiki na Gal Ane wo Wakaraseru Hanashi](https://anilist.co/manga/179506) (01:18, 05 July 2025)
--   📖 Read chapter 18 - 19 of [Netorare Manga no Kuzu Otoko ni Tensei Shita Hazu ga Heroine ga Yotte Kuru Ken](https://anilist.co/manga/163733) (01:12, 05 July 2025)
--   📖 Read chapter 1 - 52 of [Kujibiki Tokushou: Musou Harem-ken](https://anilist.co/manga/108349) (15:47, 04 July 2025)
--   📖 Read chapter 45 of [Issho ni Kurashite Ii desu ka?](https://anilist.co/manga/159549) (05:02, 03 July 2025)
--   📖 Read chapter 267 of [Nano Machine](https://anilist.co/manga/120980) (04:53, 03 July 2025)
+-   📖 Read chapter 261 - 264 of [Overgeared](https://anilist.co/manga/117460) (17:12, 06 July 2025)
+-   📺 Watched episode 1 of [Watari-kun's ****** Is about to Collapse](https://anilist.co/anime/169420) (11:04, 06 July 2025)
+-   📺 Watched episode 6 of [Yandere Dark Elf: She Chased Me All the Way From Another World!](https://anilist.co/anime/180829) (11:04, 06 July 2025)
+-   📖 Read chapter 126 - 129 of [Sextopwatch](https://anilist.co/manga/152411) (10:55, 06 July 2025)
+-   📖 Read chapter 41 - 43 of [Ore wa Lolicon ja Nai!](https://anilist.co/manga/115209) (10:05, 06 July 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
