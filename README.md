@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 261 - 264 of [Overgeared](https://anilist.co/manga/117460) (17:12, 06 July 2025)
+-   📖 Read chapter 261 - 272 of [Overgeared](https://anilist.co/manga/117460) (07:33, 07 July 2025)
+-   📖 Read chapter 261 - 272 of [Overgeared](https://anilist.co/manga/117460) (07:33, 07 July 2025)
 -   📺 Watched episode 1 of [Watari-kun's ****** Is about to Collapse](https://anilist.co/anime/169420) (11:04, 06 July 2025)
 -   📺 Watched episode 6 of [Yandere Dark Elf: She Chased Me All the Way From Another World!](https://anilist.co/anime/180829) (11:04, 06 July 2025)
 -   📖 Read chapter 126 - 129 of [Sextopwatch](https://anilist.co/manga/152411) (10:55, 06 July 2025)
--   📖 Read chapter 41 - 43 of [Ore wa Lolicon ja Nai!](https://anilist.co/manga/115209) (10:05, 06 July 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
