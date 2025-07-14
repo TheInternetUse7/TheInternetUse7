@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 261 - 281 of [Overgeared](https://anilist.co/manga/117460) (19:43, 12 July 2025)
--   📖 Read chapter 2 - 8 of [Shakai Hito ga Kizuku Ajin Harem: Toudo 200% no Ecchi na Love Comedy wo Anata ni](https://anilist.co/manga/127516) (03:56, 12 July 2025)
--   📖 Read chapter 53 of [The Shiunji Family Children](https://anilist.co/manga/144374) (03:46, 12 July 2025)
--   📺 Watched episode 1 of [Call of the Night Season 2](https://anilist.co/anime/175914) (20:14, 11 July 2025)
--   📖 Read chapter 268 of [Nano Machine](https://anilist.co/manga/120980) (05:11, 11 July 2025)
+-   📺 Watched episode 2 of [Watari-kun's ****** Is about to Collapse](https://anilist.co/anime/169420) (22:23, 13 July 2025)
+-   📖 Read chapter 36 - 37 of [Only With Consent](https://anilist.co/manga/128789) (15:48, 13 July 2025)
+-   📖 Read chapter 236 - 242 of [Teenage Mercenary](https://anilist.co/manga/126297) (15:34, 13 July 2025)
+-   📖 Read chapter 23 of [A Reincarnated Carrier’s Strategy for Another World](https://anilist.co/manga/167472) (05:25, 13 July 2025)
+-   📖 Read chapter 261 - 284 of [Overgeared](https://anilist.co/manga/117460) (05:19, 13 July 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
