@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 of [Watari-kun's ****** Is about to Collapse](https://anilist.co/anime/169420) (22:23, 13 July 2025)
--   📖 Read chapter 36 - 37 of [Only With Consent](https://anilist.co/manga/128789) (15:48, 13 July 2025)
--   📖 Read chapter 236 - 242 of [Teenage Mercenary](https://anilist.co/manga/126297) (15:34, 13 July 2025)
--   📖 Read chapter 23 of [A Reincarnated Carrier’s Strategy for Another World](https://anilist.co/manga/167472) (05:25, 13 July 2025)
--   📖 Read chapter 261 - 284 of [Overgeared](https://anilist.co/manga/117460) (05:19, 13 July 2025)
+-   📖 Read chapter 30 - 38 of [Namaiki na Gal Ane wo Wakaraseru Hanashi](https://anilist.co/manga/179506) (17:41, 14 July 2025)
+-   📖 Read chapter 9 of [Haikei, Tengoku no Nee-san, Yuusha ni Natta Mei ga Ero Sugite ── Ojisan, Hogosha Toka Sorosoro Muri desu Plus](https://anilist.co/manga/187654) (17:31, 14 July 2025)
+-   📖 Read chapter 1 of [Daten Keikaku](https://anilist.co/manga/155557) (13:10, 14 July 2025)
+-   📖 Plans to read [Imouto to Natsuyasumi](https://anilist.co/manga/165377) (12:26, 14 July 2025)
+-   📖 Plans to read [Tsuyo Tsuyo Mesugaki Villain to Yowa Yowa Hero no Ore](https://anilist.co/manga/166940) (12:25, 14 July 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
