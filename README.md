@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 30 - 41 of [Namaiki na Gal Ane wo Wakaraseru Hanashi](https://anilist.co/manga/179506) (04:59, 15 July 2025)
--   📖 Read chapter 9 of [Haikei, Tengoku no Nee-san, Yuusha ni Natta Mei ga Ero Sugite ── Ojisan, Hogosha Toka Sorosoro Muri desu Plus](https://anilist.co/manga/187654) (17:31, 14 July 2025)
--   📖 Read chapter 1 of [Daten Keikaku](https://anilist.co/manga/155557) (13:10, 14 July 2025)
--   📖 Plans to read [Imouto to Natsuyasumi](https://anilist.co/manga/165377) (12:26, 14 July 2025)
--   📖 Plans to read [Tsuyo Tsuyo Mesugaki Villain to Yowa Yowa Hero no Ore](https://anilist.co/manga/166940) (12:25, 14 July 2025)
+-   📖 Read chapter 63 - 64 of [Isekai NTR: Shinyuu no Onna wo Saikyou Skill de Otosu Houhou](https://anilist.co/manga/115042) (22:59, 16 July 2025)
+-   📖 Read chapter 11 of [Eroge Sekai ni Tensei Shita Ore ga, Oshi e no Ai de Netorare Heroine wo Shiawase ni Suru.](https://anilist.co/manga/184306) (22:47, 16 July 2025)
+-   📖 Read chapter 30 - 42 of [Namaiki na Gal Ane wo Wakaraseru Hanashi](https://anilist.co/manga/179506) (22:38, 16 July 2025)
+-   📖 Plans to read [Getting to Know Mila](https://anilist.co/manga/187366) (19:58, 16 July 2025)
+-   📖 Plans to read [Hai no Sekai wa Kami no Me de Irozuku: Ore dake Mieru Status de, Saijaku kara Saikyou e Kakeagaru](https://anilist.co/manga/194615) (15:17, 16 July 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
