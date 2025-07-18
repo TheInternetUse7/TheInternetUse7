@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 63 - 64 of [Isekai NTR: Shinyuu no Onna wo Saikyou Skill de Otosu Houhou](https://anilist.co/manga/115042) (22:59, 16 July 2025)
--   📖 Read chapter 11 of [Eroge Sekai ni Tensei Shita Ore ga, Oshi e no Ai de Netorare Heroine wo Shiawase ni Suru.](https://anilist.co/manga/184306) (22:47, 16 July 2025)
--   📖 Read chapter 30 - 42 of [Namaiki na Gal Ane wo Wakaraseru Hanashi](https://anilist.co/manga/179506) (22:38, 16 July 2025)
--   📖 Plans to read [Getting to Know Mila](https://anilist.co/manga/187366) (19:58, 16 July 2025)
--   📖 Plans to read [Hai no Sekai wa Kami no Me de Irozuku: Ore dake Mieru Status de, Saijaku kara Saikyou e Kakeagaru](https://anilist.co/manga/194615) (15:17, 16 July 2025)
+-   📖 Read chapter 127 of [Level Up with the Gods](https://anilist.co/manga/138222) (06:57, 17 July 2025)
+-   📖 Read chapter 268 - 269 of [Nano Machine](https://anilist.co/manga/120980) (06:55, 17 July 2025)
+-   📖 Read chapter 359 of [Eleceed](https://anilist.co/manga/106929) (06:55, 17 July 2025)
+-   📖 Read chapter 236 - 246 of [Teenage Mercenary](https://anilist.co/manga/126297) (06:55, 17 July 2025)
+-   📖 Read chapter 46 of [Issho ni Kurashite Ii desu ka?](https://anilist.co/manga/159549) (06:55, 17 July 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
