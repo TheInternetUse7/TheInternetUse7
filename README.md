@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 2 of [Call of the Night Season 2](https://anilist.co/anime/175914) (19:53, 18 July 2025)
+-   📺 Watched episode 2 - 3 of [Watari-kun's ****** Is about to Collapse](https://anilist.co/anime/169420) (17:14, 19 July 2025)
+-   📺 Watched episode 1 - 3 of [Call of the Night Season 2](https://anilist.co/anime/175914) (13:28, 19 July 2025)
+-   📖 Read chapter 74 - 81 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (06:32, 19 July 2025)
+-   📖 Read chapter 9 - 10 of [Haikei, Tengoku no Nee-san, Yuusha ni Natta Mei ga Ero Sugite ── Ojisan, Hogosha Toka Sorosoro Muri desu Plus](https://anilist.co/manga/187654) (04:57, 19 July 2025)
 -   📖 Read chapter 73 of [The Eminence in Shadow](https://anilist.co/manga/106758) (11:48, 18 July 2025)
--   📖 Plans to read [MILF Hunter in Another World](https://anilist.co/manga/166581) (01:29, 18 July 2025)
--   📖 Plans to read [Secret Siblings](https://anilist.co/manga/154470) (01:27, 18 July 2025)
--   📖 Read chapter 127 of [Level Up with the Gods](https://anilist.co/manga/138222) (06:57, 17 July 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
