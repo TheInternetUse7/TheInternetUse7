@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 - 3 of [Watari-kun's ****** Is about to Collapse](https://anilist.co/anime/169420) (17:14, 19 July 2025)
--   📺 Watched episode 1 - 3 of [Call of the Night Season 2](https://anilist.co/anime/175914) (13:28, 19 July 2025)
--   📖 Read chapter 74 - 81 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (06:32, 19 July 2025)
--   📖 Read chapter 9 - 10 of [Haikei, Tengoku no Nee-san, Yuusha ni Natta Mei ga Ero Sugite ── Ojisan, Hogosha Toka Sorosoro Muri desu Plus](https://anilist.co/manga/187654) (04:57, 19 July 2025)
--   📖 Read chapter 73 of [The Eminence in Shadow](https://anilist.co/manga/106758) (11:48, 18 July 2025)
+-   📖 Read chapter 1 - 7 of [My Bizarre Level-Up Condition! A Capable Guy's Reincarnation in Another World](https://anilist.co/manga/157497) (21:45, 20 July 2025)
+-   📖 Read chapter 1 - 2 of [MILF Hunter in Another World](https://anilist.co/manga/166581) (16:46, 20 July 2025)
+-   📖 Read chapter 1 - 9 of [Yuusha-sama wa Houshuu ni Hitozuma wo Gokibou desu](https://anilist.co/manga/159423) (16:36, 20 July 2025)
+-   📖 Plans to read [Isekai ni Shoukansareta Ndakedo, Nan Demo Kireteshimau Kennou wo te ni Ireta Node Easy Mode deshita. ](https://anilist.co/manga/173917) (07:50, 20 July 2025)
+-   📖 Plans to read [My Bizarre Level-Up Condition! A Capable Guy's Reincarnation in Another World](https://anilist.co/manga/157497) (07:49, 20 July 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
