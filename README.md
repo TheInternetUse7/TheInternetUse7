@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 7 of [My Bizarre Level-Up Condition! A Capable Guy's Reincarnation in Another World](https://anilist.co/manga/157497) (21:45, 20 July 2025)
--   📖 Read chapter 1 - 2 of [MILF Hunter in Another World](https://anilist.co/manga/166581) (16:46, 20 July 2025)
--   📖 Read chapter 1 - 9 of [Yuusha-sama wa Houshuu ni Hitozuma wo Gokibou desu](https://anilist.co/manga/159423) (16:36, 20 July 2025)
--   📖 Plans to read [Isekai ni Shoukansareta Ndakedo, Nan Demo Kireteshimau Kennou wo te ni Ireta Node Easy Mode deshita. ](https://anilist.co/manga/173917) (07:50, 20 July 2025)
--   📖 Plans to read [My Bizarre Level-Up Condition! A Capable Guy's Reincarnation in Another World](https://anilist.co/manga/157497) (07:49, 20 July 2025)
+-   📖 Read chapter 1 - 19 of [Yuusha-sama wa Houshuu ni Hitozuma wo Gokibou desu](https://anilist.co/manga/159423) (19:33, 21 July 2025)
+-   📖 Read chapter 1 - 6 of [MILF Hunter in Another World](https://anilist.co/manga/166581) (16:34, 21 July 2025)
+-   📖 Read chapter 2 - 6 of [Let's Make a Harem in a Zombie World!](https://anilist.co/manga/181054) (16:05, 21 July 2025)
+-   📖 Read chapter 1 - 11 of [Sono Akuyaku Kizoku, Mama Heroine ga Suki Sugiru: Shinshi na Doryoku de Saikyou to Nari Fuguu na Oshi Chara Tasukemakuru](https://anilist.co/manga/186330) (15:34, 21 July 2025)
+-   📖 Read chapter 4 of [Isekai Saikou no Kizoku, Harem wo Fuyasu Hodo Tsuyoku Naru](https://anilist.co/manga/149342) (12:54, 21 July 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
