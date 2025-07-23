@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 19 of [Yuusha-sama wa Houshuu ni Hitozuma wo Gokibou desu](https://anilist.co/manga/159423) (19:33, 21 July 2025)
--   📖 Read chapter 1 - 6 of [MILF Hunter in Another World](https://anilist.co/manga/166581) (16:34, 21 July 2025)
--   📖 Read chapter 2 - 6 of [Let's Make a Harem in a Zombie World!](https://anilist.co/manga/181054) (16:05, 21 July 2025)
--   📖 Read chapter 1 - 11 of [Sono Akuyaku Kizoku, Mama Heroine ga Suki Sugiru: Shinshi na Doryoku de Saikyou to Nari Fuguu na Oshi Chara Tasukemakuru](https://anilist.co/manga/186330) (15:34, 21 July 2025)
--   📖 Read chapter 4 of [Isekai Saikou no Kizoku, Harem wo Fuyasu Hodo Tsuyoku Naru](https://anilist.co/manga/149342) (12:54, 21 July 2025)
+-   📖 Read chapter 4 - 12 of [Isekai Saikou no Kizoku, Harem wo Fuyasu Hodo Tsuyoku Naru](https://anilist.co/manga/149342) (18:54, 22 July 2025)
+-   📖 Read chapter 1 - 24 of [Yuusha-sama wa Houshuu ni Hitozuma wo Gokibou desu](https://anilist.co/manga/159423) (11:29, 22 July 2025)
+-   📖 Read chapter 28 of [Betrayed by the Hero, I Formed a MILF Party with His Mom](https://anilist.co/manga/159187) (09:48, 22 July 2025)
+-   📖 Read chapter 122 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (09:39, 22 July 2025)
+-   📖 Read chapter 3 - 6 of [Hiten no Asuka: Isekai no Shoujo ni Saikyou Hougu Ataeta Kekka](https://anilist.co/manga/150518) (09:31, 22 July 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
