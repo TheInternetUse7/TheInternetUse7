@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 4 - 19 of [Isekai Saikou no Kizoku, Harem wo Fuyasu Hodo Tsuyoku Naru](https://anilist.co/manga/149342) (12:44, 23 July 2025)
--   📖 Read chapter 1 - 24 of [Yuusha-sama wa Houshuu ni Hitozuma wo Gokibou desu](https://anilist.co/manga/159423) (11:29, 22 July 2025)
--   📖 Read chapter 28 of [Betrayed by the Hero, I Formed a MILF Party with His Mom](https://anilist.co/manga/159187) (09:48, 22 July 2025)
--   📖 Read chapter 122 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (09:39, 22 July 2025)
--   📖 Read chapter 3 - 6 of [Hiten no Asuka: Isekai no Shoujo ni Saikyou Hougu Ataeta Kekka](https://anilist.co/manga/150518) (09:31, 22 July 2025)
+-   📖 Read chapter 1 - 13 of [Sono Akuyaku Kizoku, Mama Heroine ga Suki Sugiru: Shinshi na Doryoku de Saikyou to Nari Fuguu na Oshi Chara Tasukemakuru](https://anilist.co/manga/186330) (19:19, 24 July 2025)
+-   📖 Read chapter 54 of [The Shiunji Family Children](https://anilist.co/manga/144374) (19:17, 24 July 2025)
+-   📖 Read chapter 74 - 82 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (05:44, 24 July 2025)
+-   📖 Read chapter 268 - 270 of [Nano Machine](https://anilist.co/manga/120980) (05:37, 24 July 2025)
+-   📖 Read chapter 359 - 360 of [Eleceed](https://anilist.co/manga/106929) (04:34, 24 July 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
