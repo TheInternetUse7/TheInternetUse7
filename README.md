@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 13 of [Sono Akuyaku Kizoku, Mama Heroine ga Suki Sugiru: Shinshi na Doryoku de Saikyou to Nari Fuguu na Oshi Chara Tasukemakuru](https://anilist.co/manga/186330) (19:19, 24 July 2025)
--   📖 Read chapter 54 of [The Shiunji Family Children](https://anilist.co/manga/144374) (19:17, 24 July 2025)
--   📖 Read chapter 74 - 82 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (05:44, 24 July 2025)
--   📖 Read chapter 268 - 270 of [Nano Machine](https://anilist.co/manga/120980) (05:37, 24 July 2025)
--   📖 Read chapter 359 - 360 of [Eleceed](https://anilist.co/manga/106929) (04:34, 24 July 2025)
+-   📖 Read chapter 1 - 18 of [Sono Akuyaku Kizoku, Mama Heroine ga Suki Sugiru: Shinshi na Doryoku de Saikyou to Nari Fuguu na Oshi Chara Tasukemakuru](https://anilist.co/manga/186330) (19:25, 26 July 2025)
+-   📖 Read chapter 285 - 287 of [Overgeared](https://anilist.co/manga/117460) (19:18, 26 July 2025)
+-   📖 Read chapter 2 - 19 of [Let’s Make a Harem in a Zombie World!](https://anilist.co/manga/181054) (19:04, 26 July 2025)
+-   📖 Read chapter 1 - 10 of [MILF Hunter in Another World](https://anilist.co/manga/166581) (10:05, 26 July 2025)
+-   📖 Completed [Your GF Was Delicious](https://anilist.co/manga/169210) (10:05, 26 July 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
