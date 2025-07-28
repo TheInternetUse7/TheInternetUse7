@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 6 - 13 of [Isekai ni Shoukansareta Ndakedo, Nan Demo Kireteshimau Kennou wo te ni Ireta Node Easy Mode deshita. ](https://anilist.co/manga/173917) (23:55, 27 July 2025)
+-   📺 Watched episode 9 of [Orb: On the Movements of the Earth](https://anilist.co/anime/151514) (23:29, 27 July 2025)
+-   📖 Read chapter 248 of [Teenage Mercenary](https://anilist.co/manga/126297) (04:51, 27 July 2025)
 -   📖 Read chapter 1 - 18 of [Sono Akuyaku Kizoku, Mama Heroine ga Suki Sugiru: Shinshi na Doryoku de Saikyou to Nari Fuguu na Oshi Chara Tasukemakuru](https://anilist.co/manga/186330) (19:25, 26 July 2025)
 -   📖 Read chapter 285 - 287 of [Overgeared](https://anilist.co/manga/117460) (19:18, 26 July 2025)
--   📖 Read chapter 2 - 19 of [Let’s Make a Harem in a Zombie World!](https://anilist.co/manga/181054) (19:04, 26 July 2025)
--   📖 Read chapter 1 - 10 of [MILF Hunter in Another World](https://anilist.co/manga/166581) (10:05, 26 July 2025)
--   📖 Completed [Your GF Was Delicious](https://anilist.co/manga/169210) (10:05, 26 July 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
