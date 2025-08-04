@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Completed [KONOSUBA -God's Blessing on This Wonderful World! 3 -BONUS STAGE-](https://anilist.co/anime/181244) (17:39, 02 August 2025)
--   📖 Read chapter 3 of [Tsuihou sareta Renkinjutsushi, Adult Goods de Sekai wo Sukuu: Donna Monster mo Zettai ni Ikaseru Otoko](https://anilist.co/manga/187581) (15:27, 01 August 2025)
--   📖 Read chapter 1 of [Tou no Kanri wo Shite Miyou](https://anilist.co/manga/103736) (13:25, 01 August 2025)
--   📖 Plans to read [Makutsu no Ou: Yomei Ichi Kagatsu no Doutei, Mahou Shoujo Harem wo Kizuite Ou e Kunrinsu](https://anilist.co/manga/184771) (13:01, 01 August 2025)
--   📖 Read chapter 1 - 27 of [HACKING GHOST: Karada ni Shika Kachi no Nai Gakuen](https://anilist.co/manga/186922) (13:00, 01 August 2025)
+-   📖 Read chapter 211 - 212 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (19:19, 03 August 2025)
+-   📺 Watched episode 3 of [Terror in Resonance](https://anilist.co/anime/20661) (18:06, 03 August 2025)
+-   📖 Read chapter 249 of [Teenage Mercenary](https://anilist.co/manga/126297) (11:04, 03 August 2025)
+-   📖 Read chapter 32 of [Reincarnation Coliseum: The Weakest Skill Conquers the Strongest Women and Creates a Harem](https://anilist.co/manga/152284) (11:04, 03 August 2025)
+-   📖 Read chapter 47 of [Issho ni Kurashite Ii desu ka?](https://anilist.co/manga/159549) (11:04, 03 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
