@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 28 of [Cheat Mode Farming in Another World](https://anilist.co/manga/137901) (04:52, 05 August 2025)
+-   📖 Read chapter 122 - 124 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (04:38, 05 August 2025)
+-   📺 Plans to watch [bâan: The Boundary of Adulthood](https://anilist.co/anime/195494) (02:41, 05 August 2025)
 -   📖 Read chapter 211 - 212 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (19:19, 03 August 2025)
 -   📺 Watched episode 3 of [Terror in Resonance](https://anilist.co/anime/20661) (18:06, 03 August 2025)
--   📖 Read chapter 249 of [Teenage Mercenary](https://anilist.co/manga/126297) (11:04, 03 August 2025)
--   📖 Read chapter 32 of [Reincarnation Coliseum: The Weakest Skill Conquers the Strongest Women and Creates a Harem](https://anilist.co/manga/152284) (11:04, 03 August 2025)
--   📖 Read chapter 47 of [Issho ni Kurashite Ii desu ka?](https://anilist.co/manga/159549) (11:04, 03 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
