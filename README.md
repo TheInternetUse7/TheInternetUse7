@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 2 - 3 of [Valhalla Otintin Kan](https://anilist.co/manga/123003) (18:48, 06 August 2025)
+-   📖 Read chapter 271 of [Omniscient Reader](https://anilist.co/manga/119257) (18:46, 06 August 2025)
+-   📖 Read chapter 1 - 9 of [Tou no Kanri wo Shite Miyou](https://anilist.co/manga/103736) (18:46, 06 August 2025)
+-   📖 Read chapter 134 of [Sextopwatch](https://anilist.co/manga/152411) (17:27, 06 August 2025)
 -   📖 Read chapter 28 of [Cheat Mode Farming in Another World](https://anilist.co/manga/137901) (04:52, 05 August 2025)
--   📖 Read chapter 122 - 124 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (04:38, 05 August 2025)
--   📺 Plans to watch [bâan: The Boundary of Adulthood](https://anilist.co/anime/195494) (02:41, 05 August 2025)
--   📖 Read chapter 211 - 212 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (19:19, 03 August 2025)
--   📺 Watched episode 3 of [Terror in Resonance](https://anilist.co/anime/20661) (18:06, 03 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
