@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [Imouto to Natsuyasumi](https://anilist.co/manga/165377) (08:27, 07 August 2025)
 -   📖 Read chapter 2 - 3 of [Valhalla Otintin Kan](https://anilist.co/manga/123003) (18:48, 06 August 2025)
 -   📖 Read chapter 271 of [Omniscient Reader](https://anilist.co/manga/119257) (18:46, 06 August 2025)
 -   📖 Read chapter 1 - 9 of [Tou no Kanri wo Shite Miyou](https://anilist.co/manga/103736) (18:46, 06 August 2025)
 -   📖 Read chapter 134 of [Sextopwatch](https://anilist.co/manga/152411) (17:27, 06 August 2025)
--   📖 Read chapter 28 of [Cheat Mode Farming in Another World](https://anilist.co/manga/137901) (04:52, 05 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
