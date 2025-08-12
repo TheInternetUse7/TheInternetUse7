@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 9 - 10 of [Shakai Hito ga Kizuku Ajin Harem: Toudo 200% no Ecchi na Love Comedy wo Anata ni](https://anilist.co/manga/127516) (05:51, 10 August 2025)
--   📖 Read chapter 211 - 213 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (05:40, 10 August 2025)
--   📖 Read chapter 2 - 9 of [Valhalla Otintin Kan](https://anilist.co/manga/123003) (05:21, 10 August 2025)
--   📖 Read chapter 288 - 289 of [Overgeared](https://anilist.co/manga/117460) (18:41, 09 August 2025)
--   📖 Read chapter 271 - 274 of [Omniscient Reader](https://anilist.co/manga/119257) (04:41, 09 August 2025)
+-   📖 Read chapter 1 - 12 of [Tou no Kanri wo Shite Miyou](https://anilist.co/manga/103736) (16:12, 11 August 2025)
+-   📖 Read chapter 2 of [Daten Keikaku](https://anilist.co/manga/155557) (12:52, 11 August 2025)
+-   📖 Read chapter 2 - 18 of [Valhalla Otintin Kan](https://anilist.co/manga/123003) (12:49, 11 August 2025)
+-   📖 Read chapter 250 of [Teenage Mercenary](https://anilist.co/manga/126297) (12:43, 11 August 2025)
+-   📖 Read chapter 122 - 125 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (05:22, 11 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
