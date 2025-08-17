@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 20 of [Let’s Make a Harem in a Zombie World!](https://anilist.co/manga/181054) (19:05, 15 August 2025)
--   📖 Read chapter 363 of [Eleceed](https://anilist.co/manga/106929) (18:31, 15 August 2025)
--   📺 Plans to watch [GOLDEN BOY](https://anilist.co/anime/268) (05:40, 14 August 2025)
--   📺 Watched episode 4 of [Terror in Resonance](https://anilist.co/anime/20661) (17:24, 12 August 2025)
--   📖 Read chapter 1 - 12 of [Tou no Kanri wo Shite Miyou](https://anilist.co/manga/103736) (16:12, 11 August 2025)
+-   📖 Read chapter 30 of [HACKING GHOST: Karada ni Shika Kachi no Nai Gakuen](https://anilist.co/manga/186922) (22:05, 16 August 2025)
+-   📖 Read chapter 275 of [Omniscient Reader](https://anilist.co/manga/119257) (21:56, 16 August 2025)
+-   📖 Read chapter 212 of [One-Punch Man](https://anilist.co/manga/74347) (21:49, 16 August 2025)
+-   📖 Read chapter 273 of [Nano Machine](https://anilist.co/manga/120980) (21:43, 16 August 2025)
+-   📖 Read chapter 13 of [Kage no Jitsuryokusha ni Naritakute!: Master of Garden - Shichikage Retsuden](https://anilist.co/manga/179256) (21:35, 16 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
