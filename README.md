@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 30 of [HACKING GHOST: Karada ni Shika Kachi no Nai Gakuen](https://anilist.co/manga/186922) (22:05, 16 August 2025)
--   📖 Read chapter 275 of [Omniscient Reader](https://anilist.co/manga/119257) (21:56, 16 August 2025)
--   📖 Read chapter 212 of [One-Punch Man](https://anilist.co/manga/74347) (21:49, 16 August 2025)
--   📖 Read chapter 273 of [Nano Machine](https://anilist.co/manga/120980) (21:43, 16 August 2025)
--   📖 Read chapter 13 of [Kage no Jitsuryokusha ni Naritakute!: Master of Garden - Shichikage Retsuden](https://anilist.co/manga/179256) (21:35, 16 August 2025)
+-   📖 Read chapter 29 of [Betrayed by the Hero, I Formed a MILF Party with His Mom](https://anilist.co/manga/159187) (23:24, 17 August 2025)
+-   📖 Completed [Daten Keikaku](https://anilist.co/manga/155557) (16:06, 17 August 2025)
+-   📖 Read chapter 250 - 251 of [Teenage Mercenary](https://anilist.co/manga/126297) (09:55, 17 August 2025)
+-   📖 Read chapter 53 of [Kujibiki Tokushou: Musou Harem-ken](https://anilist.co/manga/108349) (09:52, 17 August 2025)
+-   📖 Read chapter 19 of [Sono Akuyaku Kizoku, Mama Heroine ga Suki Sugiru: Shinshi na Doryoku de Saikyou to Nari Fuguu na Oshi Chara Tasukemakuru](https://anilist.co/manga/186330) (06:18, 17 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
