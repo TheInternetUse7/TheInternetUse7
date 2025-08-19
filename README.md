@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 2 of [Ore no Yubisaki de Nureru Sekai](https://anilist.co/manga/197242) (20:09, 18 August 2025)
+-   📖 Read chapter 1 of [Mesukousei to Kekkon shita node Bakuhatsu shimasu.](https://anilist.co/manga/129026) (09:48, 18 August 2025)
+-   📖 Plans to read [Mesukousei to Kekkon shita node Bakuhatsu shimasu.](https://anilist.co/manga/129026) (09:21, 18 August 2025)
+-   📖 Plans to read [Ore no Yubisaki de Nureru Sekai](https://anilist.co/manga/197242) (09:19, 18 August 2025)
 -   📖 Read chapter 29 of [Betrayed by the Hero, I Formed a MILF Party with His Mom](https://anilist.co/manga/159187) (23:24, 17 August 2025)
--   📖 Completed [Daten Keikaku](https://anilist.co/manga/155557) (16:06, 17 August 2025)
--   📖 Read chapter 250 - 251 of [Teenage Mercenary](https://anilist.co/manga/126297) (09:55, 17 August 2025)
--   📖 Read chapter 53 of [Kujibiki Tokushou: Musou Harem-ken](https://anilist.co/manga/108349) (09:52, 17 August 2025)
--   📖 Read chapter 19 of [Sono Akuyaku Kizoku, Mama Heroine ga Suki Sugiru: Shinshi na Doryoku de Saikyou to Nari Fuguu na Oshi Chara Tasukemakuru](https://anilist.co/manga/186330) (06:18, 17 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
