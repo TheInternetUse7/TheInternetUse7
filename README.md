@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 63 - 72 of [Moby Dick](https://anilist.co/manga/172094) (16:15, 19 August 2025)
--   📖 Read chapter 126 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (15:26, 19 August 2025)
--   📖 Read chapter 19 of [My Bizarre Level-Up Condition! A Capable Guy's Reincarnation in Another World](https://anilist.co/manga/157497) (05:58, 19 August 2025)
--   📖 Read chapter 1 - 12 of [Ore no Yubisaki de Nureru Sekai](https://anilist.co/manga/197242) (05:50, 19 August 2025)
--   📖 Read chapter 1 of [Mesukousei to Kekkon shita node Bakuhatsu shimasu.](https://anilist.co/manga/129026) (09:48, 18 August 2025)
+-   📺 Watched episode 4 - 5 of [Call of the Night Season 2](https://anilist.co/anime/175914) (15:24, 20 August 2025)
+-   📺 Watched episode 5 of [Terror in Resonance](https://anilist.co/anime/20661) (14:28, 20 August 2025)
+-   📖 Read chapter 141 of [Sextopwatch](https://anilist.co/manga/152411) (14:27, 20 August 2025)
+-   📖 Read chapter 63 - 75 of [Moby Dick](https://anilist.co/manga/172094) (14:27, 20 August 2025)
+-   📖 Read chapter 13 of [Tou no Kanri wo Shite Miyou](https://anilist.co/manga/103736) (14:27, 20 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
