@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 31 of [Gokusotsu Kraken](https://anilist.co/manga/152815) (19:46, 22 August 2025)
+-   📖 Read chapter 38 - 39 of [Only With Consent](https://anilist.co/manga/128789) (03:35, 22 August 2025)
+-   📖 Read chapter 85 - 86 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (03:20, 22 August 2025)
+-   📖 Read chapter 33 of [Reincarnation Coliseum: The Weakest Skill Conquers the Strongest Women and Creates a Harem](https://anilist.co/manga/152284) (03:01, 22 August 2025)
 -   📖 Read chapter 273 - 274 of [Nano Machine](https://anilist.co/manga/120980) (18:10, 21 August 2025)
--   📖 Read chapter 12 of [Eroge Sekai ni Tensei Shita Ore ga, Oshi e no Ai de Netorare Heroine wo Shiawase ni Suru.](https://anilist.co/manga/184306) (17:57, 21 August 2025)
--   📺 Watched episode 4 - 5 of [Call of the Night Season 2](https://anilist.co/anime/175914) (15:24, 20 August 2025)
--   📺 Watched episode 5 of [Terror in Resonance](https://anilist.co/anime/20661) (14:28, 20 August 2025)
--   📖 Read chapter 141 of [Sextopwatch](https://anilist.co/manga/152411) (14:27, 20 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
