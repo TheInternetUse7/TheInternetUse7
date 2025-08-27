@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 41 - 42 of [SO-EUN for All](https://anilist.co/manga/179218) (23:22, 24 August 2025)
--   📖 Read chapter 141 - 142 of [Sextopwatch](https://anilist.co/manga/152411) (23:00, 24 August 2025)
--   📖 Read chapter 290 of [Overgeared](https://anilist.co/manga/117460) (22:51, 24 August 2025)
--   📖 Read chapter 48 of [Issho ni Kurashite Ii desu ka?](https://anilist.co/manga/159549) (07:05, 24 August 2025)
--   📖 Read chapter 51 of [Solo Leveling: Ragnarok](https://anilist.co/manga/179445) (07:05, 24 August 2025)
+-   📖 Read chapter 28 of [Kokan Musou: Kiraware Yuusha wa Mazoku ni Aisareru](https://anilist.co/manga/142463) (23:36, 26 August 2025)
+-   📖 Read chapter 85 - 87 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (23:10, 26 August 2025)
+-   📖 Read chapter 364 - 365 of [Eleceed](https://anilist.co/manga/106929) (23:02, 26 August 2025)
+-   📖 Read chapter 126 - 127 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (11:42, 26 August 2025)
+-   📖 Read chapter 55 of [The Shiunji Family Children](https://anilist.co/manga/144374) (11:24, 26 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
