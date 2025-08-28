@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 28 of [Kokan Musou: Kiraware Yuusha wa Mazoku ni Aisareru](https://anilist.co/manga/142463) (23:36, 26 August 2025)
--   📖 Read chapter 85 - 87 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (23:10, 26 August 2025)
--   📖 Read chapter 364 - 365 of [Eleceed](https://anilist.co/manga/106929) (23:02, 26 August 2025)
--   📖 Read chapter 126 - 127 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (11:42, 26 August 2025)
--   📖 Read chapter 55 of [The Shiunji Family Children](https://anilist.co/manga/144374) (11:24, 26 August 2025)
+-   📖 Read chapter 51 - 52 of [Solo Leveling: Ragnarok](https://anilist.co/manga/179445) (19:43, 27 August 2025)
+-   📺 Watched episode 2 of [Dororo](https://anilist.co/anime/101347) (18:39, 27 August 2025)
+-   📖 Read chapter 252 of [Teenage Mercenary](https://anilist.co/manga/126297) (18:06, 27 August 2025)
+-   📖 Read chapter 13 - 14 of [Ore no Yubisaki de Nureru Sekai](https://anilist.co/manga/197242) (17:30, 27 August 2025)
+-   📺 Watched episode 4 - 7 of [Call of the Night Season 2](https://anilist.co/anime/175914) (13:48, 27 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
