@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 51 - 52 of [Solo Leveling: Ragnarok](https://anilist.co/manga/179445) (19:43, 27 August 2025)
--   📺 Watched episode 2 of [Dororo](https://anilist.co/anime/101347) (18:39, 27 August 2025)
--   📖 Read chapter 252 of [Teenage Mercenary](https://anilist.co/manga/126297) (18:06, 27 August 2025)
--   📖 Read chapter 13 - 14 of [Ore no Yubisaki de Nureru Sekai](https://anilist.co/manga/197242) (17:30, 27 August 2025)
--   📺 Watched episode 4 - 7 of [Call of the Night Season 2](https://anilist.co/anime/175914) (13:48, 27 August 2025)
+-   📖 Read chapter 1 - 10 of [Secret Siblings](https://anilist.co/manga/154470) (21:12, 28 August 2025)
+-   📖 Read chapter 17 of [Boukensha ni Narenakatta Ore, Skill "Oppai Kyousei" de Nayameru Ano Ko wo Hitodasuke!? ](https://anilist.co/manga/172559) (20:29, 28 August 2025)
+-   📖 Read chapter 44 of [Brave New World](https://anilist.co/manga/122161) (08:08, 28 August 2025)
+-   📖 Read chapter 7 of [Joban de Shinu Saikyou no Sub Chara ni Tensei Shita no de, Game Chishiki de Musou Suru](https://anilist.co/manga/186897) (06:26, 28 August 2025)
+-   📖 Read chapter 73 - 74 of [Himekishi ga Classmate! THE COMIC](https://anilist.co/manga/86276) (04:13, 28 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
