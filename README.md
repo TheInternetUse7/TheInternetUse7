@@ -25,7 +25,7 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 10 of [Secret Siblings](https://anilist.co/manga/154470) (21:12, 28 August 2025)
+-   📖 Read chapter 1 - 12 of [Secret Siblings](https://anilist.co/manga/154470) (07:37, 29 August 2025)
 -   📖 Read chapter 17 of [Boukensha ni Narenakatta Ore, Skill "Oppai Kyousei" de Nayameru Ano Ko wo Hitodasuke!? ](https://anilist.co/manga/172559) (20:29, 28 August 2025)
 -   📖 Read chapter 44 of [Brave New World](https://anilist.co/manga/122161) (08:08, 28 August 2025)
 -   📖 Read chapter 7 of [Joban de Shinu Saikyou no Sub Chara ni Tensei Shita no de, Game Chishiki de Musou Suru](https://anilist.co/manga/186897) (06:26, 28 August 2025)
