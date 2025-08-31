@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 12 of [Secret Siblings](https://anilist.co/manga/154470) (07:37, 29 August 2025)
--   📖 Read chapter 17 of [Boukensha ni Narenakatta Ore, Skill "Oppai Kyousei" de Nayameru Ano Ko wo Hitodasuke!? ](https://anilist.co/manga/172559) (20:29, 28 August 2025)
--   📖 Read chapter 44 of [Brave New World](https://anilist.co/manga/122161) (08:08, 28 August 2025)
--   📖 Read chapter 7 of [Joban de Shinu Saikyou no Sub Chara ni Tensei Shita no de, Game Chishiki de Musou Suru](https://anilist.co/manga/186897) (06:26, 28 August 2025)
--   📖 Read chapter 73 - 74 of [Himekishi ga Classmate! THE COMIC](https://anilist.co/manga/86276) (04:13, 28 August 2025)
+-   📖 Read chapter 161 of [Jungle Juice](https://anilist.co/manga/128882) (18:36, 30 August 2025)
+-   📖 Read chapter 276 of [Omniscient Reader](https://anilist.co/manga/119257) (18:36, 30 August 2025)
+-   📖 Read chapter 41 - 43 of [SO-EUN for All](https://anilist.co/manga/179218) (07:38, 30 August 2025)
+-   📖 Read chapter 1 - 17 of [Secret Siblings](https://anilist.co/manga/154470) (02:59, 30 August 2025)
+-   📖 Read chapter 214 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (01:51, 30 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
