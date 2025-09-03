@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [My Sisters](https://anilist.co/manga/57799) (08:04, 02 September 2025)
+-   📖 Read chapter 291 of [Overgeared](https://anilist.co/manga/117460) (07:35, 02 September 2025)
+-   📖 Read chapter 126 - 128 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (07:22, 02 September 2025)
 -   📺 Watched episode 4 of [Watari-kun's ****** Is about to Collapse](https://anilist.co/anime/169420) (18:16, 01 September 2025)
 -   📺 Watched episode 4 - 8 of [Call of the Night Season 2](https://anilist.co/anime/175914) (18:16, 01 September 2025)
--   📖 Read chapter 11 of [Futago Matomete "Kanojo" ni Shinai?](https://anilist.co/manga/177186) (03:52, 31 August 2025)
--   📖 Read chapter 276 - 277 of [Omniscient Reader](https://anilist.co/manga/119257) (03:44, 31 August 2025)
--   📖 Read chapter 161 of [Jungle Juice](https://anilist.co/manga/128882) (18:36, 30 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
