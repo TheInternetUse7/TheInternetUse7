@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Completed [My Sisters](https://anilist.co/manga/57799) (08:04, 02 September 2025)
--   📖 Read chapter 291 of [Overgeared](https://anilist.co/manga/117460) (07:35, 02 September 2025)
--   📖 Read chapter 126 - 128 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (07:22, 02 September 2025)
--   📺 Watched episode 4 of [Watari-kun's ****** Is about to Collapse](https://anilist.co/anime/169420) (18:16, 01 September 2025)
--   📺 Watched episode 4 - 8 of [Call of the Night Season 2](https://anilist.co/anime/175914) (18:16, 01 September 2025)
+-   📖 Read chapter 276 - 278 of [Omniscient Reader](https://anilist.co/manga/119257) (05:51, 03 September 2025)
+-   📖 Read chapter 21 of [Let’s Make a Harem in a Zombie World!](https://anilist.co/manga/181054) (05:35, 03 September 2025)
+-   📖 Read chapter 366 of [Eleceed](https://anilist.co/manga/106929) (05:27, 03 September 2025)
+-   📖 Read chapter 13 - 16 of [Ore no Yubisaki de Nureru Sekai](https://anilist.co/manga/197242) (04:57, 03 September 2025)
+-   📖 Read chapter 52 - 53 of [Seinaru Otome to Himegoto wo](https://anilist.co/manga/181248) (04:54, 03 September 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
