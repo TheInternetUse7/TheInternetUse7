@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 161 - 163 of [Jungle Juice](https://anilist.co/manga/128882) (17:40, 04 September 2025)
+-   📖 Read chapter 53 of [Solo Leveling: Ragnarok](https://anilist.co/manga/179445) (17:10, 04 September 2025)
+-   📖 Read chapter 33 of [HACKING GHOST: Karada ni Shika Kachi no Nai Gakuen](https://anilist.co/manga/186922) (05:27, 04 September 2025)
+-   📖 Read chapter 273 - 276 of [Nano Machine](https://anilist.co/manga/120980) (01:15, 04 September 2025)
 -   📖 Read chapter 276 - 278 of [Omniscient Reader](https://anilist.co/manga/119257) (05:51, 03 September 2025)
--   📖 Read chapter 21 of [Let’s Make a Harem in a Zombie World!](https://anilist.co/manga/181054) (05:35, 03 September 2025)
--   📖 Read chapter 366 of [Eleceed](https://anilist.co/manga/106929) (05:27, 03 September 2025)
--   📖 Read chapter 13 - 16 of [Ore no Yubisaki de Nureru Sekai](https://anilist.co/manga/197242) (04:57, 03 September 2025)
--   📖 Read chapter 52 - 53 of [Seinaru Otome to Himegoto wo](https://anilist.co/manga/181248) (04:54, 03 September 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
