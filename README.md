@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 253 - 254 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:48, 07 September 2025)
+-   📖 Read chapter 215 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (05:36, 07 September 2025)
 -   📖 Read chapter 161 - 167 of [Jungle Juice](https://anilist.co/manga/128882) (15:07, 06 September 2025)
 -   📖 Read chapter 49 of [Issho ni Kurashite Ii desu ka?](https://anilist.co/manga/159549) (15:07, 06 September 2025)
 -   📖 Read chapter 291 - 292 of [Overgeared](https://anilist.co/manga/117460) (07:58, 06 September 2025)
--   📖 Read chapter 88 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (07:38, 06 September 2025)
--   📖 Read chapter 2 of [Gokuri](https://anilist.co/manga/132308) (07:27, 06 September 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
