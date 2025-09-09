@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 7 of [Flirting With Her](https://anilist.co/manga/145990) (11:01, 08 September 2025)
+-   📖 Read chapter 126 - 129 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (09:40, 08 September 2025)
+-   📖 Read chapter 8 of [Joban de Shinu Saikyou no Sub Chara ni Tensei Shita no de, Game Chishiki de Musou Suru](https://anilist.co/manga/186897) (08:10, 08 September 2025)
+-   📖 Plans to read [Kanojo wo Ubatta Ikemen Bishoujo ga Naze ka Ore made Neratekuru](https://anilist.co/manga/182367) (05:45, 08 September 2025)
 -   📖 Read chapter 253 - 254 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:48, 07 September 2025)
--   📖 Read chapter 215 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (05:36, 07 September 2025)
--   📖 Read chapter 161 - 167 of [Jungle Juice](https://anilist.co/manga/128882) (15:07, 06 September 2025)
--   📖 Read chapter 49 of [Issho ni Kurashite Ii desu ka?](https://anilist.co/manga/159549) (15:07, 06 September 2025)
--   📖 Read chapter 291 - 292 of [Overgeared](https://anilist.co/manga/117460) (07:58, 06 September 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
