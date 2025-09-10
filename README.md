@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 11 - 16 of [MILF Hunter in Another World](https://anilist.co/manga/166581) (10:39, 09 September 2025)
+-   📖 Read chapter 161 - 169 of [Jungle Juice](https://anilist.co/manga/128882) (10:02, 09 September 2025)
+-   📖 Read chapter 1 of [Kanojo wo Ubatta Ikemen Bishoujo ga Naze ka Ore made Neratekuru](https://anilist.co/manga/182367) (09:48, 09 September 2025)
 -   📖 Read chapter 7 of [Flirting With Her](https://anilist.co/manga/145990) (11:01, 08 September 2025)
 -   📖 Read chapter 126 - 129 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (09:40, 08 September 2025)
--   📖 Read chapter 8 of [Joban de Shinu Saikyou no Sub Chara ni Tensei Shita no de, Game Chishiki de Musou Suru](https://anilist.co/manga/186897) (08:10, 08 September 2025)
--   📖 Plans to read [Kanojo wo Ubatta Ikemen Bishoujo ga Naze ka Ore made Neratekuru](https://anilist.co/manga/182367) (05:45, 08 September 2025)
--   📖 Read chapter 253 - 254 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:48, 07 September 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
