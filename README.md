@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 11 - 16 of [MILF Hunter in Another World](https://anilist.co/manga/166581) (10:39, 09 September 2025)
--   📖 Read chapter 161 - 169 of [Jungle Juice](https://anilist.co/manga/128882) (10:02, 09 September 2025)
--   📖 Read chapter 1 of [Kanojo wo Ubatta Ikemen Bishoujo ga Naze ka Ore made Neratekuru](https://anilist.co/manga/182367) (09:48, 09 September 2025)
--   📖 Read chapter 7 of [Flirting With Her](https://anilist.co/manga/145990) (11:01, 08 September 2025)
--   📖 Read chapter 126 - 129 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (09:40, 08 September 2025)
+-   📖 Read chapter 88 - 89 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (21:29, 10 September 2025)
+-   📖 Read chapter 279 of [Omniscient Reader](https://anilist.co/manga/119257) (20:51, 10 September 2025)
+-   📖 Read chapter 367 of [Eleceed](https://anilist.co/manga/106929) (20:43, 10 September 2025)
+-   📖 Read chapter 1 of [Maggy's Dog](https://anilist.co/manga/117832) (12:14, 10 September 2025)
+-   📖 Read chapter 1 - 2 of [Ore no Kingdom: Zettai Fukujuu Dorei Oukoku](https://anilist.co/manga/67119) (12:04, 10 September 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
