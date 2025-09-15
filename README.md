@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 29 of [Astro King: Shoukan Yuusha dakedo Kakyuu Ninteisareta node Maid Harem wo Tsukurimasu!](https://anilist.co/manga/151865) (20:15, 12 September 2025)
--   📖 Read chapter 17 of [Ore no Yubisaki de Nureru Sekai](https://anilist.co/manga/197242) (04:46, 12 September 2025)
--   📖 Read chapter 54 of [Solo Leveling: Ragnarok](https://anilist.co/manga/179445) (04:44, 12 September 2025)
--   📖 Read chapter 277 of [Nano Machine](https://anilist.co/manga/120980) (04:36, 12 September 2025)
--   📖 Read chapter 88 - 89 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (21:29, 10 September 2025)
+-   📖 Read chapter 216 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (20:49, 14 September 2025)
+-   📖 Read chapter 75 of [The Eminence in Shadow](https://anilist.co/manga/106758) (20:41, 14 September 2025)
+-   📖 Read chapter 56 of [The Shiunji Family Children](https://anilist.co/manga/144374) (20:30, 14 September 2025)
+-   📖 Read chapter 18 of [Boukensha ni Narenakatta Ore, Skill "Oppai Kyousei" de Nayameru Ano Ko wo Hitodasuke!? ](https://anilist.co/manga/172559) (20:19, 14 September 2025)
+-   📖 Read chapter 293 of [Overgeared](https://anilist.co/manga/117460) (20:10, 14 September 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
