@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 3841 of [Martial Peak](https://anilist.co/manga/104494) (10:43, 20 September 2025)
 -   📖 Read chapter 41 of [Isekai Majutsushi wa Mahou wo Tonaenai](https://anilist.co/manga/119973) (18:50, 19 September 2025)
 -   📖 Read chapter 29 - 33 of [Astro King: Shoukan Yuusha dakedo Kakyuu Ninteisareta node Maid Harem wo Tsukurimasu!](https://anilist.co/manga/151865) (18:45, 19 September 2025)
 -   📖 Read chapter 3 - 6 of [Ore no Kingdom: Zettai Fukujuu Dorei Oukoku](https://anilist.co/manga/67119) (04:47, 19 September 2025)
 -   📖 Read chapter 34 - 35 of [HACKING GHOST: Karada ni Shika Kachi no Nai Gakuen](https://anilist.co/manga/186922) (19:42, 18 September 2025)
--   📖 Read chapter 1 - 27 of [Ouritsu Mahou Gakuen no Saikasei: Hikongai Agari no Saikyou Mahoushi, Kizoku Darake no Gakuen de Musou Suru](https://anilist.co/manga/129506) (04:39, 18 September 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
