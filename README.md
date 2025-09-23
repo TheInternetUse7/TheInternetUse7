@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 38 of [Ouritsu Mahou Gakuen no Saikasei: Hikongai Agari no Saikyou Mahoushi, Kizoku Darake no Gakuen de Musou Suru](https://anilist.co/manga/129506) (18:00, 21 September 2025)
+-   📖 Read chapter 1 of [Makutsu no Ou: Yomei Ichi Kagatsu no Doutei, Mahou Shoujo Harem wo Kizuite Ou e Kunrinsu](https://anilist.co/manga/184771) (17:42, 22 September 2025)
+-   📖 Read chapter 30 of [Betrayed by the Hero, I Formed a MILF Party with His Mom](https://anilist.co/manga/159187) (17:20, 22 September 2025)
+-   📖 Plans to read [Harem Ou no Isekai Press Manyuuki: Saikyou Musou no Oji-san wa Arayuru Shuzoku wo Yome ni Suru](https://anilist.co/manga/178992) (16:00, 22 September 2025)
+-   📖 Read chapter 1 - 63 of [Ouritsu Mahou Gakuen no Saikasei: Hikongai Agari no Saikyou Mahoushi, Kizoku Darake no Gakuen de Musou Suru](https://anilist.co/manga/129506) (05:05, 22 September 2025)
 -   📖 Read chapter 1 - 37 of [Ouritsu Mahou Gakuen no Saikasei: Hikongai Agari no Saikyou Mahoushi, Kizoku Darake no Gakuen de Musou Suru](https://anilist.co/manga/129506) (17:56, 21 September 2025)
--   📖 Read chapter 24 of [Otoko Girai na Bijin Shimai wo Namae mo Tsugezu ni Tasuketara Ittai Dounaru?](https://anilist.co/manga/163004) (11:40, 21 September 2025)
--   📖 Read chapter 255 - 256 of [Teenage Mercenary](https://anilist.co/manga/126297) (11:36, 21 September 2025)
--   📖 Read chapter 54 - 56 of [Seinaru Otome to Himegoto wo](https://anilist.co/manga/181248) (10:05, 21 September 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
