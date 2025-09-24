@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 of [Makutsu no Ou: Yomei Ichi Kagatsu no Doutei, Mahou Shoujo Harem wo Kizuite Ou e Kunrinsu](https://anilist.co/manga/184771) (17:42, 22 September 2025)
--   📖 Read chapter 30 of [Betrayed by the Hero, I Formed a MILF Party with His Mom](https://anilist.co/manga/159187) (17:20, 22 September 2025)
--   📖 Plans to read [Harem Ou no Isekai Press Manyuuki: Saikyou Musou no Oji-san wa Arayuru Shuzoku wo Yome ni Suru](https://anilist.co/manga/178992) (16:00, 22 September 2025)
--   📖 Read chapter 1 - 63 of [Ouritsu Mahou Gakuen no Saikasei: Hikongai Agari no Saikyou Mahoushi, Kizoku Darake no Gakuen de Musou Suru](https://anilist.co/manga/129506) (05:05, 22 September 2025)
--   📖 Read chapter 1 - 37 of [Ouritsu Mahou Gakuen no Saikasei: Hikongai Agari no Saikyou Mahoushi, Kizoku Darake no Gakuen de Musou Suru](https://anilist.co/manga/129506) (17:56, 21 September 2025)
+-   📖 Read chapter 131 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (00:12, 24 September 2025)
+-   📺 Completed [bâan: The Boundary of Adulthood](https://anilist.co/anime/195494) (21:54, 23 September 2025)
+-   📖 Read chapter 97 of [Isekai Meikyuu de Harem wo](https://anilist.co/manga/99462) (08:47, 23 September 2025)
+-   📖 Read chapter 50 of [Issho ni Kurashite Ii desu ka?](https://anilist.co/manga/159549) (08:34, 23 September 2025)
+-   📖 Read chapter 26 of [MILF Hunter in Another World](https://anilist.co/manga/166581) (03:57, 23 September 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
