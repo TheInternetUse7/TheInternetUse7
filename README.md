@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 4 of [Ai ni Muragaru Mushitachi wa](https://anilist.co/manga/189289) (09:02, 24 September 2025)
 -   📖 Read chapter 131 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (00:12, 24 September 2025)
 -   📺 Completed [bâan: The Boundary of Adulthood](https://anilist.co/anime/195494) (21:54, 23 September 2025)
 -   📖 Read chapter 97 of [Isekai Meikyuu de Harem wo](https://anilist.co/manga/99462) (08:47, 23 September 2025)
 -   📖 Read chapter 50 of [Issho ni Kurashite Ii desu ka?](https://anilist.co/manga/159549) (08:34, 23 September 2025)
--   📖 Read chapter 26 of [MILF Hunter in Another World](https://anilist.co/manga/166581) (03:57, 23 September 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
