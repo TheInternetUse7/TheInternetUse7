@@ -25,7 +25,7 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 2 - 3 of [Game of Familia](https://anilist.co/manga/104033) (23:23, 26 September 2025)
+-   📖 Read chapter 2 - 6 of [Game of Familia](https://anilist.co/manga/104033) (19:13, 27 September 2025)
 -   📺 Watched episode 9 of [Call of the Night Season 2](https://anilist.co/anime/175914) (18:24, 26 September 2025)
 -   📖 Read chapter 3841 - 3844 of [Martial Peak](https://anilist.co/manga/104494) (22:11, 25 September 2025)
 -   📖 Read chapter 3841 - 3844 of [Martial Peak](https://anilist.co/manga/104494) (22:11, 25 September 2025)
