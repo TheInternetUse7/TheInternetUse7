@@ -25,10 +25,10 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 5 of [Kaiju No. 8](https://anilist.co/anime/153288) (18:33, 28 September 2025)
+-   📖 Read chapter 36 of [HACKING GHOST: Karada ni Shika Kachi no Nai Gakuen](https://anilist.co/manga/186922) (20:10, 29 September 2025)
+-   📺 Watched episode 1 - 7 of [Kaiju No. 8](https://anilist.co/anime/153288) (12:39, 29 September 2025)
 -   📖 Read chapter 2 - 6 of [Game of Familia](https://anilist.co/manga/104033) (19:13, 27 September 2025)
 -   📺 Watched episode 9 of [Call of the Night Season 2](https://anilist.co/anime/175914) (18:24, 26 September 2025)
--   📖 Read chapter 3841 - 3844 of [Martial Peak](https://anilist.co/manga/104494) (22:11, 25 September 2025)
 -   📖 Read chapter 3841 - 3844 of [Martial Peak](https://anilist.co/manga/104494) (22:11, 25 September 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
