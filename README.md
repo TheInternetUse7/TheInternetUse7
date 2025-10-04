@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 57 of [The Shiunji Family Children](https://anilist.co/manga/144374) (20:07, 02 October 2025)
--   📖 Read chapter 2 - 11 of [Game of Familia](https://anilist.co/manga/104033) (11:37, 02 October 2025)
--   📖 Read chapter 44 of [Namaiki na Gal Ane wo Wakaraseru Hanashi](https://anilist.co/manga/179506) (09:28, 02 October 2025)
--   📖 Read chapter 257 of [Teenage Mercenary](https://anilist.co/manga/126297) (05:15, 02 October 2025)
--   📖 Read chapter 22 of [Let’s Make a Harem in a Zombie World!](https://anilist.co/manga/181054) (04:57, 01 October 2025)
+-   📖 Read chapter 2 - 14 of [Game of Familia](https://anilist.co/manga/104033) (04:55, 03 October 2025)
+-   📖 Plans to read [Houkago Instant XXX](https://anilist.co/manga/199615) (04:26, 03 October 2025)
+-   📖 Read chapter 12 - 14 of [Futago Matomete "Kanojo" ni Shinai?](https://anilist.co/manga/177186) (03:59, 03 October 2025)
+-   📖 Read chapter 66 of [Isekai NTR: Shinyuu no Onna wo Saikyou Skill de Otosu Houhou](https://anilist.co/manga/115042) (03:40, 03 October 2025)
+-   📖 Plans to read [Eroge no Sekai de Slow Life: Issho ni Isekai Teni Shitekita YariCir no Daigakuseitachi ni Tsuihou sareta node, Henkyou de Muteki ni Natte Shin no Heroine-tachi to Yoroshiku Yarimasu](https://anilist.co/manga/175607) (03:35, 03 October 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
