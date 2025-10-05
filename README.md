@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 36 - 37 of [HACKING GHOST: Karada ni Shika Kachi no Nai Gakuen](https://anilist.co/manga/186922) (21:23, 04 October 2025)
 -   📖 Read chapter 2 - 14 of [Game of Familia](https://anilist.co/manga/104033) (04:55, 03 October 2025)
 -   📖 Plans to read [Houkago Instant XXX](https://anilist.co/manga/199615) (04:26, 03 October 2025)
 -   📖 Read chapter 12 - 14 of [Futago Matomete "Kanojo" ni Shinai?](https://anilist.co/manga/177186) (03:59, 03 October 2025)
 -   📖 Read chapter 66 of [Isekai NTR: Shinyuu no Onna wo Saikyou Skill de Otosu Houhou](https://anilist.co/manga/115042) (03:40, 03 October 2025)
--   📖 Plans to read [Eroge no Sekai de Slow Life: Issho ni Isekai Teni Shitekita YariCir no Daigakuseitachi ni Tsuihou sareta node, Henkyou de Muteki ni Natte Shin no Heroine-tachi to Yoroshiku Yarimasu](https://anilist.co/manga/175607) (03:35, 03 October 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
