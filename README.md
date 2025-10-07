@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 2 - 19 of [Game of Familia](https://anilist.co/manga/104033) (10:19, 05 October 2025)
--   📖 Read chapter 36 - 37 of [HACKING GHOST: Karada ni Shika Kachi no Nai Gakuen](https://anilist.co/manga/186922) (21:23, 04 October 2025)
--   📖 Plans to read [Houkago Instant XXX](https://anilist.co/manga/199615) (04:26, 03 October 2025)
--   📖 Read chapter 12 - 14 of [Futago Matomete "Kanojo" ni Shinai?](https://anilist.co/manga/177186) (03:59, 03 October 2025)
--   📖 Read chapter 66 of [Isekai NTR: Shinyuu no Onna wo Saikyou Skill de Otosu Houhou](https://anilist.co/manga/115042) (03:40, 03 October 2025)
+-   📖 Read chapter 36 - 38 of [HACKING GHOST: Karada ni Shika Kachi no Nai Gakuen](https://anilist.co/manga/186922) (21:16, 06 October 2025)
+-   📺 Watched episode 1 of [To Your Eternity Season 3](https://anilist.co/anime/162669) (20:06, 06 October 2025)
+-   📖 Read chapter 131 - 133 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (18:28, 06 October 2025)
+-   📺 Watched episode 10 - 11 of [Call of the Night Season 2](https://anilist.co/anime/175914) (08:54, 06 October 2025)
+-   📖 Read chapter 2 - 20 of [Game of Familia](https://anilist.co/manga/104033) (04:56, 06 October 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
