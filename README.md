@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 36 - 38 of [HACKING GHOST: Karada ni Shika Kachi no Nai Gakuen](https://anilist.co/manga/186922) (21:16, 06 October 2025)
--   📺 Watched episode 1 of [To Your Eternity Season 3](https://anilist.co/anime/162669) (20:06, 06 October 2025)
--   📖 Read chapter 131 - 133 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (18:28, 06 October 2025)
--   📺 Watched episode 10 - 11 of [Call of the Night Season 2](https://anilist.co/anime/175914) (08:54, 06 October 2025)
--   📖 Read chapter 2 - 20 of [Game of Familia](https://anilist.co/manga/104033) (04:56, 06 October 2025)
+-   📖 Read chapter 1 - 2 of [Eroge no Sekai de Slow Life: Issho ni Isekai Teni Shitekita YariCir no Daigakuseitachi ni Tsuihou sareta node, Henkyou de Muteki ni Natte Shin no Heroine-tachi to Yoroshiku Yarimasu](https://anilist.co/manga/175607) (21:42, 07 October 2025)
+-   📖 Plans to read [Elf Dorei to Kizuku Dungeon Harem: Isekai de Netotte Nakama wo Fuyashimasu](https://anilist.co/manga/154219) (21:23, 07 October 2025)
+-   📖 Plans to read [Dungeon Kurashi no Moto Yuusha THE COMIC](https://anilist.co/manga/108049) (21:11, 07 October 2025)
+-   📖 Plans to read [Don’t mind me, Sensei! Give yourself a hand!](https://anilist.co/manga/104977) (21:09, 07 October 2025)
+-   📖 Plans to read [1/10 no Hanayome](https://anilist.co/manga/108601) (21:00, 07 October 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
