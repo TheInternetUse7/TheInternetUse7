@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 9 of [Luvslave](https://anilist.co/manga/113495) (21:18, 08 October 2025)
--   📖 Read chapter 1 of [Isekai Kaeri no Ossan wa, Fusei Skill de Fathercon Musume-tachi wo Tororori ni](https://anilist.co/manga/110722) (04:48, 08 October 2025)
--   📖 Read chapter 1 of [Iinari! Aibration](https://anilist.co/manga/33046) (04:40, 08 October 2025)
--   📖 Read chapter 1 - 2 of [Houkago Instant XXX](https://anilist.co/manga/199615) (04:27, 08 October 2025)
--   📖 Read chapter 1 - 2 of [Eroge no Sekai de Slow Life: Issho ni Isekai Teni Shitekita YariCir no Daigakuseitachi ni Tsuihou sareta node, Henkyou de Muteki ni Natte Shin no Heroine-tachi to Yoroshiku Yarimasu](https://anilist.co/manga/175607) (21:42, 07 October 2025)
+-   📖 Read chapter 1 of [1/10 no Hanayome](https://anilist.co/manga/108601) (22:01, 10 October 2025)
+-   📖 Read chapter 1 - 6 of [Dungeon Kurashi no Moto Yuusha THE COMIC](https://anilist.co/manga/108049) (11:05, 10 October 2025)
+-   📖 Read chapter 1 - 2 of [Dungeon Kurashi no Moto Yuusha THE COMIC](https://anilist.co/manga/108049) (07:54, 10 October 2025)
+-   📖 Read chapter 22 of [Sono Akuyaku Kizoku, Mama Heroine ga Suki Sugiru: Shinshi na Doryoku de Saikyou to Nari Fuguu na Oshi Chara Tasukemakuru](https://anilist.co/manga/186330) (07:43, 10 October 2025)
+-   📖 Read chapter 39 of [Isekai Saikou no Kizoku, Harem wo Fuyasu Hodo Tsuyoku Naru](https://anilist.co/manga/149342) (07:38, 10 October 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
