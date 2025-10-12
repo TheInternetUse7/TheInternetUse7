@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 of [1/10 no Hanayome](https://anilist.co/manga/108601) (22:01, 10 October 2025)
--   📖 Read chapter 1 - 6 of [Dungeon Kurashi no Moto Yuusha THE COMIC](https://anilist.co/manga/108049) (11:05, 10 October 2025)
--   📖 Read chapter 1 - 2 of [Dungeon Kurashi no Moto Yuusha THE COMIC](https://anilist.co/manga/108049) (07:54, 10 October 2025)
--   📖 Read chapter 22 of [Sono Akuyaku Kizoku, Mama Heroine ga Suki Sugiru: Shinshi na Doryoku de Saikyou to Nari Fuguu na Oshi Chara Tasukemakuru](https://anilist.co/manga/186330) (07:43, 10 October 2025)
--   📖 Read chapter 39 of [Isekai Saikou no Kizoku, Harem wo Fuyasu Hodo Tsuyoku Naru](https://anilist.co/manga/149342) (07:38, 10 October 2025)
+-   📖 Read chapter 1 - 13 of [Luvslave](https://anilist.co/manga/113495) (23:44, 11 October 2025)
+-   📺 Watched episode 1 - 2 of [To Your Eternity Season 3](https://anilist.co/anime/162669) (22:00, 11 October 2025)
+-   📖 Completed [Prototype Lolita](https://anilist.co/manga/131710) (12:21, 11 October 2025)
+-   📖 Read chapter 1 - 5 of [Eroge no Sekai de Slow Life: Issho ni Isekai Teni Shitekita YariCir no Daigakuseitachi ni Tsuihou sareta node, Henkyou de Muteki ni Natte Shin no Heroine-tachi to Yoroshiku Yarimasu](https://anilist.co/manga/175607) (12:05, 11 October 2025)
+-   📖 Read chapter 43 of [Isekai Majutsushi wa Mahou wo Tonaenai](https://anilist.co/manga/119973) (11:37, 11 October 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
