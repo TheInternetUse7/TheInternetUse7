@@ -25,7 +25,7 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 13 of [Luvslave](https://anilist.co/manga/113495) (23:44, 11 October 2025)
+-   📖 Read chapter 1 - 18 of [Luvslave](https://anilist.co/manga/113495) (06:32, 12 October 2025)
 -   📺 Watched episode 1 - 2 of [To Your Eternity Season 3](https://anilist.co/anime/162669) (22:00, 11 October 2025)
 -   📖 Completed [Prototype Lolita](https://anilist.co/manga/131710) (12:21, 11 October 2025)
 -   📖 Read chapter 1 - 5 of [Eroge no Sekai de Slow Life: Issho ni Isekai Teni Shitekita YariCir no Daigakuseitachi ni Tsuihou sareta node, Henkyou de Muteki ni Natte Shin no Heroine-tachi to Yoroshiku Yarimasu](https://anilist.co/manga/175607) (12:05, 11 October 2025)
