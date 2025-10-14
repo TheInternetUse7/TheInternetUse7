@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 58 of [The Shiunji Family Children](https://anilist.co/manga/144374) (21:44, 13 October 2025)
+-   📖 Read chapter 134 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (21:33, 13 October 2025)
+-   📺 Watched episode 1 of [One-Punch Man Season 3](https://anilist.co/anime/153800) (18:57, 13 October 2025)
 -   📖 Read chapter 1 - 18 of [Luvslave](https://anilist.co/manga/113495) (06:32, 12 October 2025)
 -   📺 Watched episode 1 - 2 of [To Your Eternity Season 3](https://anilist.co/anime/162669) (22:00, 11 October 2025)
--   📖 Completed [Prototype Lolita](https://anilist.co/manga/131710) (12:21, 11 October 2025)
--   📖 Read chapter 1 - 5 of [Eroge no Sekai de Slow Life: Issho ni Isekai Teni Shitekita YariCir no Daigakuseitachi ni Tsuihou sareta node, Henkyou de Muteki ni Natte Shin no Heroine-tachi to Yoroshiku Yarimasu](https://anilist.co/manga/175607) (12:05, 11 October 2025)
--   📖 Read chapter 43 of [Isekai Majutsushi wa Mahou wo Tonaenai](https://anilist.co/manga/119973) (11:37, 11 October 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
