@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 14 of [Kage no Jitsuryokusha ni Naritakute!: Master of Garden - Shichikage Retsuden](https://anilist.co/manga/179256) (22:27, 16 October 2025)
 -   📖 Read chapter 6 of [Ore to Seijo ga Dekiteru Koto ga Baretara Kono Party wa Houkai Suru](https://anilist.co/manga/194908) (22:32, 15 October 2025)
 -   📖 Read chapter 13 - 16 of [Tensei Shitara Joban de Shinu Naka Boss Datta: Heroine Kenzokuka de Ikinokoru](https://anilist.co/manga/164956) (05:21, 15 October 2025)
 -   📖 Read chapter 58 of [The Shiunji Family Children](https://anilist.co/manga/144374) (21:44, 13 October 2025)
 -   📖 Read chapter 134 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (21:33, 13 October 2025)
--   📺 Watched episode 1 of [One-Punch Man Season 3](https://anilist.co/anime/153800) (18:57, 13 October 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
