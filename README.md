@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season](https://anilist.co/anime/200637) (20:06, 20 October 2025)
+-   📖 Read chapter 134 - 135 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (06:06, 20 October 2025)
+-   📖 Read chapter 44 of [Isekai Majutsushi wa Mahou wo Tonaenai](https://anilist.co/manga/119973) (05:32, 20 October 2025)
 -   📖 Read chapter 85 of [Kichiku Eiyuu](https://anilist.co/manga/139415) (06:29, 18 October 2025)
 -   📖 Read chapter 40 of [Isekai Saikou no Kizoku, Harem wo Fuyasu Hodo Tsuyoku Naru](https://anilist.co/manga/149342) (14:03, 17 October 2025)
--   📖 Read chapter 14 of [Kage no Jitsuryokusha ni Naritakute!: Master of Garden - Shichikage Retsuden](https://anilist.co/manga/179256) (22:27, 16 October 2025)
--   📖 Read chapter 6 of [Ore to Seijo ga Dekiteru Koto ga Baretara Kono Party wa Houkai Suru](https://anilist.co/manga/194908) (22:32, 15 October 2025)
--   📖 Read chapter 13 - 16 of [Tensei Shitara Joban de Shinu Naka Boss Datta: Heroine Kenzokuka de Ikinokoru](https://anilist.co/manga/164956) (05:21, 15 October 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
