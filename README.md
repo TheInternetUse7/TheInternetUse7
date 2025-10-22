@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 4 of [Sexual Healing](https://anilist.co/manga/147227) (21:52, 21 October 2025)
 -   📺 Plans to watch [Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season](https://anilist.co/anime/200637) (20:06, 20 October 2025)
 -   📖 Read chapter 134 - 135 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (06:06, 20 October 2025)
 -   📖 Read chapter 44 of [Isekai Majutsushi wa Mahou wo Tonaenai](https://anilist.co/manga/119973) (05:32, 20 October 2025)
 -   📖 Read chapter 85 of [Kichiku Eiyuu](https://anilist.co/manga/139415) (06:29, 18 October 2025)
--   📖 Read chapter 40 of [Isekai Saikou no Kizoku, Harem wo Fuyasu Hodo Tsuyoku Naru](https://anilist.co/manga/149342) (14:03, 17 October 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
