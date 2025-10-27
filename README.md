@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 27 - 32 of [MILF Hunter in Another World](https://anilist.co/manga/166581) (08:00, 26 October 2025)
 -   📺 Watched episode 2 of [One-Punch Man Season 3](https://anilist.co/anime/153800) (07:50, 25 October 2025)
 -   📖 Read chapter 59 of [The Shiunji Family Children](https://anilist.co/manga/144374) (10:19, 24 October 2025)
 -   📖 Read chapter 4 of [Sexual Healing](https://anilist.co/manga/147227) (21:52, 21 October 2025)
 -   📺 Plans to watch [Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season](https://anilist.co/anime/200637) (20:06, 20 October 2025)
--   📖 Read chapter 134 - 135 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (06:06, 20 October 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
