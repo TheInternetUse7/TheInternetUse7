@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 25 of [Otoko Girai na Bijin Shimai wo Namae mo Tsugezu ni Tasuketara Ittai Dounaru?](https://anilist.co/manga/163004) (15:24, 29 October 2025)
 -   📖 Read chapter 11 of [Haikei, Tengoku no Nee-san, Yuusha ni Natta Mei ga Ero Sugite ── Ojisan, Hogosha Toka Sorosoro Muri desu Plus](https://anilist.co/manga/187654) (20:58, 27 October 2025)
 -   📖 Read chapter 136 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (20:54, 27 October 2025)
 -   📖 Read chapter 27 - 32 of [MILF Hunter in Another World](https://anilist.co/manga/166581) (08:00, 26 October 2025)
 -   📺 Watched episode 2 of [One-Punch Man Season 3](https://anilist.co/anime/153800) (07:50, 25 October 2025)
--   📖 Read chapter 59 of [The Shiunji Family Children](https://anilist.co/manga/144374) (10:19, 24 October 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
