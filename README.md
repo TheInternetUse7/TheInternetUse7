@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 26 of [Yuusha-sama wa Houshuu ni Hitozuma wo Gokibou desu](https://anilist.co/manga/159423) (01:03, 02 November 2025)
+-   📖 Read chapter 23 of [Sono Akuyaku Kizoku, Mama Heroine ga Suki Sugiru: Shinshi na Doryoku de Saikyou to Nari Fuguu na Oshi Chara Tasukemakuru](https://anilist.co/manga/186330) (00:57, 02 November 2025)
 -   📖 Read chapter 54 of [Kujibiki Tokushou: Musou Harem-ken](https://anilist.co/manga/108349) (00:52, 02 November 2025)
 -   📖 Read chapter 45 of [Isekai Majutsushi wa Mahou wo Tonaenai](https://anilist.co/manga/119973) (00:41, 02 November 2025)
 -   📖 Read chapter 34 of [Reincarnation Coliseum: The Weakest Skill Conquers the Strongest Women and Creates a Harem](https://anilist.co/manga/152284) (10:20, 30 October 2025)
--   📖 Read chapter 34 of [Reincarnation Coliseum: The Weakest Skill Conquers the Strongest Women and Creates a Harem](https://anilist.co/manga/152284) (10:20, 30 October 2025)
--   📖 Read chapter 25 of [Otoko Girai na Bijin Shimai wo Namae mo Tsugezu ni Tasuketara Ittai Dounaru?](https://anilist.co/manga/163004) (15:24, 29 October 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
