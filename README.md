@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 39 of [HACKING GHOST: Karada ni Shika Kachi no Nai Gakuen](https://anilist.co/manga/186922) (16:03, 09 November 2025)
 -   📖 Read chapter 14 of [Eroge Sekai ni Tensei Shita Ore ga, Oshi e no Ai de Netorare Heroine wo Shiawase ni Suru.](https://anilist.co/manga/184306) (20:17, 07 November 2025)
 -   📖 Read chapter 137 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (14:52, 06 November 2025)
 -   📺 Watched episode 3 of [One-Punch Man Season 3](https://anilist.co/anime/153800) (18:04, 05 November 2025)
 -   📖 Read chapter 13 - 16 of [My Useless Cuddle Skill Awakened, and Now I’m Building the Ultimate Harem!](https://anilist.co/manga/175861) (14:28, 05 November 2025)
--   📖 Read chapter 26 of [Yuusha-sama wa Houshuu ni Hitozuma wo Gokibou desu](https://anilist.co/manga/159423) (01:03, 02 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
