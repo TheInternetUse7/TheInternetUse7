@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 57 - 58 of [Seinaru Otome to Himegoto wo](https://anilist.co/manga/181248) (04:24, 10 November 2025)
+-   📖 Read chapter 1 of [Lustful Games](https://anilist.co/manga/156310) (05:23, 12 November 2025)
+-   📖 Plans to read [Lustful Games](https://anilist.co/manga/156310) (05:11, 12 November 2025)
+-   📖 Read chapter 137 - 138 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (05:08, 12 November 2025)
+-   📖 Read chapter 57 - 60 of [Doing Secret Things with the Holy Maidens](https://anilist.co/manga/181248) (05:03, 12 November 2025)
 -   📖 Read chapter 46 of [Isekai Majutsushi wa Mahou wo Tonaenai](https://anilist.co/manga/119973) (04:20, 10 November 2025)
--   📖 Read chapter 39 - 40 of [HACKING GHOST: Karada ni Shika Kachi no Nai Gakuen](https://anilist.co/manga/186922) (04:09, 10 November 2025)
--   📖 Read chapter 14 of [Eroge Sekai ni Tensei Shita Ore ga, Oshi e no Ai de Netorare Heroine wo Shiawase ni Suru.](https://anilist.co/manga/184306) (20:17, 07 November 2025)
--   📖 Read chapter 137 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (14:52, 06 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
