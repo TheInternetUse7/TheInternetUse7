@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 33 - 40 of [MILF Hunter in Another World](https://anilist.co/manga/166581) (13:20, 13 November 2025)
 -   📖 Read chapter 1 of [Lustful Games](https://anilist.co/manga/156310) (05:23, 12 November 2025)
 -   📖 Plans to read [Lustful Games](https://anilist.co/manga/156310) (05:11, 12 November 2025)
 -   📖 Read chapter 137 - 138 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (05:08, 12 November 2025)
 -   📖 Read chapter 57 - 60 of [Doing Secret Things with the Holy Maidens](https://anilist.co/manga/181248) (05:03, 12 November 2025)
--   📖 Read chapter 46 of [Isekai Majutsushi wa Mahou wo Tonaenai](https://anilist.co/manga/119973) (04:20, 10 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
