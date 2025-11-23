@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 55 of [Solo Leveling: Ragnarok](https://anilist.co/manga/179445) (00:41, 23 November 2025)
+-   📖 Read chapter 24 of [Sono Akuyaku Kizoku, Mama Heroine ga Suki Sugiru: Shinshi na Doryoku de Saikyou to Nari Fuguu na Oshi Chara Tasukemakuru](https://anilist.co/manga/186330) (12:42, 22 November 2025)
 -   📖 Read chapter 40 - 42 of [Only With Consent](https://anilist.co/manga/128789) (07:12, 21 November 2025)
 -   📖 Read chapter 25 of [A Reincarnated Carrier’s Strategy for Another World](https://anilist.co/manga/167472) (06:40, 21 November 2025)
 -   📺 Dropped [One-Punch Man Season 3](https://anilist.co/anime/153800) (05:05, 20 November 2025)
--   📖 Read chapter 19 of [Luvslave](https://anilist.co/manga/113495) (05:23, 17 November 2025)
--   📖 Read chapter 137 - 139 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (04:45, 17 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
