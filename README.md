@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 279 of [Nano Machine](https://anilist.co/manga/120980) (00:32, 26 November 2025)
+-   📖 Read chapter 55 - 59 of [Solo Leveling: Ragnarok](https://anilist.co/manga/179445) (00:13, 26 November 2025)
 -   📖 Read chapter 219 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (15:06, 24 November 2025)
--   📖 Read chapter 55 - 58 of [Solo Leveling: Ragnarok](https://anilist.co/manga/179445) (12:42, 24 November 2025)
 -   📖 Read chapter 44 of [SO-EUN for All](https://anilist.co/manga/179218) (07:43, 24 November 2025)
 -   📖 Read chapter 140 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (07:35, 24 November 2025)
--   📖 Read chapter 24 of [Sono Akuyaku Kizoku, Mama Heroine ga Suki Sugiru: Shinshi na Doryoku de Saikyou to Nari Fuguu na Oshi Chara Tasukemakuru](https://anilist.co/manga/186330) (12:42, 22 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
