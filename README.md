@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 45 - 48 of [MILF Hunter in Another World](https://anilist.co/manga/166581) (06:22, 27 November 2025)
--   📖 Read chapter 18 of [My Useless Cuddle Skill Awakened, and Now I’m Building the Ultimate Harem!](https://anilist.co/manga/175861) (20:47, 26 November 2025)
--   📖 Read chapter 279 of [Nano Machine](https://anilist.co/manga/120980) (00:32, 26 November 2025)
--   📖 Read chapter 55 - 59 of [Solo Leveling: Ragnarok](https://anilist.co/manga/179445) (00:13, 26 November 2025)
--   📖 Read chapter 219 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (15:06, 24 November 2025)
+-   📖 Read chapter 219 - 221 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (16:31, 28 November 2025)
+-   📖 Read chapter 258 of [Teenage Mercenary](https://anilist.co/manga/126297) (16:31, 28 November 2025)
+-   📖 Read chapter 38 of [Gokusotsu Kraken](https://anilist.co/manga/152815) (07:13, 28 November 2025)
+-   📖 Read chapter 67 of [Isekai NTR: Shinyuu no Onna wo Saikyou Skill de Otosu Houhou](https://anilist.co/manga/115042) (07:13, 28 November 2025)
+-   📖 Read chapter 31 of [Betrayed by the Hero, I Formed a MILF Party with His Mom](https://anilist.co/manga/159187) (07:13, 28 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
