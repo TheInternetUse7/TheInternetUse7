@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 3 of [Houkago Instant XXX](https://anilist.co/manga/199615) (14:58, 29 November 2025)
+-   📖 Read chapter 44 - 45 of [SO-EUN for All](https://anilist.co/manga/179218) (07:38, 29 November 2025)
 -   📖 Read chapter 219 - 221 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (16:31, 28 November 2025)
 -   📖 Read chapter 258 of [Teenage Mercenary](https://anilist.co/manga/126297) (16:31, 28 November 2025)
 -   📖 Read chapter 38 of [Gokusotsu Kraken](https://anilist.co/manga/152815) (07:13, 28 November 2025)
--   📖 Read chapter 67 of [Isekai NTR: Shinyuu no Onna wo Saikyou Skill de Otosu Houhou](https://anilist.co/manga/115042) (07:13, 28 November 2025)
--   📖 Read chapter 31 of [Betrayed by the Hero, I Formed a MILF Party with His Mom](https://anilist.co/manga/159187) (07:13, 28 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
