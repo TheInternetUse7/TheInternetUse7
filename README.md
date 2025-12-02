@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 35 of [Reincarnation Coliseum: The Weakest Skill Conquers the Strongest Women and Creates a Harem](https://anilist.co/manga/152284) (05:32, 01 December 2025)
+-   📖 Read chapter 140 - 141 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (05:16, 01 December 2025)
 -   📖 Read chapter 3 of [Houkago Instant XXX](https://anilist.co/manga/199615) (14:58, 29 November 2025)
 -   📖 Read chapter 44 - 45 of [SO-EUN for All](https://anilist.co/manga/179218) (07:38, 29 November 2025)
 -   📖 Read chapter 219 - 221 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (16:31, 28 November 2025)
--   📖 Read chapter 258 of [Teenage Mercenary](https://anilist.co/manga/126297) (16:31, 28 November 2025)
--   📖 Read chapter 38 of [Gokusotsu Kraken](https://anilist.co/manga/152815) (07:13, 28 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
