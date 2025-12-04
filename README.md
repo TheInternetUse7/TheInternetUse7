@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 35 of [Reincarnation Coliseum: The Weakest Skill Conquers the Strongest Women and Creates a Harem](https://anilist.co/manga/152284) (05:32, 01 December 2025)
--   📖 Read chapter 140 - 141 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (05:16, 01 December 2025)
--   📖 Read chapter 3 of [Houkago Instant XXX](https://anilist.co/manga/199615) (14:58, 29 November 2025)
--   📖 Read chapter 44 - 45 of [SO-EUN for All](https://anilist.co/manga/179218) (07:38, 29 November 2025)
--   📖 Read chapter 219 - 221 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (16:31, 28 November 2025)
+-   📖 Plans to read [Immoral Guild](https://anilist.co/manga/99933) (10:52, 03 December 2025)
+-   📖 Plans to read [Maou no Musumetachi to Maguwaeba Tsuyoku Narerutte Hontou desu ka? ](https://anilist.co/manga/140683) (10:51, 03 December 2025)
+-   📖 Plans to read [Saikyou no Shuzoku ga Ningen datta Ken](https://anilist.co/manga/107305) (10:51, 03 December 2025)
+-   📖 Plans to read [Bakunyuu-tachi ni Tsuihou Saretaga Modore to Iwaretemo, Mou Oso…Modorimashiyuu!](https://anilist.co/manga/170329) (10:50, 03 December 2025)
+-   📖 Plans to read [Otonari no Onee-san ni Arekore Sareru Manga](https://anilist.co/manga/161039) (10:44, 03 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
