@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [Mayonaka no Yoruko-san	](https://anilist.co/manga/158609) (10:54, 07 December 2025)
+-   📖 Read chapter 7 - 8 of [Dungeon Kurashi no Moto Yuusha THE COMIC](https://anilist.co/manga/108049) (10:00, 07 December 2025)
+-   📖 Read chapter 1 of [Suterare Ouji ga Saizensen de Tekikoku no Heishi wo Chiryou Shitara Jitsu wa Dainana Oujo Datta Ken](https://anilist.co/manga/202903) (09:49, 07 December 2025)
+-   📖 Read chapter 2 of [Elf Dorei to Kizuku Dungeon Harem: Isekai de Netotte Nakama wo Fuyashimasu](https://anilist.co/manga/154219) (08:29, 07 December 2025)
 -   📖 Read chapter 69 of [Dorei wo Choukyoushite Harem Tsukuru](https://anilist.co/manga/149329) (12:03, 04 December 2025)
--   📖 Read chapter 2 of [Konbini de Deatta Eroi Onna no Ko to Tadarekitta Kankei ni Narimashita.](https://anilist.co/manga/202016) (12:02, 04 December 2025)
--   📖 Plans to read [Immoral Guild](https://anilist.co/manga/99933) (10:52, 03 December 2025)
--   📖 Plans to read [Maou no Musumetachi to Maguwaeba Tsuyoku Narerutte Hontou desu ka? ](https://anilist.co/manga/140683) (10:51, 03 December 2025)
--   📖 Plans to read [Saikyou no Shuzoku ga Ningen datta Ken](https://anilist.co/manga/107305) (10:51, 03 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
