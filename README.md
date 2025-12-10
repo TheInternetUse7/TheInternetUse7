@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 49 - 50 of [MILF Hunter in Another World](https://anilist.co/manga/166581) (17:25, 08 December 2025)
--   📖 Read chapter 142 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (10:14, 08 December 2025)
--   📖 Read chapter 60 - 61 of [Solo Leveling: Ragnarok](https://anilist.co/manga/179445) (10:10, 08 December 2025)
--   📖 Completed [Mayonaka no Yoruko-san	](https://anilist.co/manga/158609) (10:54, 07 December 2025)
--   📖 Read chapter 7 - 8 of [Dungeon Kurashi no Moto Yuusha THE COMIC](https://anilist.co/manga/108049) (10:00, 07 December 2025)
+-   📖 Read chapter 19 of [Boukensha ni Narenakatta Ore, Skill "Oppai Kyousei" de Nayameru Ano Ko wo Hitodasuke!? ](https://anilist.co/manga/172559) (19:28, 09 December 2025)
+-   📺 Watched episode 5 of [Cowboy Bebop](https://anilist.co/anime/1) (15:00, 09 December 2025)
+-   📺 Watched episode 3 - 4 of [To Your Eternity Season 3](https://anilist.co/anime/162669) (15:00, 09 December 2025)
+-   📺 Watched episode 8 - 9 of [Yandere Dark Elf: She Chased Me All the Way From Another World!](https://anilist.co/anime/180829) (15:00, 09 December 2025)
+-   📖 Read chapter 69 - 74 of [Dorei wo Choukyoushite Harem Tsukuru](https://anilist.co/manga/149329) (08:09, 09 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
