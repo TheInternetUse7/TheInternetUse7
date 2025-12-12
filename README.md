@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Chainsaw Man – The Movie: Reze Arc](https://anilist.co/anime/171627) (16:23, 11 December 2025)
+-   📖 Read chapter 280 - 282 of [Nano Machine](https://anilist.co/manga/120980) (07:14, 11 December 2025)
 -   📖 Read chapter 19 of [Boukensha ni Narenakatta Ore, Skill "Oppai Kyousei" de Nayameru Ano Ko wo Hitodasuke!? ](https://anilist.co/manga/172559) (19:28, 09 December 2025)
 -   📺 Watched episode 5 of [Cowboy Bebop](https://anilist.co/anime/1) (15:00, 09 December 2025)
 -   📺 Watched episode 3 - 4 of [To Your Eternity Season 3](https://anilist.co/anime/162669) (15:00, 09 December 2025)
--   📺 Watched episode 8 - 9 of [Yandere Dark Elf: She Chased Me All the Way From Another World!](https://anilist.co/anime/180829) (15:00, 09 December 2025)
--   📖 Read chapter 69 - 74 of [Dorei wo Choukyoushite Harem Tsukuru](https://anilist.co/manga/149329) (08:09, 09 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
