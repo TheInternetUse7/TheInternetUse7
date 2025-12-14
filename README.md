@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 3 of [Konbini de Deatta Eroi Onna no Ko to Tadarekitta Kankei ni Narimashita.](https://anilist.co/manga/202016) (00:57, 13 December 2025)
 -   📖 Read chapter 15 of [Eroge Sekai ni Tensei Shita Ore ga, Oshi e no Ai de Netorare Heroine wo Shiawase ni Suru.](https://anilist.co/manga/184306) (00:57, 12 December 2025)
 -   📺 Completed [Chainsaw Man – The Movie: Reze Arc](https://anilist.co/anime/171627) (16:23, 11 December 2025)
 -   📖 Read chapter 280 - 282 of [Nano Machine](https://anilist.co/manga/120980) (07:14, 11 December 2025)
 -   📖 Read chapter 19 of [Boukensha ni Narenakatta Ore, Skill "Oppai Kyousei" de Nayameru Ano Ko wo Hitodasuke!? ](https://anilist.co/manga/172559) (19:28, 09 December 2025)
--   📺 Watched episode 5 of [Cowboy Bebop](https://anilist.co/anime/1) (15:00, 09 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
