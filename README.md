@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 3 of [Konbini de Deatta Eroi Onna no Ko to Tadarekitta Kankei ni Narimashita.](https://anilist.co/manga/202016) (00:57, 13 December 2025)
--   📖 Read chapter 15 of [Eroge Sekai ni Tensei Shita Ore ga, Oshi e no Ai de Netorare Heroine wo Shiawase ni Suru.](https://anilist.co/manga/184306) (00:57, 12 December 2025)
--   📺 Completed [Chainsaw Man – The Movie: Reze Arc](https://anilist.co/anime/171627) (16:23, 11 December 2025)
--   📖 Read chapter 280 - 282 of [Nano Machine](https://anilist.co/manga/120980) (07:14, 11 December 2025)
--   📖 Read chapter 19 of [Boukensha ni Narenakatta Ore, Skill "Oppai Kyousei" de Nayameru Ano Ko wo Hitodasuke!? ](https://anilist.co/manga/172559) (19:28, 09 December 2025)
+-   📖 Read chapter 1 - 4 of [Yuusha ni Minna Netoraretakedo Akiramezu ni Tatakaou. Kitto Saigo wa Ore ga Katsu.](https://anilist.co/manga/164749) (08:14, 15 December 2025)
+-   📖 Read chapter 1 of [Megami Haiboku: Tensei no Varanova](https://anilist.co/manga/159537) (07:56, 15 December 2025)
+-   📖 Plans to read [Issho ni Ken no Shugyou wo Shita Osananajimi ga Dorei ni Natteita node, S-Rank Boukensha no Boku wa Kanojo wo Katte Mamoru Koto ni Shita](https://anilist.co/manga/152600) (07:22, 15 December 2025)
+-   📖 Plans to read [Megami Haiboku: Tensei no Varanova](https://anilist.co/manga/159537) (07:19, 15 December 2025)
+-   📖 Plans to read [Dorei Senshi no Isekai Taneuma Seikatsu: Mahou mo Bujutsu mo Saikyou Dashi Harem made!?](https://anilist.co/manga/162334) (07:18, 15 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
