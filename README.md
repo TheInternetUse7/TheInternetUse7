@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 284 of [Nano Machine](https://anilist.co/manga/120980) (13:39, 24 December 2025)
 -   📖 Read chapter 25 of [Sono Akuyaku Kizoku, Mama Heroine ga Suki Sugiru: Shinshi na Doryoku de Saikyou to Nari Fuguu na Oshi Chara Tasukemakuru](https://anilist.co/manga/186330) (07:29, 23 December 2025)
 -   📖 Read chapter 24 - 33 of [Nano List](https://anilist.co/manga/97615) (07:29, 23 December 2025)
 -   📖 Read chapter 1 - 2 of [Issho ni Ken no Shugyou wo Shita Osananajimi ga Dorei ni Natteita node, S-Rank Boukensha no Boku wa Kanojo wo Katte Mamoru Koto ni Shita](https://anilist.co/manga/152600) (07:29, 23 December 2025)
 -   📖 Read chapter 62 - 63 of [Solo Leveling: Ragnarok](https://anilist.co/manga/179445) (04:55, 23 December 2025)
--   📖 Read chapter 143 - 144 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (05:23, 22 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
