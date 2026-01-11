@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 3 of [Binetsu Kuukan](https://anilist.co/manga/85345) (12:46, 08 January 2026)
--   📖 Read chapter 17 of [Tensei Shitara Joban de Shinu Naka Boss Datta: Heroine Kenzokuka de Ikinokoru](https://anilist.co/manga/164956) (13:31, 06 January 2026)
--   📖 Read chapter 19 of [My Useless Cuddle Skill Awakened, and Now I’m Building the Ultimate Harem!](https://anilist.co/manga/175861) (21:43, 04 January 2026)
--   📺 Watched episode 1 of [Panty & Stocking with Garterbelt](https://anilist.co/anime/8795) (20:10, 02 January 2026)
--   📺 Plans to watch [Kaguya-sama wa Kokurasetai: Kanketsu-hen](https://anilist.co/anime/205081) (14:48, 31 December 2025)
+-   📖 Read chapter 180 - 184 of [Jungle Juice](https://anilist.co/manga/128882) (21:13, 10 January 2026)
+-   📖 Read chapter 87 - 91 of [Kichiku Eiyuu](https://anilist.co/manga/139415) (21:03, 10 January 2026)
+-   📺 Watched episode 12 - 15 of [Orb: On the Movements of the Earth](https://anilist.co/anime/151514) (17:56, 10 January 2026)
+-   📖 Read chapter 60 - 63 of [The Shiunji Family Children](https://anilist.co/manga/144374) (07:56, 10 January 2026)
+-   📖 Read chapter 77 of [Dorei wo Choukyoushite Harem Tsukuru](https://anilist.co/manga/149329) (07:42, 10 January 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
