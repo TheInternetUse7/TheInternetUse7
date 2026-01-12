@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 180 - 184 of [Jungle Juice](https://anilist.co/manga/128882) (21:13, 10 January 2026)
--   📖 Read chapter 87 - 91 of [Kichiku Eiyuu](https://anilist.co/manga/139415) (21:03, 10 January 2026)
--   📺 Watched episode 12 - 15 of [Orb: On the Movements of the Earth](https://anilist.co/anime/151514) (17:56, 10 January 2026)
--   📖 Read chapter 60 - 63 of [The Shiunji Family Children](https://anilist.co/manga/144374) (07:56, 10 January 2026)
--   📖 Read chapter 77 of [Dorei wo Choukyoushite Harem Tsukuru](https://anilist.co/manga/149329) (07:42, 10 January 2026)
+-   📖 Read chapter 43 of [NTREVENGE](https://anilist.co/manga/167427) (19:28, 11 January 2026)
+-   📖 Read chapter 286 of [Nano Machine](https://anilist.co/manga/120980) (19:28, 11 January 2026)
+-   📖 Read chapter 92 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (18:14, 11 January 2026)
+-   📖 Read chapter 180 - 188 of [Jungle Juice](https://anilist.co/manga/128882) (18:14, 11 January 2026)
+-   📖 Read chapter 60 - 64 of [The Shiunji Family Children](https://anilist.co/manga/144374) (14:55, 11 January 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
