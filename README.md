@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 13 of [Jashin Kankin Harem de Isekai Seifuku!](https://anilist.co/manga/176112) (14:17, 20 January 2026)
+-   📖 Read chapter 87 - 96 of [Kichiku Eiyuu](https://anilist.co/manga/139415) (10:33, 20 January 2026)
 -   📖 Read chapter 4 of [Konbini de Deatta Eroi Onna no Ko to Tadarekitta Kankei ni Narimashita.](https://anilist.co/manga/202016) (19:57, 17 January 2026)
--   📖 Read chapter 87 - 95 of [Kichiku Eiyuu](https://anilist.co/manga/139415) (18:43, 16 January 2026)
 -   📖 Read chapter 286 - 287 of [Nano Machine](https://anilist.co/manga/120980) (15:32, 15 January 2026)
 -   📖 Read chapter 92 - 96 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (15:32, 15 January 2026)
--   📖 Read chapter 27 of [Sono Akuyaku Kizoku, Mama Heroine ga Suki Sugiru: Shinshi na Doryoku de Saikyou to Nari Fuguu na Oshi Chara Tasukemakuru](https://anilist.co/manga/186330) (15:32, 15 January 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
