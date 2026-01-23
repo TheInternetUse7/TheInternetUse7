@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 4 of [Binetsu Kuukan](https://anilist.co/manga/85345) (20:33, 21 January 2026)
--   📖 Read chapter 286 - 294 of [Nano Machine](https://anilist.co/manga/120980) (14:53, 21 January 2026)
--   📖 Read chapter 34 of [Astro King: Shoukan Yuusha dakedo Kakyuu Ninteisareta node Maid Harem wo Tsukurimasu!](https://anilist.co/manga/151865) (13:12, 21 January 2026)
--   📖 Read chapter 13 of [Jashin Kankin Harem de Isekai Seifuku!](https://anilist.co/manga/176112) (14:17, 20 January 2026)
--   📖 Read chapter 87 - 96 of [Kichiku Eiyuu](https://anilist.co/manga/139415) (10:33, 20 January 2026)
+-   📖 Read chapter 6 - 10 of [Issho ni Ken no Shugyou wo Shita Osananajimi ga Dorei ni Natteita node, S-Rank Boukensha no Boku wa Kanojo wo Katte Mamoru Koto ni Shita](https://anilist.co/manga/152600) (08:10, 22 January 2026)
+-   📖 Read chapter 5 of [Dorei Senshi no Isekai Taneuma Seikatsu: Mahou mo Bujutsu mo Saikyou Dashi Harem made!?](https://anilist.co/manga/162334) (08:10, 22 January 2026)
+-   📖 Read chapter 4 of [Bakunyuu-tachi ni Tsuihou Saretaga Modore to Iwaretemo, Mou Oso…Modorimashiyuu!](https://anilist.co/manga/170329) (08:10, 22 January 2026)
+-   📖 Read chapter 11 of [Akuyaku Reijou desu ga, Watashi wo Anata no Seidorei ni Shite Kudasai!](https://anilist.co/manga/171022) (08:10, 22 January 2026)
+-   📖 Read chapter 286 - 295 of [Nano Machine](https://anilist.co/manga/120980) (08:10, 22 January 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
