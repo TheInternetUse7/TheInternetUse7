@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 4 - 8 of [Binetsu Kuukan](https://anilist.co/manga/85345) (10:06, 24 January 2026)
--   📖 Read chapter 286 - 296 of [Nano Machine](https://anilist.co/manga/120980) (09:51, 24 January 2026)
--   📖 Read chapter 75 - 76 of [Himekishi ga Classmate! THE COMIC](https://anilist.co/manga/86276) (05:04, 24 January 2026)
--   📖 Read chapter 33 - 34 of [The Cursed Sword Master’s Harem Life: By the Sword, For the Sword](https://anilist.co/manga/109170) (03:03, 23 January 2026)
--   📖 Read chapter 6 - 10 of [Issho ni Ken no Shugyou wo Shita Osananajimi ga Dorei ni Natteita node, S-Rank Boukensha no Boku wa Kanojo wo Katte Mamoru Koto ni Shita](https://anilist.co/manga/152600) (08:10, 22 January 2026)
+-   📖 Read chapter 189 of [Jungle Juice](https://anilist.co/manga/128882) (06:08, 25 January 2026)
+-   📖 Read chapter 55 - 56 of [MILF Hunter in Another World](https://anilist.co/manga/166581) (03:23, 25 January 2026)
+-   📖 Plans to read [108P!: 1-Nengo ni Zettai 108P Suru Hanashi](https://anilist.co/manga/200536) (01:57, 25 January 2026)
+-   📖 Plans to read [Seijun Ecstasy: XXX Shinai to Derarenai Heya de Mazoku wo Buttaoshimasu](https://anilist.co/manga/205728) (01:57, 25 January 2026)
+-   📖 Read chapter 20 of [My Bizarre Level-Up Condition! A Capable Guy's Reincarnation in Another World](https://anilist.co/manga/157497) (01:37, 25 January 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
