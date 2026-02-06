@@ -25,8 +25,8 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 16 - 21 of [Orb: On the Movements of the Earth](https://anilist.co/anime/151514) (17:10, 05 February 2026)
 -   📺 Watched episode 5 of [To Your Eternity Season 3](https://anilist.co/anime/162669) (14:06, 04 February 2026)
--   📺 Watched episode 16 - 20 of [Orb: On the Movements of the Earth](https://anilist.co/anime/151514) (14:00, 04 February 2026)
 -   📖 Read chapter 18 of [Isekai ni Shoukansareta Ndakedo, Nan Demo Kireteshimau Kennou wo te ni Ireta Node Easy Mode deshita. ](https://anilist.co/manga/173917) (09:31, 04 February 2026)
 -   📖 Read chapter 76 of [The Eminence in Shadow](https://anilist.co/manga/106758) (23:14, 03 February 2026)
 -   📖 Read chapter 147 - 148 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (23:04, 03 February 2026)
