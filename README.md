@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 16 - 21 of [Orb: On the Movements of the Earth](https://anilist.co/anime/151514) (17:10, 05 February 2026)
--   📺 Watched episode 5 of [To Your Eternity Season 3](https://anilist.co/anime/162669) (14:06, 04 February 2026)
--   📖 Read chapter 18 of [Isekai ni Shoukansareta Ndakedo, Nan Demo Kireteshimau Kennou wo te ni Ireta Node Easy Mode deshita. ](https://anilist.co/manga/173917) (09:31, 04 February 2026)
--   📖 Read chapter 76 of [The Eminence in Shadow](https://anilist.co/manga/106758) (23:14, 03 February 2026)
--   📖 Read chapter 147 - 148 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (23:04, 03 February 2026)
+-   📖 Read chapter 1 - 4 of [Gal to Meccha Namahame Nakadashi Ecchi Suru Hanashi](https://anilist.co/manga/181421) (11:31, 06 February 2026)
+-   📖 Read chapter 18 - 19 of [Isekai ni Shoukansareta Ndakedo, Nan Demo Kireteshimau Kennou wo te ni Ireta Node Easy Mode deshita. ](https://anilist.co/manga/173917) (11:13, 06 February 2026)
+-   📖 Read chapter 28 of [Sono Akuyaku Kizoku, Mama Heroine ga Suki Sugiru: Shinshi na Doryoku de Saikyou to Nari Fuguu na Oshi Chara Tasukemakuru](https://anilist.co/manga/186330) (11:02, 06 February 2026)
+-   📖 Read chapter 21 - 23 of [My Bizarre Level-Up Condition! A Capable Guy's Reincarnation in Another World](https://anilist.co/manga/157497) (10:57, 06 February 2026)
+-   📖 Read chapter 5 of [Seijun Ecstasy: XXX Shinai to Derarenai Heya de Mazoku wo Buttaoshimasu](https://anilist.co/manga/205728) (10:48, 06 February 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
