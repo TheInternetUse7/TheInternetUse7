@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 76 - 79 of [The Eminence in Shadow](https://anilist.co/manga/106758) (15:28, 08 February 2026)
+-   📖 Read chapter 29 of [Cheat Mode Farming in Another World](https://anilist.co/manga/137901) (12:36, 08 February 2026)
+-   📖 Read chapter 19 of [Tensei Shitara Joban de Shinu Naka Boss Datta: Heroine Kenzokuka de Ikinokoru](https://anilist.co/manga/164956) (01:52, 08 February 2026)
+-   📖 Read chapter 21 - 24 of [My Bizarre Level-Up Condition! A Capable Guy's Reincarnation in Another World](https://anilist.co/manga/157497) (01:39, 08 February 2026)
 -   📖 Read chapter 11 of [Shakai Hito ga Kizuku Ajin Harem: Toudo 200% no Ecchi na Love Comedy wo Anata ni](https://anilist.co/manga/127516) (06:33, 07 February 2026)
--   📖 Read chapter 55 of [Kujibiki Tokushou: Musou Harem-ken](https://anilist.co/manga/108349) (06:27, 07 February 2026)
--   📖 Read chapter 16 of [Eroge Sekai ni Tensei Shita Ore ga, Oshi e no Ai de Netorare Heroine wo Shiawase ni Suru.](https://anilist.co/manga/184306) (06:19, 07 February 2026)
--   📖 Read chapter 1 - 4 of [Gal to Meccha Namahame Nakadashi Ecchi Suru Hanashi](https://anilist.co/manga/181421) (11:31, 06 February 2026)
--   📖 Read chapter 18 - 19 of [Isekai ni Shoukansareta Ndakedo, Nan Demo Kireteshimau Kennou wo te ni Ireta Node Easy Mode deshita. ](https://anilist.co/manga/173917) (11:13, 06 February 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
