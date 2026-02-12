@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 34 of [Nano List](https://anilist.co/manga/97615) (14:48, 11 February 2026)
+-   📖 Read chapter 8 of [Dorei Senshi no Isekai Taneuma Seikatsu: Mahou mo Bujutsu mo Saikyou Dashi Harem made!?](https://anilist.co/manga/162334) (10:13, 11 February 2026)
+-   📖 Read chapter 5 - 7 of [Ataerareta Skill wo Tsukatte Kasei de Isekai Bijotachi to Ichaicha shitai ](https://anilist.co/manga/147685) (09:41, 11 February 2026)
 -   📖 Read chapter 21 - 25 of [My Bizarre Level-Up Condition! A Capable Guy's Reincarnation in Another World](https://anilist.co/manga/157497) (07:16, 10 February 2026)
 -   📖 Read chapter 147 - 149 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (07:08, 10 February 2026)
--   📖 Read chapter 5 - 7 of [Bakunyuu-tachi ni Tsuihou Saretaga Modore to Iwaretemo, Mou Oso…Modorimashiyuu!](https://anilist.co/manga/170329) (11:25, 09 February 2026)
--   📖 Read chapter 79 of [Dorei wo Choukyoushite Harem Tsukuru](https://anilist.co/manga/149329) (10:05, 09 February 2026)
--   📺 Watched episode 16 - 23 of [Orb: On the Movements of the Earth](https://anilist.co/anime/151514) (08:16, 09 February 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
