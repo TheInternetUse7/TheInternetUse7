@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 5 of [Diaburo](https://anilist.co/manga/128318) (17:29, 12 February 2026)
+-   📖 Read chapter 294 - 296 of [Overgeared](https://anilist.co/manga/117460) (17:29, 12 February 2026)
+-   📖 Read chapter 5 - 6 of [Seijun Ecstasy: XXX Shinai to Derarenai Heya de Mazoku wo Buttaoshimasu](https://anilist.co/manga/205728) (17:28, 12 February 2026)
+-   📖 Read chapter 21 - 26 of [My Bizarre Level-Up Condition! A Capable Guy's Reincarnation in Another World](https://anilist.co/manga/157497) (07:41, 12 February 2026)
 -   📖 Read chapter 34 of [Nano List](https://anilist.co/manga/97615) (14:48, 11 February 2026)
--   📖 Read chapter 8 of [Dorei Senshi no Isekai Taneuma Seikatsu: Mahou mo Bujutsu mo Saikyou Dashi Harem made!?](https://anilist.co/manga/162334) (10:13, 11 February 2026)
--   📖 Read chapter 5 - 7 of [Ataerareta Skill wo Tsukatte Kasei de Isekai Bijotachi to Ichaicha shitai ](https://anilist.co/manga/147685) (09:41, 11 February 2026)
--   📖 Read chapter 21 - 25 of [My Bizarre Level-Up Condition! A Capable Guy's Reincarnation in Another World](https://anilist.co/manga/157497) (07:16, 10 February 2026)
--   📖 Read chapter 147 - 149 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (07:08, 10 February 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
