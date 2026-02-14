@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 5 of [Diaburo](https://anilist.co/manga/128318) (17:29, 12 February 2026)
--   📖 Read chapter 294 - 296 of [Overgeared](https://anilist.co/manga/117460) (17:29, 12 February 2026)
--   📖 Read chapter 5 - 6 of [Seijun Ecstasy: XXX Shinai to Derarenai Heya de Mazoku wo Buttaoshimasu](https://anilist.co/manga/205728) (17:28, 12 February 2026)
--   📖 Read chapter 21 - 26 of [My Bizarre Level-Up Condition! A Capable Guy's Reincarnation in Another World](https://anilist.co/manga/157497) (07:41, 12 February 2026)
--   📖 Read chapter 34 of [Nano List](https://anilist.co/manga/97615) (14:48, 11 February 2026)
+-   📖 Read chapter 5 of [Isekai Harem Loop: Kurikaesareru 1-nichi kara Dasshutsu Suru Tame ni Dakimakurimasu](https://anilist.co/manga/191419) (20:00, 13 February 2026)
+-   📖 Read chapter 257 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (10:36, 13 February 2026)
+-   📺 Completed [Orb: On the Movements of the Earth](https://anilist.co/anime/151514) (07:25, 13 February 2026)
+-   📺 Watched episode 16 - 24 of [Orb: On the Movements of the Earth](https://anilist.co/anime/151514) (07:25, 13 February 2026)
+-   📖 Read chapter 294 - 298 of [Overgeared](https://anilist.co/manga/117460) (06:58, 13 February 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
