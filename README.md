@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [Kaiju No. 8 Season 2](https://anilist.co/anime/178754) (18:26, 14 February 2026)
+-   📖 Read chapter 64 - 68 of [MILF Hunter in Another World](https://anilist.co/manga/166581) (08:47, 14 February 2026)
+-   📖 Read chapter 67 - 70 of [Doing Secret Things with the Holy Maidens](https://anilist.co/manga/181248) (07:25, 14 February 2026)
+-   📖 Read chapter 5 - 9 of [Ataerareta Skill wo Tsukatte Kasei de Isekai Bijotachi to Ichaicha shitai ](https://anilist.co/manga/147685) (04:46, 14 February 2026)
 -   📖 Read chapter 5 of [Isekai Harem Loop: Kurikaesareru 1-nichi kara Dasshutsu Suru Tame ni Dakimakurimasu](https://anilist.co/manga/191419) (20:00, 13 February 2026)
--   📖 Read chapter 257 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (10:36, 13 February 2026)
--   📺 Completed [Orb: On the Movements of the Earth](https://anilist.co/anime/151514) (07:25, 13 February 2026)
--   📺 Watched episode 16 - 24 of [Orb: On the Movements of the Earth](https://anilist.co/anime/151514) (07:25, 13 February 2026)
--   📖 Read chapter 294 - 298 of [Overgeared](https://anilist.co/manga/117460) (06:58, 13 February 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
