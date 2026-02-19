@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 20 of [Isekai ni Shoukansareta Ndakedo, Nan Demo Kireteshimau Kennou wo te ni Ireta Node Easy Mode deshita. ](https://anilist.co/manga/173917) (20:23, 18 February 2026)
+-   📖 Read chapter 21 - 27 of [My Bizarre Level-Up Condition! A Capable Guy's Reincarnation in Another World](https://anilist.co/manga/157497) (20:15, 18 February 2026)
+-   📺 Watched episode 1 - 7 of [Kaiju No. 8 Season 2](https://anilist.co/anime/178754) (19:34, 18 February 2026)
+-   📖 Read chapter 368 - 375 of [Eleceed](https://anilist.co/manga/106929) (11:22, 18 February 2026)
 -   📖 Read chapter 280 - 289 of [Omniscient Reader](https://anilist.co/manga/119257) (17:52, 17 February 2026)
--   📖 Read chapter 65 of [The Shiunji Family Children](https://anilist.co/manga/144374) (17:14, 17 February 2026)
--   📖 Read chapter 150 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (16:53, 17 February 2026)
--   📺 Watched episode 5 - 6 of [Demon Slayer: Kimetsu no Yaiba Mugen Train Arc](https://anilist.co/anime/129874) (12:35, 16 February 2026)
--   📺 Watched episode 1 - 4 of [Kaiju No. 8 Season 2](https://anilist.co/anime/178754) (18:36, 15 February 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
