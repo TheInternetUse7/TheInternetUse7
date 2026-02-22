@@ -25,7 +25,7 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 280 - 291 of [Omniscient Reader](https://anilist.co/manga/119257) (19:10, 20 February 2026)
+-   📖 Read chapter 280 - 299 of [Omniscient Reader](https://anilist.co/manga/119257) (09:43, 21 February 2026)
 -   📺 Plans to watch [Kaijuu 8-gou: Kanketsu-hen](https://anilist.co/anime/204362) (18:14, 20 February 2026)
 -   📺 Completed [Kaiju No. 8 Season 2](https://anilist.co/anime/178754) (18:13, 20 February 2026)
 -   📺 Watched episode 1 - 10 of [Kaiju No. 8 Season 2](https://anilist.co/anime/178754) (10:50, 20 February 2026)
