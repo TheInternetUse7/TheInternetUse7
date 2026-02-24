@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 5 of [Konbini de Deatta Eroi Onna no Ko to Tadarekitta Kankei ni Narimashita.](https://anilist.co/manga/202016) (04:38, 22 February 2026)
--   📖 Read chapter 69 of [Isekai NTR: Shinyuu no Onna wo Saikyou Skill de Otosu Houhou](https://anilist.co/manga/115042) (04:31, 22 February 2026)
--   📖 Read chapter 280 - 299 of [Omniscient Reader](https://anilist.co/manga/119257) (09:43, 21 February 2026)
--   📺 Plans to watch [Kaijuu 8-gou: Kanketsu-hen](https://anilist.co/anime/204362) (18:14, 20 February 2026)
--   📺 Completed [Kaiju No. 8 Season 2](https://anilist.co/anime/178754) (18:13, 20 February 2026)
+-   📖 Read chapter 259 of [Teenage Mercenary](https://anilist.co/manga/126297) (00:07, 24 February 2026)
+-   📖 Read chapter 280 - 300 of [Omniscient Reader](https://anilist.co/manga/119257) (23:21, 23 February 2026)
+-   📖 Read chapter 7 of [Seijun Ecstasy: XXX Shinai to Derarenai Heya de Mazoku wo Buttaoshimasu](https://anilist.co/manga/205728) (22:15, 23 February 2026)
+-   📖 Read chapter 69 of [MILF Hunter in Another World](https://anilist.co/manga/166581) (07:39, 23 February 2026)
+-   📖 Completed [Tsuma no Tsurego no Nyuuyokuchuu ni...: Itsudemo Dakeru Giri no Musume ni Renzoku Tanetsuke](https://anilist.co/manga/173743) (07:20, 23 February 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
