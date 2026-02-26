@@ -25,8 +25,8 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 41 - 44 of [HACKING GHOST: Karada ni Shika Kachi no Nai Gakuen](https://anilist.co/manga/186922) (13:24, 24 February 2026)
--   📖 Read chapter 190 - 191 of [Jungle Juice](https://anilist.co/manga/128882) (07:26, 24 February 2026)
+-   📖 Read chapter 41 - 56 of [HACKING GHOST: Karada ni Shika Kachi no Nai Gakuen](https://anilist.co/manga/186922) (07:35, 25 February 2026)
+-   📖 Read chapter 190 - 192 of [Jungle Juice](https://anilist.co/manga/128882) (07:07, 25 February 2026)
 -   📖 Read chapter 29 of [Sono Akuyaku Kizoku, Mama Heroine ga Suki Sugiru: Shinshi na Doryoku de Saikyou to Nari Fuguu na Oshi Chara Tasukemakuru](https://anilist.co/manga/186330) (06:54, 24 February 2026)
 -   📖 Read chapter 69 - 73 of [MILF Hunter in Another World](https://anilist.co/manga/166581) (01:28, 24 February 2026)
 -   📖 Plans to read [AV Joyuu no Kaasan to Hikikomori no Boku ga Sex Suru You ni Natta Wake](https://anilist.co/manga/131452) (01:18, 24 February 2026)
