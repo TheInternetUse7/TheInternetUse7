@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 41 - 56 of [HACKING GHOST: Karada ni Shika Kachi no Nai Gakuen](https://anilist.co/manga/186922) (07:35, 25 February 2026)
--   📖 Read chapter 190 - 192 of [Jungle Juice](https://anilist.co/manga/128882) (07:07, 25 February 2026)
--   📖 Read chapter 29 of [Sono Akuyaku Kizoku, Mama Heroine ga Suki Sugiru: Shinshi na Doryoku de Saikyou to Nari Fuguu na Oshi Chara Tasukemakuru](https://anilist.co/manga/186330) (06:54, 24 February 2026)
--   📖 Read chapter 69 - 73 of [MILF Hunter in Another World](https://anilist.co/manga/166581) (01:28, 24 February 2026)
--   📖 Plans to read [AV Joyuu no Kaasan to Hikikomori no Boku ga Sex Suru You ni Natta Wake](https://anilist.co/manga/131452) (01:18, 24 February 2026)
+-   📖 Read chapter 30 of [Kokan Musou: Kiraware Yuusha wa Mazoku ni Aisareru](https://anilist.co/manga/142463) (21:08, 26 February 2026)
+-   📖 Read chapter 14 of [Issho ni Ken no Shugyou wo Shita Osananajimi ga Dorei ni Natteita node, S-Rank Boukensha no Boku wa Kanojo wo Katte Mamoru Koto ni Shita](https://anilist.co/manga/152600) (12:54, 26 February 2026)
+-   📖 Read chapter 280 - 301 of [Omniscient Reader](https://anilist.co/manga/119257) (12:48, 26 February 2026)
+-   📖 Read chapter 20 of [Tensei Shitara Joban de Shinu Naka Boss Datta: Heroine Kenzokuka de Ikinokoru](https://anilist.co/manga/164956) (06:48, 26 February 2026)
+-   📖 Read chapter 7 - 8 of [Seijun Ecstasy: XXX Shinai to Derarenai Heya de Mazoku wo Buttaoshimasu](https://anilist.co/manga/205728) (06:33, 26 February 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
