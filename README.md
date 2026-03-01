@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 6 of [Isekai Harem Loop: Kurikaesareru 1-nichi kara Dasshutsu Suru Tame ni Dakimakurimasu](https://anilist.co/manga/191419) (01:09, 01 March 2026)
+-   📖 Read chapter 13 of [Haikei, Tengoku no Nee-san, Yuusha ni Natta Mei ga Ero Sugite ── Ojisan, Hogosha Toka Sorosoro Muri desu Plus](https://anilist.co/manga/187654) (01:00, 01 March 2026)
+-   📖 Read chapter 7 - 11 of [108P!: 1-Nengo ni Zettai 108P Suru Hanashi](https://anilist.co/manga/200536) (00:55, 01 March 2026)
+-   📖 Read chapter 66 of [The Shiunji Family Children](https://anilist.co/manga/144374) (18:18, 28 February 2026)
 -   📖 Plans to read [Otonari no Nie](https://anilist.co/manga/153837) (21:09, 27 February 2026)
--   📖 Read chapter 14 - 16 of [Issho ni Ken no Shugyou wo Shita Osananajimi ga Dorei ni Natteita node, S-Rank Boukensha no Boku wa Kanojo wo Katte Mamoru Koto ni Shita](https://anilist.co/manga/152600) (21:00, 27 February 2026)
--   📖 Read chapter 29 - 30 of [Sono Akuyaku Kizoku, Mama Heroine ga Suki Sugiru: Shinshi na Doryoku de Saikyou to Nari Fuguu na Oshi Chara Tasukemakuru](https://anilist.co/manga/186330) (20:50, 27 February 2026)
--   📖 Read chapter 28 of [My Bizarre Level-Up Condition! A Capable Guy's Reincarnation in Another World](https://anilist.co/manga/157497) (20:45, 27 February 2026)
--   📖 Read chapter 280 - 302 of [Omniscient Reader](https://anilist.co/manga/119257) (09:31, 27 February 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
