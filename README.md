@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 7 - 9 of [Seijun Ecstasy: XXX Shinai to Derarenai Heya de Mazoku wo Buttaoshimasu](https://anilist.co/manga/205728) (11:37, 01 March 2026)
--   📖 Read chapter 7 - 12 of [108P!: 1-Nengo ni Zettai 108P Suru Hanashi](https://anilist.co/manga/200536) (11:34, 01 March 2026)
--   📖 Read chapter 6 of [Isekai Harem Loop: Kurikaesareru 1-nichi kara Dasshutsu Suru Tame ni Dakimakurimasu](https://anilist.co/manga/191419) (01:09, 01 March 2026)
--   📖 Read chapter 13 of [Haikei, Tengoku no Nee-san, Yuusha ni Natta Mei ga Ero Sugite ── Ojisan, Hogosha Toka Sorosoro Muri desu Plus](https://anilist.co/manga/187654) (01:00, 01 March 2026)
--   📖 Read chapter 66 of [The Shiunji Family Children](https://anilist.co/manga/144374) (18:18, 28 February 2026)
+-   📖 Read chapter 152 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (00:21, 03 March 2026)
+-   📺 Watched episode 6 - 7 of [Terror in Resonance](https://anilist.co/anime/20661) (20:52, 02 March 2026)
+-   📺 Completed [Demon Slayer: Kimetsu no Yaiba Mugen Train Arc](https://anilist.co/anime/129874) (19:48, 02 March 2026)
+-   📖 Read chapter 1 of [Vampire Knight](https://anilist.co/manga/30618) (07:39, 02 March 2026)
+-   📖 Completed [Pestering Twins](https://anilist.co/manga/165956) (07:36, 02 March 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
