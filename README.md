@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 4 of [Code Geass: Lelouch of the Rebellion R2](https://anilist.co/anime/2904) (14:39, 04 March 2026)
--   📖 Read chapter 57 of [HACKING GHOST: Karada ni Shika Kachi no Nai Gakuen](https://anilist.co/manga/186922) (08:51, 04 March 2026)
--   📖 Read chapter 7 - 10 of [Seijun Ecstasy: XXX Shinai to Derarenai Heya de Mazoku wo Buttaoshimasu](https://anilist.co/manga/205728) (08:46, 04 March 2026)
--   📖 Read chapter 280 - 303 of [Omniscient Reader](https://anilist.co/manga/119257) (08:09, 04 March 2026)
--   📺 Plans to watch [Code Geass: Lelouch of the Rebellion R2](https://anilist.co/anime/2904) (00:49, 04 March 2026)
+-   📺 Watched episode 1 - 10 of [Code Geass: Lelouch of the Rebellion R2](https://anilist.co/anime/2904) (18:14, 05 March 2026)
+-   📖 Plans to read [Sawaranaide Kotesashi-kun](https://anilist.co/manga/133386) (09:19, 05 March 2026)
+-   📖 Read chapter 14 - 18 of [Issho ni Ken no Shugyou wo Shita Osananajimi ga Dorei ni Natteita node, S-Rank Boukensha no Boku wa Kanojo wo Katte Mamoru Koto ni Shita](https://anilist.co/manga/152600) (09:14, 05 March 2026)
+-   📖 Read chapter 28 - 30 of [My Bizarre Level-Up Condition! A Capable Guy's Reincarnation in Another World](https://anilist.co/manga/157497) (07:17, 05 March 2026)
+-   📖 Read chapter 17 of [Dungeon Kurashi no Moto Yuusha THE COMIC](https://anilist.co/manga/108049) (07:17, 05 March 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
