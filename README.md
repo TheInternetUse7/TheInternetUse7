@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Plans to read [Suki na Ko ni Kokuttara, Futago no Imouto ga Omake de Tsuitekitta](https://anilist.co/manga/163846) (08:50, 07 March 2026)
--   📺 Plans to watch [Code Geass: Lelouch of the Re;surrection](https://anilist.co/anime/97880) (08:16, 07 March 2026)
--   📺 Completed [Code Geass: Lelouch of the Rebellion R2](https://anilist.co/anime/2904) (07:52, 07 March 2026)
--   📺 Watched episode 1 - 24 of [Code Geass: Lelouch of the Rebellion R2](https://anilist.co/anime/2904) (07:30, 07 March 2026)
--   📖 Read chapter 21 of [Isekai ni Shoukansareta Ndakedo, Nan Demo Kireteshimau Kennou wo te ni Ireta Node Easy Mode deshita. ](https://anilist.co/manga/173917) (00:02, 07 March 2026)
+-   📖 Read chapter 31 of [Sono Akuyaku Kizoku, Mama Heroine ga Suki Sugiru: Shinshi na Doryoku de Saikyou to Nari Fuguu na Oshi Chara Tasukemakuru](https://anilist.co/manga/186330) (22:58, 08 March 2026)
+-   📖 Read chapter 152 - 153 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (22:46, 08 March 2026)
+-   📖 Read chapter 70 of [Isekai NTR: Shinyuu no Onna wo Saikyou Skill de Otosu Houhou](https://anilist.co/manga/115042) (22:33, 08 March 2026)
+-   📺 Watched episode 1 - 2 of [High School DxD BorN](https://anilist.co/anime/20745) (21:49, 08 March 2026)
+-   📺 Plans to watch [High School DxD BorN](https://anilist.co/anime/20745) (20:24, 08 March 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
