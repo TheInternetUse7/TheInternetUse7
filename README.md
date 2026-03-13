@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 24 - 27 of [Tsuihou sareta Renkinjutsushi, Adult Goods de Sekai wo Sukuu: Donna Monster mo Zettai ni Ikaseru Otoko](https://anilist.co/manga/187581) (12:09, 11 March 2026)
--   📖 Completed [Suterare Saikyou Ouji wa Jitsuryoku de Donna Onna mo Daki Makuru](https://anilist.co/manga/160139) (05:21, 11 March 2026)
--   📖 Read chapter 1 - 2 of [Maou to Ryuuou ni Sodaterareta Shounen wa Gakuen Seikatsu wo Musou Suru You desu](https://anilist.co/manga/163426) (19:33, 10 March 2026)
--   📖 Plans to read [Maou to Ryuuou ni Sodaterareta Shounen wa Gakuen Seikatsu wo Musou Suru You desu](https://anilist.co/manga/163426) (19:15, 10 March 2026)
--   📖 Read chapter 28 - 31 of [My Bizarre Level-Up Condition! A Capable Guy's Reincarnation in Another World](https://anilist.co/manga/157497) (19:08, 10 March 2026)
+-   📖 Read chapter 5 of [Suterare Ouji ga Saizensen de Tekikoku no Heishi wo Chiryou Shitara Jitsu wa Dainana Oujo Datta Ken](https://anilist.co/manga/202903) (22:02, 12 March 2026)
+-   📖 Read chapter 20 - 26 of [Tensei Shitara Joban de Shinu Naka Boss Datta: Heroine Kenzokuka de Ikinokoru](https://anilist.co/manga/164956) (21:50, 12 March 2026)
+-   📺 Plans to watch [Claymore](https://anilist.co/anime/1818) (15:22, 12 March 2026)
+-   📺 Watched episode 1 - 3 of [High School DxD BorN](https://anilist.co/anime/20745) (11:35, 12 March 2026)
+-   📺 Watched episode 2 of [Panty & Stocking with Garterbelt](https://anilist.co/anime/8795) (11:04, 12 March 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
