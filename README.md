@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 of [Sawaranaide Kotesashi-kun](https://anilist.co/manga/133386) (13:03, 13 March 2026)
+-   📖 Read chapter 13 of [108P!: 1-Nengo ni Zettai 108P Suru Hanashi](https://anilist.co/manga/200536) (12:58, 13 March 2026)
+-   📖 Read chapter 1 - 21 of [Maou to Ryuuou ni Sodaterareta Shounen wa Gakuen Seikatsu wo Musou Suru You desu](https://anilist.co/manga/163426) (12:37, 13 March 2026)
 -   📖 Read chapter 5 of [Suterare Ouji ga Saizensen de Tekikoku no Heishi wo Chiryou Shitara Jitsu wa Dainana Oujo Datta Ken](https://anilist.co/manga/202903) (22:02, 12 March 2026)
 -   📖 Read chapter 20 - 26 of [Tensei Shitara Joban de Shinu Naka Boss Datta: Heroine Kenzokuka de Ikinokoru](https://anilist.co/manga/164956) (21:50, 12 March 2026)
--   📺 Plans to watch [Claymore](https://anilist.co/anime/1818) (15:22, 12 March 2026)
--   📺 Watched episode 1 - 3 of [High School DxD BorN](https://anilist.co/anime/20745) (11:35, 12 March 2026)
--   📺 Watched episode 2 of [Panty & Stocking with Garterbelt](https://anilist.co/anime/8795) (11:04, 12 March 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
