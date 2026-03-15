@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 28 - 32 of [My Bizarre Level-Up Condition! A Capable Guy's Reincarnation in Another World](https://anilist.co/manga/157497) (19:27, 14 March 2026)
+-   📖 Read chapter 5 of [Joshi Shougakusei no Oujosama](https://anilist.co/manga/120201) (19:02, 14 March 2026)
+-   📖 Plans to read [Kami no Techigai de Shindara Cheat Gun Zumi de Isekai ni Hourikomaremashita](https://anilist.co/manga/118369) (11:53, 14 March 2026)
 -   📖 Read chapter 1 of [Sawaranaide Kotesashi-kun](https://anilist.co/manga/133386) (13:03, 13 March 2026)
 -   📖 Read chapter 13 of [108P!: 1-Nengo ni Zettai 108P Suru Hanashi](https://anilist.co/manga/200536) (12:58, 13 March 2026)
--   📖 Read chapter 1 - 21 of [Maou to Ryuuou ni Sodaterareta Shounen wa Gakuen Seikatsu wo Musou Suru You desu](https://anilist.co/manga/163426) (12:37, 13 March 2026)
--   📖 Read chapter 5 of [Suterare Ouji ga Saizensen de Tekikoku no Heishi wo Chiryou Shitara Jitsu wa Dainana Oujo Datta Ken](https://anilist.co/manga/202903) (22:02, 12 March 2026)
--   📖 Read chapter 20 - 26 of [Tensei Shitara Joban de Shinu Naka Boss Datta: Heroine Kenzokuka de Ikinokoru](https://anilist.co/manga/164956) (21:50, 12 March 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
