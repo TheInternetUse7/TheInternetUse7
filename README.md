@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 11 - 13 of [Seijun Ecstasy: XXX Shinai to Derarenai Heya de Mazoku wo Buttaoshimasu](https://anilist.co/manga/205728) (00:32, 20 March 2026)
+-   📖 Plans to read [The Greatest Estate Developer](https://anilist.co/manga/140407) (23:02, 19 March 2026)
+-   📖 Read chapter 13 - 16 of [108P!: 1-Nengo ni Zettai 108P Suru Hanashi](https://anilist.co/manga/200536) (11:55, 19 March 2026)
+-   📖 Read chapter 28 - 34 of [My Bizarre Level-Up Condition! A Capable Guy's Reincarnation in Another World](https://anilist.co/manga/157497) (11:55, 19 March 2026)
 -   📖 Read chapter 1 - 4 of [The Nectar of the Divine Mantra](https://anilist.co/manga/98563) (21:28, 18 March 2026)
--   📖 Read chapter 13 - 14 of [108P!: 1-Nengo ni Zettai 108P Suru Hanashi](https://anilist.co/manga/200536) (09:03, 18 March 2026)
--   📖 Read chapter 11 - 12 of [Seijun Ecstasy: XXX Shinai to Derarenai Heya de Mazoku wo Buttaoshimasu](https://anilist.co/manga/205728) (09:00, 18 March 2026)
--   📖 Read chapter 20 - 28 of [Tensei Shitara Joban de Shinu Naka Boss Datta: Heroine Kenzokuka de Ikinokoru](https://anilist.co/manga/164956) (08:56, 18 March 2026)
--   📖 Read chapter 17 of [Eroge Sekai ni Tensei Shita Ore ga, Oshi e no Ai de Netorare Heroine wo Shiawase ni Suru.](https://anilist.co/manga/184306) (04:47, 17 March 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
