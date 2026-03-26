@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 10 - 11 of [Yandere Dark Elf: She Chased Me All the Way From Another World!](https://anilist.co/anime/180829) (14:27, 24 March 2026)
--   📖 Read chapter 1 - 124 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (13:18, 24 March 2026)
--   📺 Watched episode 4 - 7 of [High School DxD BorN](https://anilist.co/anime/20745) (07:46, 24 March 2026)
--   📖 Read chapter 154 - 155 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (11:40, 23 March 2026)
--   📖 Read chapter 27 of [A Reincarnated Carrier’s Strategy for Another World](https://anilist.co/manga/167472) (11:35, 23 March 2026)
+-   📖 Read chapter 1 - 159 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (21:24, 25 March 2026)
+-   📺 Watched episode 4 - 8 of [High School DxD BorN](https://anilist.co/anime/20745) (20:16, 25 March 2026)
+-   📖 Read chapter 38 of [Reincarnation Coliseum: The Weakest Skill Conquers the Strongest Women and Creates a Harem](https://anilist.co/manga/152284) (09:16, 25 March 2026)
+-   📖 Read chapter 11 - 14 of [Seijun Ecstasy: XXX Shinai to Derarenai Heya de Mazoku wo Buttaoshimasu](https://anilist.co/manga/205728) (09:08, 25 March 2026)
+-   📖 Read chapter 305 of [Omniscient Reader](https://anilist.co/manga/119257) (02:25, 25 March 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
