@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 159 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (21:24, 25 March 2026)
+-   📖 Read chapter 1 - 162 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (14:26, 26 March 2026)
+-   📖 Read chapter 5 of [The Nectar of the Divine Mantra](https://anilist.co/manga/98563) (05:38, 26 March 2026)
 -   📺 Watched episode 4 - 8 of [High School DxD BorN](https://anilist.co/anime/20745) (20:16, 25 March 2026)
 -   📖 Read chapter 38 of [Reincarnation Coliseum: The Weakest Skill Conquers the Strongest Women and Creates a Harem](https://anilist.co/manga/152284) (09:16, 25 March 2026)
 -   📖 Read chapter 11 - 14 of [Seijun Ecstasy: XXX Shinai to Derarenai Heya de Mazoku wo Buttaoshimasu](https://anilist.co/manga/205728) (09:08, 25 March 2026)
--   📖 Read chapter 305 of [Omniscient Reader](https://anilist.co/manga/119257) (02:25, 25 March 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
