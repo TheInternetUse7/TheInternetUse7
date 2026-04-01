@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 214 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (22:38, 29 March 2026)
--   📖 Read chapter 28 of [Tsuihou sareta Renkinjutsushi, Adult Goods de Sekai wo Sukuu: Donna Monster mo Zettai ni Ikaseru Otoko](https://anilist.co/manga/187581) (20:59, 29 March 2026)
--   📖 Read chapter 28 - 37 of [My Bizarre Level-Up Condition! A Capable Guy's Reincarnation in Another World](https://anilist.co/manga/157497) (00:51, 29 March 2026)
--   📺 Plans to watch [The Dangers in My Heart](https://anilist.co/anime/153152) (17:04, 28 March 2026)
--   📖 Read chapter 68 of [The Shiunji Family Children](https://anilist.co/manga/144374) (02:56, 28 March 2026)
+-   📖 Read chapter 76 of [Moby Dick](https://anilist.co/manga/172094) (00:24, 01 April 2026)
+-   📖 Read chapter 1 - 22 of [Tsuihou sareta Renkinjutsushi, Adult Goods de Sekai wo Sukuu: Donna Monster mo Zettai ni Ikaseru Otoko](https://anilist.co/manga/187581) (23:09, 31 March 2026)
+-   📖 Read chapter 8 - 35 of [Flirting With Her](https://anilist.co/manga/145990) (09:33, 31 March 2026)
+-   📖 Read chapter 45 - 47 of [Brave New World](https://anilist.co/manga/122161) (08:07, 30 March 2026)
+-   📖 Read chapter 9 - 10 of [Binetsu Kuukan](https://anilist.co/manga/85345) (07:44, 30 March 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
