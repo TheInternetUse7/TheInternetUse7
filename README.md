@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 76 of [Moby Dick](https://anilist.co/manga/172094) (00:24, 01 April 2026)
--   📖 Read chapter 1 - 22 of [Tsuihou sareta Renkinjutsushi, Adult Goods de Sekai wo Sukuu: Donna Monster mo Zettai ni Ikaseru Otoko](https://anilist.co/manga/187581) (23:09, 31 March 2026)
--   📖 Read chapter 8 - 35 of [Flirting With Her](https://anilist.co/manga/145990) (09:33, 31 March 2026)
--   📖 Read chapter 45 - 47 of [Brave New World](https://anilist.co/manga/122161) (08:07, 30 March 2026)
--   📖 Read chapter 9 - 10 of [Binetsu Kuukan](https://anilist.co/manga/85345) (07:44, 30 March 2026)
+-   📖 Read chapter 71 - 74 of [Doing Secret Things with the Holy Maidens](https://anilist.co/manga/181248) (18:45, 01 April 2026)
+-   📖 Read chapter 28 of [Otoko Girai na Bijin Shimai wo Namae mo Tsugezu ni Tasuketara Ittai Dounaru?](https://anilist.co/manga/163004) (18:33, 01 April 2026)
+-   📺 Watched episode 4 - 10 of [High School DxD BorN](https://anilist.co/anime/20745) (13:28, 01 April 2026)
+-   📖 Completed [Flirting With Her](https://anilist.co/manga/145990) (09:39, 01 April 2026)
+-   📖 Read chapter 156 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (09:39, 01 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
