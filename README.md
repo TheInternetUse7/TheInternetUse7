@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 49 of [SO-EUN for All](https://anilist.co/manga/179218) (09:15, 02 April 2026)
+-   📖 Read chapter 1 - 219 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (09:15, 02 April 2026)
+-   📖 Read chapter 75 of [MILF Hunter in Another World](https://anilist.co/manga/166581) (09:14, 02 April 2026)
 -   📖 Read chapter 71 - 74 of [Doing Secret Things with the Holy Maidens](https://anilist.co/manga/181248) (18:45, 01 April 2026)
 -   📖 Read chapter 28 of [Otoko Girai na Bijin Shimai wo Namae mo Tsugezu ni Tasuketara Ittai Dounaru?](https://anilist.co/manga/163004) (18:33, 01 April 2026)
--   📺 Watched episode 4 - 10 of [High School DxD BorN](https://anilist.co/anime/20745) (13:28, 01 April 2026)
--   📖 Completed [Flirting With Her](https://anilist.co/manga/145990) (09:39, 01 April 2026)
--   📖 Read chapter 156 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (09:39, 01 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
