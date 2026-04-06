@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Completed [The Greatest Estate Developer](https://anilist.co/manga/140407) (20:35, 03 April 2026)
--   📖 Read chapter 1 - 221 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (20:35, 03 April 2026)
--   📖 Read chapter 49 of [SO-EUN for All](https://anilist.co/manga/179218) (09:15, 02 April 2026)
--   📖 Read chapter 75 of [MILF Hunter in Another World](https://anilist.co/manga/166581) (09:14, 02 April 2026)
--   📖 Read chapter 71 - 74 of [Doing Secret Things with the Holy Maidens](https://anilist.co/manga/181248) (18:45, 01 April 2026)
+-   📖 Read chapter 22 - 30 of [Maou to Ryuuou ni Sodaterareta Shounen wa Gakuen Seikatsu wo Musou Suru You desu](https://anilist.co/manga/163426) (00:56, 06 April 2026)
+-   📖 Read chapter 9 - 13 of [Binetsu Kuukan](https://anilist.co/manga/85345) (13:39, 05 April 2026)
+-   📺 Completed [Yandere Dark Elf: She Chased Me All the Way From Another World!](https://anilist.co/anime/180829) (12:21, 05 April 2026)
+-   📺 Watched episode 4 - 11 of [High School DxD BorN](https://anilist.co/anime/20745) (11:47, 05 April 2026)
+-   📖 Read chapter 27 of [Yuusha-sama wa Houshuu ni Hitozuma wo Gokibou desu](https://anilist.co/manga/159423) (07:45, 05 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
