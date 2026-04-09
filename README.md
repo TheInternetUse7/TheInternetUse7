@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 39 - 42 of [Gokusotsu Kraken](https://anilist.co/manga/152815) (07:47, 08 April 2026)
+-   📖 Read chapter 38 of [My Bizarre Level-Up Condition! A Capable Guy's Reincarnation in Another World](https://anilist.co/manga/157497) (07:19, 08 April 2026)
 -   📖 Read chapter 22 - 43 of [Maou to Ryuuou ni Sodaterareta Shounen wa Gakuen Seikatsu wo Musou Suru You desu](https://anilist.co/manga/163426) (03:43, 07 April 2026)
 -   📖 Read chapter 156 - 157 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (21:54, 06 April 2026)
 -   📺 Rewatched episode 1 of [Yosuga no Sora: In Solitude Where We are Least Alone](https://anilist.co/anime/8861) (21:15, 06 April 2026)
--   📖 Read chapter 49 - 53 of [SO-EUN for All](https://anilist.co/manga/179218) (02:19, 06 April 2026)
--   📖 Read chapter 43 - 47 of [Only With Consent](https://anilist.co/manga/128789) (02:08, 06 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
