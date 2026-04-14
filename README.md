@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 22 - 49 of [Maou to Ryuuou ni Sodaterareta Shounen wa Gakuen Seikatsu wo Musou Suru You desu](https://anilist.co/manga/163426) (00:55, 12 April 2026)
--   📖 Read chapter 6 of [Konbini de Deatta Eroi Onna no Ko to Tadarekitta Kankei ni Narimashita.](https://anilist.co/manga/202016) (20:46, 10 April 2026)
--   📖 Read chapter 6 of [Diaburo](https://anilist.co/manga/128318) (20:37, 10 April 2026)
--   📖 Read chapter 58 - 60 of [HACKING GHOST: Karada ni Shika Kachi no Nai Gakuen](https://anilist.co/manga/186922) (20:28, 10 April 2026)
--   📖 Read chapter 39 - 42 of [Gokusotsu Kraken](https://anilist.co/manga/152815) (07:47, 08 April 2026)
+-   📖 Read chapter 1 of [Keikenchi Chochiku de Nonbiri Shoushin Ryokou: Yuusha to Koibito ni Tsuihou sareta Senshi no Mujikaku zama](https://anilist.co/manga/130938) (22:03, 13 April 2026)
+-   📖 Plans to read [Keikenchi Chochiku de Nonbiri Shoushin Ryokou: Yuusha to Koibito ni Tsuihou sareta Senshi no Mujikaku zama](https://anilist.co/manga/130938) (21:44, 13 April 2026)
+-   📖 Plans to read [Ato 6-ika de Horobiru Gakeppuchi Kokka no Harem ni Shoukan Sarete Shimattan](https://anilist.co/manga/197678) (21:42, 13 April 2026)
+-   📖 Read chapter 41 of [Isekai Saikou no Kizoku, Harem wo Fuyasu Hodo Tsuyoku Naru](https://anilist.co/manga/149342) (21:39, 13 April 2026)
+-   📖 Read chapter 15 of [Seijun Ecstasy: XXX Shinai to Derarenai Heya de Mazoku wo Buttaoshimasu](https://anilist.co/manga/205728) (21:33, 13 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
