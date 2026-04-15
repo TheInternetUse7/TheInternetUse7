@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Teikoku Kishin Volcamion](https://anilist.co/manga/195293) (08:41, 14 April 2026)
+-   📖 Plans to read [Ore, Netoraretain desu!!!](https://anilist.co/manga/198128) (08:39, 14 April 2026)
+-   📖 Plans to read [Valkyrie-tachi to Kizuku Moto Teihen Murabito no Saikyou Harem: Suumannin no Onna ni Taishi, Otoko wa Ore Hitori](https://anilist.co/manga/202766) (08:29, 14 April 2026)
+-   📖 Read chapter 6 of [Ato 6-ika de Horobiru Gakeppuchi Kokka no Harem ni Shoukan Sarete Shimattan](https://anilist.co/manga/197678) (08:20, 14 April 2026)
 -   📖 Read chapter 1 of [Keikenchi Chochiku de Nonbiri Shoushin Ryokou: Yuusha to Koibito ni Tsuihou sareta Senshi no Mujikaku zama](https://anilist.co/manga/130938) (22:03, 13 April 2026)
--   📖 Plans to read [Keikenchi Chochiku de Nonbiri Shoushin Ryokou: Yuusha to Koibito ni Tsuihou sareta Senshi no Mujikaku zama](https://anilist.co/manga/130938) (21:44, 13 April 2026)
--   📖 Plans to read [Ato 6-ika de Horobiru Gakeppuchi Kokka no Harem ni Shoukan Sarete Shimattan](https://anilist.co/manga/197678) (21:42, 13 April 2026)
--   📖 Read chapter 41 of [Isekai Saikou no Kizoku, Harem wo Fuyasu Hodo Tsuyoku Naru](https://anilist.co/manga/149342) (21:39, 13 April 2026)
--   📖 Read chapter 15 of [Seijun Ecstasy: XXX Shinai to Derarenai Heya de Mazoku wo Buttaoshimasu](https://anilist.co/manga/205728) (21:33, 13 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
