@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Plans to read [Teikoku Kishin Volcamion](https://anilist.co/manga/195293) (08:41, 14 April 2026)
--   📖 Plans to read [Ore, Netoraretain desu!!!](https://anilist.co/manga/198128) (08:39, 14 April 2026)
--   📖 Plans to read [Valkyrie-tachi to Kizuku Moto Teihen Murabito no Saikyou Harem: Suumannin no Onna ni Taishi, Otoko wa Ore Hitori](https://anilist.co/manga/202766) (08:29, 14 April 2026)
--   📖 Read chapter 6 of [Ato 6-ika de Horobiru Gakeppuchi Kokka no Harem ni Shoukan Sarete Shimattan](https://anilist.co/manga/197678) (08:20, 14 April 2026)
--   📖 Read chapter 1 of [Keikenchi Chochiku de Nonbiri Shoushin Ryokou: Yuusha to Koibito ni Tsuihou sareta Senshi no Mujikaku zama](https://anilist.co/manga/130938) (22:03, 13 April 2026)
+-   📖 Read chapter 41 - 42 of [Isekai Saikou no Kizoku, Harem wo Fuyasu Hodo Tsuyoku Naru](https://anilist.co/manga/149342) (10:20, 15 April 2026)
+-   📖 Read chapter 29 of [Otoko Girai na Bijin Shimai wo Namae mo Tsugezu ni Tasuketara Ittai Dounaru?](https://anilist.co/manga/163004) (10:19, 15 April 2026)
+-   📺 Plans to watch [High School DxD HERO](https://anilist.co/anime/97767) (07:15, 15 April 2026)
+-   📺 Plans to watch [High School DxD BorN: Maximum Titillation OVA](https://anilist.co/anime/21279) (07:14, 15 April 2026)
+-   📺 Plans to watch [High School DxD BorN: Yomigaeranai Fushichou](https://anilist.co/anime/21573) (07:14, 15 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
