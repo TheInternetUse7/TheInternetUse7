@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 41 - 42 of [Isekai Saikou no Kizoku, Harem wo Fuyasu Hodo Tsuyoku Naru](https://anilist.co/manga/149342) (10:20, 15 April 2026)
--   📖 Read chapter 29 of [Otoko Girai na Bijin Shimai wo Namae mo Tsugezu ni Tasuketara Ittai Dounaru?](https://anilist.co/manga/163004) (10:19, 15 April 2026)
--   📺 Plans to watch [High School DxD HERO](https://anilist.co/anime/97767) (07:15, 15 April 2026)
--   📺 Plans to watch [High School DxD BorN: Maximum Titillation OVA](https://anilist.co/anime/21279) (07:14, 15 April 2026)
--   📺 Plans to watch [High School DxD BorN: Yomigaeranai Fushichou](https://anilist.co/anime/21573) (07:14, 15 April 2026)
+-   📖 Read chapter 2022 of [Gushing over Magical Girls](https://anilist.co/manga/109017) (21:48, 16 April 2026)
+-   📺 Watched episode 1 - 3 of [Classroom of the Elite](https://anilist.co/anime/98659) (20:47, 16 April 2026)
+-   📺 Rewatched episode 1 - 11 of [Yosuga no Sora: In Solitude Where We are Least Alone](https://anilist.co/anime/8861) (20:24, 16 April 2026)
+-   📖 Read chapter 23 of [Tsuihou sareta Renkinjutsushi, Adult Goods de Sekai wo Sukuu: Donna Monster mo Zettai ni Ikaseru Otoko](https://anilist.co/manga/187581) (18:49, 16 April 2026)
+-   📖 Read chapter 1 - 9 of [Saikai no Yuusha](https://anilist.co/manga/204333) (17:04, 16 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
