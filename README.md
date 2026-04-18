@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 2022 of [Gushing over Magical Girls](https://anilist.co/manga/109017) (21:48, 16 April 2026)
--   📺 Watched episode 1 - 3 of [Classroom of the Elite](https://anilist.co/anime/98659) (20:47, 16 April 2026)
--   📺 Rewatched episode 1 - 11 of [Yosuga no Sora: In Solitude Where We are Least Alone](https://anilist.co/anime/8861) (20:24, 16 April 2026)
--   📖 Read chapter 23 of [Tsuihou sareta Renkinjutsushi, Adult Goods de Sekai wo Sukuu: Donna Monster mo Zettai ni Ikaseru Otoko](https://anilist.co/manga/187581) (18:49, 16 April 2026)
--   📖 Read chapter 1 - 9 of [Saikai no Yuusha](https://anilist.co/manga/204333) (17:04, 16 April 2026)
+-   📖 Read chapter 18 of [Eroge Sekai ni Tensei Shita Ore ga, Oshi e no Ai de Netorare Heroine wo Shiawase ni Suru.](https://anilist.co/manga/184306) (23:38, 17 April 2026)
+-   📖 Read chapter 1 - 11 of [Saikai no Yuusha](https://anilist.co/manga/204333) (23:38, 17 April 2026)
+-   📖 Read chapter 16 of [Futago Matomete "Kanojo" ni Shinai?](https://anilist.co/manga/177186) (23:24, 17 April 2026)
+-   📺 Watched episode 1 - 4 of [Classroom of the Elite](https://anilist.co/anime/98659) (07:36, 17 April 2026)
+-   📺 Watched episode 1 of [High School DxD BorN: Maximum Titillation OVA](https://anilist.co/anime/21279) (07:18, 17 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
