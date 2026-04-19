@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 18 of [Eroge Sekai ni Tensei Shita Ore ga, Oshi e no Ai de Netorare Heroine wo Shiawase ni Suru.](https://anilist.co/manga/184306) (23:38, 17 April 2026)
--   📖 Read chapter 1 - 11 of [Saikai no Yuusha](https://anilist.co/manga/204333) (23:38, 17 April 2026)
--   📖 Read chapter 16 of [Futago Matomete "Kanojo" ni Shinai?](https://anilist.co/manga/177186) (23:24, 17 April 2026)
--   📺 Watched episode 1 - 4 of [Classroom of the Elite](https://anilist.co/anime/98659) (07:36, 17 April 2026)
--   📺 Watched episode 1 of [High School DxD BorN: Maximum Titillation OVA](https://anilist.co/anime/21279) (07:18, 17 April 2026)
+-   📺 Watched episode 1 - 2 of [High School DxD BorN: Maximum Titillation OVA](https://anilist.co/anime/21279) (21:32, 18 April 2026)
+-   📺 Watched episode 1 - 8 of [Classroom of the Elite](https://anilist.co/anime/98659) (17:17, 18 April 2026)
+-   📖 Read chapter 1 of [Boku no Kanojo Sensei](https://anilist.co/manga/108924) (10:12, 18 April 2026)
+-   📖 Read chapter 193 of [Jungle Juice](https://anilist.co/manga/128882) (07:15, 18 April 2026)
+-   📖 Read chapter 17 - 19 of [108P!: 1-Nengo ni Zettai 108P Suru Hanashi](https://anilist.co/manga/200536) (07:10, 18 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
