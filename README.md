@@ -25,8 +25,8 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 10 of [Classroom of the Elite](https://anilist.co/anime/98659) (02:00, 19 April 2026)
 -   📺 Watched episode 1 - 2 of [High School DxD BorN: Maximum Titillation OVA](https://anilist.co/anime/21279) (21:32, 18 April 2026)
--   📺 Watched episode 1 - 8 of [Classroom of the Elite](https://anilist.co/anime/98659) (17:17, 18 April 2026)
 -   📖 Read chapter 1 of [Boku no Kanojo Sensei](https://anilist.co/manga/108924) (10:12, 18 April 2026)
 -   📖 Read chapter 193 of [Jungle Juice](https://anilist.co/manga/128882) (07:15, 18 April 2026)
 -   📖 Read chapter 17 - 19 of [108P!: 1-Nengo ni Zettai 108P Suru Hanashi](https://anilist.co/manga/200536) (07:10, 18 April 2026)
