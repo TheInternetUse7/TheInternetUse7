@@ -25,9 +25,9 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 7 - 26 of [Keikenchi Chochiku de Nonbiri Shoushin Ryokou: Yuusha to Koibito ni Tsuihou sareta Senshi no Mujikaku zama](https://anilist.co/manga/130938) (19:37, 22 April 2026)
 -   📖 Read chapter 61 of [HACKING GHOST: Karada ni Shika Kachi no Nai Gakuen](https://anilist.co/manga/186922) (22:19, 21 April 2026)
 -   📖 Read chapter 16 of [Seijun Ecstasy: XXX Shinai to Derarenai Heya de Mazoku wo Buttaoshimasu](https://anilist.co/manga/205728) (14:17, 21 April 2026)
--   📖 Read chapter 7 - 15 of [Keikenchi Chochiku de Nonbiri Shoushin Ryokou: Yuusha to Koibito ni Tsuihou sareta Senshi no Mujikaku zama](https://anilist.co/manga/130938) (12:24, 21 April 2026)
 -   📖 Read chapter 43 of [Gokusotsu Kraken](https://anilist.co/manga/152815) (10:19, 21 April 2026)
 -   📖 Read chapter 4 of [Suki na Ko ni Kokuttara, Futago no Imouto ga Omake de Tsuitekitta](https://anilist.co/manga/163846) (10:00, 21 April 2026)
 
