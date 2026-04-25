@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 7 - 26 of [Keikenchi Chochiku de Nonbiri Shoushin Ryokou: Yuusha to Koibito ni Tsuihou sareta Senshi no Mujikaku zama](https://anilist.co/manga/130938) (19:37, 22 April 2026)
--   📖 Read chapter 61 of [HACKING GHOST: Karada ni Shika Kachi no Nai Gakuen](https://anilist.co/manga/186922) (22:19, 21 April 2026)
--   📖 Read chapter 16 of [Seijun Ecstasy: XXX Shinai to Derarenai Heya de Mazoku wo Buttaoshimasu](https://anilist.co/manga/205728) (14:17, 21 April 2026)
--   📖 Read chapter 43 of [Gokusotsu Kraken](https://anilist.co/manga/152815) (10:19, 21 April 2026)
--   📖 Read chapter 4 of [Suki na Ko ni Kokuttara, Futago no Imouto ga Omake de Tsuitekitta](https://anilist.co/manga/163846) (10:00, 21 April 2026)
+-   📖 Read chapter 307 - 308 of [Omniscient Reader](https://anilist.co/manga/119257) (19:07, 24 April 2026)
+-   📖 Read chapter 29 - 30 of [Tensei Shitara Joban de Shinu Chuu Boss Datta: Heroine Kenzokuka de Ikinokoru](https://anilist.co/manga/164956) (19:03, 24 April 2026)
+-   📖 Read chapter 69 of [The Shiunji Family Children](https://anilist.co/manga/144374) (18:26, 24 April 2026)
+-   📖 Read chapter 7 - 33 of [Keikenchi Chochiku de Nonbiri Shoushin Ryokou: Yuusha to Koibito ni Tsuihou sareta Senshi no Mujikaku zama](https://anilist.co/manga/130938) (18:13, 24 April 2026)
+-   📖 Read chapter 16 - 17 of [Seijun Ecstasy: XXX Shinai to Derarenai Heya de Mazoku wo Buttaoshimasu](https://anilist.co/manga/205728) (03:43, 24 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
