@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 7 - 40 of [Keikenchi Chochiku de Nonbiri Shoushin Ryokou: Yuusha to Koibito ni Tsuihou sareta Senshi no Mujikaku zama](https://anilist.co/manga/130938) (17:55, 25 April 2026)
+-   📺 Watched episode 1 of [Noragami](https://anilist.co/anime/20447) (17:54, 25 April 2026)
+-   📖 Read chapter 28 of [A Reincarnated Carrier’s Strategy for Another World](https://anilist.co/manga/167472) (11:09, 25 April 2026)
 -   📖 Read chapter 307 - 308 of [Omniscient Reader](https://anilist.co/manga/119257) (19:07, 24 April 2026)
 -   📖 Read chapter 29 - 30 of [Tensei Shitara Joban de Shinu Chuu Boss Datta: Heroine Kenzokuka de Ikinokoru](https://anilist.co/manga/164956) (19:03, 24 April 2026)
--   📖 Read chapter 69 of [The Shiunji Family Children](https://anilist.co/manga/144374) (18:26, 24 April 2026)
--   📖 Read chapter 7 - 33 of [Keikenchi Chochiku de Nonbiri Shoushin Ryokou: Yuusha to Koibito ni Tsuihou sareta Senshi no Mujikaku zama](https://anilist.co/manga/130938) (18:13, 24 April 2026)
--   📖 Read chapter 16 - 17 of [Seijun Ecstasy: XXX Shinai to Derarenai Heya de Mazoku wo Buttaoshimasu](https://anilist.co/manga/205728) (03:43, 24 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
