@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 6 - 7 of [To Your Eternity Season 3](https://anilist.co/anime/162669) (16:21, 26 April 2026)
 -   📖 Read chapter 7 - 40 of [Keikenchi Chochiku de Nonbiri Shoushin Ryokou: Yuusha to Koibito ni Tsuihou sareta Senshi no Mujikaku zama](https://anilist.co/manga/130938) (17:55, 25 April 2026)
 -   📺 Watched episode 1 of [Noragami](https://anilist.co/anime/20447) (17:54, 25 April 2026)
 -   📖 Read chapter 28 of [A Reincarnated Carrier’s Strategy for Another World](https://anilist.co/manga/167472) (11:09, 25 April 2026)
 -   📖 Read chapter 307 - 308 of [Omniscient Reader](https://anilist.co/manga/119257) (19:07, 24 April 2026)
--   📖 Read chapter 29 - 30 of [Tensei Shitara Joban de Shinu Chuu Boss Datta: Heroine Kenzokuka de Ikinokoru](https://anilist.co/manga/164956) (19:03, 24 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
