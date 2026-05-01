@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Lord of Mysteries](https://anilist.co/anime/137667) (19:12, 30 April 2026)
+-   📖 Read chapter 72 of [Isekai NTR: Shinyuu no Onna wo Saikyou Skill de Otosu Houhou](https://anilist.co/manga/115042) (07:03, 30 April 2026)
+-   📖 Read chapter 80 of [Dorei wo Choukyoushite Harem Tsukuru](https://anilist.co/manga/149329) (07:03, 30 April 2026)
+-   📖 Read chapter 307 - 309 of [Omniscient Reader](https://anilist.co/manga/119257) (07:03, 30 April 2026)
 -   📺 Plans to watch [Lord of Mysteries](https://anilist.co/anime/137667) (20:41, 29 April 2026)
--   📖 Read chapter 2 of [Maou no Musumetachi to Maguwaeba Tsuyoku Narerutte Hontou desu ka? ](https://anilist.co/manga/140683) (06:58, 29 April 2026)
--   📺 Watched episode 6 - 9 of [To Your Eternity Season 3](https://anilist.co/anime/162669) (05:08, 29 April 2026)
--   📖 Read chapter 160 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (05:04, 29 April 2026)
--   📖 Read chapter 23 of [Boukensha ni Narenakatta Ore, Skill "Oppai Kyousei" de Nayameru Ano Ko wo Hitodasuke!? ](https://anilist.co/manga/172559) (05:04, 29 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
