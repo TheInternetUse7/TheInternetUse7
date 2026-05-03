@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 2 of [Lord of Mysteries](https://anilist.co/anime/137667) (18:39, 01 May 2026)
+-   📺 Completed [High School DxD BorN: Yomigaeranai Fushichou](https://anilist.co/anime/21573) (16:48, 02 May 2026)
+-   📺 Watched episode 1 of [Grisaia: Phantom Trigger THE ANIMATION](https://anilist.co/anime/99470) (16:48, 02 May 2026)
+-   📺 Watched episode 1 - 3 of [Lord of Mysteries](https://anilist.co/anime/137667) (16:48, 02 May 2026)
 -   📖 Read chapter 7 of [Hiten no Asuka: Isekai no Shoujo ni Saikyou Hougu Ataeta Kekka](https://anilist.co/manga/150518) (05:37, 01 May 2026)
 -   📖 Read chapter 62 of [HACKING GHOST: Karada ni Shika Kachi no Nai Gakuen](https://anilist.co/manga/186922) (05:21, 01 May 2026)
--   📖 Read chapter 18 of [Seijun Ecstasy: XXX Shinai to Derarenai Heya de Mazoku wo Buttaoshimasu](https://anilist.co/manga/205728) (05:18, 01 May 2026)
--   📖 Read chapter 72 of [Isekai NTR: Shinyuu no Onna wo Saikyou Skill de Otosu Houhou](https://anilist.co/manga/115042) (07:03, 30 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
