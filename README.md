@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 2 of [Hai no Sekai wa Kami no Me de Irozuku: Ore dake Mieru Status de, Saijaku kara Saikyou e Kakeagaru](https://anilist.co/manga/194615) (09:20, 10 May 2026)
+-   📖 Read chapter 23 of [My Useless Cuddle Skill Awakened, and Now I’m Building the Ultimate Harem!](https://anilist.co/manga/175861) (08:56, 10 May 2026)
 -   📺 Watched episode 2 of [Noragami](https://anilist.co/anime/20447) (06:42, 08 May 2026)
 -   📺 Completed [High School DxD BorN: Yomigaeranai Fushichou](https://anilist.co/anime/21573) (16:48, 02 May 2026)
 -   📺 Watched episode 1 of [Grisaia: Phantom Trigger THE ANIMATION](https://anilist.co/anime/99470) (16:48, 02 May 2026)
--   📺 Watched episode 1 - 3 of [Lord of Mysteries](https://anilist.co/anime/137667) (16:48, 02 May 2026)
--   📖 Read chapter 7 of [Hiten no Asuka: Isekai no Shoujo ni Saikyou Hougu Ataeta Kekka](https://anilist.co/manga/150518) (05:37, 01 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
