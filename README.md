@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 2 of [Hai no Sekai wa Kami no Me de Irozuku: Ore dake Mieru Status de, Saijaku kara Saikyou e Kakeagaru](https://anilist.co/manga/194615) (09:20, 10 May 2026)
--   📖 Read chapter 23 of [My Useless Cuddle Skill Awakened, and Now I’m Building the Ultimate Harem!](https://anilist.co/manga/175861) (08:56, 10 May 2026)
--   📺 Watched episode 2 of [Noragami](https://anilist.co/anime/20447) (06:42, 08 May 2026)
--   📺 Completed [High School DxD BorN: Yomigaeranai Fushichou](https://anilist.co/anime/21573) (16:48, 02 May 2026)
--   📺 Watched episode 1 of [Grisaia: Phantom Trigger THE ANIMATION](https://anilist.co/anime/99470) (16:48, 02 May 2026)
+-   📖 Read chapter 162 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (10:46, 11 May 2026)
+-   📖 Read chapter 384 of [Eleceed](https://anilist.co/manga/106929) (10:03, 11 May 2026)
+-   📖 Read chapter 32 of [Tensei Shitara Joban de Shinu Chuu Boss Datta: Heroine Kenzokuka de Ikinokoru](https://anilist.co/manga/164956) (10:03, 11 May 2026)
+-   📖 Read chapter 20 of [Seijun Ecstasy: XXX Shinai to Derarenai Heya de Mazoku wo Buttaoshimasu](https://anilist.co/manga/205728) (10:03, 11 May 2026)
+-   📖 Read chapter 34 of [Game of Familia](https://anilist.co/manga/104033) (10:03, 11 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
