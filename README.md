@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 36 of [The Villainous Noble is Way Too Fond of MILF Heroines](https://anilist.co/manga/186330) (04:02, 19 May 2026)
+-   📖 Read chapter 24 of [My Useless Cuddle Skill Awakened, and Now I’m Building the Ultimate Harem!](https://anilist.co/manga/175861) (04:02, 19 May 2026)
 -   📖 Read chapter 24 of [Boukensha ni Narenakatta Ore, Skill "Oppai Kyousei" de Nayameru Ano Ko wo Hitodasuke!? ](https://anilist.co/manga/172559) (06:04, 18 May 2026)
 -   📖 Read chapter 162 - 163 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (05:58, 18 May 2026)
 -   📖 Read chapter 32 - 33 of [Tensei Shitara Joban de Shinu Chuu Boss Datta: Heroine Kenzokuka de Ikinokoru](https://anilist.co/manga/164956) (15:21, 16 May 2026)
--   📖 Read chapter 384 - 385 of [Eleceed](https://anilist.co/manga/106929) (14:42, 14 May 2026)
--   📖 Read chapter 63 of [HACKING GHOST: Karada ni Shika Kachi no Nai Gakuen](https://anilist.co/manga/186922) (04:41, 14 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
