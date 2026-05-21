@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 3 - 7 of [Maou no Musumetachi to Maguwaeba Tsuyoku Narerutte Hontou desu ka? ](https://anilist.co/manga/140683) (22:50, 20 May 2026)
+-   📖 Read chapter 310 - 311 of [Omniscient Reader](https://anilist.co/manga/119257) (17:46, 20 May 2026)
+-   📺 Watched episode 3 of [Noragami](https://anilist.co/anime/20447) (15:48, 20 May 2026)
+-   📖 Read chapter 14 of [Haikei, Tengoku no Nee-san, Yuusha ni Natta Mei ga Ero Sugite ── Ojisan, Hogosha Toka Sorosoro Muri desu Plus](https://anilist.co/manga/187654) (09:38, 20 May 2026)
 -   📖 Read chapter 36 of [The Villainous Noble is Way Too Fond of MILF Heroines](https://anilist.co/manga/186330) (04:02, 19 May 2026)
--   📖 Read chapter 24 of [My Useless Cuddle Skill Awakened, and Now I’m Building the Ultimate Harem!](https://anilist.co/manga/175861) (04:02, 19 May 2026)
--   📖 Read chapter 24 of [Boukensha ni Narenakatta Ore, Skill "Oppai Kyousei" de Nayameru Ano Ko wo Hitodasuke!? ](https://anilist.co/manga/172559) (06:04, 18 May 2026)
--   📖 Read chapter 162 - 163 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (05:58, 18 May 2026)
--   📖 Read chapter 32 - 33 of [Tensei Shitara Joban de Shinu Chuu Boss Datta: Heroine Kenzokuka de Ikinokoru](https://anilist.co/manga/164956) (15:21, 16 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
