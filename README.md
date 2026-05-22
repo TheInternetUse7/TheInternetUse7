@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 3 - 7 of [Maou no Musumetachi to Maguwaeba Tsuyoku Narerutte Hontou desu ka? ](https://anilist.co/manga/140683) (22:50, 20 May 2026)
--   📖 Read chapter 310 - 311 of [Omniscient Reader](https://anilist.co/manga/119257) (17:46, 20 May 2026)
--   📺 Watched episode 3 of [Noragami](https://anilist.co/anime/20447) (15:48, 20 May 2026)
--   📖 Read chapter 14 of [Haikei, Tengoku no Nee-san, Yuusha ni Natta Mei ga Ero Sugite ── Ojisan, Hogosha Toka Sorosoro Muri desu Plus](https://anilist.co/manga/187654) (09:38, 20 May 2026)
--   📖 Read chapter 36 of [The Villainous Noble is Way Too Fond of MILF Heroines](https://anilist.co/manga/186330) (04:02, 19 May 2026)
+-   📖 Read chapter 70 of [The Shiunji Family Children](https://anilist.co/manga/144374) (19:34, 21 May 2026)
+-   📖 Read chapter 386 of [Eleceed](https://anilist.co/manga/106929) (19:28, 21 May 2026)
+-   📖 Read chapter 101 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (19:22, 21 May 2026)
+-   📖 Read chapter 36 - 38 of [The Villainous Noble is Way Too Fond of MILF Heroines](https://anilist.co/manga/186330) (07:07, 21 May 2026)
+-   📖 Read chapter 41 of [My Bizarre Level-Up Condition! A Capable Guy's Reincarnation in Another World](https://anilist.co/manga/157497) (06:43, 21 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
