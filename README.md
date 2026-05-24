@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 73 of [Isekai NTR: Shinyuu no Onna wo Saikyou Skill de Otosu Houhou](https://anilist.co/manga/115042) (19:32, 23 May 2026)
 -   📺 Watched episode 4 of [Lord of Mysteries](https://anilist.co/anime/137667) (16:47, 22 May 2026)
 -   📖 Read chapter 70 of [The Shiunji Family Children](https://anilist.co/manga/144374) (19:34, 21 May 2026)
 -   📖 Read chapter 386 of [Eleceed](https://anilist.co/manga/106929) (19:28, 21 May 2026)
 -   📖 Read chapter 101 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (19:22, 21 May 2026)
--   📖 Read chapter 36 - 38 of [The Villainous Noble is Way Too Fond of MILF Heroines](https://anilist.co/manga/186330) (07:07, 21 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
