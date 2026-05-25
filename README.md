@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 73 of [Isekai NTR: Shinyuu no Onna wo Saikyou Skill de Otosu Houhou](https://anilist.co/manga/115042) (19:32, 23 May 2026)
--   📺 Watched episode 4 of [Lord of Mysteries](https://anilist.co/anime/137667) (16:47, 22 May 2026)
--   📖 Read chapter 70 of [The Shiunji Family Children](https://anilist.co/manga/144374) (19:34, 21 May 2026)
--   📖 Read chapter 386 of [Eleceed](https://anilist.co/manga/106929) (19:28, 21 May 2026)
--   📖 Read chapter 101 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (19:22, 21 May 2026)
+-   📖 Read chapter 18 of [Uragirareta S-Rank Boukensha no Ore wa, Aisuru Dorei no Kanojora to Tomo ni Dorei dake no Harem Guild wo Tsukuru](https://anilist.co/manga/119327) (06:47, 24 May 2026)
+-   📖 Read chapter 6 - 9 of [Eroge no Sekai de Slow Life: Issho ni Isekai Teni Shitekita YariCir no Daigakuseitachi ni Tsuihou sareta node, Henkyou de Muteki ni Natte Shin no Heroine-tachi to Yoroshiku Yarimasu](https://anilist.co/manga/175607) (06:45, 24 May 2026)
+-   📖 Read chapter 2 - 3 of [Sawaranaide Kotesashi-kun](https://anilist.co/manga/133386) (06:29, 24 May 2026)
+-   📖 Read chapter 1 - 5 of [Dore dake Doryoku Shite mo Mannen Level 0 no Ore wa Tsuihou Sareta: Shin no Teki to Yobareta Shounen wa, Shachiku Megami to Deatte Saikyou no Chikara wo Te ni Ireru](https://anilist.co/manga/161496) (06:17, 24 May 2026)
+-   📖 Read chapter 39 of [Reincarnation Coliseum: The Weakest Skill Conquers the Strongest Women and Creates a Harem](https://anilist.co/manga/152284) (05:01, 24 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
