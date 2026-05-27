@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 7 of [Ato 6-ika de Horobiru Gakeppuchi Kokka no Harem ni Shoukan Sarete Shimattan](https://anilist.co/manga/197678) (07:00, 26 May 2026)
+-   📖 Read chapter 21 of [Seijun Ecstasy: XXX Shinai to Derarenai Heya de Mazoku wo Buttaoshimasu](https://anilist.co/manga/205728) (06:56, 26 May 2026)
 -   📺 Watched episode 6 of [Cowboy Bebop](https://anilist.co/anime/1) (17:37, 25 May 2026)
 -   📖 Completed [Tsuyo Tsuyo Mesugaki Villain to Yowa Yowa Hero no Ore](https://anilist.co/manga/166940) (08:04, 25 May 2026)
 -   📖 Read chapter 1 of [Otome Netoria](https://anilist.co/manga/109000) (08:03, 25 May 2026)
--   📖 Plans to read [Otome Netoria](https://anilist.co/manga/109000) (08:02, 25 May 2026)
--   📖 Completed [Keep It Secret From My Husband](https://anilist.co/manga/150001) (08:01, 25 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
