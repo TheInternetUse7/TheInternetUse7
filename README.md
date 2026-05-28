@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 of [Kiwamete Kenzen na Bishoujo Level Up](https://anilist.co/manga/211601) (00:41, 28 May 2026)
+-   📖 Read chapter 30 of [Otoko Girai na Bijin Shimai wo Namae mo Tsugezu ni Tasuketara Ittai Dounaru?](https://anilist.co/manga/163004) (00:32, 28 May 2026)
+-   📖 Read chapter 41 - 42 of [My Bizarre Level-Up Condition! A Capable Guy's Reincarnation in Another World](https://anilist.co/manga/157497) (12:43, 27 May 2026)
+-   📖 Plans to read [Kiwamete Kenzen na Bishoujo Level Up](https://anilist.co/manga/211601) (11:36, 27 May 2026)
 -   📖 Read chapter 7 of [Ato 6-ika de Horobiru Gakeppuchi Kokka no Harem ni Shoukan Sarete Shimattan](https://anilist.co/manga/197678) (07:00, 26 May 2026)
--   📖 Read chapter 21 of [Seijun Ecstasy: XXX Shinai to Derarenai Heya de Mazoku wo Buttaoshimasu](https://anilist.co/manga/205728) (06:56, 26 May 2026)
--   📺 Watched episode 6 of [Cowboy Bebop](https://anilist.co/anime/1) (17:37, 25 May 2026)
--   📖 Completed [Tsuyo Tsuyo Mesugaki Villain to Yowa Yowa Hero no Ore](https://anilist.co/manga/166940) (08:04, 25 May 2026)
--   📖 Read chapter 1 of [Otome Netoria](https://anilist.co/manga/109000) (08:03, 25 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
