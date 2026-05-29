@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 7 of [Konbini de Deatta Eroi Onna no Ko to Tadarekitta Kankei ni Narimashita.](https://anilist.co/manga/202016) (18:07, 28 May 2026)
+-   📖 Read chapter 81 of [The Eminence in Shadow](https://anilist.co/manga/106758) (10:19, 28 May 2026)
 -   📖 Read chapter 1 of [Kiwamete Kenzen na Bishoujo Level Up](https://anilist.co/manga/211601) (00:41, 28 May 2026)
 -   📖 Read chapter 30 of [Otoko Girai na Bijin Shimai wo Namae mo Tsugezu ni Tasuketara Ittai Dounaru?](https://anilist.co/manga/163004) (00:32, 28 May 2026)
 -   📖 Read chapter 41 - 42 of [My Bizarre Level-Up Condition! A Capable Guy's Reincarnation in Another World](https://anilist.co/manga/157497) (12:43, 27 May 2026)
--   📖 Plans to read [Kiwamete Kenzen na Bishoujo Level Up](https://anilist.co/manga/211601) (11:36, 27 May 2026)
--   📖 Read chapter 7 of [Ato 6-ika de Horobiru Gakeppuchi Kokka no Harem ni Shoukan Sarete Shimattan](https://anilist.co/manga/197678) (07:00, 26 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
