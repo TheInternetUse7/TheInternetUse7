@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 2 of [Saga of Tanya the Evil](https://anilist.co/anime/21613) (16:45, 29 May 2026)
+-   📖 Read chapter 165 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (19:34, 01 June 2026)
+-   📺 Watched episode 1 - 3 of [Saga of Tanya the Evil](https://anilist.co/anime/21613) (12:20, 01 June 2026)
+-   📖 Read chapter 9 of [Houkago Instant XXX](https://anilist.co/manga/199615) (05:27, 01 June 2026)
 -   📺 Plans to watch [Saga of Tanya the Evil](https://anilist.co/anime/21613) (16:42, 29 May 2026)
 -   📖 Read chapter 64 of [HACKING GHOST: Karada ni Shika Kachi no Nai Gakuen](https://anilist.co/manga/186922) (07:18, 29 May 2026)
--   📖 Completed [Akuma Mitai ni Kimi wa Tatteta](https://anilist.co/manga/151261) (07:15, 29 May 2026)
--   📖 Read chapter 7 of [Konbini de Deatta Eroi Onna no Ko to Tadarekitta Kankei ni Narimashita.](https://anilist.co/manga/202016) (18:07, 28 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
