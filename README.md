@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 77 of [Himekishi ga Classmate! THE COMIC](https://anilist.co/manga/86276) (18:33, 04 June 2026)
+-   📖 Read chapter 77 - 78 of [Himekishi ga Classmate! THE COMIC](https://anilist.co/manga/86276) (01:06, 07 June 2026)
+-   📖 Read chapter 99 of [Kichiku Eiyuu](https://anilist.co/manga/139415) (11:58, 06 June 2026)
+-   📖 Read chapter 22 of [Seijun Ecstasy: XXX Shinai to Derarenai Heya de Mazoku wo Buttaoshimasu](https://anilist.co/manga/205728) (11:55, 06 June 2026)
 -   📖 Read chapter 19 of [Eroge Sekai ni Tensei Shita Ore ga, Oshi e no Ai de Netorare Heroine wo Shiawase ni Suru.](https://anilist.co/manga/184306) (18:26, 04 June 2026)
 -   📖 Read chapter 64 - 65 of [HACKING GHOST: Karada ni Shika Kachi no Nai Gakuen](https://anilist.co/manga/186922) (18:23, 04 June 2026)
--   📺 Watched episode 5 of [Lord of Mysteries](https://anilist.co/anime/137667) (16:25, 04 June 2026)
--   📖 Read chapter 44 of [Keikenchi Chochiku de Nonbiri Shoushin Ryokou: Yuusha to Koibito ni Tsuihou sareta Senshi no Mujikaku zama](https://anilist.co/manga/130938) (22:12, 02 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
