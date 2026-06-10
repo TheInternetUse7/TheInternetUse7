@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Plans to read [The Erotical Wizard and His Twelve Brides](https://anilist.co/manga/163643) (17:10, 08 June 2026)
--   📖 Read chapter 1 - 4 of [Himegoto Kakushigoto](https://anilist.co/manga/212891) (08:28, 07 June 2026)
--   📖 Plans to read [Himegoto Kakushigoto](https://anilist.co/manga/212891) (07:35, 07 June 2026)
--   📖 Read chapter 77 - 78 of [Himekishi ga Classmate! THE COMIC](https://anilist.co/manga/86276) (01:06, 07 June 2026)
--   📖 Read chapter 99 of [Kichiku Eiyuu](https://anilist.co/manga/139415) (11:58, 06 June 2026)
+-   📖 Read chapter 4 of [Blade Play](https://anilist.co/manga/72275) (13:16, 09 June 2026)
+-   📖 Read chapter 1 of [The Erotical Wizard and His Twelve Brides](https://anilist.co/manga/163643) (13:16, 09 June 2026)
+-   📖 Read chapter 99 - 100 of [Kichiku Eiyuu](https://anilist.co/manga/139415) (06:05, 09 June 2026)
+-   📖 Read chapter 28 - 29 of [Yuusha-sama wa Houshuu ni Hitozuma wo Gokibou desu](https://anilist.co/manga/159423) (05:31, 09 June 2026)
+-   📖 Read chapter 166 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (04:22, 09 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
