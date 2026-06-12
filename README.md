@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 4 - 6 of [Blade Play](https://anilist.co/manga/72275) (11:40, 10 June 2026)
--   📺 Watched episode 3 of [Panty & Stocking with Garterbelt](https://anilist.co/anime/8795) (10:52, 10 June 2026)
--   📺 Watched episode 4 of [Saga of Tanya the Evil](https://anilist.co/anime/21613) (08:05, 10 June 2026)
--   📖 Read chapter 43 of [My Bizarre Level-Up Condition! A Capable Guy's Reincarnation in Another World](https://anilist.co/manga/157497) (07:18, 10 June 2026)
--   📖 Read chapter 1 - 5 of [Himegoto Kakushigoto](https://anilist.co/manga/212891) (07:15, 10 June 2026)
+-   📖 Completed [Tonari ni Kosite kita Kawaii Onnanoko.](https://anilist.co/manga/151874) (23:16, 11 June 2026)
+-   📖 Read chapter 66 of [HACKING GHOST: Karada ni Shika Kachi no Nai Gakuen](https://anilist.co/manga/186922) (20:41, 11 June 2026)
+-   📖 Read chapter 39 of [The Villainous Noble is Way Too Fond of MILF Heroines](https://anilist.co/manga/186330) (20:38, 11 June 2026)
+-   📖 Read chapter 18 of [Futago Matomete "Kanojo" ni Shinai?](https://anilist.co/manga/177186) (20:33, 11 June 2026)
+-   📖 Read chapter 77 - 79 of [Himekishi ga Classmate! THE COMIC](https://anilist.co/manga/86276) (06:26, 11 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
