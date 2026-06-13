@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 10 of [Houkago Instant XXX](https://anilist.co/manga/199615) (19:17, 12 June 2026)
+-   📖 Read chapter 1 - 21 of [The Erotical Wizard and His Twelve Brides](https://anilist.co/manga/163643) (18:56, 12 June 2026)
+-   📖 Plans to read [GIGANT](https://anilist.co/manga/100765) (15:43, 12 June 2026)
 -   📖 Completed [Tonari ni Kosite kita Kawaii Onnanoko.](https://anilist.co/manga/151874) (23:16, 11 June 2026)
 -   📖 Read chapter 66 of [HACKING GHOST: Karada ni Shika Kachi no Nai Gakuen](https://anilist.co/manga/186922) (20:41, 11 June 2026)
--   📖 Read chapter 39 of [The Villainous Noble is Way Too Fond of MILF Heroines](https://anilist.co/manga/186330) (20:38, 11 June 2026)
--   📖 Read chapter 18 of [Futago Matomete "Kanojo" ni Shinai?](https://anilist.co/manga/177186) (20:33, 11 June 2026)
--   📖 Read chapter 77 - 79 of [Himekishi ga Classmate! THE COMIC](https://anilist.co/manga/86276) (06:26, 11 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
