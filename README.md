@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 6 - 9 of [Dore dake Doryoku Shite mo Mannen Level 0 no Ore wa Tsuihou Sareta: Shin no Teki to Yobareta Shounen wa, Shachiku Megami to Deatte Saikyou no Chikara wo Te ni Ireru](https://anilist.co/manga/161496) (00:46, 14 June 2026)
--   📖 Completed [Penguin Oukoku: Gakuen Shotou-bu Sensei Gakari no Oshigoto](https://anilist.co/manga/88028) (23:20, 13 June 2026)
--   📖 Completed [Idol Club! (KARI)](https://anilist.co/manga/88168) (23:16, 13 June 2026)
--   📖 Read chapter 1 of [Idol Club! (KARI)](https://anilist.co/manga/88168) (23:15, 13 June 2026)
--   📖 Completed [Gakuen Rankou](https://anilist.co/manga/118161) (23:11, 13 June 2026)
+-   📖 Read chapter 6 - 15 of [Dore dake Doryoku Shite mo Mannen Level 0 no Ore wa Tsuihou Sareta: Shin no Teki to Yobareta Shounen wa, Shachiku Megami to Deatte Saikyou no Chikara wo Te ni Ireru](https://anilist.co/manga/161496) (21:30, 14 June 2026)
+-   📖 Read chapter 15 of [Haikei, Tengoku no Nee-san, Yuusha ni Natta Mei ga Ero Sugite ── Ojisan, Hogosha Toka Sorosoro Muri desu Plus](https://anilist.co/manga/187654) (13:18, 14 June 2026)
+-   📖 Read chapter 23 of [Seijun Ecstasy: XXX Shinai to Derarenai Heya de Mazoku wo Buttaoshimasu](https://anilist.co/manga/205728) (13:18, 14 June 2026)
+-   📖 Read chapter 71 of [The Shiunji Family Children](https://anilist.co/manga/144374) (13:18, 14 June 2026)
+-   📖 Read chapter 41 of [Reincarnation Coliseum: The Weakest Skill Conquers the Strongest Women and Creates a Harem](https://anilist.co/manga/152284) (13:18, 14 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
