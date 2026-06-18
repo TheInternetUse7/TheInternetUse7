@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 44 of [Gokusotsu Kraken](https://anilist.co/manga/152815) (19:16, 16 June 2026)
--   📖 Read chapter 4 - 10 of [Blade Play](https://anilist.co/manga/72275) (10:37, 16 June 2026)
--   📖 Read chapter 167 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (06:08, 16 June 2026)
--   📖 Read chapter 6 - 15 of [Dore dake Doryoku Shite mo Mannen Level 0 no Ore wa Tsuihou Sareta: Shin no Teki to Yobareta Shounen wa, Shachiku Megami to Deatte Saikyou no Chikara wo Te ni Ireru](https://anilist.co/manga/161496) (21:30, 14 June 2026)
--   📖 Read chapter 15 of [Haikei, Tengoku no Nee-san, Yuusha ni Natta Mei ga Ero Sugite ── Ojisan, Hogosha Toka Sorosoro Muri desu Plus](https://anilist.co/manga/187654) (13:18, 14 June 2026)
+-   📖 Plans to read [H♥Ero: Sei no Kyoushitsu](https://anilist.co/manga/91244) (14:03, 17 June 2026)
+-   📖 Read chapter 1 - 3 of [Fugou Ichizoku no Muko: Tsuma Igai Zenin Ore no Onna](https://anilist.co/manga/171252) (14:02, 17 June 2026)
+-   📖 Plans to read [Fugou Ichizoku no Muko: Tsuma Igai Zenin Ore no Onna](https://anilist.co/manga/171252) (13:53, 17 June 2026)
+-   📖 Completed [Otonari no Nie](https://anilist.co/manga/153837) (13:37, 17 June 2026)
+-   📖 Read chapter 14 - 15 of [Binetsu Kuukan](https://anilist.co/manga/85345) (13:32, 17 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
