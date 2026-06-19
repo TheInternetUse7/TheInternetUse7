@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 74 of [Isekai NTR: Shinyuu no Onna wo Saikyou Skill de Otosu Houhou](https://anilist.co/manga/115042) (19:59, 18 June 2026)
+-   📖 Read chapter 2 of [Kiwamete Kenzen na Bishoujo Level Up](https://anilist.co/manga/211601) (19:55, 18 June 2026)
+-   📖 Read chapter 6 of [Himegoto Kakushigoto](https://anilist.co/manga/212891) (14:41, 18 June 2026)
 -   📖 Plans to read [H♥Ero: Sei no Kyoushitsu](https://anilist.co/manga/91244) (14:03, 17 June 2026)
 -   📖 Read chapter 1 - 3 of [Fugou Ichizoku no Muko: Tsuma Igai Zenin Ore no Onna](https://anilist.co/manga/171252) (14:02, 17 June 2026)
--   📖 Plans to read [Fugou Ichizoku no Muko: Tsuma Igai Zenin Ore no Onna](https://anilist.co/manga/171252) (13:53, 17 June 2026)
--   📖 Completed [Otonari no Nie](https://anilist.co/manga/153837) (13:37, 17 June 2026)
--   📖 Read chapter 14 - 15 of [Binetsu Kuukan](https://anilist.co/manga/85345) (13:32, 17 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
