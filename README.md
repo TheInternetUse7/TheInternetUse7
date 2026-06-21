@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 102 - 103 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (11:54, 20 June 2026)
+-   📖 Read chapter 5 of [Suki na Ko ni Kokuttara, Futago no Imouto ga Omake de Tsuitekitta](https://anilist.co/manga/163846) (11:37, 20 June 2026)
+-   📖 Read chapter 23 - 24 of [Seijun Ecstasy: XXX Shinai to Derarenai Heya de Mazoku wo Buttaoshimasu](https://anilist.co/manga/205728) (11:29, 20 June 2026)
+-   📖 Read chapter 44 of [My Bizarre Level-Up Condition! A Capable Guy's Reincarnation in Another World](https://anilist.co/manga/157497) (11:24, 20 June 2026)
 -   📖 Read chapter 76 - 77 of [MILF Hunter in Another World](https://anilist.co/manga/166581) (07:35, 19 June 2026)
--   📖 Read chapter 22 - 23 of [Isekai ni Shoukansareta Ndakedo, Nan Demo Kireteshimau Kennou wo te ni Ireta Node Easy Mode deshita. ](https://anilist.co/manga/173917) (05:53, 19 June 2026)
--   📖 Read chapter 74 of [Isekai NTR: Shinyuu no Onna wo Saikyou Skill de Otosu Houhou](https://anilist.co/manga/115042) (19:59, 18 June 2026)
--   📖 Read chapter 2 of [Kiwamete Kenzen na Bishoujo Level Up](https://anilist.co/manga/211601) (19:55, 18 June 2026)
--   📖 Read chapter 6 of [Himegoto Kakushigoto](https://anilist.co/manga/212891) (14:41, 18 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
