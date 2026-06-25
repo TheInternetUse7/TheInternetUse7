@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 297 - 304 of [Nano Machine](https://anilist.co/manga/120980) (05:10, 23 June 2026)
--   📖 Read chapter 6 - 7 of [Himegoto Kakushigoto](https://anilist.co/manga/212891) (19:43, 22 June 2026)
--   📖 Read chapter 167 - 168 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (14:15, 22 June 2026)
--   📖 Read chapter 22 - 24 of [Isekai ni Shoukansareta Ndakedo, Nan Demo Kireteshimau Kennou wo te ni Ireta Node Easy Mode deshita. ](https://anilist.co/manga/173917) (14:04, 22 June 2026)
--   📺 Watched episode 4 - 9 of [Saga of Tanya the Evil](https://anilist.co/anime/21613) (08:42, 22 June 2026)
+-   📖 Read chapter 297 - 315 of [Nano Machine](https://anilist.co/manga/120980) (19:32, 24 June 2026)
+-   📺 Watched episode 4 of [Noragami](https://anilist.co/anime/20447) (15:23, 24 June 2026)
+-   📖 Read chapter 67 of [HACKING GHOST: Karada ni Shika Kachi no Nai Gakuen](https://anilist.co/manga/186922) (13:06, 24 June 2026)
+-   📖 Read chapter 22 of [The Erotical Wizard and His Twelve Brides](https://anilist.co/manga/163643) (13:01, 24 June 2026)
+-   📖 Read chapter 45 of [Gokusotsu Kraken](https://anilist.co/manga/152815) (12:56, 24 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
