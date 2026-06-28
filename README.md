@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 14 of [Rebel Hero: I Will Use My Skills to Control the Scheming Princess’s Heart and Body](https://anilist.co/manga/167759) (19:05, 26 June 2026)
+-   📖 Read chapter 215 - 225 of [One-Punch Man](https://anilist.co/manga/74347) (14:51, 27 June 2026)
+-   📖 Read chapter 6 - 11 of [Joshi Shougakusei no Oujosama](https://anilist.co/manga/120201) (04:07, 27 June 2026)
+-   📖 Read chapter 23 - 25 of [Seijun Ecstasy: XXX Shinai to Derarenai Heya de Mazoku wo Buttaoshimasu](https://anilist.co/manga/205728) (03:30, 27 June 2026)
+-   📖 Read chapter 14 - 17 of [Rebel Hero: I Will Use My Skills to Control the Scheming Princess’s Heart and Body](https://anilist.co/manga/167759) (03:26, 27 June 2026)
 -   📖 Read chapter 299 - 310 of [Overgeared](https://anilist.co/manga/117460) (05:42, 26 June 2026)
--   📖 Read chapter 8 of [Konbini de Deatta Eroi Onna no Ko to Tadarekitta Kankei ni Narimashita.](https://anilist.co/manga/202016) (19:04, 25 June 2026)
--   📖 Read chapter 387 - 407 of [Eleceed](https://anilist.co/manga/106929) (19:03, 25 June 2026)
--   📖 Read chapter 9 of [Isekai Harem Loop: Kurikaesareru 1-nichi kara Dasshutsu Suru Tame ni Dakimakurimasu](https://anilist.co/manga/191419) (18:51, 25 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
