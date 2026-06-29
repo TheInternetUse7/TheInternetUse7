@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 215 - 225 of [One-Punch Man](https://anilist.co/manga/74347) (14:51, 27 June 2026)
--   📖 Read chapter 6 - 11 of [Joshi Shougakusei no Oujosama](https://anilist.co/manga/120201) (04:07, 27 June 2026)
--   📖 Read chapter 23 - 25 of [Seijun Ecstasy: XXX Shinai to Derarenai Heya de Mazoku wo Buttaoshimasu](https://anilist.co/manga/205728) (03:30, 27 June 2026)
--   📖 Read chapter 14 - 17 of [Rebel Hero: I Will Use My Skills to Control the Scheming Princess’s Heart and Body](https://anilist.co/manga/167759) (03:26, 27 June 2026)
--   📖 Read chapter 299 - 310 of [Overgeared](https://anilist.co/manga/117460) (05:42, 26 June 2026)
+-   📖 Read chapter 40 - 41 of [The Villainous Noble is Way Too Fond of MILF Heroines](https://anilist.co/manga/186330) (19:36, 28 June 2026)
+-   📖 Plans to read [Reiwa Seikyouiku Jisshuu Kakumei!](https://anilist.co/manga/182644) (11:51, 28 June 2026)
+-   📖 Read chapter 1 of [Kami no Techigai de Shindara Cheat Gun Zumi de Isekai ni Hourikomaremashita](https://anilist.co/manga/118369) (11:46, 28 June 2026)
+-   📖 Read chapter 1 - 2 of [Asobinin wa Kenja ni Tenshoku Dekiru tte Shittemashita?: Yuusha Party wo Tsuihou Sareta Lv99, "Taikenja" ni Naru](https://anilist.co/manga/110374) (11:40, 28 June 2026)
+-   📖 Plans to read [Asobinin wa Kenja ni Tenshoku Dekiru tte Shittemashita?: Yuusha Party wo Tsuihou Sareta Lv99, "Taikenja" ni Naru](https://anilist.co/manga/110374) (09:30, 28 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
