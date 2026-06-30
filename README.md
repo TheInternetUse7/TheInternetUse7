@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 40 - 41 of [The Villainous Noble is Way Too Fond of MILF Heroines](https://anilist.co/manga/186330) (19:36, 28 June 2026)
--   📖 Plans to read [Reiwa Seikyouiku Jisshuu Kakumei!](https://anilist.co/manga/182644) (11:51, 28 June 2026)
--   📖 Read chapter 1 of [Kami no Techigai de Shindara Cheat Gun Zumi de Isekai ni Hourikomaremashita](https://anilist.co/manga/118369) (11:46, 28 June 2026)
--   📖 Read chapter 1 - 2 of [Asobinin wa Kenja ni Tenshoku Dekiru tte Shittemashita?: Yuusha Party wo Tsuihou Sareta Lv99, "Taikenja" ni Naru](https://anilist.co/manga/110374) (11:40, 28 June 2026)
--   📖 Plans to read [Asobinin wa Kenja ni Tenshoku Dekiru tte Shittemashita?: Yuusha Party wo Tsuihou Sareta Lv99, "Taikenja" ni Naru](https://anilist.co/manga/110374) (09:30, 28 June 2026)
+-   📖 Read chapter 299 - 311 of [Overgeared](https://anilist.co/manga/117460) (19:43, 29 June 2026)
+-   📖 Read chapter 63 of [Gushing over Magical Girls](https://anilist.co/manga/109017) (11:45, 29 June 2026)
+-   📖 Plans to read [Saimin Shinsatsu](https://anilist.co/manga/138173) (04:18, 29 June 2026)
+-   📖 Read chapter 1 - 5 of [Asobinin wa Kenja ni Tenshoku Dekiru tte Shittemashita?: Yuusha Party wo Tsuihou Sareta Lv99, "Taikenja" ni Naru](https://anilist.co/manga/110374) (04:16, 29 June 2026)
+-   📖 Read chapter 14 - 19 of [Rebel Hero: I Will Use My Skills to Control the Scheming Princess’s Heart and Body](https://anilist.co/manga/167759) (04:02, 29 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
