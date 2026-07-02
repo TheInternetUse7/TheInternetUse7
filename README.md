@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 8 of [Himegoto Kakushigoto](https://anilist.co/manga/212891) (05:03, 01 July 2026)
+-   📖 Read chapter 6 - 12 of [Joshi Shougakusei no Oujosama](https://anilist.co/manga/120201) (04:42, 01 July 2026)
 -   📖 Read chapter 387 - 408 of [Eleceed](https://anilist.co/manga/106929) (18:30, 30 June 2026)
 -   📖 Read chapter 45 of [Keikenchi Chochiku de Nonbiri Shoushin Ryokou: Yuusha to Koibito ni Tsuihou Sareta Senshi no Mujikaku zamaa](https://anilist.co/manga/130938) (16:25, 30 June 2026)
 -   📖 Read chapter 299 - 311 of [Overgeared](https://anilist.co/manga/117460) (19:43, 29 June 2026)
--   📖 Read chapter 63 of [Gushing over Magical Girls](https://anilist.co/manga/109017) (11:45, 29 June 2026)
--   📖 Plans to read [Saimin Shinsatsu](https://anilist.co/manga/138173) (04:18, 29 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
