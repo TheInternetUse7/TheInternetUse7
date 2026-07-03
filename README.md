@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 3 of [Kami no Techigai de Shindara Cheat Gun Zumi de Isekai ni Hourikomaremashita](https://anilist.co/manga/118369) (04:21, 02 July 2026)
+-   📖 Read chapter 1 - 7 of [Asobinin wa Kenja ni Tenshoku Dekiru tte Shittemashita?: Yuusha Party wo Tsuihou Sareta Lv99, "Taikenja" ni Naru](https://anilist.co/manga/110374) (04:08, 02 July 2026)
+-   📖 Read chapter 297 - 319 of [Nano Machine](https://anilist.co/manga/120980) (03:59, 02 July 2026)
+-   📖 Read chapter 81 - 82 of [Dorei wo Choukyoushite Harem Tsukuru](https://anilist.co/manga/149329) (03:52, 02 July 2026)
 -   📖 Read chapter 8 of [Himegoto Kakushigoto](https://anilist.co/manga/212891) (05:03, 01 July 2026)
--   📖 Read chapter 6 - 12 of [Joshi Shougakusei no Oujosama](https://anilist.co/manga/120201) (04:42, 01 July 2026)
--   📖 Read chapter 387 - 408 of [Eleceed](https://anilist.co/manga/106929) (18:30, 30 June 2026)
--   📖 Read chapter 45 of [Keikenchi Chochiku de Nonbiri Shoushin Ryokou: Yuusha to Koibito ni Tsuihou Sareta Senshi no Mujikaku zamaa](https://anilist.co/manga/130938) (16:25, 30 June 2026)
--   📖 Read chapter 299 - 311 of [Overgeared](https://anilist.co/manga/117460) (19:43, 29 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
