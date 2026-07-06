@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 10 of [Asobinin wa Kenja ni Tenshoku Dekiru tte Shittemashita?: Yuusha Party wo Tsuihou Sareta Lv99, "Taikenja" ni Naru](https://anilist.co/manga/110374) (12:55, 05 July 2026)
 -   📖 Read chapter 16 of [Dore dake Doryoku Shite mo Mannen Level 0 no Ore wa Tsuihou Sareta: Shin no Teki to Yobareta Shounen wa, Shachiku Megami to Deatte Saikyou no Chikara wo Te ni Ireru](https://anilist.co/manga/161496) (20:39, 04 July 2026)
 -   📺 Plans to watch [Solo Leveling: Beyond the System](https://anilist.co/anime/213846) (16:38, 04 July 2026)
 -   📖 Read chapter 46 of [Gokusotsu Kraken](https://anilist.co/manga/152815) (13:18, 04 July 2026)
 -   📖 Read chapter 26 of [Seijun Ecstasy: XXX Shinai to Derarenai Heya de Mazoku wo Buttaoshimasu](https://anilist.co/manga/205728) (12:47, 04 July 2026)
--   📖 Read chapter 215 - 234 of [One-Punch Man](https://anilist.co/manga/74347) (11:48, 03 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
