@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 of [Hero Killer](https://anilist.co/manga/132093) (21:10, 10 July 2026)
+-   📖 Read chapter 21 of [Luvslave](https://anilist.co/manga/113495) (15:30, 10 July 2026)
 -   📖 Read chapter 1 - 11 of [Teisou Gyakuten Sekai de Yuiitsu no Otoko Kishi no Ore, Onna Kishi Gakuen ni Nyuugaku Shitara Nazeka Eiyuu Atsukai Sareta: Zetsurin Skill de Harem Musou](https://anilist.co/manga/200712) (05:57, 09 July 2026)
 -   📺 Watched episode 1 - 2 of [Mushoku Tensei: Jobless Reincarnation Season 3](https://anilist.co/anime/178789) (13:26, 08 July 2026)
 -   📖 Read chapter 1 - 13 of [Asobinin wa Kenja ni Tenshoku Dekiru tte Shittemashita?: Yuusha Party wo Tsuihou Sareta Lv99, "Taikenja" ni Naru](https://anilist.co/manga/110374) (06:33, 08 July 2026)
--   📖 Read chapter 68 - 69 of [HACKING GHOST: Karada ni Shika Kachi no Nai Gakuen](https://anilist.co/manga/186922) (06:23, 08 July 2026)
--   📺 Watched episode 1 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 3](https://anilist.co/anime/200637) (23:15, 06 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
