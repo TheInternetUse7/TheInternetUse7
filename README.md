@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 171 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (11:06, 13 July 2026)
+-   📖 Read chapter 20 of [Rebel Hero: I Will Use My Skills to Control the Scheming Princess’s Heart and Body](https://anilist.co/manga/167759) (11:00, 13 July 2026)
+-   📖 Read chapter 31 of [A Reincarnated Carrier’s Strategy for Another World](https://anilist.co/manga/167472) (10:27, 13 July 2026)
+-   📖 Read chapter 6 of [Suterare Ouji ga Saizensen de Tekikoku no Heishi wo Chiryou Shitara Jitsu wa Dainana Oujo Datta Ken](https://anilist.co/manga/202903) (10:19, 13 July 2026)
 -   📺 Watched episode 1 - 3 of [Mushoku Tensei: Jobless Reincarnation Season 3](https://anilist.co/anime/178789) (23:34, 12 July 2026)
--   📖 Read chapter 1 - 10 of [Hero Killer](https://anilist.co/manga/132093) (10:23, 12 July 2026)
--   📖 Read chapter 26 - 27 of [Seijun Ecstasy: XXX Shinai to Derarenai Heya de Mazoku wo Buttaoshimasu](https://anilist.co/manga/205728) (09:49, 11 July 2026)
--   📖 Read chapter 73 of [The Shiunji Family Children](https://anilist.co/manga/144374) (09:45, 11 July 2026)
--   📺 Completed [LO Re: Pako Sukusuku Mizuki-chan THE ANIMATION](https://anilist.co/anime/21716) (08:47, 11 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
