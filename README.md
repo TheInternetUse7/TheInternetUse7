@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 171 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (11:06, 13 July 2026)
--   📖 Read chapter 20 of [Rebel Hero: I Will Use My Skills to Control the Scheming Princess’s Heart and Body](https://anilist.co/manga/167759) (11:00, 13 July 2026)
--   📖 Read chapter 31 of [A Reincarnated Carrier’s Strategy for Another World](https://anilist.co/manga/167472) (10:27, 13 July 2026)
--   📖 Read chapter 6 of [Suterare Ouji ga Saizensen de Tekikoku no Heishi wo Chiryou Shitara Jitsu wa Dainana Oujo Datta Ken](https://anilist.co/manga/202903) (10:19, 13 July 2026)
--   📺 Watched episode 1 - 3 of [Mushoku Tensei: Jobless Reincarnation Season 3](https://anilist.co/anime/178789) (23:34, 12 July 2026)
+-   📖 Read chapter 9 - 10 of [Himegoto Kakushigoto](https://anilist.co/manga/212891) (20:25, 14 July 2026)
+-   📖 Read chapter 409 of [Eleceed](https://anilist.co/manga/106929) (20:20, 14 July 2026)
+-   📖 Read chapter 26 of [Isekai ni Shoukansareta Ndakedo, Nan Demo Kireteshimau Kennou wo te ni Ireta Node Easy Mode deshita.](https://anilist.co/manga/173917) (16:54, 14 July 2026)
+-   📖 Read chapter 320 of [Nano Machine](https://anilist.co/manga/120980) (16:54, 14 July 2026)
+-   📺 Completed [Grisaia: Phantom Trigger THE ANIMATION](https://anilist.co/anime/99470) (16:45, 14 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
