@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 28 of [Hero Killer](https://anilist.co/manga/132093) (21:22, 15 July 2026)
+-   📖 Read chapter 320 - 321 of [Nano Machine](https://anilist.co/manga/120980) (21:08, 15 July 2026)
+-   📺 Watched episode 5 of [Noragami](https://anilist.co/anime/20447) (10:45, 15 July 2026)
+-   📖 Read chapter 23 of [The Erotical Wizard and His Twelve Brides](https://anilist.co/manga/163643) (04:46, 15 July 2026)
 -   📖 Read chapter 9 - 10 of [Himegoto Kakushigoto](https://anilist.co/manga/212891) (20:25, 14 July 2026)
--   📖 Read chapter 409 of [Eleceed](https://anilist.co/manga/106929) (20:20, 14 July 2026)
--   📖 Read chapter 26 of [Isekai ni Shoukansareta Ndakedo, Nan Demo Kireteshimau Kennou wo te ni Ireta Node Easy Mode deshita.](https://anilist.co/manga/173917) (16:54, 14 July 2026)
--   📖 Read chapter 320 of [Nano Machine](https://anilist.co/manga/120980) (16:54, 14 July 2026)
--   📺 Completed [Grisaia: Phantom Trigger THE ANIMATION](https://anilist.co/anime/99470) (16:45, 14 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
