@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 28 of [Hero Killer](https://anilist.co/manga/132093) (21:22, 15 July 2026)
--   📖 Read chapter 320 - 321 of [Nano Machine](https://anilist.co/manga/120980) (21:08, 15 July 2026)
--   📺 Watched episode 5 of [Noragami](https://anilist.co/anime/20447) (10:45, 15 July 2026)
--   📖 Read chapter 23 of [The Erotical Wizard and His Twelve Brides](https://anilist.co/manga/163643) (04:46, 15 July 2026)
--   📖 Read chapter 9 - 10 of [Himegoto Kakushigoto](https://anilist.co/manga/212891) (20:25, 14 July 2026)
+-   📖 Read chapter 1 of [Miya-chan no Kyuuin Life!](https://anilist.co/manga/180928) (21:45, 16 July 2026)
+-   📖 Plans to read [Mujaki no Rakuen](https://anilist.co/manga/67885) (20:37, 16 July 2026)
+-   📖 Plans to read [Yoshibari◆Aubade](https://anilist.co/manga/107523) (20:31, 16 July 2026)
+-   📖 Plans to read [Miya-chan no Kyuuin Life!](https://anilist.co/manga/180928) (20:25, 16 July 2026)
+-   📖 Read chapter 1 of [Kamikakushi no Rakuen](https://anilist.co/manga/169808) (20:21, 16 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
