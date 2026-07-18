@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 of [Miya-chan no Kyuuin Life!](https://anilist.co/manga/180928) (21:45, 16 July 2026)
+-   📖 Read chapter 12 of [Teisou Gyakuten Sekai de Yuiitsu no Otoko Kishi no Ore, Onna Kishi Gakuen ni Nyuugaku Shitara Nazeka Eiyuu Atsukai Sareta: Zetsurin Skill de Harem Musou](https://anilist.co/manga/200712) (21:09, 17 July 2026)
+-   📖 Read chapter 1 - 2 of [Miya-chan no Kyuuin Life!](https://anilist.co/manga/180928) (07:19, 17 July 2026)
+-   📖 Read chapter 1 - 4 of [Mujaki no Rakuen](https://anilist.co/manga/67885) (07:09, 17 July 2026)
 -   📖 Plans to read [Mujaki no Rakuen](https://anilist.co/manga/67885) (20:37, 16 July 2026)
 -   📖 Plans to read [Yoshibari◆Aubade](https://anilist.co/manga/107523) (20:31, 16 July 2026)
--   📖 Plans to read [Miya-chan no Kyuuin Life!](https://anilist.co/manga/180928) (20:25, 16 July 2026)
--   📖 Read chapter 1 of [Kamikakushi no Rakuen](https://anilist.co/manga/169808) (20:21, 16 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
