@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 45 of [Hero Killer](https://anilist.co/manga/132093) (08:54, 20 July 2026)
+-   📖 Read chapter 75 of [Isekai NTR: Shinyuu no Onna wo Saikyou Skill de Otosu Houhou](https://anilist.co/manga/115042) (07:58, 20 July 2026)
+-   📖 Read chapter 171 - 172 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (07:58, 20 July 2026)
+-   📖 Read chapter 8 of [Ato 6-ika de Horobiru Gakeppuchi Kokka no Harem ni Shoukan Sarete Shimattan](https://anilist.co/manga/197678) (07:53, 20 July 2026)
 -   📺 Watched episode 1 - 2 of [Witch Hat Atelier](https://anilist.co/anime/147105) (17:08, 19 July 2026)
--   📖 Read chapter 1 - 12 of [Kamikakushi no Rakuen](https://anilist.co/manga/169808) (06:09, 19 July 2026)
--   📖 Read chapter 1 of [Yoshibari◆Aubade](https://anilist.co/manga/107523) (04:16, 19 July 2026)
--   📖 Read chapter 26 - 28 of [Seijun Ecstasy: XXX Shinai to Derarenai Heya de Mazoku wo Buttaoshimasu](https://anilist.co/manga/205728) (06:25, 18 July 2026)
--   📖 Read chapter 12 of [Teisou Gyakuten Sekai de Yuiitsu no Otoko Kishi no Ore, Onna Kishi Gakuen ni Nyuugaku Shitara Nazeka Eiyuu Atsukai Sareta: Zetsurin Skill de Harem Musou](https://anilist.co/manga/200712) (21:09, 17 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
