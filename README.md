@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 7 of [Magika Swordsman and Summoner](https://anilist.co/manga/85230) (22:50, 24 July 2026)
+-   📖 Read chapter 1 - 18 of [Magika Swordsman and Summoner](https://anilist.co/manga/85230) (18:04, 25 July 2026)
+-   📺 Watched episode 3 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 3](https://anilist.co/anime/200637) (12:29, 25 July 2026)
+-   📺 Watched episode 4 of [Mushoku Tensei: Jobless Reincarnation Season 3](https://anilist.co/anime/178789) (10:53, 25 July 2026)
+-   📖 Read chapter 26 - 29 of [Seijun Ecstasy: XXX Shinai to Derarenai Heya de Mazoku wo Buttaoshimasu](https://anilist.co/manga/205728) (04:15, 25 July 2026)
 -   📖 Read chapter 1 - 20 of [Yoshibari◆Aubade](https://anilist.co/manga/107523) (12:05, 24 July 2026)
--   📖 Read chapter 83 of [Dorei wo Choukyoushite Harem Tsukuru](https://anilist.co/manga/149329) (00:10, 24 July 2026)
--   📖 Read chapter 42 of [The Villainous Noble is Way Too Fond of MILF Heroines](https://anilist.co/manga/186330) (00:06, 24 July 2026)
--   📖 Read chapter 1 - 3 of [Houkago Dorei Club+1](https://anilist.co/manga/95645) (09:00, 23 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
