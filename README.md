@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 74 of [The Shiunji Family Children](https://anilist.co/manga/144374) (22:02, 26 July 2026)
--   📖 Read chapter 1 - 18 of [Magika Swordsman and Summoner](https://anilist.co/manga/85230) (18:04, 25 July 2026)
--   📺 Watched episode 3 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 3](https://anilist.co/anime/200637) (12:29, 25 July 2026)
--   📺 Watched episode 4 of [Mushoku Tensei: Jobless Reincarnation Season 3](https://anilist.co/anime/178789) (10:53, 25 July 2026)
--   📖 Read chapter 26 - 29 of [Seijun Ecstasy: XXX Shinai to Derarenai Heya de Mazoku wo Buttaoshimasu](https://anilist.co/manga/205728) (04:15, 25 July 2026)
+-   📺 Watched episode 4 - 5 of [Mushoku Tensei: Jobless Reincarnation Season 3](https://anilist.co/anime/178789) (21:05, 27 July 2026)
+-   📖 Plans to read [Netorare Kanojo](https://anilist.co/manga/69467) (07:01, 27 July 2026)
+-   📖 Read chapter 171 - 173 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (06:53, 27 July 2026)
+-   📖 Read chapter 1 - 19 of [Magika Swordsman and Summoner](https://anilist.co/manga/85230) (05:53, 27 July 2026)
+-   📖 Read chapter 46 of [Keikenchi Chochiku de Nonbiri Shoushin Ryokou: Yuusha to Koibito ni Tsuihou Sareta Senshi no Mujikaku zamaa](https://anilist.co/manga/130938) (05:44, 27 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
