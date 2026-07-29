@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Midori Days](https://anilist.co/anime/330) (14:28, 28 July 2026)
+-   📺 Watched episode 1 - 6 of [Witch Hat Atelier](https://anilist.co/anime/147105) (12:38, 28 July 2026)
+-   📺 Watched episode 2 - 3 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 3](https://anilist.co/anime/200637) (12:18, 28 July 2026)
+-   📖 Read chapter 30 of [Cheat Mode Farming in Another World](https://anilist.co/manga/137901) (08:37, 28 July 2026)
 -   📺 Watched episode 4 - 5 of [Mushoku Tensei: Jobless Reincarnation Season 3](https://anilist.co/anime/178789) (21:05, 27 July 2026)
--   📖 Plans to read [Netorare Kanojo](https://anilist.co/manga/69467) (07:01, 27 July 2026)
--   📖 Read chapter 171 - 173 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (06:53, 27 July 2026)
--   📖 Read chapter 1 - 19 of [Magika Swordsman and Summoner](https://anilist.co/manga/85230) (05:53, 27 July 2026)
--   📖 Read chapter 46 of [Keikenchi Chochiku de Nonbiri Shoushin Ryokou: Yuusha to Koibito ni Tsuihou Sareta Senshi no Mujikaku zamaa](https://anilist.co/manga/130938) (05:44, 27 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
