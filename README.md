@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Plans to watch [Midori Days](https://anilist.co/anime/330) (14:28, 28 July 2026)
--   📺 Watched episode 1 - 6 of [Witch Hat Atelier](https://anilist.co/anime/147105) (12:38, 28 July 2026)
--   📺 Watched episode 2 - 3 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 3](https://anilist.co/anime/200637) (12:18, 28 July 2026)
--   📖 Read chapter 30 of [Cheat Mode Farming in Another World](https://anilist.co/manga/137901) (08:37, 28 July 2026)
--   📺 Watched episode 4 - 5 of [Mushoku Tensei: Jobless Reincarnation Season 3](https://anilist.co/anime/178789) (21:05, 27 July 2026)
+-   📖 Read chapter 12 of [Himegoto Kakushigoto](https://anilist.co/manga/212891) (21:34, 29 July 2026)
+-   📖 Read chapter 70 of [HACKING GHOST: Karada ni Shika Kachi no Nai Gakuen](https://anilist.co/manga/186922) (06:28, 29 July 2026)
+-   📖 Read chapter 410 - 411 of [Eleceed](https://anilist.co/manga/106929) (06:26, 29 July 2026)
+-   📖 Read chapter 47 of [Gokusotsu Kraken](https://anilist.co/manga/152815) (06:18, 29 July 2026)
+-   📖 Read chapter 26 of [Boukensha ni Narenakatta Ore, Skill "Oppai Kyousei" de Nayameru Ano Ko wo Hitodasuke!?](https://anilist.co/manga/172559) (06:12, 29 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
