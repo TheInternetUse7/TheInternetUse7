@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 80 of [Himekishi ga Classmate! THE COMIC](https://anilist.co/manga/86276) (21:54, 02 August 2026)
+-   📖 Read chapter 21 of [Yoshibari◆Aubade](https://anilist.co/manga/107523) (10:07, 02 August 2026)
+-   📖 Read chapter 1 - 27 of [Magika Swordsman and Summoner](https://anilist.co/manga/85230) (10:00, 02 August 2026)
 -   📖 Read chapter 236 of [One-Punch Man](https://anilist.co/manga/74347) (23:24, 01 August 2026)
--   📖 Read chapter 1 - 22 of [Magika Swordsman and Summoner](https://anilist.co/manga/85230) (17:03, 01 August 2026)
 -   📖 Read chapter 54 - 56 of [SO-EUN for All](https://anilist.co/manga/179218) (13:13, 01 August 2026)
--   📖 Read chapter 48 - 49 of [Only With Consent](https://anilist.co/manga/128789) (13:06, 01 August 2026)
--   📖 Read chapter 1 - 13 of [Young Boss](https://anilist.co/manga/124090) (13:03, 01 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
