@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 6 of [Mushoku Tensei: Jobless Reincarnation Season 3](https://anilist.co/anime/178789) (22:25, 03 August 2026)
+-   📖 Read chapter 2 - 3 of [Tsuki no Joou no Nekashitsuke Kata](https://anilist.co/manga/214107) (21:23, 03 August 2026)
+-   📖 Read chapter 174 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (16:43, 03 August 2026)
 -   📖 Read chapter 80 of [Himekishi ga Classmate! THE COMIC](https://anilist.co/manga/86276) (21:54, 02 August 2026)
 -   📖 Read chapter 21 of [Yoshibari◆Aubade](https://anilist.co/manga/107523) (10:07, 02 August 2026)
--   📖 Read chapter 1 - 27 of [Magika Swordsman and Summoner](https://anilist.co/manga/85230) (10:00, 02 August 2026)
--   📖 Read chapter 236 of [One-Punch Man](https://anilist.co/manga/74347) (23:24, 01 August 2026)
--   📖 Read chapter 54 - 56 of [SO-EUN for All](https://anilist.co/manga/179218) (13:13, 01 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
