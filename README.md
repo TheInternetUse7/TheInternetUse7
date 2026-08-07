@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 - 5 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 3](https://anilist.co/anime/200637) (23:26, 06 August 2026)
+-   📖 Read chapter 1 - 30 of [Magika Swordsman and Summoner](https://anilist.co/manga/85230) (10:12, 06 August 2026)
+-   📖 Read chapter 3 - 4 of [Miya-chan no Kyuuin Life!](https://anilist.co/manga/180928) (03:05, 06 August 2026)
+-   📖 Read chapter 71 of [HACKING GHOST: Karada ni Shika Kachi no Nai Gakuen](https://anilist.co/manga/186922) (02:46, 06 August 2026)
 -   📖 Read chapter 323 - 324 of [Nano Machine](https://anilist.co/manga/120980) (00:15, 06 August 2026)
--   📖 Read chapter 412 of [Eleceed](https://anilist.co/manga/106929) (00:03, 06 August 2026)
--   📺 Watched episode 9 of [Cowboy Bebop](https://anilist.co/anime/1) (13:42, 04 August 2026)
--   📺 Watched episode 2 - 4 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 3](https://anilist.co/anime/200637) (10:48, 04 August 2026)
--   📺 Watched episode 6 of [Mushoku Tensei: Jobless Reincarnation Season 3](https://anilist.co/anime/178789) (22:25, 03 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
