@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 9 - 10 of [Witch Hat Atelier](https://anilist.co/anime/147105) (22:15, 10 August 2026)
+-   📺 Watched episode 6 - 7 of [Mushoku Tensei: Jobless Reincarnation Season 3](https://anilist.co/anime/178789) (10:48, 10 August 2026)
+-   📖 Read chapter 5 of [Megami Haiboku: Tensei no Varanova](https://anilist.co/manga/159537) (09:32, 10 August 2026)
+-   📖 Read chapter 1 - 12 of [Tensei Inja wa Hokuso Emu](https://anilist.co/manga/124524) (09:08, 10 August 2026)
 -   📺 Watched episode 2 - 6 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 3](https://anilist.co/anime/200637) (23:34, 09 August 2026)
--   📖 Read chapter 1 - 7 of [Tensei Inja wa Hokuso Emu](https://anilist.co/manga/124524) (23:08, 09 August 2026)
--   📖 Read chapter 31 of [Seijun Ecstasy: XXX Shinai to Derarenai Heya de Mazoku wo Buttaoshimasu](https://anilist.co/manga/205728) (08:14, 09 August 2026)
--   📖 Plans to read [Tensei Inja wa Hokuso Emu](https://anilist.co/manga/124524) (11:29, 08 August 2026)
--   📖 Completed [Reiwa Seikyouiku Jisshuu Kakumei!](https://anilist.co/manga/182644) (10:04, 07 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
