@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 312 - 314 of [Overgeared](https://anilist.co/manga/117460) (10:41, 12 August 2026)
--   📖 Read chapter 23 - 24 of [Imouto wa Kanojo ni Dekinai no ni](https://anilist.co/manga/157136) (06:29, 12 August 2026)
--   📖 Read chapter 412 - 413 of [Eleceed](https://anilist.co/manga/106929) (00:03, 12 August 2026)
--   📖 Completed [Tensei Inja wa Hokuso Emu](https://anilist.co/manga/124524) (14:41, 11 August 2026)
--   📖 Read chapter 1 - 14 of [Tensei Inja wa Hokuso Emu](https://anilist.co/manga/124524) (08:21, 11 August 2026)
+-   📖 Read chapter 1 - 5 of [Kankin Ou](https://anilist.co/manga/141023) (21:35, 13 August 2026)
+-   📖 Plans to read [Common Sense Modifier](https://anilist.co/manga/187766) (06:27, 13 August 2026)
+-   📖 Plans to read [APP for the Emperor of the Night](https://anilist.co/manga/148479) (06:24, 13 August 2026)
+-   📖 Plans to read [The Desire App](https://anilist.co/manga/159504) (06:20, 13 August 2026)
+-   📖 Plans to read [The Skill of Being Unseen](https://anilist.co/manga/175184) (06:13, 13 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
