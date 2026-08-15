@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 5 of [Kankin Ou](https://anilist.co/manga/141023) (21:35, 13 August 2026)
--   📖 Plans to read [Common Sense Modifier](https://anilist.co/manga/187766) (06:27, 13 August 2026)
--   📖 Plans to read [APP for the Emperor of the Night](https://anilist.co/manga/148479) (06:24, 13 August 2026)
--   📖 Plans to read [The Desire App](https://anilist.co/manga/159504) (06:20, 13 August 2026)
--   📖 Plans to read [The Skill of Being Unseen](https://anilist.co/manga/175184) (06:13, 13 August 2026)
+-   📖 Read chapter 19 of [Futago Matomete "Kanojo" ni Shinai?](https://anilist.co/manga/177186) (23:04, 14 August 2026)
+-   📖 Read chapter 23 - 26 of [Imouto wa Kanojo ni Dekinai no ni](https://anilist.co/manga/157136) (23:00, 14 August 2026)
+-   📖 Read chapter 1 - 2 of [Ore wa Gimai ni Uso wo Tsuku: Chi no Tsunagaranai Imouto wo Ore ga Hikitoru Koto ni Shita](https://anilist.co/manga/215011) (22:47, 14 August 2026)
+-   📖 Read chapter 237 of [One-Punch Man](https://anilist.co/manga/74347) (22:36, 14 August 2026)
+-   📖 Read chapter 1 - 7 of [Kankin Ou](https://anilist.co/manga/141023) (07:44, 14 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
