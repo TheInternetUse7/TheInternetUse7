@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 17 of [Kankin Ou](https://anilist.co/manga/141023) (18:04, 16 August 2026)
+-   📖 Read chapter 23 - 27 of [Imouto wa Kanojo ni Dekinai no ni](https://anilist.co/manga/157136) (17:08, 16 August 2026)
+-   📖 Read chapter 6 of [Suki na Ko ni Kokuttara, Futago no Imouto ga Omake de Tsuitekitta](https://anilist.co/manga/163846) (10:15, 16 August 2026)
 -   📖 Read chapter 42 of [Reincarnation Coliseum: The Weakest Skill Conquers the Strongest Women and Creates a Harem](https://anilist.co/manga/152284) (23:34, 15 August 2026)
 -   📖 Read chapter 1 - 5 of [APP for the Emperor of the Night](https://anilist.co/manga/148479) (14:54, 15 August 2026)
--   📖 Read chapter 1 - 3 of [Common Sense Modifier](https://anilist.co/manga/187766) (14:32, 15 August 2026)
--   📖 Read chapter 1 - 12 of [Kankin Ou](https://anilist.co/manga/141023) (14:12, 15 August 2026)
--   📖 Read chapter 75 of [The Shiunji Family Children](https://anilist.co/manga/144374) (13:29, 15 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
