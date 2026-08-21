@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 51 of [Maou to Ryuuou ni Sodaterareta Shounen wa Gakuen Seikatsu wo Musou Suru You desu](https://anilist.co/manga/163426) (21:08, 20 August 2026)
+-   📖 Read chapter 326 of [Nano Machine](https://anilist.co/manga/120980) (21:04, 20 August 2026)
 -   📺 Completed [Witch Hat Atelier](https://anilist.co/anime/147105) (23:07, 19 August 2026)
 -   📺 Watched episode 11 - 12 of [Witch Hat Atelier](https://anilist.co/anime/147105) (22:42, 19 August 2026)
 -   📖 Read chapter 9 - 15 of [Joban de Shinu Saikyou no Sub Chara ni Tensei Shita no de, Game Chishiki de Musou Suru](https://anilist.co/manga/186897) (09:26, 19 August 2026)
--   📖 Read chapter 76 of [Isekai NTR: Shinyuu no Onna wo Saikyou Skill de Otosu Houhou](https://anilist.co/manga/115042) (08:29, 19 August 2026)
--   📖 Read chapter 31 - 32 of [Otoko Girai na Bijin Shimai wo Namae mo Tsugezu ni Tasuketara Ittai Dounaru?](https://anilist.co/manga/163004) (08:20, 19 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
