@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 51 of [Maou to Ryuuou ni Sodaterareta Shounen wa Gakuen Seikatsu wo Musou Suru You desu](https://anilist.co/manga/163426) (21:08, 20 August 2026)
--   📖 Read chapter 326 of [Nano Machine](https://anilist.co/manga/120980) (21:04, 20 August 2026)
--   📺 Completed [Witch Hat Atelier](https://anilist.co/anime/147105) (23:07, 19 August 2026)
--   📺 Watched episode 11 - 12 of [Witch Hat Atelier](https://anilist.co/anime/147105) (22:42, 19 August 2026)
--   📖 Read chapter 9 - 15 of [Joban de Shinu Saikyou no Sub Chara ni Tensei Shita no de, Game Chishiki de Musou Suru](https://anilist.co/manga/186897) (09:26, 19 August 2026)
+-   📖 Completed [Netorare Kanojo](https://anilist.co/manga/69467) (08:31, 21 August 2026)
+-   📖 Read chapter 1 of [Musume no Shinshitsu](https://anilist.co/manga/183718) (08:23, 21 August 2026)
+-   📖 Read chapter 1 - 23 of [Kankin Ou](https://anilist.co/manga/141023) (08:07, 21 August 2026)
+-   📖 Plans to read [Musume no Shinshitsu](https://anilist.co/manga/183718) (07:03, 21 August 2026)
+-   📖 Read chapter 9 - 17 of [Joban de Shinu Saikyou no Sub Chara ni Tensei Shita no de, Game Chishiki de Musou Suru](https://anilist.co/manga/186897) (06:25, 21 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
