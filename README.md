@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Completed [Netorare Kanojo](https://anilist.co/manga/69467) (08:31, 21 August 2026)
--   📖 Read chapter 1 of [Musume no Shinshitsu](https://anilist.co/manga/183718) (08:23, 21 August 2026)
--   📖 Read chapter 1 - 23 of [Kankin Ou](https://anilist.co/manga/141023) (08:07, 21 August 2026)
--   📖 Plans to read [Musume no Shinshitsu](https://anilist.co/manga/183718) (07:03, 21 August 2026)
--   📖 Read chapter 9 - 17 of [Joban de Shinu Saikyou no Sub Chara ni Tensei Shita no de, Game Chishiki de Musou Suru](https://anilist.co/manga/186897) (06:25, 21 August 2026)
+-   📖 Read chapter 1 - 4 of [Musume no Shinshitsu](https://anilist.co/manga/183718) (21:16, 22 August 2026)
+-   📖 Read chapter 1 - 33 of [Kankin Ou](https://anilist.co/manga/141023) (13:33, 22 August 2026)
+-   📖 Plans to read [Heikou Sekai no Jibun ga Konomi no Bishoujo de Kuse mo Onajidattanode Koishite Shimatta](https://anilist.co/manga/215793) (12:09, 22 August 2026)
+-   📖 Read chapter 1 - 5 of [The Skill of Being Unseen](https://anilist.co/manga/175184) (08:59, 22 August 2026)
+-   📖 Read chapter 1 - 13 of [The Desire App](https://anilist.co/manga/159504) (08:42, 22 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
