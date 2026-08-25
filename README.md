@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 4 of [Musume no Shinshitsu](https://anilist.co/manga/183718) (21:16, 22 August 2026)
--   📖 Read chapter 1 - 33 of [Kankin Ou](https://anilist.co/manga/141023) (13:33, 22 August 2026)
--   📖 Plans to read [Heikou Sekai no Jibun ga Konomi no Bishoujo de Kuse mo Onajidattanode Koishite Shimatta](https://anilist.co/manga/215793) (12:09, 22 August 2026)
--   📖 Read chapter 1 - 5 of [The Skill of Being Unseen](https://anilist.co/manga/175184) (08:59, 22 August 2026)
--   📖 Read chapter 1 - 13 of [The Desire App](https://anilist.co/manga/159504) (08:42, 22 August 2026)
+-   📖 Read chapter 177 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (19:54, 24 August 2026)
+-   📺 Watched episode 9 of [Mushoku Tensei: Jobless Reincarnation Season 3](https://anilist.co/anime/178789) (16:40, 24 August 2026)
+-   📖 Read chapter 16 of [Young Boss](https://anilist.co/manga/124090) (09:53, 24 August 2026)
+-   📖 Read chapter 22 of [Mabeopsonyeo Manura](https://anilist.co/manga/209659) (09:53, 24 August 2026)
+-   📖 Read chapter 1 - 16 of [The Desire App](https://anilist.co/manga/159504) (09:53, 24 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
