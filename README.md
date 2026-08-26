@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 177 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (19:54, 24 August 2026)
--   📺 Watched episode 9 of [Mushoku Tensei: Jobless Reincarnation Season 3](https://anilist.co/anime/178789) (16:40, 24 August 2026)
--   📖 Read chapter 16 of [Young Boss](https://anilist.co/manga/124090) (09:53, 24 August 2026)
--   📖 Read chapter 22 of [Mabeopsonyeo Manura](https://anilist.co/manga/209659) (09:53, 24 August 2026)
--   📖 Read chapter 1 - 16 of [The Desire App](https://anilist.co/manga/159504) (09:53, 24 August 2026)
+-   📖 Read chapter 11 - 28 of [APP for the Emperor of the Night](https://anilist.co/manga/148479) (22:19, 25 August 2026)
+-   📖 Read chapter 412 - 415 of [Eleceed](https://anilist.co/manga/106929) (22:06, 25 August 2026)
+-   📖 Read chapter 15 of [Himegoto Kakushigoto](https://anilist.co/manga/212891) (14:23, 25 August 2026)
+-   📖 Read chapter 83 - 89 of [MILF Hunter in Another World](https://anilist.co/manga/166581) (01:24, 25 August 2026)
+-   📖 Read chapter 84 - 85 of [Dorei wo Choukyoushite Harem Tsukuru](https://anilist.co/manga/149329) (00:45, 25 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
