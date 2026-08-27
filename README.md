@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 11 - 28 of [APP for the Emperor of the Night](https://anilist.co/manga/148479) (22:19, 25 August 2026)
+-   📖 Read chapter 84 of [The Eminence in Shadow](https://anilist.co/manga/106758) (23:35, 26 August 2026)
+-   📖 Read chapter 11 - 37 of [APP for the Emperor of the Night](https://anilist.co/manga/148479) (13:48, 26 August 2026)
+-   📖 Read chapter 58 of [SO-EUN for All](https://anilist.co/manga/179218) (13:48, 26 August 2026)
+-   📖 Read chapter 31 of [Magika Swordsman and Summoner](https://anilist.co/manga/85230) (13:47, 26 August 2026)
 -   📖 Read chapter 412 - 415 of [Eleceed](https://anilist.co/manga/106929) (22:06, 25 August 2026)
--   📖 Read chapter 15 of [Himegoto Kakushigoto](https://anilist.co/manga/212891) (14:23, 25 August 2026)
--   📖 Read chapter 83 - 89 of [MILF Hunter in Another World](https://anilist.co/manga/166581) (01:24, 25 August 2026)
--   📖 Read chapter 84 - 85 of [Dorei wo Choukyoushite Harem Tsukuru](https://anilist.co/manga/149329) (00:45, 25 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
