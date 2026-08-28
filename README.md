@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 73 of [HACKING GHOST: Karada ni Shika Kachi no Nai Gakuen](https://anilist.co/manga/186922) (22:02, 27 August 2026)
+-   📖 Plans to read [Amoral Island](https://anilist.co/manga/179709) (09:39, 27 August 2026)
+-   📖 Read chapter 326 - 327 of [Nano Machine](https://anilist.co/manga/120980) (08:11, 27 August 2026)
+-   📖 Read chapter 48 of [Gokusotsu Kraken](https://anilist.co/manga/152815) (08:05, 27 August 2026)
 -   📖 Read chapter 84 of [The Eminence in Shadow](https://anilist.co/manga/106758) (23:35, 26 August 2026)
--   📖 Read chapter 11 - 37 of [APP for the Emperor of the Night](https://anilist.co/manga/148479) (13:48, 26 August 2026)
--   📖 Read chapter 58 of [SO-EUN for All](https://anilist.co/manga/179218) (13:48, 26 August 2026)
--   📖 Read chapter 31 of [Magika Swordsman and Summoner](https://anilist.co/manga/85230) (13:47, 26 August 2026)
--   📖 Read chapter 412 - 415 of [Eleceed](https://anilist.co/manga/106929) (22:06, 25 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
