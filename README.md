@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 73 of [HACKING GHOST: Karada ni Shika Kachi no Nai Gakuen](https://anilist.co/manga/186922) (22:02, 27 August 2026)
--   📖 Plans to read [Amoral Island](https://anilist.co/manga/179709) (09:39, 27 August 2026)
--   📖 Read chapter 326 - 327 of [Nano Machine](https://anilist.co/manga/120980) (08:11, 27 August 2026)
--   📖 Read chapter 48 of [Gokusotsu Kraken](https://anilist.co/manga/152815) (08:05, 27 August 2026)
--   📖 Read chapter 84 of [The Eminence in Shadow](https://anilist.co/manga/106758) (23:35, 26 August 2026)
+-   📖 Read chapter 22 - 23 of [Mabeopsonyeo Manura](https://anilist.co/manga/209659) (20:30, 28 August 2026)
+-   📖 Read chapter 19 - 20 of [Issho ni Ken no Shugyou wo Shita Osananajimi ga Dorei ni Natteita node, S-Rank Boukensha no Boku wa Kanojo wo Katte Mamoru Koto ni Shita](https://anilist.co/manga/152600) (19:58, 28 August 2026)
+-   📖 Completed [Sister⇔Sister](https://anilist.co/manga/103092) (11:30, 28 August 2026)
+-   📖 Plans to read [Sister⇔Sister](https://anilist.co/manga/103092) (10:53, 28 August 2026)
+-   📖 Read chapter 76 of [The Shiunji Family Children](https://anilist.co/manga/144374) (10:50, 28 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
