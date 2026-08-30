@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 22 - 23 of [Mabeopsonyeo Manura](https://anilist.co/manga/209659) (20:30, 28 August 2026)
--   📖 Read chapter 19 - 20 of [Issho ni Ken no Shugyou wo Shita Osananajimi ga Dorei ni Natteita node, S-Rank Boukensha no Boku wa Kanojo wo Katte Mamoru Koto ni Shita](https://anilist.co/manga/152600) (19:58, 28 August 2026)
--   📖 Completed [Sister⇔Sister](https://anilist.co/manga/103092) (11:30, 28 August 2026)
--   📖 Plans to read [Sister⇔Sister](https://anilist.co/manga/103092) (10:53, 28 August 2026)
--   📖 Read chapter 76 of [The Shiunji Family Children](https://anilist.co/manga/144374) (10:50, 28 August 2026)
+-   📖 Read chapter 31 - 35 of [Magika Swordsman and Summoner](https://anilist.co/manga/85230) (19:12, 29 August 2026)
+-   📖 Read chapter 11 - 54 of [APP for the Emperor of the Night](https://anilist.co/manga/148479) (10:48, 29 August 2026)
+-   📖 Read chapter 34 of [Seijun Ecstasy: XXX Shinai to Derarenai Heya de Mazoku wo Buttaoshimasu](https://anilist.co/manga/205728) (10:17, 29 August 2026)
+-   📖 Read chapter 1 - 10 of [Watashitachi wa Kakechigatteiru](https://anilist.co/manga/184592) (09:55, 29 August 2026)
+-   📖 Plans to read [Watashitachi wa Kakechigatteiru](https://anilist.co/manga/184592) (09:53, 29 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
