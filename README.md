@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 31 - 35 of [Magika Swordsman and Summoner](https://anilist.co/manga/85230) (19:12, 29 August 2026)
--   📖 Read chapter 11 - 54 of [APP for the Emperor of the Night](https://anilist.co/manga/148479) (10:48, 29 August 2026)
--   📖 Read chapter 34 of [Seijun Ecstasy: XXX Shinai to Derarenai Heya de Mazoku wo Buttaoshimasu](https://anilist.co/manga/205728) (10:17, 29 August 2026)
--   📖 Read chapter 1 - 10 of [Watashitachi wa Kakechigatteiru](https://anilist.co/manga/184592) (09:55, 29 August 2026)
--   📖 Plans to read [Watashitachi wa Kakechigatteiru](https://anilist.co/manga/184592) (09:53, 29 August 2026)
+-   📺 Watched episode 10 of [Mushoku Tensei: Jobless Reincarnation Season 3](https://anilist.co/anime/178789) (01:13, 04 September 2026)
+-   📖 Read chapter 178 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (17:22, 03 September 2026)
+-   📖 Read chapter 57 of [Hero Killer](https://anilist.co/manga/132093) (12:34, 03 September 2026)
+-   📖 Read chapter 273 of [Teenage Mercenary](https://anilist.co/manga/126297) (12:34, 03 September 2026)
+-   📖 Read chapter 132 of [Level Up with the Gods](https://anilist.co/manga/138222) (12:34, 03 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
