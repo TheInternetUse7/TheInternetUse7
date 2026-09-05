@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 18 of [Joban de Shinu Saikyou no Sub Chara ni Tensei Shita no de, Game Chishiki de Musou Suru](https://anilist.co/manga/186897) (10:07, 04 September 2026)
+-   📖 Read chapter 9 - 10 of [Hiten no Asuka: Isekai no Shoujo ni Saikyou Hougu Ataeta Kekka](https://anilist.co/manga/150518) (09:56, 04 September 2026)
+-   📖 Read chapter 34 - 35 of [Tensei Shitara Joban de Shinu Chuu Boss Datta: Heroine Kenzokuka de Ikinokoru](https://anilist.co/manga/164956) (09:45, 04 September 2026)
+-   📖 Read chapter 52 of [Maou to Ryuuou ni Sodaterareta Shounen wa Gakuen Seikatsu wo Musou Suru You desu](https://anilist.co/manga/163426) (09:26, 04 September 2026)
 -   📺 Watched episode 10 of [Mushoku Tensei: Jobless Reincarnation Season 3](https://anilist.co/anime/178789) (01:13, 04 September 2026)
--   📖 Read chapter 178 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (17:22, 03 September 2026)
--   📖 Read chapter 57 of [Hero Killer](https://anilist.co/manga/132093) (12:34, 03 September 2026)
--   📖 Read chapter 273 of [Teenage Mercenary](https://anilist.co/manga/126297) (12:34, 03 September 2026)
--   📖 Read chapter 132 of [Level Up with the Gods](https://anilist.co/manga/138222) (12:34, 03 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
