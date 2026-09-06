@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 34 of [Kankin Ou](https://anilist.co/manga/141023) (16:21, 05 September 2026)
+-   📖 Read chapter 328 of [Nano Machine](https://anilist.co/manga/120980) (04:48, 05 September 2026)
+-   📖 Read chapter 416 of [Eleceed](https://anilist.co/manga/106929) (04:41, 05 September 2026)
+-   📖 Read chapter 27 of [Isekai ni Shoukansareta Ndakedo, Nan Demo Kireteshimau Kennou wo te ni Ireta Node Easy Mode deshita.](https://anilist.co/manga/173917) (04:37, 05 September 2026)
 -   📖 Read chapter 18 of [Joban de Shinu Saikyou no Sub Chara ni Tensei Shita no de, Game Chishiki de Musou Suru](https://anilist.co/manga/186897) (10:07, 04 September 2026)
--   📖 Read chapter 9 - 10 of [Hiten no Asuka: Isekai no Shoujo ni Saikyou Hougu Ataeta Kekka](https://anilist.co/manga/150518) (09:56, 04 September 2026)
--   📖 Read chapter 34 - 35 of [Tensei Shitara Joban de Shinu Chuu Boss Datta: Heroine Kenzokuka de Ikinokoru](https://anilist.co/manga/164956) (09:45, 04 September 2026)
--   📖 Read chapter 52 of [Maou to Ryuuou ni Sodaterareta Shounen wa Gakuen Seikatsu wo Musou Suru You desu](https://anilist.co/manga/163426) (09:26, 04 September 2026)
--   📺 Watched episode 10 of [Mushoku Tensei: Jobless Reincarnation Season 3](https://anilist.co/anime/178789) (01:13, 04 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
