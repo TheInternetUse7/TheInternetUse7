@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 34 of [Kankin Ou](https://anilist.co/manga/141023) (16:21, 05 September 2026)
--   📖 Read chapter 328 of [Nano Machine](https://anilist.co/manga/120980) (04:48, 05 September 2026)
--   📖 Read chapter 416 of [Eleceed](https://anilist.co/manga/106929) (04:41, 05 September 2026)
--   📖 Read chapter 27 of [Isekai ni Shoukansareta Ndakedo, Nan Demo Kireteshimau Kennou wo te ni Ireta Node Easy Mode deshita.](https://anilist.co/manga/173917) (04:37, 05 September 2026)
--   📖 Read chapter 18 of [Joban de Shinu Saikyou no Sub Chara ni Tensei Shita no de, Game Chishiki de Musou Suru](https://anilist.co/manga/186897) (10:07, 04 September 2026)
+-   📖 Read chapter 102 of [Kichiku Eiyuu](https://anilist.co/manga/139415) (01:51, 13 September 2026)
+-   📖 Read chapter 35 - 36 of [Seijun Ecstasy: XXX Shinai to Derarenai Heya de Mazoku wo Buttaoshimasu](https://anilist.co/manga/205728) (01:36, 13 September 2026)
+-   📖 Read chapter 43 of [Reincarnation Coliseum: The Weakest Skill Conquers the Strongest Women and Creates a Harem](https://anilist.co/manga/152284) (01:22, 13 September 2026)
+-   📖 Read chapter 9 of [Ato 6-ika de Horobiru Gakeppuchi Kokka no Harem ni Shoukan Sarete Shimattan](https://anilist.co/manga/197678) (20:12, 12 September 2026)
+-   📖 Read chapter 77 of [The Shiunji Family Children](https://anilist.co/manga/144374) (10:13, 12 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
