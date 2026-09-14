@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 102 of [Kichiku Eiyuu](https://anilist.co/manga/139415) (01:51, 13 September 2026)
+-   📖 Read chapter 238 of [One-Punch Man](https://anilist.co/manga/74347) (19:25, 13 September 2026)
+-   📖 Read chapter 2 - 25 of [Tsuihou Yuusha no Yuuga na Slow Life: Jiyuu ni Nattara Ore Dake no Saiai Tenshi Mote ni Haitta!](https://anilist.co/manga/184379) (12:48, 13 September 2026)
+-   📺 Plans to watch [dokidoki Little Ooya-san](https://anilist.co/anime/101240) (12:07, 13 September 2026)
+-   📖 Read chapter 102 - 103 of [Kichiku Eiyuu](https://anilist.co/manga/139415) (06:15, 13 September 2026)
 -   📖 Read chapter 35 - 36 of [Seijun Ecstasy: XXX Shinai to Derarenai Heya de Mazoku wo Buttaoshimasu](https://anilist.co/manga/205728) (01:36, 13 September 2026)
--   📖 Read chapter 43 of [Reincarnation Coliseum: The Weakest Skill Conquers the Strongest Women and Creates a Harem](https://anilist.co/manga/152284) (01:22, 13 September 2026)
--   📖 Read chapter 9 of [Ato 6-ika de Horobiru Gakeppuchi Kokka no Harem ni Shoukan Sarete Shimattan](https://anilist.co/manga/197678) (20:12, 12 September 2026)
--   📖 Read chapter 77 of [The Shiunji Family Children](https://anilist.co/manga/144374) (10:13, 12 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
