@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 238 of [One-Punch Man](https://anilist.co/manga/74347) (19:25, 13 September 2026)
--   📖 Read chapter 2 - 25 of [Tsuihou Yuusha no Yuuga na Slow Life: Jiyuu ni Nattara Ore Dake no Saiai Tenshi Mote ni Haitta!](https://anilist.co/manga/184379) (12:48, 13 September 2026)
--   📺 Plans to watch [dokidoki Little Ooya-san](https://anilist.co/anime/101240) (12:07, 13 September 2026)
--   📖 Read chapter 102 - 103 of [Kichiku Eiyuu](https://anilist.co/manga/139415) (06:15, 13 September 2026)
--   📖 Read chapter 35 - 36 of [Seijun Ecstasy: XXX Shinai to Derarenai Heya de Mazoku wo Buttaoshimasu](https://anilist.co/manga/205728) (01:36, 13 September 2026)
+-   📺 Watched episode 12 of [Mushoku Tensei: Jobless Reincarnation Season 3](https://anilist.co/anime/178789) (19:07, 14 September 2026)
+-   📖 Read chapter 5 of [Kami no Techigai de Shindara Cheat Gun Zumi de Isekai ni Hourikomaremashita](https://anilist.co/manga/118369) (16:40, 14 September 2026)
+-   📖 Read chapter 90 - 109 of [MILF Hunter in Another World](https://anilist.co/manga/166581) (16:39, 14 September 2026)
+-   📖 Read chapter 2 - 32 of [Tsuihou Yuusha no Yuuga na Slow Life: Jiyuu ni Nattara Ore Dake no Saiai Tenshi Mote ni Haitta!](https://anilist.co/manga/184379) (06:29, 14 September 2026)
+-   📖 Read chapter 238 - 239 of [One-Punch Man](https://anilist.co/manga/74347) (05:14, 14 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
