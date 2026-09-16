@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 110 - 115 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (15:29, 15 September 2026)
+-   📖 Read chapter 180 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (15:13, 15 September 2026)
+-   📖 Read chapter 90 - 122 of [MILF Hunter in Another World](https://anilist.co/manga/166581) (06:26, 15 September 2026)
 -   📺 Watched episode 12 of [Mushoku Tensei: Jobless Reincarnation Season 3](https://anilist.co/anime/178789) (19:07, 14 September 2026)
 -   📖 Read chapter 5 of [Kami no Techigai de Shindara Cheat Gun Zumi de Isekai ni Hourikomaremashita](https://anilist.co/manga/118369) (16:40, 14 September 2026)
--   📖 Read chapter 90 - 109 of [MILF Hunter in Another World](https://anilist.co/manga/166581) (16:39, 14 September 2026)
--   📖 Read chapter 2 - 32 of [Tsuihou Yuusha no Yuuga na Slow Life: Jiyuu ni Nattara Ore Dake no Saiai Tenshi Mote ni Haitta!](https://anilist.co/manga/184379) (06:29, 14 September 2026)
--   📖 Read chapter 238 - 239 of [One-Punch Man](https://anilist.co/manga/74347) (05:14, 14 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
