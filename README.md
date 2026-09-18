@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 416 - 418 of [Eleceed](https://anilist.co/manga/106929) (17:41, 16 September 2026)
--   📖 Read chapter 110 - 115 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (15:29, 15 September 2026)
--   📖 Read chapter 180 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (15:13, 15 September 2026)
--   📖 Read chapter 90 - 122 of [MILF Hunter in Another World](https://anilist.co/manga/166581) (06:26, 15 September 2026)
--   📺 Watched episode 12 of [Mushoku Tensei: Jobless Reincarnation Season 3](https://anilist.co/anime/178789) (19:07, 14 September 2026)
+-   📖 Read chapter 25 of [My Magical Girl Wife](https://anilist.co/manga/209659) (01:17, 18 September 2026)
+-   📖 Completed [Sextopwatch](https://anilist.co/manga/152411) (01:12, 18 September 2026)
+-   📖 Read chapter 90 - 127 of [MILF Hunter in Another World](https://anilist.co/manga/166581) (00:39, 18 September 2026)
+-   📖 Read chapter 45 of [My Bizarre Level-Up Condition! A Capable Guy's Reincarnation in Another World](https://anilist.co/manga/157497) (00:14, 18 September 2026)
+-   📖 Read chapter 13 of [Teisou Gyakuten Sekai de Yuiitsu no Otoko Kishi no Ore, Onna Kishi Gakuen ni Nyuugaku Shitara Nazeka Eiyuu Atsukai Sareta: Zetsurin Skill de Harem Musou](https://anilist.co/manga/200712) (23:34, 17 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
