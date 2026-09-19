@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 5 - 8 of [Kami no Techigai de Shindara Cheat Gun Zumi de Isekai ni Hourikomaremashita](https://anilist.co/manga/118369) (06:35, 18 September 2026)
+-   📖 Read chapter 22 of [Issho ni Ken no Shugyou wo Shita Osananajimi ga Dorei ni Natteita node, S-Rank Boukensha no Boku wa Kanojo wo Katte Mamoru Koto ni Shita](https://anilist.co/manga/152600) (06:06, 18 September 2026)
 -   📖 Read chapter 25 of [My Magical Girl Wife](https://anilist.co/manga/209659) (01:17, 18 September 2026)
 -   📖 Completed [Sextopwatch](https://anilist.co/manga/152411) (01:12, 18 September 2026)
 -   📖 Read chapter 90 - 127 of [MILF Hunter in Another World](https://anilist.co/manga/166581) (00:39, 18 September 2026)
--   📖 Read chapter 45 of [My Bizarre Level-Up Condition! A Capable Guy's Reincarnation in Another World](https://anilist.co/manga/157497) (00:14, 18 September 2026)
--   📖 Read chapter 13 of [Teisou Gyakuten Sekai de Yuiitsu no Otoko Kishi no Ore, Onna Kishi Gakuen ni Nyuugaku Shitara Nazeka Eiyuu Atsukai Sareta: Zetsurin Skill de Harem Musou](https://anilist.co/manga/200712) (23:34, 17 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
