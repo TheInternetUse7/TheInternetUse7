@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 27 of [Boukensha ni Narenakatta Ore, Skill "Oppai Kyousei" de Nayameru Ano Ko wo Hitodasuke!?](https://anilist.co/manga/172559) (19:04, 20 September 2026)
+-   📖 Read chapter 22 - 23 of [Yoshibari◆Aubade](https://anilist.co/manga/107523) (04:37, 20 September 2026)
+-   📖 Read chapter 81 of [Moby Dick](https://anilist.co/manga/172094) (03:44, 20 September 2026)
 -   📖 Read chapter 8 of [Megami Haiboku: Tensei no Varanova](https://anilist.co/manga/159537) (03:52, 19 September 2026)
 -   📖 Read chapter 5 - 9 of [Kami no Techigai de Shindara Cheat Gun Zumi de Isekai ni Hourikomaremashita](https://anilist.co/manga/118369) (03:33, 19 September 2026)
--   📖 Read chapter 22 of [Issho ni Ken no Shugyou wo Shita Osananajimi ga Dorei ni Natteita node, S-Rank Boukensha no Boku wa Kanojo wo Katte Mamoru Koto ni Shita](https://anilist.co/manga/152600) (06:06, 18 September 2026)
--   📖 Read chapter 25 of [My Magical Girl Wife](https://anilist.co/manga/209659) (01:17, 18 September 2026)
--   📖 Completed [Sextopwatch](https://anilist.co/manga/152411) (01:12, 18 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
