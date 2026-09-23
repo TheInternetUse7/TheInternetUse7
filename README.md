@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 116 - 117 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (21:14, 22 September 2026)
+-   📖 Read chapter 328 - 329 of [Overgeared](https://anilist.co/manga/117460) (04:19, 22 September 2026)
 -   📖 Read chapter 45 - 46 of [My Bizarre Level-Up Condition! A Capable Guy's Reincarnation in Another World](https://anilist.co/manga/157497) (18:00, 21 September 2026)
 -   📖 Read chapter 180 - 181 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (17:55, 21 September 2026)
 -   📺 Watched episode 12 - 13 of [Mushoku Tensei: Jobless Reincarnation Season 3](https://anilist.co/anime/178789) (15:08, 21 September 2026)
--   📖 Read chapter 32 of [A Reincarnated Carrier’s Strategy for Another World](https://anilist.co/manga/167472) (04:17, 21 September 2026)
--   📖 Read chapter 10 of [Ato 6-ika de Horobiru Gakeppuchi Kokka no Harem ni Shoukan Sarete Shimattan](https://anilist.co/manga/197678) (04:11, 21 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
