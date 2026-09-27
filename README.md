@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 76 of [HACKING GHOST: Karada ni Shika Kachi no Nai Gakuen](https://anilist.co/manga/186922) (20:03, 26 September 2026)
+-   📖 Read chapter 240 of [One-Punch Man](https://anilist.co/manga/74347) (19:57, 26 September 2026)
+-   📖 Read chapter 10 - 11 of [Kami no Techigai de Shindara Cheat Gun Zumi de Isekai ni Hourikomaremashita](https://anilist.co/manga/118369) (04:58, 26 September 2026)
+-   📖 Read chapter 122 - 126 of [Ouritsu Mahou Gakuen no Saikasei: Hikongai Agari no Saikyou Mahoushi, Kizoku Darake no Gakuen de Musou Suru](https://anilist.co/manga/129506) (04:28, 26 September 2026)
 -   📖 Read chapter 78 of [The Shiunji Family Children](https://anilist.co/manga/144374) (17:25, 25 September 2026)
--   📖 Read chapter 23 of [Issho ni Ken no Shugyou wo Shita Osananajimi ga Dorei ni Natteita node, S-Rank Boukensha no Boku wa Kanojo wo Katte Mamoru Koto ni Shita](https://anilist.co/manga/152600) (10:29, 25 September 2026)
--   📖 Read chapter 122 - 124 of [Ouritsu Mahou Gakuen no Saikasei: Hikongai Agari no Saikyou Mahoushi, Kizoku Darake no Gakuen de Musou Suru](https://anilist.co/manga/129506) (04:58, 25 September 2026)
--   📖 Read chapter 331 of [Nano Machine](https://anilist.co/manga/120980) (12:39, 24 September 2026)
--   📖 Read chapter 48 of [Keikenchi Chochiku de Nonbiri Shoushin Ryokou: Yuusha to Koibito ni Tsuihou Sareta Senshi no Mujikaku zamaa](https://anilist.co/manga/130938) (10:26, 24 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
