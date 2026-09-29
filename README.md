@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 37 of [Seijun Ecstasy: XXX Shinai to Derarenai Heya de Mazoku wo Buttaoshimasu](https://anilist.co/manga/205728) (12:34, 27 September 2026)
--   📖 Read chapter 76 of [HACKING GHOST: Karada ni Shika Kachi no Nai Gakuen](https://anilist.co/manga/186922) (20:03, 26 September 2026)
--   📖 Read chapter 240 of [One-Punch Man](https://anilist.co/manga/74347) (19:57, 26 September 2026)
--   📖 Read chapter 10 - 11 of [Kami no Techigai de Shindara Cheat Gun Zumi de Isekai ni Hourikomaremashita](https://anilist.co/manga/118369) (04:58, 26 September 2026)
--   📖 Read chapter 122 - 126 of [Ouritsu Mahou Gakuen no Saikasei: Hikongai Agari no Saikyou Mahoushi, Kizoku Darake no Gakuen de Musou Suru](https://anilist.co/manga/129506) (04:28, 26 September 2026)
+-   📖 Read chapter 116 - 118 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (03:03, 29 September 2026)
+-   📖 Read chapter 182 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (02:58, 29 September 2026)
+-   📖 Read chapter 328 - 335 of [Overgeared](https://anilist.co/manga/117460) (02:50, 29 September 2026)
+-   📺 Completed [Mushoku Tensei: Jobless Reincarnation Season 3](https://anilist.co/anime/178789) (15:38, 28 September 2026)
+-   📖 Read chapter 10 - 12 of [Kami no Techigai de Shindara Cheat Gun Zumi de Isekai ni Hourikomaremashita](https://anilist.co/manga/118369) (10:14, 28 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
