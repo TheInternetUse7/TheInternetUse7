@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 81 - 88 of [Moby Dick](https://anilist.co/manga/172094) (22:16, 29 September 2026)
--   📺 Completed [Saga of Tanya the Evil](https://anilist.co/anime/21613) (05:30, 29 September 2026)
--   📺 Watched episode 10 - 11 of [Saga of Tanya the Evil](https://anilist.co/anime/21613) (05:30, 29 September 2026)
--   📖 Read chapter 85 of [The Eminence in Shadow](https://anilist.co/manga/106758) (03:19, 29 September 2026)
--   📖 Read chapter 116 - 118 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (03:03, 29 September 2026)
+-   📖 Read chapter 328 - 338 of [Overgeared](https://anilist.co/manga/117460) (23:58, 30 September 2026)
+-   📖 Read chapter 420 of [Eleceed](https://anilist.co/manga/106929) (23:45, 30 September 2026)
+-   📖 Read chapter 5 of [Tsuki no Joou no Nekashitsuke Kata](https://anilist.co/manga/214107) (18:41, 30 September 2026)
+-   📖 Read chapter 10 - 16 of [Kami no Techigai de Shindara Cheat Gun Zumi de Isekai ni Hourikomaremashita](https://anilist.co/manga/118369) (05:37, 30 September 2026)
+-   📖 Read chapter 49 of [Gokusotsu Kraken](https://anilist.co/manga/152815) (03:56, 30 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
