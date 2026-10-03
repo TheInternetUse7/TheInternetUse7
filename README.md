@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 328 - 341 of [Overgeared](https://anilist.co/manga/117460) (11:07, 01 October 2026)
--   📖 Read chapter 10 - 17 of [Kami no Techigai de Shindara Cheat Gun Zumi de Isekai ni Hourikomaremashita](https://anilist.co/manga/118369) (11:00, 01 October 2026)
--   📖 Read chapter 420 of [Eleceed](https://anilist.co/manga/106929) (23:45, 30 September 2026)
--   📖 Read chapter 5 of [Tsuki no Joou no Nekashitsuke Kata](https://anilist.co/manga/214107) (18:41, 30 September 2026)
--   📖 Read chapter 49 of [Gokusotsu Kraken](https://anilist.co/manga/152815) (03:56, 30 September 2026)
+-   📖 Read chapter 11 of [Ato 6-ika de Horobiru Gakeppuchi Kokka no Harem ni Shoukan Sarete Shimattan](https://anilist.co/manga/197678) (00:11, 03 October 2026)
+-   📺 Completed [Saga of Tanya the Evil: Operation Desert Pasta](https://anilist.co/anime/135866) (15:37, 02 October 2026)
+-   📖 Read chapter 23 of [The Skill of Being Unseen](https://anilist.co/manga/175184) (06:55, 02 October 2026)
+-   📖 Read chapter 27 - 28 of [My Magical Girl Wife](https://anilist.co/manga/209659) (05:53, 02 October 2026)
+-   📖 Read chapter 332 of [Nano Machine](https://anilist.co/manga/120980) (05:46, 02 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
