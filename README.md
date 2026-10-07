@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 10 - 23 of [Kami no Techigai de Shindara Cheat Gun Zumi de Isekai ni Hourikomaremashita](https://anilist.co/manga/118369) (10:15, 05 October 2026)
--   📖 Read chapter 182 - 183 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (04:56, 05 October 2026)
--   📖 Read chapter 36 of [Tensei Shitara Joban de Shinu Chuu Boss Datta: Heroine Kenzokuka de Ikinokoru](https://anilist.co/manga/164956) (04:53, 05 October 2026)
--   📖 Read chapter 24 of [Issho ni Ken no Shugyou wo Shita Osananajimi ga Dorei ni Natteita node, S-Rank Boukensha no Boku wa Kanojo wo Katte Mamoru Koto ni Shita](https://anilist.co/manga/152600) (12:39, 04 October 2026)
--   📖 Read chapter 63 of [APP for the Emperor of the Night](https://anilist.co/manga/148479) (05:55, 04 October 2026)
+-   📖 Read chapter 420 - 421 of [Eleceed](https://anilist.co/manga/106929) (17:38, 06 October 2026)
+-   📺 Watched episode 7 - 9 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 3](https://anilist.co/anime/200637) (11:19, 06 October 2026)
+-   📖 Read chapter 10 - 24 of [Kami no Techigai de Shindara Cheat Gun Zumi de Isekai ni Hourikomaremashita](https://anilist.co/manga/118369) (10:56, 06 October 2026)
+-   📖 Read chapter 8 of [Suterare Ouji ga Saizensen de Tekikoku no Heishi wo Chiryou Shitara Jitsu wa Dainana Oujo Datta Ken](https://anilist.co/manga/202903) (06:01, 06 October 2026)
+-   📖 Read chapter 119 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (05:50, 06 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
