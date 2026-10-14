@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 2 of [Muramura Shite Shimau Noroi no Youtou to Issho ni Isekai e Mayoikondeshimatta Ken: Moto no Sekai e Kaeru Tame ni Dorei wo Hikiite Harem Party de Dungeon Kouryaku Shimasu](https://anilist.co/manga/213571) (17:46, 13 October 2026)
+-   📖 Read chapter 119 - 120 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (04:58, 13 October 2026)
 -   📺 Watched episode 7 - 10 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 3](https://anilist.co/anime/200637) (17:49, 12 October 2026)
 -   📖 Read chapter 184 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (14:19, 12 October 2026)
 -   📖 Read chapter 79 of [The Shiunji Family Children](https://anilist.co/manga/144374) (05:16, 12 October 2026)
--   📖 Read chapter 10 - 32 of [Kami no Techigai de Shindara Cheat Gun Zumi de Isekai ni Hourikomaremashita](https://anilist.co/manga/118369) (10:06, 11 October 2026)
--   📺 Plans to watch [Mushoku Tensei III: Isekai Ittara Honki Dasu Part 2](https://anilist.co/anime/217434) (07:44, 11 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
