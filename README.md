@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 2 of [Muramura Shite Shimau Noroi no Youtou to Issho ni Isekai e Mayoikondeshimatta Ken: Moto no Sekai e Kaeru Tame ni Dorei wo Hikiite Harem Party de Dungeon Kouryaku Shimasu](https://anilist.co/manga/213571) (17:46, 13 October 2026)
--   📖 Read chapter 119 - 120 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (04:58, 13 October 2026)
--   📺 Watched episode 7 - 10 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 3](https://anilist.co/anime/200637) (17:49, 12 October 2026)
--   📖 Read chapter 184 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (14:19, 12 October 2026)
--   📖 Read chapter 79 of [The Shiunji Family Children](https://anilist.co/manga/144374) (05:16, 12 October 2026)
+-   📖 Read chapter 17 - 19 of [Binetsu Kuukan](https://anilist.co/manga/85345) (19:55, 14 October 2026)
+-   📖 Read chapter 9 of [Suterare Ouji ga Saizensen de Tekikoku no Heishi wo Chiryou Shitara Jitsu wa Dainana Oujo Datta Ken](https://anilist.co/manga/202903) (19:15, 14 October 2026)
+-   📖 Read chapter 35 of [The Cursed Sword Master’s Harem Life: By the Sword, For the Sword](https://anilist.co/manga/109170) (10:42, 14 October 2026)
+-   📖 Read chapter 67 of [APP for the Emperor of the Night](https://anilist.co/manga/148479) (10:42, 14 October 2026)
+-   📖 Read chapter 21 of [The Desire App](https://anilist.co/manga/159504) (10:42, 14 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
