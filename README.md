@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 17 - 19 of [Binetsu Kuukan](https://anilist.co/manga/85345) (19:55, 14 October 2026)
+-   📖 Read chapter 334 of [Nano Machine](https://anilist.co/manga/120980) (09:55, 15 October 2026)
+-   📖 Read chapter 17 - 21 of [Binetsu Kuukan](https://anilist.co/manga/85345) (05:01, 15 October 2026)
 -   📖 Read chapter 9 of [Suterare Ouji ga Saizensen de Tekikoku no Heishi wo Chiryou Shitara Jitsu wa Dainana Oujo Datta Ken](https://anilist.co/manga/202903) (19:15, 14 October 2026)
 -   📖 Read chapter 35 of [The Cursed Sword Master’s Harem Life: By the Sword, For the Sword](https://anilist.co/manga/109170) (10:42, 14 October 2026)
 -   📖 Read chapter 67 of [APP for the Emperor of the Night](https://anilist.co/manga/148479) (10:42, 14 October 2026)
--   📖 Read chapter 21 of [The Desire App](https://anilist.co/manga/159504) (10:42, 14 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
