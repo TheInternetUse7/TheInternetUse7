@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 17 - 30 of [Binetsu Kuukan](https://anilist.co/manga/85345) (04:47, 17 October 2026)
+-   📖 Read chapter 20 of [Himegoto Kakushigoto](https://anilist.co/manga/212891) (04:29, 17 October 2026)
+-   📖 Read chapter 241 of [One-Punch Man](https://anilist.co/manga/74347) (04:23, 17 October 2026)
 -   📖 Read chapter 14 of [Mujaki no Rakuen](https://anilist.co/manga/67885) (07:46, 16 October 2026)
--   📖 Read chapter 17 - 25 of [Binetsu Kuukan](https://anilist.co/manga/85345) (07:46, 16 October 2026)
 -   📖 Read chapter 334 of [Nano Machine](https://anilist.co/manga/120980) (09:55, 15 October 2026)
--   📖 Read chapter 9 of [Suterare Ouji ga Saizensen de Tekikoku no Heishi wo Chiryou Shitara Jitsu wa Dainana Oujo Datta Ken](https://anilist.co/manga/202903) (19:15, 14 October 2026)
--   📖 Read chapter 35 of [The Cursed Sword Master’s Harem Life: By the Sword, For the Sword](https://anilist.co/manga/109170) (10:42, 14 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
