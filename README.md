@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 40 of [Seijun Ecstasy: XXX Shinai to Derarenai Heya de Mazoku wo Buttaoshimasu](https://anilist.co/manga/205728) (18:53, 18 October 2026)
--   📖 Read chapter 3 - 4 of [Youkaiou Kyun Gakuen](https://anilist.co/manga/215108) (18:48, 18 October 2026)
--   📖 Read chapter 3 of [Ore wa Gimai ni Uso wo Tsuku: Chi no Tsunagaranai Imouto wo Ore ga Hikitoru Koto ni Shita](https://anilist.co/manga/215011) (17:57, 18 October 2026)
--   📖 Read chapter 86 of [Dorei wo Choukyoushite Harem Tsukuru](https://anilist.co/manga/149329) (04:39, 18 October 2026)
--   📖 Read chapter 17 - 30 of [Binetsu Kuukan](https://anilist.co/manga/85345) (04:47, 17 October 2026)
+-   📖 Read chapter 13 - 14 of [Maou no Musumetachi to Maguwaeba Tsuyoku Narerutte Hontou desu ka?](https://anilist.co/manga/140683) (02:15, 20 October 2026)
+-   📖 Plans to read [Someone Stop Her!](https://anilist.co/manga/181859) (22:32, 19 October 2026)
+-   📺 Watched episode 11 of [Cowboy Bebop](https://anilist.co/anime/1) (15:08, 19 October 2026)
+-   📺 Completed [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 3](https://anilist.co/anime/200637) (15:08, 19 October 2026)
+-   📺 Watched episode 7 - 11 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 3](https://anilist.co/anime/200637) (15:08, 19 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
