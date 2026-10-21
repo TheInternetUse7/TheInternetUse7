@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 13 - 14 of [Maou no Musumetachi to Maguwaeba Tsuyoku Narerutte Hontou desu ka?](https://anilist.co/manga/140683) (02:15, 20 October 2026)
--   📖 Plans to read [Someone Stop Her!](https://anilist.co/manga/181859) (22:32, 19 October 2026)
--   📺 Watched episode 11 of [Cowboy Bebop](https://anilist.co/anime/1) (15:08, 19 October 2026)
--   📺 Completed [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 3](https://anilist.co/anime/200637) (15:08, 19 October 2026)
--   📺 Watched episode 7 - 11 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 3](https://anilist.co/anime/200637) (15:08, 19 October 2026)
+-   📖 Read chapter 67 - 84 of [APP for the Emperor of the Night](https://anilist.co/manga/148479) (13:20, 20 October 2026)
+-   📖 Read chapter 11 of [Common Sense Modifier](https://anilist.co/manga/187766) (13:20, 20 October 2026)
+-   📖 Read chapter 67 - 81 of [APP for the Emperor of the Night](https://anilist.co/manga/148479) (12:53, 20 October 2026)
+-   📖 Read chapter 121 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (11:28, 20 October 2026)
+-   📖 Read chapter 78 of [HACKING GHOST: Karada ni Shika Kachi no Nai Gakuen](https://anilist.co/manga/186922) (10:42, 20 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
