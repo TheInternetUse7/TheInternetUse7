@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 67 - 84 of [APP for the Emperor of the Night](https://anilist.co/manga/148479) (13:20, 20 October 2026)
--   📖 Read chapter 11 of [Common Sense Modifier](https://anilist.co/manga/187766) (13:20, 20 October 2026)
--   📖 Read chapter 67 - 81 of [APP for the Emperor of the Night](https://anilist.co/manga/148479) (12:53, 20 October 2026)
--   📖 Read chapter 121 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (11:28, 20 October 2026)
--   📖 Read chapter 78 of [HACKING GHOST: Karada ni Shika Kachi no Nai Gakuen](https://anilist.co/manga/186922) (10:42, 20 October 2026)
+-   📖 Read chapter 24 of [Yoshibari◆Aubade](https://anilist.co/manga/107523) (05:46, 22 October 2026)
+-   📖 Read chapter 14 of [Asobinin wa Kenja ni Tenshoku Dekiru tte Shittemashita?: Yuusha Party wo Tsuihou Sareta Lv99, "Taikenja" ni Naru](https://anilist.co/manga/110374) (05:45, 22 October 2026)
+-   📖 Read chapter 37 - 39 of [Magika Swordsman and Summoner](https://anilist.co/manga/85230) (05:45, 22 October 2026)
+-   📖 Read chapter 13 of [Isekai H Eiyuuden: Bishoujo Senshi-tachi wa Saikyou Gunshi no Mucha na Onegai ni Sakaraenai](https://anilist.co/manga/194499) (11:31, 21 October 2026)
+-   📖 Read chapter 3 - 4 of [Ore wa Gimai ni Uso wo Tsuku: Chi no Tsunagaranai Imouto wo Ore ga Hikitoru Koto ni Shita](https://anilist.co/manga/215011) (06:07, 21 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
