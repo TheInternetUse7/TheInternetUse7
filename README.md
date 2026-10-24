@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 24 of [Yoshibari◆Aubade](https://anilist.co/manga/107523) (05:46, 22 October 2026)
--   📖 Read chapter 14 of [Asobinin wa Kenja ni Tenshoku Dekiru tte Shittemashita?: Yuusha Party wo Tsuihou Sareta Lv99, "Taikenja" ni Naru](https://anilist.co/manga/110374) (05:45, 22 October 2026)
--   📖 Read chapter 37 - 39 of [Magika Swordsman and Summoner](https://anilist.co/manga/85230) (05:45, 22 October 2026)
--   📖 Read chapter 13 of [Isekai H Eiyuuden: Bishoujo Senshi-tachi wa Saikyou Gunshi no Mucha na Onegai ni Sakaraenai](https://anilist.co/manga/194499) (11:31, 21 October 2026)
--   📖 Read chapter 3 - 4 of [Ore wa Gimai ni Uso wo Tsuku: Chi no Tsunagaranai Imouto wo Ore ga Hikitoru Koto ni Shita](https://anilist.co/manga/215011) (06:07, 21 October 2026)
+-   📖 Read chapter 1 of [Tensei shita Moto Dorei, Cheat Skill "Senpenbanka" de Saikyou Harem wo Tsukuru](https://anilist.co/manga/208778) (00:20, 24 October 2026)
+-   📖 Read chapter 7 of [Ore to Seijo ga Dekiteru Koto ga Baretara Kono Party wa Houkai Suru](https://anilist.co/manga/194908) (11:16, 23 October 2026)
+-   📖 Read chapter 21 of [Futago Matomete "Kanojo" ni Shinai?](https://anilist.co/manga/177186) (11:16, 23 October 2026)
+-   📖 Read chapter 13 - 17 of [Isekai H Eiyuuden: Bishoujo Senshi-tachi wa Saikyou Gunshi no Mucha na Onegai ni Sakaraenai](https://anilist.co/manga/194499) (11:15, 23 October 2026)
+-   📖 Read chapter 241 - 242 of [One-Punch Man](https://anilist.co/manga/74347) (11:15, 23 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
