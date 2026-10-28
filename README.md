@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 2 of [Teikoku Kishin Volcamion](https://anilist.co/manga/195293) (09:21, 27 October 2026)
+-   📖 Read chapter 21 - 22 of [Futago Matomete "Kanojo" ni Shinai?](https://anilist.co/manga/177186) (07:41, 27 October 2026)
 -   📖 Read chapter 25 of [Issho ni Ken no Shugyou wo Shita Osananajimi ga Dorei ni Natteita node, S-Rank Boukensha no Boku wa Kanojo wo Katte Mamoru Koto ni Shita](https://anilist.co/manga/152600) (01:17, 27 October 2026)
 -   📖 Read chapter 186 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (01:09, 27 October 2026)
 -   📖 Read chapter 59 - 63 of [SO-EUN for All](https://anilist.co/manga/179218) (09:24, 26 October 2026)
--   📖 Read chapter 59 - 61 of [Hero Killer](https://anilist.co/manga/132093) (09:10, 26 October 2026)
--   📖 Read chapter 11 - 14 of [Common Sense Modifier](https://anilist.co/manga/187766) (21:34, 25 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
