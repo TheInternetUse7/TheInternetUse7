@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 41 of [Seijun Ecstasy: XXX Shinai to Derarenai Heya de Mazoku wo Buttaoshimasu](https://anilist.co/manga/205728) (00:32, 31 October 2026)
+-   📖 Read chapter 5 of [Reborn into a World of Yanderes?!](https://anilist.co/manga/106831) (16:29, 30 October 2026)
+-   📖 Read chapter 13 - 15 of [Kamikakushi no Rakuen](https://anilist.co/manga/169808) (06:02, 30 October 2026)
 -   📖 Read chapter 236 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (18:14, 29 October 2026)
 -   📖 Read chapter 6 of [Kiwamete Kenzen na Bishoujo Level Up](https://anilist.co/manga/211601) (18:14, 29 October 2026)
--   📖 Read chapter 335 - 336 of [Nano Machine](https://anilist.co/manga/120980) (15:24, 29 October 2026)
--   📖 Read chapter 424 of [Eleceed](https://anilist.co/manga/106929) (07:36, 29 October 2026)
--   📖 Read chapter 13 of [Kamikakushi no Rakuen](https://anilist.co/manga/169808) (07:36, 29 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
