@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 50 - 58 of [NTREVENGE](https://anilist.co/manga/167427) (00:10, 01 November 2026)
--   📖 Read chapter 41 of [Seijun Ecstasy: XXX Shinai to Derarenai Heya de Mazoku wo Buttaoshimasu](https://anilist.co/manga/205728) (00:32, 31 October 2026)
--   📖 Read chapter 5 of [Reborn into a World of Yanderes?!](https://anilist.co/manga/106831) (16:29, 30 October 2026)
--   📖 Read chapter 13 - 15 of [Kamikakushi no Rakuen](https://anilist.co/manga/169808) (06:02, 30 October 2026)
--   📖 Read chapter 236 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (18:14, 29 October 2026)
+-   📖 Read chapter 13 of [Ato 6-ika de Horobiru Gakeppuchi Kokka no Harem ni Shoukan Sarete Shimattan](https://anilist.co/manga/197678) (21:19, 01 November 2026)
+-   📖 Read chapter 31 of [Binetsu Kuukan](https://anilist.co/manga/85345) (21:18, 01 November 2026)
+-   📖 Read chapter 24 of [Himegoto Kakushigoto](https://anilist.co/manga/212891) (21:18, 01 November 2026)
+-   📖 Read chapter 21 - 23 of [Futago Matomete "Kanojo" ni Shinai?](https://anilist.co/manga/177186) (21:18, 01 November 2026)
+-   📖 Read chapter 50 - 66 of [NTREVENGE](https://anilist.co/manga/167427) (15:50, 01 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
