@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 71 of [Solo Leveling: Ragnarok](https://anilist.co/manga/179445) (21:44, 04 November 2026)
+-   📖 Read chapter 13 - 16 of [Kamikakushi no Rakuen](https://anilist.co/manga/169808) (13:36, 04 November 2026)
 -   📖 Read chapter 424 - 425 of [Eleceed](https://anilist.co/manga/106929) (22:31, 03 November 2026)
 -   📖 Read chapter 187 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (22:04, 03 November 2026)
 -   📺 Watched episode 12 of [Cowboy Bebop](https://anilist.co/anime/1) (15:00, 03 November 2026)
--   📖 Read chapter 31 - 38 of [Binetsu Kuukan](https://anilist.co/manga/85345) (06:03, 03 November 2026)
--   📖 Completed [Himegoto Kakushigoto](https://anilist.co/manga/212891) (21:39, 02 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
