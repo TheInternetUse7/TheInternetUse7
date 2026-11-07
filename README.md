@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 63 - 67 of [Hero Killer](https://anilist.co/manga/132093) (10:51, 05 November 2026)
--   📖 Read chapter 346 of [Overgeared](https://anilist.co/manga/117460) (05:24, 05 November 2026)
--   📖 Read chapter 71 of [Solo Leveling: Ragnarok](https://anilist.co/manga/179445) (21:44, 04 November 2026)
--   📖 Read chapter 13 - 16 of [Kamikakushi no Rakuen](https://anilist.co/manga/169808) (13:36, 04 November 2026)
--   📖 Read chapter 424 - 425 of [Eleceed](https://anilist.co/manga/106929) (22:31, 03 November 2026)
+-   📖 Read chapter 42 of [Seijun Ecstasy: XXX Shinai to Derarenai Heya de Mazoku wo Buttaoshimasu](https://anilist.co/manga/205728) (01:33, 07 November 2026)
+-   📖 Read chapter 28 of [Isekai ni Shoukansareta Ndakedo, Nan Demo Kireteshimau Kennou wo te ni Ireta Node Easy Mode deshita.](https://anilist.co/manga/173917) (01:23, 07 November 2026)
+-   📖 Read chapter 337 of [Nano Machine](https://anilist.co/manga/120980) (18:25, 06 November 2026)
+-   📖 Read chapter 5 of [Youkaiou Kyun Gakuen](https://anilist.co/manga/215108) (18:25, 06 November 2026)
+-   📖 Read chapter 44 of [Reincarnation Coliseum: The Weakest Skill Conquers the Strongest Women and Creates a Harem](https://anilist.co/manga/152284) (10:26, 06 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
