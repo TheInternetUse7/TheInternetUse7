@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 10 - 12 of [Ore to Seijo ga Dekiteru Koto ga Baretara Kono Party wa Houkai Suru](https://anilist.co/manga/194908) (23:22, 07 November 2026)
+-   📖 Read chapter 10 of [Seichou Cheat de Nandemo Dekiru you ni Natta ga, Mushoku dake wa Yamerarenai you desu](https://anilist.co/manga/100732) (09:41, 08 November 2026)
+-   📖 Read chapter 63 - 71 of [Hero Killer](https://anilist.co/manga/132093) (09:41, 08 November 2026)
+-   📖 Read chapter 10 - 15 of [Ore to Seijo ga Dekiteru Koto ga Baretara Kono Party wa Houkai Suru](https://anilist.co/manga/194908) (09:41, 08 November 2026)
 -   📖 Plans to read [Dugeundugeun S-matching](https://anilist.co/manga/211955) (16:58, 07 November 2026)
 -   📖 Read chapter 346 - 347 of [Overgeared](https://anilist.co/manga/117460) (09:51, 07 November 2026)
--   📖 Read chapter 42 of [Seijun Ecstasy: XXX Shinai to Derarenai Heya de Mazoku wo Buttaoshimasu](https://anilist.co/manga/205728) (01:33, 07 November 2026)
--   📖 Read chapter 28 of [Isekai ni Shoukansareta Ndakedo, Nan Demo Kireteshimau Kennou wo te ni Ireta Node Easy Mode deshita.](https://anilist.co/manga/173917) (01:23, 07 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
