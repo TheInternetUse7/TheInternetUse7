@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 63 - 74 of [Hero Killer](https://anilist.co/manga/132093) (01:20, 10 November 2026)
+-   📖 Read chapter 187 - 188 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (12:34, 09 November 2026)
+-   📖 Read chapter 187 - 188 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (12:34, 09 November 2026)
+-   📖 Read chapter 24 of [Futago Matomete "Kanojo" ni Shinai?](https://anilist.co/manga/177186) (09:46, 09 November 2026)
 -   📖 Read chapter 10 of [Seichou Cheat de Nandemo Dekiru you ni Natta ga, Mushoku dake wa Yamerarenai you desu](https://anilist.co/manga/100732) (09:41, 08 November 2026)
--   📖 Read chapter 63 - 71 of [Hero Killer](https://anilist.co/manga/132093) (09:41, 08 November 2026)
--   📖 Read chapter 10 - 15 of [Ore to Seijo ga Dekiteru Koto ga Baretara Kono Party wa Houkai Suru](https://anilist.co/manga/194908) (09:41, 08 November 2026)
--   📖 Plans to read [Dugeundugeun S-matching](https://anilist.co/manga/211955) (16:58, 07 November 2026)
--   📖 Read chapter 346 - 347 of [Overgeared](https://anilist.co/manga/117460) (09:51, 07 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
