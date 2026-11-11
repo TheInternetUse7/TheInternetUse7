@@ -25,7 +25,7 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 63 - 74 of [Hero Killer](https://anilist.co/manga/132093) (01:20, 10 November 2026)
+-   📖 Read chapter 63 - 84 of [Hero Killer](https://anilist.co/manga/132093) (06:58, 10 November 2026)
 -   📖 Read chapter 187 - 188 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (12:34, 09 November 2026)
 -   📖 Read chapter 187 - 188 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (12:34, 09 November 2026)
 -   📖 Read chapter 24 of [Futago Matomete "Kanojo" ni Shinai?](https://anilist.co/manga/177186) (09:46, 09 November 2026)
