@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 346 - 348 of [Overgeared](https://anilist.co/manga/117460) (00:21, 14 November 2026)
--   📖 Read chapter 63 - 93 of [Hero Killer](https://anilist.co/manga/132093) (05:47, 13 November 2026)
--   📖 Read chapter 337 - 338 of [Nano Machine](https://anilist.co/manga/120980) (05:25, 13 November 2026)
--   📖 Read chapter 72 of [Solo Leveling: Ragnarok](https://anilist.co/manga/179445) (01:13, 13 November 2026)
--   📺 Watched episode 13 - 14 of [Cowboy Bebop](https://anilist.co/anime/1) (09:36, 12 November 2026)
+-   📖 Read chapter 64 of [SO-EUN for All](https://anilist.co/manga/179218) (07:12, 14 November 2026)
+-   📖 Read chapter 31 - 32 of [My Magical Girl Wife](https://anilist.co/manga/209659) (07:03, 14 November 2026)
+-   📖 Completed [APP for the Emperor of the Night](https://anilist.co/manga/148479) (06:55, 14 November 2026)
+-   📖 Read chapter 85 - 89 of [APP for the Emperor of the Night](https://anilist.co/manga/148479) (06:52, 14 November 2026)
+-   📖 Read chapter 122 - 124 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (06:35, 14 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
