@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 64 of [SO-EUN for All](https://anilist.co/manga/179218) (07:12, 14 November 2026)
--   📖 Read chapter 31 - 32 of [My Magical Girl Wife](https://anilist.co/manga/209659) (07:03, 14 November 2026)
--   📖 Completed [APP for the Emperor of the Night](https://anilist.co/manga/148479) (06:55, 14 November 2026)
--   📖 Read chapter 85 - 89 of [APP for the Emperor of the Night](https://anilist.co/manga/148479) (06:52, 14 November 2026)
--   📖 Read chapter 122 - 124 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (06:35, 14 November 2026)
+-   📖 Read chapter 63 - 99 of [Hero Killer](https://anilist.co/manga/132093) (00:43, 17 November 2026)
+-   📖 Read chapter 122 - 125 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (00:29, 17 November 2026)
+-   📖 Read chapter 189 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (21:15, 16 November 2026)
+-   📖 Read chapter 43 of [Seijun Ecstasy: XXX Shinai to Derarenai Heya de Mazoku wo Buttaoshimasu](https://anilist.co/manga/205728) (11:09, 16 November 2026)
+-   📖 Read chapter 29 of [Isekai ni Shoukansareta Ndakedo, Nan Demo Kireteshimau Kennou wo te ni Ireta Node Easy Mode deshita.](https://anilist.co/manga/173917) (11:09, 16 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
