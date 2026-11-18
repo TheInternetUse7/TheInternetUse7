@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 63 - 99 of [Hero Killer](https://anilist.co/manga/132093) (00:43, 17 November 2026)
+-   📖 Read chapter 63 - 101 of [Hero Killer](https://anilist.co/manga/132093) (20:49, 17 November 2026)
+-   📖 Read chapter 426 - 427 of [Eleceed](https://anilist.co/manga/106929) (20:36, 17 November 2026)
+-   📖 Read chapter 7 of [Tsuki no Joou no Nekashitsuke Kata](https://anilist.co/manga/214107) (20:35, 17 November 2026)
+-   📖 Read chapter 22 - 28 of [The Desire App](https://anilist.co/manga/159504) (07:09, 17 November 2026)
 -   📖 Read chapter 122 - 125 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (00:29, 17 November 2026)
--   📖 Read chapter 189 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (21:15, 16 November 2026)
--   📖 Read chapter 43 of [Seijun Ecstasy: XXX Shinai to Derarenai Heya de Mazoku wo Buttaoshimasu](https://anilist.co/manga/205728) (11:09, 16 November 2026)
--   📖 Read chapter 29 of [Isekai ni Shoukansareta Ndakedo, Nan Demo Kireteshimau Kennou wo te ni Ireta Node Easy Mode deshita.](https://anilist.co/manga/173917) (11:09, 16 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
