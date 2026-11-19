@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 63 - 101 of [Hero Killer](https://anilist.co/manga/132093) (20:49, 17 November 2026)
+-   📖 Read chapter 64 - 65 of [SO-EUN for All](https://anilist.co/manga/179218) (04:19, 19 November 2026)
+-   📖 Read chapter 41 of [Magika Swordsman and Summoner](https://anilist.co/manga/85230) (04:15, 19 November 2026)
+-   📖 Read chapter 63 - 104 of [Hero Killer](https://anilist.co/manga/132093) (20:55, 18 November 2026)
+-   📖 Read chapter 72 - 73 of [Solo Leveling: Ragnarok](https://anilist.co/manga/179445) (20:53, 18 November 2026)
 -   📖 Read chapter 426 - 427 of [Eleceed](https://anilist.co/manga/106929) (20:36, 17 November 2026)
--   📖 Read chapter 7 of [Tsuki no Joou no Nekashitsuke Kata](https://anilist.co/manga/214107) (20:35, 17 November 2026)
--   📖 Read chapter 22 - 28 of [The Desire App](https://anilist.co/manga/159504) (07:09, 17 November 2026)
--   📖 Read chapter 122 - 125 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (00:29, 17 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
