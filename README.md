@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 64 - 65 of [SO-EUN for All](https://anilist.co/manga/179218) (04:19, 19 November 2026)
--   📖 Read chapter 41 of [Magika Swordsman and Summoner](https://anilist.co/manga/85230) (04:15, 19 November 2026)
--   📖 Read chapter 63 - 104 of [Hero Killer](https://anilist.co/manga/132093) (20:55, 18 November 2026)
--   📖 Read chapter 72 - 73 of [Solo Leveling: Ragnarok](https://anilist.co/manga/179445) (20:53, 18 November 2026)
--   📖 Read chapter 426 - 427 of [Eleceed](https://anilist.co/manga/106929) (20:36, 17 November 2026)
+-   📖 Read chapter 78 of [Isekai NTR: Shinyuu no Onna wo Saikyou Skill de Otosu Houhou](https://anilist.co/manga/115042) (02:36, 20 November 2026)
+-   📖 Read chapter 48 of [My Bizarre Level-Up Condition! A Capable Guy's Reincarnation in Another World](https://anilist.co/manga/157497) (21:49, 19 November 2026)
+-   📖 Read chapter 244 of [One-Punch Man](https://anilist.co/manga/74347) (21:41, 19 November 2026)
+-   📺 Plans to watch [Overgeared](https://anilist.co/anime/212888) (12:16, 19 November 2026)
+-   📖 Read chapter 64 - 68 of [SO-EUN for All](https://anilist.co/manga/179218) (05:00, 19 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
