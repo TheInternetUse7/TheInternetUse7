@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 2 of [Immoral Guild](https://anilist.co/manga/99933) (21:11, 20 November 2026)
+-   📖 Read chapter 41 - 42 of [Magika Swordsman and Summoner](https://anilist.co/manga/85230) (08:20, 20 November 2026)
 -   📖 Read chapter 78 of [Isekai NTR: Shinyuu no Onna wo Saikyou Skill de Otosu Houhou](https://anilist.co/manga/115042) (02:36, 20 November 2026)
 -   📖 Read chapter 48 of [My Bizarre Level-Up Condition! A Capable Guy's Reincarnation in Another World](https://anilist.co/manga/157497) (21:49, 19 November 2026)
 -   📖 Read chapter 244 of [One-Punch Man](https://anilist.co/manga/74347) (21:41, 19 November 2026)
--   📺 Plans to watch [Overgeared](https://anilist.co/anime/212888) (12:16, 19 November 2026)
--   📖 Read chapter 64 - 68 of [SO-EUN for All](https://anilist.co/manga/179218) (05:00, 19 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
