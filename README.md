@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Shinigami Musume wa Peropero Shitai](https://anilist.co/manga/125523) (10:47, 23 November 2026)
+-   📖 Plans to read [Magan ga Kikanai Ore wa, Otogibanashi no Yondaimaou ni Dekiai sareteiru.](https://anilist.co/manga/219665) (10:39, 23 November 2026)
+-   📖 Plans to read [Itoko no Onee-chan ni Amaechau?](https://anilist.co/manga/177544) (10:35, 23 November 2026)
+-   📖 Plans to read [Absolute Sword Sense](https://anilist.co/manga/151460) (10:29, 23 November 2026)
 -   📖 Read chapter 14 of [Tou no Kanri wo Shite Miyou](https://anilist.co/manga/103736) (08:07, 21 November 2026)
--   📖 Read chapter 349 of [Overgeared](https://anilist.co/manga/117460) (08:01, 21 November 2026)
--   📖 Read chapter 1 - 2 of [Immoral Guild](https://anilist.co/manga/99933) (21:11, 20 November 2026)
--   📖 Read chapter 41 - 42 of [Magika Swordsman and Summoner](https://anilist.co/manga/85230) (08:20, 20 November 2026)
--   📖 Read chapter 78 of [Isekai NTR: Shinyuu no Onna wo Saikyou Skill de Otosu Houhou](https://anilist.co/manga/115042) (02:36, 20 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
