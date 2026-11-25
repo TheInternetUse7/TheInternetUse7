@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Plans to read [Shinigami Musume wa Peropero Shitai](https://anilist.co/manga/125523) (10:47, 23 November 2026)
--   📖 Plans to read [Magan ga Kikanai Ore wa, Otogibanashi no Yondaimaou ni Dekiai sareteiru.](https://anilist.co/manga/219665) (10:39, 23 November 2026)
--   📖 Plans to read [Itoko no Onee-chan ni Amaechau?](https://anilist.co/manga/177544) (10:35, 23 November 2026)
--   📖 Plans to read [Absolute Sword Sense](https://anilist.co/manga/151460) (10:29, 23 November 2026)
--   📖 Read chapter 14 of [Tou no Kanri wo Shite Miyou](https://anilist.co/manga/103736) (08:07, 21 November 2026)
+-   📖 Plans to read [Yuusha-sama, Sakuya mo Otanoshimi deshita ne.](https://anilist.co/manga/186380) (04:10, 25 November 2026)
+-   📖 Read chapter 1 - 10 of [Magan ga Kikanai Ore wa, Otogibanashi no Yondaimaou ni Dekiai sareteiru.](https://anilist.co/manga/219665) (04:09, 25 November 2026)
+-   📖 Read chapter 312 - 313 of [Omniscient Reader](https://anilist.co/manga/119257) (03:48, 25 November 2026)
+-   📖 Read chapter 26 of [Issho ni Ken no Shugyou wo Shita Osananajimi ga Dorei ni Natteita node, S-Rank Boukensha no Boku wa Kanojo wo Katte Mamoru Koto ni Shita](https://anilist.co/manga/152600) (20:36, 24 November 2026)
+-   📖 Read chapter 426 - 428 of [Eleceed](https://anilist.co/manga/106929) (20:34, 24 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
