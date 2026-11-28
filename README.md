@@ -25,11 +25,11 @@ join my server it's open for all <br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 10 of [Suterare Ouji ga Saizensen de Tekikoku no Heishi wo Chiryou Shitara Jitsu wa Dainana Oujo Datta Ken](https://anilist.co/manga/202903) (04:33, 28 November 2026)
 -   📖 Read chapter 1 of [Shinigami Musume wa Peropero Shitai](https://anilist.co/manga/125523) (20:51, 26 November 2026)
 -   📖 Read chapter 18 - 19 of [Isekai H Eiyuuden: Bishoujo Senshi-tachi wa Saikyou Gunshi no Mucha na Onegai ni Sakaraenai](https://anilist.co/manga/194499) (20:29, 26 November 2026)
 -   📖 Read chapter 6 - 10 of [Yuusha-sama, Sakuya mo Otanoshimi deshita ne.](https://anilist.co/manga/186380) (08:26, 26 November 2026)
 -   📖 Read chapter 72 - 74 of [Solo Leveling: Ragnarok](https://anilist.co/manga/179445) (19:47, 25 November 2026)
--   📖 Read chapter 312 - 317 of [Omniscient Reader](https://anilist.co/manga/119257) (10:45, 25 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 <hr>
